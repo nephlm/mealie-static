@@ -75,8 +75,8 @@
       template: `
         <li class="box">
           <a :href="item.id + '.html'">{{ item.name }}</a>
-          <span v-for="n in fullStars(item.rating)" :key="'fs'+ n" class="full-star"> &#9733;</span>
-          <span v-for="n in emptyStars(item.rating)" :key="'es' + n" class="empty-star"> &#9733;</span>
+          <!--<span v-for="n in fullStars(item.rating)" :key="'fs'+ n" class="full-star"> &#9733;</span>
+          <span v-for="n in emptyStars(item.rating)" :key="'es' + n" class="empty-star"> &#9733;</span>-->
           <p>
             <span v-for="(cat, index) in item.categories" :key="'cat' + index" class="tag is-success is-light is-rounded tag-space"> {{ cat }} </span>
             <span v-for="(tag, index) in item.tags" :key="'tag' + index" class="tag is-info is-light is-rounded tag-space"> {{ tag }} </span>
