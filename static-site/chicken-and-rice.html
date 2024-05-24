@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Chicken and Rice</title>
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
+
+        <style>
+            no-bullet {
+                list-style-type: none;
+                margin-left: 1.5rem;
+            }
+        </style>
+    </head>
+    <body>
+        <section class="hero is-small is-primary">
+
+            <div class="hero-head">
+                <div class="columns ml-2 mr-2">
+                    <div class="column">
+                        <a  href="index.html">
+                            Home
+                        </a>
+                        
+
+                    </div>
+                    <div class="column has-text-right">
+                        
+                        <span class="tag is-rounded is-primary is-light is-size-7 "> Imprecise</span><span class="tag is-rounded is-primary is-light is-size-7 ml-1"> Needs Pic</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="hero-body">
+                <p class="title">Chicken and Rice</p>
+                <p class="subtitle is-6"></p>
+            </div>
+        </section>
+
+        <section>
+            <div class="columns">
+
+                <div class="column is-one-third p-5 m-3">
+                    <h2 class="title is-3">Ingredients</h2>
+
+                    <div class="box">
+                        <ul class="no-bullet">
+
+
+                        
+                        
+                        <li class="no-bullet">
+                            1 cup rice
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            2 chicken cutlets
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ¹/₂ clove garlic
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            chicken broth
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            onion 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                dried chopped
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            pepper
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            cumin
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            adobo
+                        </li>
+                        
+                        
+                    </ul>
+                    </div>
+                </div>
+
+                <div class="column p-5 m-3" id="instructions">
+
+                    <h2 class="title is-3">Instructions</h2>
+                    
+                        <script>
+                            var parsed = marked.parse(`Add peper, cumin, dill weed, onion and adobo to rice more less in equal proportions.  Add a quarter clove of chopped garlic.  Cook in rice cooker, using chicken broth instead of water.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`Defrost chicken and cut chicken to small chunks.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`Wait about 10 minutes while rice is cooking.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`In Medium pan add teaspoon olive oil.  Add a 1/4 clove garlic and dried onion.  Bring heat up to medium low and let it go a minute or so, pushing the onions and garlic around.  Add enough chicken broth to cover bottom of pan.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`Add chicken, pepper, cumin, dill weed and adobo.  set temperature to low and cook chicken, add more broth if needed.  The chicken pieces should be small so this shouldn't take all that long even on low.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`Combine rice and chicken and serve.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="p-5 m-3">
+
+
+                <h2 class="title is-3">Notes</h2>
+                
+        </div>
+        </section>
+
+    </body>
+</html>

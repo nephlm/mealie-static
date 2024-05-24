@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Sausage Stirfry</title>
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
+
+        <style>
+            no-bullet {
+                list-style-type: none;
+                margin-left: 1.5rem;
+            }
+        </style>
+    </head>
+    <body>
+        <section class="hero is-small is-primary">
+
+            <div class="hero-head">
+                <div class="columns ml-2 mr-2">
+                    <div class="column">
+                        <a  href="index.html">
+                            Home
+                        </a>
+                        
+
+                    </div>
+                    <div class="column has-text-right">
+                        <span class="tag is-rounded is-primary is-light is-size-7 ml-1"> entree</span>
+                        <span class="tag is-rounded is-primary is-light is-size-7 "> Asian</span><span class="tag is-rounded is-primary is-light is-size-7 ml-1"> Needs Pic</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="hero-body">
+                <p class="title">Sausage Stirfry</p>
+                <p class="subtitle is-6"></p>
+            </div>
+        </section>
+
+        <section>
+            <div class="columns">
+
+                <div class="column is-one-third p-5 m-3">
+                    <h2 class="title is-3">Ingredients</h2>
+
+                    <div class="box">
+                        <ul class="no-bullet">
+
+
+                        
+                        
+                        
+                    </ul>
+                        <p class="subtitle is-6 has-text-weight-medium">
+                            Stirfry Sauce
+                        </p>
+                        <ul class="no-bullet">
+                        
+                        <li class="no-bullet">
+                            ¹/₄ cup water
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ¹/₄ cup soy sauce
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 tsp red pepper flakes
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            2 tsp red wine vinegar
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            2 tsp sesame oil 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                toasted
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 tsp honey
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ¹/₄ tsp better than boullion
+                        </li>
+                        
+                        
+                        
+                        
+                    </div>
+                    <div class="box">
+                        
+                    </ul>
+                        <p class="subtitle is-6 has-text-weight-medium">
+                            Sausage
+                        </p>
+                        <ul class="no-bullet">
+                        
+                        <li class="no-bullet">
+                            3 Italian Sausage
+                        </li>
+                        
+                        
+                        
+                        
+                    </div>
+                    <div class="box">
+                        
+                    </ul>
+                        <p class="subtitle is-6 has-text-weight-medium">
+                            Stirfry
+                        </p>
+                        <ul class="no-bullet">
+                        
+                        <li class="no-bullet">
+                            1 bag asian stir-fry 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                frozen
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            2 cups rice
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ¹/₂ cup peanuts 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                No or low salt
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 tsp better than boullion
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 tsp olive oil
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 cup pepper strips 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                frozen
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 cup sugar snap peas
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 stalk celery
+                        </li>
+                        
+                        
+                    </ul>
+                    </div>
+                </div>
+
+                <div class="column p-5 m-3" id="instructions">
+
+                    <h2 class="title is-3">Instructions</h2>
+                    
+                        <script>
+                            var parsed = marked.parse(`Mix the sauce together in any container large enough to hold it. `, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`Cook rice in rice cooker.  Add butter and 2 tbs of stirfry sauce, cook in chicken broth.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`Brown sausage.  Set aside sausage and broth.
+`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`In the same pan cook Asian stifry.  When almost done add sausage/broth and remainder of sauce.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`When done add rice and mix.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="p-5 m-3">
+
+
+                <h2 class="title is-3">Notes</h2>
+                
+                <div class="box">
+
+                    <h3 class="subtitle is-6 has-text-weight-medium">
+                        2014-03-06:
+                    </h3>
+                </div>
+                <script>
+                    var parsed = marked.parse(`Stripped the casing and cooked the sausage a bulk
+Used stirfry marinade with an additional cup of broth
+Used 1.5 tsp of olive oil in the rice instead of butter
+Added 1 cup mixed peppers
+Added 1 cup sugar snap peas
+Added 1 stalk celery`, {breaks: true})
+                    $('.box:last').append('<div class="content">' + parsed + '</div>')
+                    </script>
+            
+        </div>
+        </section>
+
+    </body>
+</html>

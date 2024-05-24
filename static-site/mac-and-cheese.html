@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Mac and Cheese</title>
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
+
+        <style>
+            no-bullet {
+                list-style-type: none;
+                margin-left: 1.5rem;
+            }
+        </style>
+    </head>
+    <body>
+        <section class="hero is-small is-primary">
+
+            <div class="hero-head">
+                <div class="columns ml-2 mr-2">
+                    <div class="column">
+                        <a  href="index.html">
+                            Home
+                        </a>
+                        
+
+                    </div>
+                    <div class="column has-text-right">
+                        <span class="tag is-rounded is-primary is-light is-size-7 ml-1"> entree</span>
+                        <span class="tag is-rounded is-primary is-light is-size-7 "> Needs Pic</span><span class="tag is-rounded is-primary is-light is-size-7 ml-1"> Italian</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="hero-body">
+                <p class="title">Mac and Cheese</p>
+                <p class="subtitle is-6"></p>
+            </div>
+        </section>
+
+        <section>
+            <div class="columns">
+
+                <div class="column is-one-third p-5 m-3">
+                    <h2 class="title is-3">Ingredients</h2>
+
+                    <div class="box">
+                        <ul class="no-bullet">
+
+
+                        
+                        
+                        
+                    </ul>
+                        <p class="subtitle is-6 has-text-weight-medium">
+                            Broccoli
+                        </p>
+                        <ul class="no-bullet">
+                        
+                        <li class="no-bullet">
+                            2 cups broccoli
+                        </li>
+                        
+                        
+                        
+                        
+                    </div>
+                    <div class="box">
+                        
+                    </ul>
+                        <p class="subtitle is-6 has-text-weight-medium">
+                            Pasta
+                        </p>
+                        <ul class="no-bullet">
+                        
+                        <li class="no-bullet">
+                            1 lb elbow macaroni
+                        </li>
+                        
+                        
+                        
+                        
+                    </div>
+                    <div class="box">
+                        
+                    </ul>
+                        <p class="subtitle is-6 has-text-weight-medium">
+                            Roux
+                        </p>
+                        <ul class="no-bullet">
+                        
+                        <li class="no-bullet">
+                            2 tbsp olive oil
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            2 tbsp flour
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            2 cloves garlic
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 cup water
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 tbsp milk 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                dried
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 tsp onion powder
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ¹/₂ tsp salt
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ¹/₄ tsp cayenne pepper
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ³/₄ tsp pepper
+                        </li>
+                        
+                        
+                        
+                        
+                    </div>
+                    <div class="box">
+                        
+                    </ul>
+                        <p class="subtitle is-6 has-text-weight-medium">
+                            Cheese
+                        </p>
+                        <ul class="no-bullet">
+                        
+                        <li class="no-bullet">
+                            1 cup 6 cheese italian blend
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ¹/₂ cup cheddar cheese 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                sharp
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 cup 4 cheese mexican blend
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 cup water
+                        </li>
+                        
+                        
+                    </ul>
+                    </div>
+                </div>
+
+                <div class="column p-5 m-3" id="instructions">
+
+                    <h2 class="title is-3">Instructions</h2>
+                    
+                        <script>
+                            var parsed = marked.parse(`Start pasta boiling.  Once water is boiling should be about 8 minutes (+1 minute to dente value on box)`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`Steam chopped broccoli in microwave (bowl with a little water covered with a plate).  If frozen run for about 3 minutes and check every 30 seconds until done.  Don't over cook.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`Put the garlic  and olive oil in the roux pot.  And toast  garlic.  Add flour and other spices.  when it starts to darken add 1 cup water.  Mix until thick.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`Add cheese and an additional cup of water.  Keep blended.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`When pasta is done, drain and mix with sauce.  When coated, eat.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="p-5 m-3">
+
+
+                <h2 class="title is-3">Notes</h2>
+                
+                <div class="box">
+
+                    
+                </div>
+                <script>
+                    var parsed = marked.parse(`Likely needs a higher sauce to noodle ratio, which mostly means more cheese and water.`, {breaks: true})
+                    $('.box:last').append('<div class="content">' + parsed + '</div>')
+                    </script>
+            
+                <div class="box">
+
+                    <h3 class="subtitle is-6 has-text-weight-medium">
+                        Noodle free version::
+                    </h3>
+                </div>
+                <script>
+                    var parsed = marked.parse(`2 lbs cauliflower
+1 lbs broccoli
++ 1/2 cup of cheddar
+
+Cut into small chunks and microwaved.  took a while probably 10+ minutes.  Make sure this is mostly or completely done before starting cheese. Drain the liquid that came for the frozen veg.  Mix in cheese.  Yum.`, {breaks: true})
+                    $('.box:last').append('<div class="content">' + parsed + '</div>')
+                    </script>
+            
+        </div>
+        </section>
+
+    </body>
+</html>

@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Grandpa's Meatballs</title>
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
+
+        <style>
+            no-bullet {
+                list-style-type: none;
+                margin-left: 1.5rem;
+            }
+        </style>
+    </head>
+    <body>
+        <section class="hero is-small is-primary">
+
+            <div class="hero-head">
+                <div class="columns ml-2 mr-2">
+                    <div class="column">
+                        <a  href="index.html">
+                            Home
+                        </a>
+                        
+
+                    </div>
+                    <div class="column has-text-right">
+                        <span class="tag is-rounded is-primary is-light is-size-7 ml-1"> entree</span>
+                        <span class="tag is-rounded is-primary is-light is-size-7 "> Family</span><span class="tag is-rounded is-primary is-light is-size-7 ml-1"> Needs Pic</span><span class="tag is-rounded is-primary is-light is-size-7 ml-1"> Italian</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="hero-body">
+                <p class="title">Grandpa's Meatballs</p>
+                <p class="subtitle is-6"></p>
+            </div>
+        </section>
+
+        <section>
+            <div class="columns">
+
+                <div class="column is-one-third p-5 m-3">
+                    <h2 class="title is-3">Ingredients</h2>
+
+                    <div class="box">
+                        <ul class="no-bullet">
+
+
+                        
+                        
+                        <li class="no-bullet">
+                            1 lb ground beef
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            2 egg
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            2 cups Italian Bread Crumbs
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ¹/₄ cup tomato sauce 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                ketchup in a pinch
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 onion
+                        </li>
+                        
+                        
+                    </ul>
+                    </div>
+                </div>
+
+                <div class="column p-5 m-3" id="instructions">
+
+                    <h2 class="title is-3">Instructions</h2>
+                    
+                        <script>
+                            var parsed = marked.parse(`Preheat oven to 350 degrees`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`Chop onions as small as you can, because they are just mixed in raw.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`Dump everything in a big bowl, push up your sleeves and squeeze & smoosh through your fingers with both hands until the whole mix is uniform. Clean hands, keep them wet so stuff doesn't stick to them, and form balls. Put foil on bake pan and spray with PAM or something. Or just leave bake pan as is and spend more effort cleaning up.
+* when forming, you must really compress them to keep them nice and solid after cooking.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`You want them crunchy on the outside, thoroughly cooked but juicy inside. (I'll have to do some experimenting to see how long that is at 350.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="p-5 m-3">
+
+
+                <h2 class="title is-3">Notes</h2>
+                
+                <div class="box">
+
+                    <h3 class="subtitle is-6 has-text-weight-medium">
+                        2014-03-03:
+                    </h3>
+                </div>
+                <script>
+                    var parsed = marked.parse(`Switching to 1 egg and adding 2tbsp Parmesan cheese.  Keeping spices and breadcrumb (1c) from below.
+
+2c bread crumbs was too much I think.  changing to 1c.  
+adding 1/4 tsp garlic powder + 1/2 tsp parsley + 1/2 tsp oregano, closer to 1/2 cup tomato sauce
+`, {breaks: true})
+                    $('.box:last').append('<div class="content">' + parsed + '</div>')
+                    </script>
+            
+                <div class="box">
+
+                    <h3 class="subtitle is-6 has-text-weight-medium">
+                        2012-09-08:
+                    </h3>
+                </div>
+                <script>
+                    var parsed = marked.parse(`2 eggs.  Let the onion defrost.  Mixed everything the meat and bread crumbs and let warm up.  With the frozen onion and all the liquid in that it is about drying it out.  Lots of bread crumbs until it had a solidity and was self sticking.  Try bringing the temperature up to 375 to get a more crunchy outside.  
+
+Used garlic powder, some ketchup and bbq sauce since I didn't have tomato sauce.  Should have added the parsley and oregano.`, {breaks: true})
+                    $('.box:last').append('<div class="content">' + parsed + '</div>')
+                    </script>
+            
+                <div class="box">
+
+                    <h3 class="subtitle is-6 has-text-weight-medium">
+                        Lore:
+                    </h3>
+                </div>
+                <script>
+                    var parsed = marked.parse(`This recipe originally came from your grandfather, but he did things differently:
+1. He never heard of baking them. He cooked them in oil in a high-sided frying pan. We did that until sometime, probably when we were on some diet.
+2. He chopped up stale Italian bread for the bread crumbs.
+3. "You're supposed to use pork and beef," but he only went and bought the pork for special occasions.
+4. He used tomato sauce, home-made of course, instead of ketchup. Just a very small amount.
+5. I vaguely remember him adding plain water if the mix was too dry.
+`, {breaks: true})
+                    $('.box:last').append('<div class="content">' + parsed + '</div>')
+                    </script>
+            
+        </div>
+        </section>
+
+    </body>
+</html>

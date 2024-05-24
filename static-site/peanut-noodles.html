@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Peanut Noodles</title>
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
+
+        <style>
+            no-bullet {
+                list-style-type: none;
+                margin-left: 1.5rem;
+            }
+        </style>
+    </head>
+    <body>
+        <section class="hero is-small is-primary">
+
+            <div class="hero-head">
+                <div class="columns ml-2 mr-2">
+                    <div class="column">
+                        <a  href="index.html">
+                            Home
+                        </a>
+                        
+
+                    </div>
+                    <div class="column has-text-right">
+                        <span class="tag is-rounded is-primary is-light is-size-7 ml-1"> entree</span>
+                        <span class="tag is-rounded is-primary is-light is-size-7 "> Asian</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="hero-body">
+                <p class="title">Peanut Noodles</p>
+                <p class="subtitle is-6"></p>
+            </div>
+        </section>
+
+        <section>
+            <div class="columns">
+
+                <div class="column is-one-third p-5 m-3">
+                    <h2 class="title is-3">Ingredients</h2>
+
+                    <div class="box">
+                        <ul class="no-bullet">
+
+
+                        
+                        
+                        
+                    </ul>
+                        <p class="subtitle is-6 has-text-weight-medium">
+                            Pasta
+                        </p>
+                        <ul class="no-bullet">
+                        
+                        <li class="no-bullet">
+                            1 lb linguine 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                Whole grain
+                            </li>
+                        
+                        
+                        
+                        
+                    </div>
+                    <div class="box">
+                        
+                    </ul>
+                        <p class="subtitle is-6 has-text-weight-medium">
+                            Soften
+                        </p>
+                        <ul class="no-bullet">
+                        
+                        <li class="no-bullet">
+                            3 tbsp sesame oil
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 bunch green onion
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ¹/₂ cup peanuts 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                crushed to pref
+                            </li>
+                        
+                        
+                        
+                        
+                    </div>
+                    <div class="box">
+                        
+                    </ul>
+                        <p class="subtitle is-6 has-text-weight-medium">
+                            Ginger
+                        </p>
+                        <ul class="no-bullet">
+                        
+                        <li class="no-bullet">
+                            2 tsp ginger
+                        </li>
+                        
+                        
+                        
+                        
+                    </div>
+                    <div class="box">
+                        
+                    </ul>
+                        <p class="subtitle is-6 has-text-weight-medium">
+                            Everything Else
+                        </p>
+                        <ul class="no-bullet">
+                        
+                        <li class="no-bullet">
+                            ¹/₂ cup peanut butter
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ¹/₄ cup soy sauce
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 cup water 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                hot
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            2 tbsp rice vinegar
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 tbsp honey
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ¹/₂ tsp red pepper flakes
+                        </li>
+                        
+                        
+                    </ul>
+                    </div>
+                </div>
+
+                <div class="column p-5 m-3" id="instructions">
+
+                    <h2 class="title is-3">Instructions</h2>
+                    
+                        <script>
+                            var parsed = marked.parse(`Cook pasta in a large pot of boiling water until done. Drain.
+
+`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`Meanwhile, combine oil, peanuts and onions in a small skillet. Saute over low heat until tender. Add ginger; cook and stir for 1 to 2 minutes. Mix in peanut butter, soy sauce, water, vinegar, sugar, and red pepper flakes. Mix thoroughly until peanut butter in melted and it's thick.  Remove from heat.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`Toss noodles with sauce, and serve.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="p-5 m-3">
+
+
+                <h2 class="title is-3">Notes</h2>
+                
+                <div class="box">
+
+                    
+                </div>
+                <script>
+                    var parsed = marked.parse(`The noodles will absorb a bunch of water, so you'll want to add water when reheating.`, {breaks: true})
+                    $('.box:last').append('<div class="content">' + parsed + '</div>')
+                    </script>
+            
+                <div class="box">
+
+                    
+                </div>
+                <script>
+                    var parsed = marked.parse(``, {breaks: true})
+                    $('.box:last').append('<div class="content">' + parsed + '</div>')
+                    </script>
+            
+        </div>
+        </section>
+
+    </body>
+</html>

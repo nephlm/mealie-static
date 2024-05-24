@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Chocolate Mint Pie</title>
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
+
+        <style>
+            no-bullet {
+                list-style-type: none;
+                margin-left: 1.5rem;
+            }
+        </style>
+    </head>
+    <body>
+        <section class="hero is-small is-primary">
+
+            <div class="hero-head">
+                <div class="columns ml-2 mr-2">
+                    <div class="column">
+                        <a  href="index.html">
+                            Home
+                        </a>
+                        
+
+                    </div>
+                    <div class="column has-text-right">
+                        <span class="tag is-rounded is-primary is-light is-size-7 ml-1"> Dessert</span>
+                        <span class="tag is-rounded is-primary is-light is-size-7 "> Family</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="hero-body">
+                <p class="title">Chocolate Mint Pie</p>
+                <p class="subtitle is-6">This is the revised 2023 recipe that folds in all modifications and simplifications up to that point.</p>
+            </div>
+        </section>
+
+        <section>
+            <div class="columns">
+
+                <div class="column is-one-third p-5 m-3">
+                    <h2 class="title is-3">Ingredients</h2>
+
+                    <div class="box">
+                        <ul class="no-bullet">
+
+
+                        
+                        
+                        <li class="no-bullet">
+                            2 boxes chocolate pudding 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                (non-instant, 4 serving/3.4 ounce each)
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 bag 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                semi-sweet, whole bag
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            4 cups milk
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            8 oz cream cheese
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            8 oz cool whip 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                tub, thawed
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 cup sugar 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                powdered
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            2 tsp peppermint extract
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            2 oreo pie crust 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                or 1 deep dish
+                            </li>
+                        
+                        
+                    </ul>
+                    </div>
+                </div>
+
+                <div class="column p-5 m-3" id="instructions">
+
+                    <h2 class="title is-3">Instructions</h2>
+                    
+                        <script>
+                            var parsed = marked.parse(`Stir together pudding, milk as directed on package.  While cooking add chocolate chips until they are melted.  Set aside.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`In med bowl beat cream cheese (softened), powdered  sugar, peppermint extract until smooth.  Gently fold 2 cups of cool whip.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`Spread cream mixture in the shell.  Top with chocolate mixture.  Refrigerate at least 2 hours.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="p-5 m-3">
+
+
+                <h2 class="title is-3">Notes</h2>
+                
+                <div class="box">
+
+                    
+                </div>
+                <script>
+                    var parsed = marked.parse(`Putting the cream cheese in the microwave for 20 seconds didn't seem to hurt it.  It was still solid, but probably softer.
+
+2 cups of cool whip is not quite the whole container, but pretty close.
+`, {breaks: true})
+                    $('.box:last').append('<div class="content">' + parsed + '</div>')
+                    </script>
+            
+        </div>
+        </section>
+
+    </body>
+</html>

@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Cream of Soup</title>
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
+
+        <style>
+            no-bullet {
+                list-style-type: none;
+                margin-left: 1.5rem;
+            }
+        </style>
+    </head>
+    <body>
+        <section class="hero is-small is-primary">
+
+            <div class="hero-head">
+                <div class="columns ml-2 mr-2">
+                    <div class="column">
+                        <a  href="index.html">
+                            Home
+                        </a>
+                        
+
+                    </div>
+                    <div class="column has-text-right">
+                        <span class="tag is-rounded is-primary is-light is-size-7 ml-1"> Ingrediant</span>
+                        <span class="tag is-rounded is-primary is-light is-size-7 "> Needs Pic</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="hero-body">
+                <p class="title">Cream of Soup</p>
+                <p class="subtitle is-6">This is basically a few variants on a roux to be used as a sub in for various cream of X soups.</p>
+            </div>
+        </section>
+
+        <section>
+            <div class="columns">
+
+                <div class="column is-one-third p-5 m-3">
+                    <h2 class="title is-3">Ingredients</h2>
+
+                    <div class="box">
+                        <ul class="no-bullet">
+
+
+                        
+                        
+                        <li class="no-bullet">
+                            2 tbsp flour
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            2 tbsp olive oil
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 cup liquid
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ¹/₄ tsp salt
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ¹/₄ tsp pepper
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            2 tbsp onion flakes 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                dried
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ¹/₂ tsp garlic 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                minced
+                            </li>
+                        
+                        
+                    </ul>
+                    </div>
+                </div>
+
+                <div class="column p-5 m-3" id="instructions">
+
+                    <h2 class="title is-3">Instructions</h2>
+                    
+                        <script>
+                            var parsed = marked.parse(`Melt the butter in a small sauce pan over medium-low heat. When melted, whisk in the flour and continue whisking until smooth and bubbly. Remove from the heat and slowly whisk in the chicken broth and milk. Return to the heat and bring to a gentle boil, whisking constantly, until the soup thickens. Add salt and pepper to taste.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`Variations:
+
+Cream of Chicken: Use half milk, half chicken broth for the liquid.  1/4 tsp sage, thyme, onion powder, garlic powder and a pinch of adobo.
+
+Tomato Soup: Use tomato juice for the liquid. Add dashes of garlic, onion powder, basil and oregano.
+
+ Chicken Soup: Use chicken broth for half the liquid. Add 1/4 t. poultry seasoning or sage.
+
+Celery Soup: Dice one stalk celery and saute in butter once melted, before adding flour.  Use milk as liquid.
+
+Mushroom/celery/chive soup: Saute 1/4 C chopped mushrooms, celery or chives and 1 T minced onion in butter before adding flour. Use milk as liquid.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="p-5 m-3">
+
+
+                <h2 class="title is-3">Notes</h2>
+                
+                <div class="box">
+
+                    
+                </div>
+                <script>
+                    var parsed = marked.parse(`Pretty much any fat can be used in the place of olive oil. `, {breaks: true})
+                    $('.box:last').append('<div class="content">' + parsed + '</div>')
+                    </script>
+            
+        </div>
+        </section>
+
+    </body>
+</html>

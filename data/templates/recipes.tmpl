@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>{{ recipe.name }}</title>
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
+
+        <style>
+            no-bullet {
+                list-style-type: none;
+                margin-left: 1.5rem;
+            }
+        </style>
+    </head>
+    <body>
+        <section class="hero is-small is-primary">
+
+            <div class="hero-head">
+                <div class="columns ml-2 mr-2">
+                    <div class="column">
+                        <a  href="index.html">
+                            Home
+                        </a>
+                        {% if recipe.orgURL %}<a class="ml-6" href= "{{ recipe.orgURL }}">Original URL </a>{% endif %}
+
+                    </div>
+                    <div class="column has-text-right">
+                        {% for category in recipe.recipeCategory %}<span class="tag is-rounded is-primary is-light is-size-7 ml-1"> {{ category.name }}</span>{% endfor %}
+                        {% for tag in recipe.tags %}<span class="tag is-rounded is-primary is-light is-size-7 {% if not loop.first %}ml-1{% endif %}"> {{ tag.name }}</span>{% endfor %}
+                    </div>
+                </div>
+            </div>
+
+            <div class="hero-body">
+                <p class="title">{{ recipe.name }}</p>
+                <p class="subtitle is-6">{{ recipe.description }}</p>
+            </div>
+        </section>
+
+        <section>
+            <div class="columns">
+
+                <div class="column is-one-third p-5 m-3">
+                    <h2 class="title is-3">Ingredients</h2>
+
+                    <div class="box">
+                        <ul class="no-bullet">
+
+
+                        {% for ingredient in recipe.recipeIngredient %}
+                        {% if ingredient.title %}
+                        {% if not loop.first %}
+                    </div>
+                    <div class="box">
+                        {% endif %}
+                    </ul>
+                        <p class="subtitle is-6 has-text-weight-medium">
+                            {{ ingredient.title}}
+                        </p>
+                        <ul class="no-bullet">
+                        {% endif %}
+                        <li class="no-bullet">
+                            {{ ingredient.display.replace(ingredient.note or 'zzkzzzk', '') }}
+                        </li>
+                        {% if ingredient.note %}
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                {{ ingredient.note }}
+                            </li>
+                        {% endif %}
+                        {% endfor %}
+                    </ul>
+                    </div>
+                </div>
+
+                <div class="column p-5 m-3" id="instructions">
+
+                    <h2 class="title is-3">Instructions</h2>
+                    {% for step in recipe.recipeInstructions %}
+                        <script>
+                            var parsed = marked.parse(`{{ step.text }}`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    {% endfor %}
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="p-5 m-3">
+
+
+                <h2 class="title is-3">Notes</h2>
+                {% for note in recipe.notes %}
+                <div class="box">
+
+                    {% if note.title %}<h3 class="subtitle is-6 has-text-weight-medium">
+                        {{ note.title }}:
+                    </h3>{% endif %}
+                </div>
+                <script>
+                    var parsed = marked.parse(`{{ note.text }}`, {breaks: true})
+                    $('.box:last').append('<div class="content">' + parsed + '</div>')
+                    </script>
+            {% endfor %}
+        </div>
+        </section>
+
+    </body>
+</html>

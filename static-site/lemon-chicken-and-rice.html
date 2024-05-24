@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Lemon Chicken and Rice</title>
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
+
+        <style>
+            no-bullet {
+                list-style-type: none;
+                margin-left: 1.5rem;
+            }
+        </style>
+    </head>
+    <body>
+        <section class="hero is-small is-primary">
+
+            <div class="hero-head">
+                <div class="columns ml-2 mr-2">
+                    <div class="column">
+                        <a  href="index.html">
+                            Home
+                        </a>
+                        
+
+                    </div>
+                    <div class="column has-text-right">
+                        <span class="tag is-rounded is-primary is-light is-size-7 ml-1"> entree</span>
+                        <span class="tag is-rounded is-primary is-light is-size-7 "> Needs Pic</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="hero-body">
+                <p class="title">Lemon Chicken and Rice</p>
+                <p class="subtitle is-6"></p>
+            </div>
+        </section>
+
+        <section>
+            <div class="columns">
+
+                <div class="column is-one-third p-5 m-3">
+                    <h2 class="title is-3">Ingredients</h2>
+
+                    <div class="box">
+                        <ul class="no-bullet">
+
+
+                        
+                        
+                        <li class="no-bullet">
+                            2 measures rice
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            5 chicken cutlets
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            2 tbsp butter
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            2 cloves garlic
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            3 tbsp lemon juice
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ¹/₂ tsp thyme
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            chicken broth
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ¹/₂ tsp adobo
+                        </li>
+                        
+                        
+                    </ul>
+                    </div>
+                </div>
+
+                <div class="column p-5 m-3" id="instructions">
+
+                    <h2 class="title is-3">Instructions</h2>
+                    
+                        <script>
+                            var parsed = marked.parse(`Rice:
+* The rice a made in a rice cooker.
+    * Add two measures of rice
+    * Use chicken broth instead of water
+         * add 1 clove garlic, 
+         * 2 tbsp butter, 
+         * 1.5 tbsp lemon juice, 
+         * .25 tsp thyme 
+         * sprinkle lightly with adobo
+    * Let cook
+`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`Chicken:
+* Start the chicken about 10 minutes before the rice is done.
+* cover bottom of pan with a very thin layer of chicken broth
+    * add 1 clove garlic, let it cook a few minutes on low/warm
+* cut chicken cutlets into cubes
+* add more chicken broth until there is 1/4 to 1/2 inch of chicken broth in the pan
+    * add chicken
+    * 1 tbsp lemon juice
+    * 1/4 tsp thyme
+    * sprinkle adobo
+* cook, stirring regularly
+`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`Combine:
+* when chicken and rice are done
+* add rice to pan
+    * mix and allow rice to absorb liquid
+ 
+Serve!`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="p-5 m-3">
+
+
+                <h2 class="title is-3">Notes</h2>
+                
+                <div class="box">
+
+                    
+                </div>
+                <script>
+                    var parsed = marked.parse(`First time I tried it, I had 2 tbsp lemon juice in the rice, which seems to lemony.  The lemon in the chicken didn't seem very over stated.
+
+I wouldn't be afraid of adding more garlic or more thyme.  Neither jumped out at me.
+`, {breaks: true})
+                    $('.box:last').append('<div class="content">' + parsed + '</div>')
+                    </script>
+            
+        </div>
+        </section>
+
+    </body>
+</html>

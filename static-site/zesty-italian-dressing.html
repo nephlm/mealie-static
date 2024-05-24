@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Zesty Italian Dressing</title>
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
+
+        <style>
+            no-bullet {
+                list-style-type: none;
+                margin-left: 1.5rem;
+            }
+        </style>
+    </head>
+    <body>
+        <section class="hero is-small is-primary">
+
+            <div class="hero-head">
+                <div class="columns ml-2 mr-2">
+                    <div class="column">
+                        <a  href="index.html">
+                            Home
+                        </a>
+                        <a class="ml-6" href= "http://chowhound.chow.com/topics/445396">Original URL </a>
+
+                    </div>
+                    <div class="column has-text-right">
+                        <span class="tag is-rounded is-primary is-light is-size-7 ml-1"> Ingrediant</span><span class="tag is-rounded is-primary is-light is-size-7 ml-1"> Salad</span>
+                        <span class="tag is-rounded is-primary is-light is-size-7 "> Needs Pic</span><span class="tag is-rounded is-primary is-light is-size-7 ml-1"> Italian</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="hero-body">
+                <p class="title">Zesty Italian Dressing</p>
+                <p class="subtitle is-6"></p>
+            </div>
+        </section>
+
+        <section>
+            <div class="columns">
+
+                <div class="column is-one-third p-5 m-3">
+                    <h2 class="title is-3">Ingredients</h2>
+
+                    <div class="box">
+                        <ul class="no-bullet">
+
+
+                        
+                        
+                        <li class="no-bullet">
+                            ¹/₄ cup red wine vinegar
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ³/₄ cup olive oil
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 tbsp water
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 tbsp basil
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 tbsp oregano
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 tsp red pepper flakes
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            2 tbsp parmesan cheese
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 tsp garlic powder
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            adobo
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            pepper
+                        </li>
+                        
+                        
+                    </ul>
+                    </div>
+                </div>
+
+                <div class="column p-5 m-3" id="instructions">
+
+                    <h2 class="title is-3">Instructions</h2>
+                    
+                        <script>
+                            var parsed = marked.parse(`Add oil, vinegar, water and tbsp of spices to shaker and shake.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="p-5 m-3">
+
+
+                <h2 class="title is-3">Notes</h2>
+                
+                <div class="box">
+
+                    
+                </div>
+                <script>
+                    var parsed = marked.parse(`So the spices are amounts to create a storable mix, while the oil and vinegar are for a (small) batch.
+* I generally add a TBSP of spices to ~2 cups of liquid.  
+* Water is high, I generally just add a quick spurt from the tap for 2 cups of liquid. `, {breaks: true})
+                    $('.box:last').append('<div class="content">' + parsed + '</div>')
+                    </script>
+            
+        </div>
+        </section>
+
+    </body>
+</html>

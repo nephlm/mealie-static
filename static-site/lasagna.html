@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Lasagna</title>
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
+
+        <style>
+            no-bullet {
+                list-style-type: none;
+                margin-left: 1.5rem;
+            }
+        </style>
+    </head>
+    <body>
+        <section class="hero is-small is-primary">
+
+            <div class="hero-head">
+                <div class="columns ml-2 mr-2">
+                    <div class="column">
+                        <a  href="index.html">
+                            Home
+                        </a>
+                        
+
+                    </div>
+                    <div class="column has-text-right">
+                        <span class="tag is-rounded is-primary is-light is-size-7 ml-1"> entree</span>
+                        <span class="tag is-rounded is-primary is-light is-size-7 "> Family</span><span class="tag is-rounded is-primary is-light is-size-7 ml-1"> Needs Pic</span><span class="tag is-rounded is-primary is-light is-size-7 ml-1"> Italian</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="hero-body">
+                <p class="title">Lasagna</p>
+                <p class="subtitle is-6"></p>
+            </div>
+        </section>
+
+        <section>
+            <div class="columns">
+
+                <div class="column is-one-third p-5 m-3">
+                    <h2 class="title is-3">Ingredients</h2>
+
+                    <div class="box">
+                        <ul class="no-bullet">
+
+
+                        
+                        
+                        <li class="no-bullet">
+                            32 oz ricotta
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 bag Grandpa's Meatballs
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            2 links Italian Sausage 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                2-3 links / .5 lbs bulk
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 lb mozzarella cheese 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                shredded
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            2 cups parmesan cheese
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 lb 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                curly edged
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 tsp salt
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 tsp olive oil
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 egg
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 tbsp parsley
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            45 oz tomato sauce 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                big jar
+                            </li>
+                        
+                        
+                    </ul>
+                    </div>
+                </div>
+
+                <div class="column p-5 m-3" id="instructions">
+
+                    <h2 class="title is-3">Instructions</h2>
+                    
+                        <script>
+                            var parsed = marked.parse(`* Mix egg, ricotta and parsley in bowl  (use beater, wisk)
+
+`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`* Cook lasagna noodles
+    * tsp salt
+    * tsp oil
+    * boil
+    * cook noodles until good (al dente)`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`* mash meatballs with a bit sauce (this is addition to the 48 oz of pasta sauce`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`Build Lasagna 
+
+* thin layer of sauce (Bottom)
+* sprinkling/thin layer of mozzarella/Parmesan (optional)
+* layer of noodles (cut lengthwise if needed to fill in gaps)
+    * debate cross hatching
+* layer of sauce
+* layer of meat
+* layer of ricotta mix
+* fill in with mozzarella, Parmesan
+* Repeat noodle, sauce, cheese (thicker layer or sauce here)
+* noodle layer
+* sauce layer (light layer)
+* mozzarella/parm layer (Top)
+
+Sauce layers are thin, mostly a painting on top of noodles (should be a full 48 oz in the layers)
+
+Ricotta layer is several clumps everywhere
+`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`cook at 350 for 1 hour, covered with foil for 30 minutes.  Do not smoosh foil down.
+* sauce bubbling around edges
+* cheese beginning to be golden`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`eat the leftover ingredients.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`let sit for 20 minutes (covered)`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="p-5 m-3">
+
+
+                <h2 class="title is-3">Notes</h2>
+                
+        </div>
+        </section>
+
+    </body>
+</html>

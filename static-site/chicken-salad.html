@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Chicken Salad</title>
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
+
+        <style>
+            no-bullet {
+                list-style-type: none;
+                margin-left: 1.5rem;
+            }
+        </style>
+    </head>
+    <body>
+        <section class="hero is-small is-primary">
+
+            <div class="hero-head">
+                <div class="columns ml-2 mr-2">
+                    <div class="column">
+                        <a  href="index.html">
+                            Home
+                        </a>
+                        
+
+                    </div>
+                    <div class="column has-text-right">
+                        <span class="tag is-rounded is-primary is-light is-size-7 ml-1"> entree</span>
+                        <span class="tag is-rounded is-primary is-light is-size-7 "> Needs Pic</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="hero-body">
+                <p class="title">Chicken Salad</p>
+                <p class="subtitle is-6"></p>
+            </div>
+        </section>
+
+        <section>
+            <div class="columns">
+
+                <div class="column is-one-third p-5 m-3">
+                    <h2 class="title is-3">Ingredients</h2>
+
+                    <div class="box">
+                        <ul class="no-bullet">
+
+
+                        
+                        
+                        <li class="no-bullet">
+                            1 lb chicken 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                shredded
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ¹/₂ cup mayonnaise
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 tbsp lemon juice
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 tbsp relish
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ¹/₄ tsp adobo
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ¹/₄ tsp pepper
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ¹/₄ tsp onion powder
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ¹/₄ tsp garlic powder
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ¹/₄ tsp sage
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 stalk celery
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ¹/₈ tsp cayenne pepper 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                optional
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            red pepper 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                optional
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            cucumber 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                optional
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            tomato  
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                optional
+                            </li>
+                        
+                        
+                    </ul>
+                    </div>
+                </div>
+
+                <div class="column p-5 m-3" id="instructions">
+
+                    <h2 class="title is-3">Instructions</h2>
+                    
+                        <script>
+                            var parsed = marked.parse(`Slow cook the chicken in water on low for ~5  hours, shred the chicken and let cool.
+
+Optionally add sage and thyme (or anything else) to the slow cooker.  These spices are not reflected in the listed ingredients.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`Mix in the other stuff.  `, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="p-5 m-3">
+
+
+                <h2 class="title is-3">Notes</h2>
+                
+                <div class="box">
+
+                    
+                </div>
+                <script>
+                    var parsed = marked.parse(`Confirming the his recipe is on 1lb of chicken.  Double is doing a full 2lbs.
+
+Made better any and all of:
+* cayenne pepper (1/8 tsp)
+* red bell pepper
+* cucumber
+* tomato
+`, {breaks: true})
+                    $('.box:last').append('<div class="content">' + parsed + '</div>')
+                    </script>
+            
+        </div>
+        </section>
+
+    </body>
+</html>

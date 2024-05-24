@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cookbook</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
+  <style>
+    .clear-button {
+      position: absolute;
+      right: 10px;
+      top: 10px;
+      cursor: pointer;
+      background: none;
+      border: none;
+      font-size: 1rem;
+    }
+    .tag-space {
+      margin-right: 6px;
+    }
+  </style>
+  <script>
+    const itemsJson= `[
+            {"id": 1, "name": "Item One", "categories": ["cat1", "cat2"], "tags": ["tag1", "tag2"]},
+            {"id": 2, "name": "Item Two", "categories": ["cat1", "cat3"], "tags": ["tag1", "tag3"]},
+            {"id": 3, "name": "Item Three", "categories": ["cat2", "cat4"], "tags": ["tag2", "tag4"]}
+          ]`
+  </script>
+</head>
+<body>
+  <div id="app" class="container">
+    <h1 class="title">Recipe List</h1>
+    <div class="field has-addons">
+      <div class="control is-expanded">
+        <input class="input" type="text" placeholder="Search..." v-model="searchQuery" @input="searchItems">
+      </div>
+      <div class="control">
+        <button class="button is-light clear-button" @click="clearSearch" v-if="searchQuery">x</button>
+      </div>
+    </div>
+    <ul>
+      <item-component
+        v-for="item in filteredItems"
+        :key="item.id"
+        :item="item"
+      ></item-component>
+    </ul>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js" type="application/javascript"></script>
+  <script src="https://cdn.jsdelivr.net/npm/minisearch@6.0.0/dist/umd/index.min.js" type="application/javascript"></script>
+  <script type="application/javascript">
+    Vue.component('item-component', {
+      props: {
+        item: {
+          type: Object,
+          required: true
+        }
+      },
+      template: `
+        <li class="box">
+          <a :href="'/items/' + item.id">{{ item.name }}</a>
+          <p>
+            <span v-for="(cat, index) in item.categories" :key="'cat' + index" class="tag is-success is-light is-rounded tag-space"> {{ cat }} </span>
+            <span v-for="(tag, index) in item.tags" :key="'tag' + index" class="tag is-info is-light is-rounded tag-space"> {{ tag }} </span>
+          </p>
+        </li>
+       `
+    });
+
+    new Vue({
+      el: '#app',
+      data() {
+        return {
+          searchQuery: '',
+          items: JSON.parse(itemsJson),
+          // items: [
+          //   { id: 1, name: 'Item One', categories: ['cat1', 'cat2'], tags: ['tag1', 'tag2'] },
+          //   { id: 2, name: 'Item Two', categories: ['cat1', 'cat3'], tags: ['tag1', 'tag3'] },
+          //   { id: 3, name: 'Item Three', categories: ['cat2', 'cat4'], tags: ['tag2', 'tag4'] }
+          // ],
+          miniSearch: null,
+          filteredItems: []
+        };
+      },
+      created() {
+        this.miniSearch = new MiniSearch({
+          fields: ['name', 'categories', 'tags'],
+          storeFields: ['id', 'name', 'categories', 'tags']
+        });
+        this.miniSearch.addAll(this.items);
+        this.filteredItems = this.items;
+      },
+      methods: {
+        searchItems() {
+          if (this.searchQuery.trim() === '') {
+            this.filteredItems = this.items;
+          } else {
+            const results = this.miniSearch.search(this.searchQuery, {prefix: true, fuzzy:0.2});
+            this.filteredItems = results;
+            // this.filteredItems = results.map(result => {
+            //   return this.items.find(item => item.id === result.id);
+            // });
+          }
+        },
+        clearSearch() {
+          this.searchQuery = '';
+          this.filteredItems = this.items;
+        }
+      }
+    });
+  </script>
+</body>
+</html>

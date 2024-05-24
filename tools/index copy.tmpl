@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>My Recipes</title>
+    <script src="https://cdn.jsdelivr.net/npm/minisearch@6.3.0/dist/umd/index.min.js"></script>
+</head>
+<body>
+    <ul id="navigation">
+    <h3>Recipes</h3>
+        <ul style="list-style-type:none;">
+            {% for recipe in recipes %}
+            <li>
+                <a href="{{ recipe.slug }}.html">{{ recipe.name }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+    </ul>
+
+    <script>
+        cons recipes = 
+    </script>
+
+</body>
+</html>

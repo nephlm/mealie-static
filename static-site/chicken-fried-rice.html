@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Chicken Fried Rice</title>
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
+
+        <style>
+            no-bullet {
+                list-style-type: none;
+                margin-left: 1.5rem;
+            }
+        </style>
+    </head>
+    <body>
+        <section class="hero is-small is-primary">
+
+            <div class="hero-head">
+                <div class="columns ml-2 mr-2">
+                    <div class="column">
+                        <a  href="index.html">
+                            Home
+                        </a>
+                        <a class="ml-6" href= "http://allrecipes.com/Recipe/Chinese-Chicken-Fried-Rice-II/Detail.aspx">Original URL </a>
+
+                    </div>
+                    <div class="column has-text-right">
+                        <span class="tag is-rounded is-primary is-light is-size-7 ml-1"> entree</span>
+                        <span class="tag is-rounded is-primary is-light is-size-7 "> Asian</span><span class="tag is-rounded is-primary is-light is-size-7 ml-1"> Needs Pic</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="hero-body">
+                <p class="title">Chicken Fried Rice</p>
+                <p class="subtitle is-6">Chinese Chicken Fried Rice II - All Recipes</p>
+            </div>
+        </section>
+
+        <section>
+            <div class="columns">
+
+                <div class="column is-one-third p-5 m-3">
+                    <h2 class="title is-3">Ingredients</h2>
+
+                    <div class="box">
+                        <ul class="no-bullet">
+
+
+                        
+                        
+                        <li class="no-bullet">
+                            1 egg
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 tbsp water
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 tbsp butter
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 tbsp vegetable oil
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 onion 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                chopped
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            2 cups rice 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                cooked, cold
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            2 tbsp soy sauce
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 tsp pepper 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                ground
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 cup chicken 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                cooked chopped
+                            </li>
+                        
+                        
+                    </ul>
+                    </div>
+                </div>
+
+                <div class="column p-5 m-3" id="instructions">
+
+                    <h2 class="title is-3">Instructions</h2>
+                    
+                        <script>
+                            var parsed = marked.parse(`In a small bowl, beat egg with water. Melt butter in a large skillet over medium low heat. Add egg and leave flat for 1 to 2 minutes. Remove from skillet and cut into shreds.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`Heat oil in same skillet; add onion and saute until soft. Then add rice, soy sauce, pepper and chicken. Stir fry together for about 5 minutes, then stir in egg. Serve hot.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="p-5 m-3">
+
+
+                <h2 class="title is-3">Notes</h2>
+                
+                <div class="box">
+
+                    
+                </div>
+                <script>
+                    var parsed = marked.parse(`Rice must be cold, probably takes an hour to achieve.  20+ minutes to prepare the rice, 30 minutes in the freezer, mixing regularly to get to cold.
+
+The recipe at it's native size is to large fro my normal frying pan, reduce size or get a bigger cooking surface.
+
+It's also pretty bland, unless you are adding some flavor to it, load up on the pepper.`, {breaks: true})
+                    $('.box:last').append('<div class="content">' + parsed + '</div>')
+                    </script>
+            
+                <div class="box">
+
+                    <h3 class="subtitle is-6 has-text-weight-medium">
+                        Nutritional Information:
+                    </h3>
+                </div>
+                <script>
+                    var parsed = marked.parse(` Amount Per Serving  Calories: 340 | Total Fat: 13.6g | Cholesterol: 119mg
+ 
+ 
+ Nutritional Information
+ 
+ Chinese Chicken Fried Rice II
+ 
+ Servings Per Recipe: 3
+ 
+ Amount Per Serving
+ 
+ Calories: 340
+  
+  Total Fat:  13.6g 
+  Cholesterol:  119mg 
+  Sodium:  688mg 
+  Total Carbs:  34.5g 
+      Dietary Fiber:  1.3g 
+  Protein:  18.9g  
+ VIEW DETAILED NUTRITION
+ 
+ About: Nutrition Info
+ `, {breaks: true})
+                    $('.box:last').append('<div class="content">' + parsed + '</div>')
+                    </script>
+            
+                <div class="box">
+
+                    <h3 class="subtitle is-6 has-text-weight-medium">
+                         Reviewed on Aug. 24, 2004 by NATALIESHD:
+                    </h3>
+                </div>
+                <script>
+                    var parsed = marked.parse(` I was pleasantly surprised to find that this came out just as good as the fried rice I get at my favorite local Thai restaurant. I followed the recipe in terms of ingredients, but here are a few extra things I did: I pounded my chicken breasts flat, cut them up into strips, and quickly stir fried them in a little olive oil and just a pinch of salt. Once they were almost cooked through, I splashed on a little bit of soy sauce and set them aside. I cooked my sliced onions in the butter, (instead of the eggs. I used PAM for those) Great flavor and gave the rice a little something too. When I combined all ingredients, I also added some green onion to this dish, red pepper, and red pepper flakes. Also! *Make sure your rice is cold when you cook this!* GREAT recipe, will use again and again. Thanks! 
+ Was this review helpful?  [ YES ] 
+ I was pleasantly surprised to find that this came out just as good as the fried rice I get at...
+`, {breaks: true})
+                    $('.box:last').append('<div class="content">' + parsed + '</div>')
+                    </script>
+            
+                <div class="box">
+
+                    <h3 class="subtitle is-6 has-text-weight-medium">
+                        Reviewed on Jan. 25, 2004 by GJESSICA11:
+                    </h3>
+                </div>
+                <script>
+                    var parsed = marked.parse(` Make sure your rice is COLD before you stir fry!!!!   Was this review helpful?  [ YES ] 
+ Make sure your rice is COLD before you stir fry!!!!
+`, {breaks: true})
+                    $('.box:last').append('<div class="content">' + parsed + '</div>')
+                    </script>
+            
+                <div class="box">
+
+                    <h3 class="subtitle is-6 has-text-weight-medium">
+                        Reviewed on Apr. 18, 2003 by mommyblock:
+                    </h3>
+                </div>
+                <script>
+                    var parsed = marked.parse(` Love this one! I used thawed frozen mixed vegis and added them after everything. Made for a very quick and easy recipe. I do recommend that you have everything chopped and ready to add before you actually start cooking as this cooks very quickly and leaves no time in between. My 3yo loves fried rice when we are out so this was an excellent dinner for her! And I could chop the vegis and chicken into bite sizes for her and not worry about her trying to stuff something too big into her mouth! And the rest of the family loves it just as well, even my super picky husband (who seems to never eat anythign I make! LOL) 
+ Was this review helpful?  [ YES ] 
+ Love this one! I used thawed frozen mixed vegis and added them after everything. Made for a...`, {breaks: true})
+                    $('.box:last').append('<div class="content">' + parsed + '</div>')
+                    </script>
+            
+                <div class="box">
+
+                    <h3 class="subtitle is-6 has-text-weight-medium">
+                        Reviewed on Dec. 31, 2006 by khullander:
+                    </h3>
+                </div>
+                <script>
+                    var parsed = marked.parse(` Excellent, easy recipe. I rinse the rice in cold water, so I don't have to wait. I also decreased the pepper because it's got a little too much zip. 
+ Was this review helpful?  [ YES ] 
+ Excellent, easy recipe. I rinse the rice in cold water, so I don't have to wait. I also...`, {breaks: true})
+                    $('.box:last').append('<div class="content">' + parsed + '</div>')
+                    </script>
+            
+                <div class="box">
+
+                    <h3 class="subtitle is-6 has-text-weight-medium">
+                        Reviewed on Sep. 9, 2007 by tizzylizz:
+                    </h3>
+                </div>
+                <script>
+                    var parsed = marked.parse(` This is one of those recipes you can easily tweek to your own tastes. I added peas and green onions at the end with the egg. Only used 1/2 of the pepper called for & used seasme oil instead of the veg. oil. Thought it made a very good side. Will make again! 
+ Was this review helpful?  [ YES ] 
+ This is one of those recipes you can easily tweek to your own tastes. I added peas and green...
+`, {breaks: true})
+                    $('.box:last').append('<div class="content">' + parsed + '</div>')
+                    </script>
+            
+                <div class="box">
+
+                    <h3 class="subtitle is-6 has-text-weight-medium">
+                        Reviewed on Sep. 11, 2003 by NJSS2000:
+                    </h3>
+                </div>
+                <script>
+                    var parsed = marked.parse(` Very good. I made it without the chicken, but added some leftover green peas. I served it with asian flavored grilled chicken. I look forward to making it with the chicken next time. 
+ Was this review helpful?  [ YES ] 
+ Very good. I made it without the chicken, but added some leftover green peas. I served it...
+`, {breaks: true})
+                    $('.box:last').append('<div class="content">' + parsed + '</div>')
+                    </script>
+            
+                <div class="box">
+
+                    <h3 class="subtitle is-6 has-text-weight-medium">
+                        Reviewed on Jun. 22, 2003 by FOODIE19:
+                    </h3>
+                </div>
+                <script>
+                    var parsed = marked.parse(` This needed some alteration, but turned out great. And bear in mind it's a lot of work and requires significant chopping. I added green onion and chopped ed pepper, as well as teriyaki sauce. I also added some red pepper flakes for spice. And at the last minute, I added some pineapple and pineapple juice and cashews for a special treat. My boyfriend loved it! It made a lot. 
+ Was this review helpful?  [ YES ] 
+ This needed some alteration, but turned out great. And bear in mind it's a lot of work and...
+`, {breaks: true})
+                    $('.box:last').append('<div class="content">' + parsed + '</div>')
+                    </script>
+            
+                <div class="box">
+
+                    <h3 class="subtitle is-6 has-text-weight-medium">
+                        Reviewed on May 14, 2007 by KaringKare:
+                    </h3>
+                </div>
+                <script>
+                    var parsed = marked.parse(` This was super easy and tasted yummy. I added a some fresh ginger (since I had some) and 2 cloves of garlic. I used sesame oil as it just adds a bit more of an asian flair! It was great.. family loved it! 
+ Was this review helpful?  [ YES ] 
+ This was super easy and tasted yummy. I added a some fresh ginger (since I had some) and 2...
+`, {breaks: true})
+                    $('.box:last').append('<div class="content">' + parsed + '</div>')
+                    </script>
+            
+                <div class="box">
+
+                    <h3 class="subtitle is-6 has-text-weight-medium">
+                        Reviewed on Dec. 9, 2006 by TJ:
+                    </h3>
+                </div>
+                <script>
+                    var parsed = marked.parse(`This was a very tasty and simple recipe. I added some chopped up garlic to the onions as I sauteed them. Also I recommend using A LOT less pepper as it is VERY spicy if you don't. You really don't have to put any pepper in if you don't want to. It's quite flavorful without it. 
+ Was this review helpful?  [ YES ] 
+ This was a very tasty and simple recipe. I added some chopped up garlic to the onions as I..`, {breaks: true})
+                    $('.box:last').append('<div class="content">' + parsed + '</div>')
+                    </script>
+            
+                <div class="box">
+
+                    <h3 class="subtitle is-6 has-text-weight-medium">
+                        Reviewed on Nov. 9, 2003 by 1BUSYMOMNTX:
+                    </h3>
+                </div>
+                <script>
+                    var parsed = marked.parse(` This is a simple, quick fried rice recipe that the whole family liked. I omitted the chicken, and added shrimp and frozen peas. Used it as a side dish to sweet and sour chicken. I will definitely use this one again! 
+ Was this review helpful?  [ YES ] 
+ This is a simple, quick fried rice recipe that the whole family liked. I omitted the chicken,...
+`, {breaks: true})
+                    $('.box:last').append('<div class="content">' + parsed + '</div>')
+                    </script>
+            
+        </div>
+        </section>
+
+    </body>
+</html>

@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Lemon Garlic Talapia</title>
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
+
+        <style>
+            no-bullet {
+                list-style-type: none;
+                margin-left: 1.5rem;
+            }
+        </style>
+    </head>
+    <body>
+        <section class="hero is-small is-primary">
+
+            <div class="hero-head">
+                <div class="columns ml-2 mr-2">
+                    <div class="column">
+                        <a  href="index.html">
+                            Home
+                        </a>
+                        
+
+                    </div>
+                    <div class="column has-text-right">
+                        <span class="tag is-rounded is-primary is-light is-size-7 ml-1"> entree</span>
+                        <span class="tag is-rounded is-primary is-light is-size-7 "> Imprecise</span><span class="tag is-rounded is-primary is-light is-size-7 ml-1"> Needs Pic</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="hero-body">
+                <p class="title">Lemon Garlic Talapia</p>
+                <p class="subtitle is-6"></p>
+            </div>
+        </section>
+
+        <section>
+            <div class="columns">
+
+                <div class="column is-one-third p-5 m-3">
+                    <h2 class="title is-3">Ingredients</h2>
+
+                    <div class="box">
+                        <ul class="no-bullet">
+
+
+                        
+                        
+                        <li class="no-bullet">
+                            2 filets tilapia
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            3 tbsp lemon juice 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                divided
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            2 cloves garlic 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                divided
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1.5 rice
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            adobo
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            pepper
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            thyme
+                        </li>
+                        
+                        
+                    </ul>
+                    </div>
+                </div>
+
+                <div class="column p-5 m-3" id="instructions">
+
+                    <h2 class="title is-3">Instructions</h2>
+                    
+                        <script>
+                            var parsed = marked.parse(`Rice:
+
+Using rice cooker use 1.5 measures rice.  Cook in chicken broth with 2 tbsp of lemon juice, glove of garlic and sprinkles of the other spices to preference 1/4 1/2 tsp of each.  Add in mixed veggies of choice and let the rice cooker do it's thing.
+`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`Fish:
+
+Warm up the pan, laying in the rest of the lemon juice and garlic.  add Chicken broth to about 1/2 inch base.  Spice with thyme, adobo, pepper.  Set to med low and cook turning over once 2-3 minutes.  cook until it flakes.  Set aside whole or break it up and leave it in the pan.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`Combine: 
+
+When the rice is ready add it to pan, give it a quick stir fry then let is sit absorb the liquid.  All done.
+`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="p-5 m-3">
+
+
+                <h2 class="title is-3">Notes</h2>
+                
+        </div>
+        </section>
+
+    </body>
+</html>

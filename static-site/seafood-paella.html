@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Seafood Paella</title>
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
+
+        <style>
+            no-bullet {
+                list-style-type: none;
+                margin-left: 1.5rem;
+            }
+        </style>
+    </head>
+    <body>
+        <section class="hero is-small is-primary">
+
+            <div class="hero-head">
+                <div class="columns ml-2 mr-2">
+                    <div class="column">
+                        <a  href="index.html">
+                            Home
+                        </a>
+                        
+
+                    </div>
+                    <div class="column has-text-right">
+                        <span class="tag is-rounded is-primary is-light is-size-7 ml-1"> entree</span>
+                        <span class="tag is-rounded is-primary is-light is-size-7 "> Seafood</span><span class="tag is-rounded is-primary is-light is-size-7 ml-1"> Family</span><span class="tag is-rounded is-primary is-light is-size-7 ml-1"> Needs Pic</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="hero-body">
+                <p class="title">Seafood Paella</p>
+                <p class="subtitle is-6">Paella recipe, not sure what year this is from.</p>
+            </div>
+        </section>
+
+        <section>
+            <div class="columns">
+
+                <div class="column is-one-third p-5 m-3">
+                    <h2 class="title is-3">Ingredients</h2>
+
+                    <div class="box">
+                        <ul class="no-bullet">
+
+
+                        
+                        
+                        <li class="no-bullet">
+                            3 onion 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                browned
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 red pepper 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                or green
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 lb Italian Sausage 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                bulk
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            2 lbs seafood 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                calamari, scallops, cod
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            2 filets cod 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                small
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 bag mussels 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                (unknown size)
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 lb shrimp 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                (pre-cooked)
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 ³/₄ cups rice
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 ¹/₂ qt chicken broth 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                or fish broth
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 can tomato  
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                diced, salt free
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 bunch scallion 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                (green part)
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            adobo
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ¹/₁₇ oz saffron 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                the whoe bottle
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            achiote
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            4 cloves garlic
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 lb chicken
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ¹/₂ tsp smoked paprika
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            pepper
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            tamarc
+                        </li>
+                        
+                        
+                    </ul>
+                    </div>
+                </div>
+
+                <div class="column p-5 m-3" id="instructions">
+
+                    <h2 class="title is-3">Instructions</h2>
+                    
+                        <script>
+                            var parsed = marked.parse(`* brown onions in olive oil
+* add pepper when onions 2/3rd done
+* add Sausage, chicken, garlic and adobo when peppers are mostly done
+* Mix rice with other spices
+* add rice, sauté for 3-5 minutes until it starts getting white
+* add broth, tomatoes, scallions
+* Let cook until liquid level is at desired level
+* Add flounder (and chicken)
+* add mixed seafood
+* add mussels
+* add pre-cooked shrimp
+* lets stand for 10 minutes`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="p-5 m-3">
+
+
+                <h2 class="title is-3">Notes</h2>
+                
+                <div class="box">
+
+                    
+                </div>
+                <script>
+                    var parsed = marked.parse(`adobe and pepper cover surface.
+
+Tamarac can be used in place of achiote... a double cover of the surface.
+`, {breaks: true})
+                    $('.box:last').append('<div class="content">' + parsed + '</div>')
+                    </script>
+            
+                <div class="box">
+
+                    <h3 class="subtitle is-6 has-text-weight-medium">
+                        2020 Ingredients:
+                    </h3>
+                </div>
+                <script>
+                    var parsed = marked.parse(`* 2 lbs pre-cooked shrimp
+* 1 lb sausage
+* 1 lb cod fillet
+* 2 lbs scallops
+* 2 cans baby clams (juice was added during broth phase)
+* 1 qt seafood broth and clam juice (see above)
+* 1 red pepper, 2 green
+* 3 small onions
+* no scallion, no chicken
+`, {breaks: true})
+                    $('.box:last').append('<div class="content">' + parsed + '</div>')
+                    </script>
+            
+        </div>
+        </section>
+
+    </body>
+</html>
