@@ -75,6 +75,7 @@
       template: `
         <li class="box">
           <a :href="item.id + '.html'">{{ item.name }}</a>
+          {{ item.display_stars }}
           <!--<span v-for="n in fullStars(item.rating)" :key="'fs'+ n" class="full-star"> &#9733;</span>
           <span v-for="n in emptyStars(item.rating)" :key="'es' + n" class="empty-star"> &#9733;</span>-->
           <p>
@@ -105,7 +106,7 @@
       created() {
         this.miniSearch = new MiniSearch({
           fields: ['name', 'categories', 'tags', 'search_tokens'],
-          storeFields: ['id', 'name', 'categories', 'tags']
+          storeFields: ['id', 'name', 'categories', 'tags', 'display_stars']
         });
         this.miniSearch.addAll(this.items);
         this.filteredItems = this.items;

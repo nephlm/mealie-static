@@ -1,0 +1,385 @@
+{
+    "id": "b2923d9a-f935-470c-b0d8-760308458ff7",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "name": "Dos Queso Dip",
+    "slug": "dos-queso-dip",
+    "image": null,
+    "recipeYield": null,
+    "totalTime": null,
+    "prepTime": null,
+    "cookTime": null,
+    "performTime": null,
+    "description": "",
+    "recipeCategory": [
+        {
+            "id": "5b7f4cd2-5d0e-440e-8e88-64ad06d1aad1",
+            "name": "entree",
+            "slug": "entree"
+        }
+    ],
+    "tags": [
+        {
+            "id": "e1c1c1a2-7783-4dc2-979e-a6f35e1c17e9",
+            "name": "Needs Pic",
+            "slug": "needs-pic"
+        }
+    ],
+    "tools": [],
+    "rating": 3.0,
+    "orgURL": "http://allrecipes.com/Recipe/Dos-Queso-Dip/Detail.aspx",
+    "dateAdded": "2024-05-02",
+    "dateUpdated": "2024-05-02T12:36:54.424124",
+    "createdAt": "2024-05-02T01:33:13.231397",
+    "updateAt": "2024-05-25T11:58:26.968041",
+    "lastMade": null,
+    "recipeIngredient": [
+        {
+            "quantity": 16.0,
+            "unit": {
+                "id": "d2ec378b-608b-4e61-b0fe-ed15ed84302d",
+                "name": "ounce",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "oz",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.919838",
+                "updateAt": "2024-05-13T12:27:05.285653"
+            },
+            "food": {
+                "id": "594f9f32-7d2e-42c8-afe8-378c2a8b9457",
+                "name": "sour cream",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "aliases": [],
+                "label": {
+                    "name": "Dairy Products",
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f"
+                },
+                "createdAt": "2024-05-02T12:35:06.062392",
+                "updateAt": "2024-05-03T12:49:24.016540"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "16 oz sour cream",
+            "title": "",
+            "originalText": "16 ounce sour cream",
+            "referenceId": "22285017-c450-4827-a687-9c250d3a5d3e"
+        },
+        {
+            "quantity": 8.0,
+            "unit": {
+                "id": "d2ec378b-608b-4e61-b0fe-ed15ed84302d",
+                "name": "ounce",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "oz",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.919838",
+                "updateAt": "2024-05-13T12:27:05.285653"
+            },
+            "food": {
+                "id": "507a9da3-3882-4b90-b4ff-746f75651b62",
+                "name": "cream cheese",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "aliases": [],
+                "label": {
+                    "name": "Dairy Products",
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f"
+                },
+                "createdAt": "2024-04-29T13:12:56.094575",
+                "updateAt": "2024-04-30T01:53:30.473715"
+            },
+            "note": "softened",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "8 oz cream cheese softened",
+            "title": "",
+            "originalText": "8 ounce cream cheese, softened",
+            "referenceId": "551fd3c4-1ba2-4fec-9cf4-9402b570fd4d"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "d2ec378b-608b-4e61-b0fe-ed15ed84302d",
+                "name": "ounce",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "oz",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.919838",
+                "updateAt": "2024-05-13T12:27:05.285653"
+            },
+            "food": {
+                "id": "addb8c26-725e-4efb-912c-4724df336ba0",
+                "name": "taco seasoning mix",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "82f698fa-6672-41b4-a771-b6b0870e3f46",
+                "aliases": [],
+                "label": {
+                    "name": "Recipe",
+                    "color": "#094c1b",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "82f698fa-6672-41b4-a771-b6b0870e3f46"
+                },
+                "createdAt": "2024-05-02T12:35:16.791416",
+                "updateAt": "2024-05-03T12:49:15.947132"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 oz taco seasoning mix",
+            "title": "",
+            "originalText": "1 ounce taco seasoning mix",
+            "referenceId": "b09f3ccd-38d0-4264-8e13-b96441d27dd0"
+        },
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "fd9da3a7-45eb-49f6-9bfa-33bc42e0608d",
+                "name": "pepper jack cheese",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "aliases": [],
+                "label": {
+                    "name": "Dairy Products",
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f"
+                },
+                "createdAt": "2024-05-02T12:35:54.971582",
+                "updateAt": "2024-05-03T12:48:55.595347"
+            },
+            "note": "shredded",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 cups pepper jack cheese shredded",
+            "title": "",
+            "originalText": "2 cups shredded pepper jack cheese",
+            "referenceId": "da352e5b-c8e6-45a4-8b9d-4f568e85c298"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "227896ce-7791-4030-adcc-5d0eaad7cf94",
+                "name": "salsa",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-05-02T12:36:09.252962",
+                "updateAt": "2024-05-03T12:48:48.114114"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 cup salsa",
+            "title": "",
+            "originalText": "1 cup salsa",
+            "referenceId": "17b74d65-0aad-477e-9348-3ec2c5819a33"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "26f561cf-9bea-435b-9348-8ddd9cf0590b",
+                "name": "oregano",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:48.559994",
+                "updateAt": "2024-04-27T03:06:37.316798"
+            },
+            "note": "mexican, dried, crushed",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 tsp oregano mexican, dried, crushed",
+            "title": "",
+            "originalText": "1 teaspoon oregano, mexican, dried, crushed",
+            "referenceId": "791b7db4-db46-4e1c-ae65-eaec4ce4b526"
+        },
+        {
+            "quantity": 0.0,
+            "unit": null,
+            "food": {
+                "id": "e83a890e-0d16-4075-88d3-863e53c8a2a4",
+                "name": "salt",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:32.495091",
+                "updateAt": "2024-04-27T03:09:26.465777"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "salt",
+            "title": "",
+            "originalText": "salt",
+            "referenceId": "93722814-41b0-4580-8419-b960cb7708ea"
+        },
+        {
+            "quantity": 0.0,
+            "unit": null,
+            "food": {
+                "id": "b23ef96b-f10d-48a0-87e6-63e1ff9b111e",
+                "name": "pepper",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [
+                    {
+                        "name": "black pepper"
+                    }
+                ],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:43.184271",
+                "updateAt": "2024-04-27T03:08:33.535970"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "pepper",
+            "title": "",
+            "originalText": "pepper",
+            "referenceId": "2a99399a-f920-42c7-a44e-42e14536f6d1"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "7f19b3fe-5ed0-4b82-ad80-3b3218b773f2",
+            "title": "",
+            "text": "Mix everything but pepper jack together in crockpot.  cover in pepper jack.  It's ready when the pepper jack has melted.  Set crock pot to warm.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "88e71327-b2e3-48c2-bf58-d7ea83beb838",
+            "title": "",
+            "text": "Server with corn chips or bread.",
+            "ingredientReferences": []
+        }
+    ],
+    "nutrition": {
+        "calories": null,
+        "fatContent": null,
+        "proteinContent": null,
+        "carbohydrateContent": null,
+        "fiberContent": null,
+        "sodiumContent": null,
+        "sugarContent": null
+    },
+    "settings": {
+        "public": true,
+        "showNutrition": false,
+        "showAssets": false,
+        "landscapeView": false,
+        "disableComments": false,
+        "disableAmount": false,
+        "locked": false
+    },
+    "assets": [],
+    "notes": [
+        {
+            "title": "original instructions:",
+            "text": "* Preheat oven to 350 degrees F (175 degrees C). \n* In a medium bowl, blend sour cream and cream cheese until smooth. Mix in taco seasoning mix. Stir in salsa, Mexican oregano, salt and pepper. \n* Transfer to a 9x13 inch baking dish. Top with Pepper Jack cheese. Bake in the preheated oven 10 minutes, or until cheese is melted.\n"
+        }
+    ],
+    "extras": {},
+    "comments": []
+}

@@ -1,0 +1,740 @@
+{
+    "id": "83c4163b-1469-43a9-8882-e2c191c90990",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "name": "Sausage Stirfry",
+    "slug": "sausage-stirfry",
+    "image": null,
+    "recipeYield": "5",
+    "totalTime": null,
+    "prepTime": "5 min",
+    "cookTime": null,
+    "performTime": "30 min",
+    "description": "",
+    "recipeCategory": [
+        {
+            "id": "5b7f4cd2-5d0e-440e-8e88-64ad06d1aad1",
+            "name": "entree",
+            "slug": "entree"
+        }
+    ],
+    "tags": [
+        {
+            "id": "7554d359-722a-48f8-b465-23091d967ffc",
+            "name": "Asian",
+            "slug": "asian"
+        },
+        {
+            "id": "e1c1c1a2-7783-4dc2-979e-a6f35e1c17e9",
+            "name": "Needs Pic",
+            "slug": "needs-pic"
+        }
+    ],
+    "tools": [],
+    "rating": 5.0,
+    "orgURL": null,
+    "dateAdded": "2024-04-30",
+    "dateUpdated": "2024-04-30T12:37:57.627024",
+    "createdAt": "2024-04-30T00:45:11.489386",
+    "updateAt": "2024-04-30T12:37:57.629419",
+    "lastMade": null,
+    "recipeIngredient": [
+        {
+            "quantity": 0.25,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "d9a322c3-fd8e-4b39-809f-abcbd76b8062",
+                "name": "water",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": null,
+                "aliases": [],
+                "label": null,
+                "createdAt": "2024-04-27T02:31:21.445759",
+                "updateAt": "2024-04-27T03:05:36.520887"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2084 cup water",
+            "title": "Stirfry Sauce",
+            "originalText": "0.25 cup water",
+            "referenceId": "88e03ff5-9673-4518-ac49-3dc03a827164"
+        },
+        {
+            "quantity": 0.25,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "5fdcd369-8502-4e38-94b4-8363a8d6f638",
+                "name": "soy sauce",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-27T11:43:48.390392",
+                "updateAt": "2024-04-27T11:49:13.222641"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2084 cup soy sauce",
+            "title": "",
+            "originalText": "0.25 cup soy sauce",
+            "referenceId": "0a1800f5-aad9-4d32-aae3-df0baadd83d6"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "e2cbe589-c39c-4ef5-bbb3-068cd3a887c8",
+                "name": "red pepper flakes",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-27T11:44:32.724777",
+                "updateAt": "2024-04-27T11:49:59.129682"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 tsp red pepper flakes",
+            "title": "",
+            "originalText": "1.0 teaspoon red pepper flakes",
+            "referenceId": "a4904209-7319-4071-9b90-a2e0b5b19bde"
+        },
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "6051cdd8-6c04-4b6c-8f10-a1d42fa23a13",
+                "name": "red wine vinegar",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
+                "aliases": [],
+                "label": {
+                    "name": "Oil",
+                    "color": "#e89eb9",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "046d1084-5c4a-4f9f-8695-c38791043125"
+                },
+                "createdAt": "2024-04-30T00:04:34.650701",
+                "updateAt": "2024-04-30T01:51:57.432496"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 tsp red wine vinegar",
+            "title": "",
+            "originalText": "2.0 teaspoon rice wine vinegar",
+            "referenceId": "39594088-acb5-40b9-a5a7-3ff1553410ec"
+        },
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "77102815-22c9-4798-bb19-91176cf6f32e",
+                "name": "sesame oil",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
+                "aliases": [],
+                "label": {
+                    "name": "Oil",
+                    "color": "#e89eb9",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "046d1084-5c4a-4f9f-8695-c38791043125"
+                },
+                "createdAt": "2024-04-27T11:42:33.580856",
+                "updateAt": "2024-04-27T11:47:07.291341"
+            },
+            "note": "toasted",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 tsp sesame oil toasted",
+            "title": "",
+            "originalText": "2.0 teaspoon toasted sesame oil",
+            "referenceId": "bbdfc5a1-60ba-47d9-bb81-144138f162db"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "f3c19faa-40fd-4a99-8452-b7228462cb53",
+                "name": "honey",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-26T19:32:19.441833",
+                "updateAt": "2024-04-27T03:19:47.128984"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 tsp honey",
+            "title": "",
+            "originalText": "1.0 teaspoon honey",
+            "referenceId": "b21634fc-a9f9-4a44-961c-3d3b25ca2f75"
+        },
+        {
+            "quantity": 0.25,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "900abf67-7a16-40fa-bcab-e6ea1d80b634",
+                "name": "better than boullion",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-27T02:31:47.639314",
+                "updateAt": "2024-04-27T03:05:13.208553"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2084 tsp better than boullion",
+            "title": "",
+            "originalText": "0.25 teaspoon better than bouillon",
+            "referenceId": "55eb24db-ef75-4639-aef8-69d2d8502f30"
+        },
+        {
+            "quantity": 3.0,
+            "unit": null,
+            "food": {
+                "id": "5501b50d-863d-4d1d-b81e-a7ddb553945d",
+                "name": "Italian Sausage",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
+                "aliases": [],
+                "label": {
+                    "name": "Meat",
+                    "color": "#be2f02",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "13258664-db75-4091-a629-d51f0a89797c"
+                },
+                "createdAt": "2024-04-30T00:11:04.825124",
+                "updateAt": "2024-04-30T01:50:17.498418"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "3 Italian Sausage",
+            "title": "Sausage",
+            "originalText": "3.0 links italian sausage",
+            "referenceId": "3925ee1d-c314-438a-b2cd-cee4be956aab"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "237f6be2-5e4b-4583-8e04-c9e298c3ac21",
+                "name": "bag",
+                "pluralName": "bags",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-27T02:34:36.952058",
+                "updateAt": "2024-05-13T12:25:27.496645"
+            },
+            "food": {
+                "id": "978a15f3-f2a9-4ee9-81e4-0fc493101254",
+                "name": "asian stir-fry",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "aliases": [],
+                "label": {
+                    "name": "Frozen Foods",
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726"
+                },
+                "createdAt": "2024-04-30T12:35:25.989712",
+                "updateAt": "2024-04-30T20:28:26.610148"
+            },
+            "note": "frozen",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 bag asian stir-fry frozen",
+            "title": "Stirfry",
+            "originalText": "1.0 package asian stir-fry, frozen",
+            "referenceId": "587d9a51-931a-486f-84f0-0aa78297f020"
+        },
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "85a8de4c-7718-4605-9853-9043520d7467",
+                "name": "rice",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "aliases": [],
+                "label": {
+                    "name": "Pasta",
+                    "color": "#cd1652",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8"
+                },
+                "createdAt": "2024-04-26T19:32:25.399883",
+                "updateAt": "2024-04-27T03:17:34.167267"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 cups rice",
+            "title": "",
+            "originalText": "2.0 cups rice",
+            "referenceId": "c6ca6250-df55-48d6-b80b-c24656acad2f"
+        },
+        {
+            "quantity": 0.5,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "0222bfb1-ae68-43a4-9dc4-e5c114f62d04",
+                "name": "peanuts",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-27T11:43:15.621098",
+                "updateAt": "2024-04-27T11:48:11.812361"
+            },
+            "note": "No or low salt",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 cup peanuts No or low salt",
+            "title": "",
+            "originalText": "0.5 cup unsalted nuts",
+            "referenceId": "020ecb4f-dd7f-49f9-84a3-ab0c6cd9f830"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "900abf67-7a16-40fa-bcab-e6ea1d80b634",
+                "name": "better than boullion",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-27T02:31:47.639314",
+                "updateAt": "2024-04-27T03:05:13.208553"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 tsp better than boullion",
+            "title": "",
+            "originalText": "1.0 teaspoon better than bouillon",
+            "referenceId": "fedf61d8-4699-4a72-8e9d-9dca68fecc07"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "75f848c8-5343-4c80-a97c-74f48aa7b681",
+                "name": "olive oil",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
+                "aliases": [],
+                "label": {
+                    "name": "Oil",
+                    "color": "#e89eb9",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "046d1084-5c4a-4f9f-8695-c38791043125"
+                },
+                "createdAt": "2024-04-26T19:32:30.465893",
+                "updateAt": "2024-04-27T03:15:40.768294"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 tsp olive oil",
+            "title": "",
+            "originalText": "1.0 teaspoon olive oil",
+            "referenceId": "32643298-7d8a-4c69-9eba-2d4328fee391"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "3fedefc9-5c81-4bd6-8afb-47375c1c4af5",
+                "name": "pepper strips",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "aliases": [],
+                "label": {
+                    "name": "Frozen Foods",
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726"
+                },
+                "createdAt": "2024-04-30T12:36:39.391555",
+                "updateAt": "2024-04-30T20:28:17.778867"
+            },
+            "note": "frozen",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 cup pepper strips frozen",
+            "title": "",
+            "originalText": "1.0 cup pepper strips",
+            "referenceId": "69decda5-4f70-4b12-befe-bc1558f1cdae"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "27155bae-c312-44a4-b987-6299c6373b2b",
+                "name": "sugar snap peas",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "aliases": [],
+                "label": {
+                    "name": "Frozen Foods",
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726"
+                },
+                "createdAt": "2024-04-30T12:36:54.356227",
+                "updateAt": "2024-04-30T20:28:10.909369"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 cup sugar snap peas",
+            "title": "",
+            "originalText": "1.0 cup sugar snap peas",
+            "referenceId": "ec092990-fc90-4dcc-a17f-50063962bfe4"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "8f99b5e2-62a5-4526-9720-de9f18b010fb",
+                "name": "stalk",
+                "pluralName": "stalks",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-30T12:37:03.209347",
+                "updateAt": "2024-05-13T12:24:55.520467"
+            },
+            "food": {
+                "id": "93acbbe9-3ea9-4f6e-aae1-06c116126b32",
+                "name": "celery",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "aliases": [],
+                "label": {
+                    "name": "Produce",
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
+                },
+                "createdAt": "2024-04-26T19:32:50.103022",
+                "updateAt": "2024-04-27T03:07:16.816049"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 stalk celery",
+            "title": "",
+            "originalText": "1.0 stalk celery",
+            "referenceId": "37c90649-d5fd-4480-a617-205ff624a444"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "be84f677-1e08-4db3-8116-d04ad10a05e7",
+            "title": "",
+            "text": "Mix the sauce together in any container large enough to hold it. ",
+            "ingredientReferences": []
+        },
+        {
+            "id": "0ba42317-a062-440b-bd8e-3ded3fb4ba8b",
+            "title": "",
+            "text": "Cook rice in rice cooker.  Add butter and 2 tbs of stirfry sauce, cook in chicken broth.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "3d3714f3-1cb6-4781-8a3a-b222812bfd12",
+            "title": "",
+            "text": "Brown sausage.  Set aside sausage and broth.\n",
+            "ingredientReferences": []
+        },
+        {
+            "id": "aa335c2a-fff1-4673-948b-1f5a6c5ca511",
+            "title": "",
+            "text": "In the same pan cook Asian stifry.  When almost done add sausage/broth and remainder of sauce.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "a70eb167-5bf0-41b5-b191-f7ffc814a5d5",
+            "title": "",
+            "text": "When done add rice and mix.",
+            "ingredientReferences": []
+        }
+    ],
+    "nutrition": {
+        "calories": null,
+        "fatContent": null,
+        "proteinContent": null,
+        "carbohydrateContent": null,
+        "fiberContent": null,
+        "sodiumContent": null,
+        "sugarContent": null
+    },
+    "settings": {
+        "public": true,
+        "showNutrition": false,
+        "showAssets": false,
+        "landscapeView": false,
+        "disableComments": false,
+        "disableAmount": false,
+        "locked": false
+    },
+    "assets": [],
+    "notes": [
+        {
+            "title": "2014-03-06",
+            "text": "Stripped the casing and cooked the sausage a bulk\nUsed stirfry marinade with an additional cup of broth\nUsed 1.5 tsp of olive oil in the rice instead of butter\nAdded 1 cup mixed peppers\nAdded 1 cup sugar snap peas\nAdded 1 stalk celery"
+        }
+    ],
+    "extras": {},
+    "comments": []
+}

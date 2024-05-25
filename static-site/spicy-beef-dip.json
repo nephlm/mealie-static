@@ -1,0 +1,523 @@
+{
+    "id": "ed7ab0ed-af36-47fa-a590-f31ce06b4146",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "name": "Spicy Beef Dip",
+    "slug": "spicy-beef-dip",
+    "image": "144",
+    "recipeYield": "8",
+    "totalTime": "30 min",
+    "prepTime": null,
+    "cookTime": null,
+    "performTime": null,
+    "description": "",
+    "recipeCategory": [
+        {
+            "id": "5b7f4cd2-5d0e-440e-8e88-64ad06d1aad1",
+            "name": "entree",
+            "slug": "entree"
+        }
+    ],
+    "tags": [
+        {
+            "id": "dc321406-a09c-48e1-8a52-97c1dafa5d00",
+            "name": "Family",
+            "slug": "family"
+        }
+    ],
+    "tools": [],
+    "rating": 5.0,
+    "orgURL": null,
+    "dateAdded": "2024-04-30",
+    "dateUpdated": "2024-05-14T20:34:18.847544",
+    "createdAt": "2024-04-30T01:13:26.324385",
+    "updateAt": "2024-05-14T20:34:18.849771",
+    "lastMade": null,
+    "recipeIngredient": [
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
+                "name": "pound",
+                "pluralName": "pounds",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "lb",
+                "pluralAbbreviation": "lbs",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.726674",
+                "updateAt": "2024-05-02T12:28:24.776546"
+            },
+            "food": {
+                "id": "692064f2-ac98-45bf-aa3c-d474b869e79d",
+                "name": "ground beef",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
+                "aliases": [],
+                "label": {
+                    "name": "Meat",
+                    "color": "#be2f02",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "13258664-db75-4091-a629-d51f0a89797c"
+                },
+                "createdAt": "2024-04-26T19:43:28.852645",
+                "updateAt": "2024-04-26T19:47:54.745662"
+            },
+            "note": "ground",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 lb ground beef ground",
+            "title": "Brown",
+            "originalText": "1.0 pound ground beef",
+            "referenceId": "2c31dba1-7aaa-4210-b405-3739c107193e"
+        },
+        {
+            "quantity": 1.0,
+            "unit": null,
+            "food": {
+                "id": "1e397cd3-35eb-4c64-b8cf-b40dfc61cd0b",
+                "name": "onion",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "aliases": [],
+                "label": {
+                    "name": "Frozen Foods",
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726"
+                },
+                "createdAt": "2024-04-26T19:32:21.362752",
+                "updateAt": "2024-04-27T03:18:52.550301"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 onion",
+            "title": "",
+            "originalText": "1.0 onion",
+            "referenceId": "bc012455-2811-47fc-8670-acf9cbc85a3d"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "f860cec4-a431-41b7-8ddc-0035e4be52c2",
+                "name": "clove",
+                "pluralName": "cloves",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:12.511215",
+                "updateAt": "2024-05-13T12:25:56.749590"
+            },
+            "food": {
+                "id": "fd860af3-2047-4ffc-be87-65cbeb97ce1e",
+                "name": "garlic",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:35.923453",
+                "updateAt": "2024-04-27T03:14:08.683777"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 clove garlic",
+            "title": "",
+            "originalText": "1.0 clove garlic",
+            "referenceId": "db42e763-7f0f-456a-a383-b2908cbd9dce"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "ee757c32-c3de-4812-8d65-fc8ebac34491",
+                "name": "broccoli",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "aliases": [],
+                "label": {
+                    "name": "Frozen Foods",
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726"
+                },
+                "createdAt": "2024-04-26T19:32:43.717384",
+                "updateAt": "2024-04-30T01:57:56.465688"
+            },
+            "note": "diced finely, optional",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 cup broccoli diced finely, optional",
+            "title": "",
+            "originalText": "1.0 cup broccoli cuts, diced finely",
+            "referenceId": "c979c58d-a601-45fb-a287-e7fd77a80eea"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "3fedefc9-5c81-4bd6-8afb-47375c1c4af5",
+                "name": "pepper strips",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "aliases": [],
+                "label": {
+                    "name": "Frozen Foods",
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726"
+                },
+                "createdAt": "2024-04-30T12:36:39.391555",
+                "updateAt": "2024-04-30T20:28:17.778867"
+            },
+            "note": "diced finely, optional",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 cup pepper strips diced finely, optional",
+            "title": "",
+            "originalText": "1.0 cup mixed pepper strips, diced finely",
+            "referenceId": "8ab5c785-7c80-40bc-bcf2-ffb294d1afee"
+        },
+        {
+            "quantity": 8.0,
+            "unit": {
+                "id": "d2ec378b-608b-4e61-b0fe-ed15ed84302d",
+                "name": "ounce",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "oz",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.919838",
+                "updateAt": "2024-05-13T12:27:05.285653"
+            },
+            "food": {
+                "id": "a24308d7-7f7e-4a36-b11f-be495896103d",
+                "name": "tomato sauce",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "aliases": [],
+                "label": {
+                    "name": "Pasta",
+                    "color": "#cd1652",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8"
+                },
+                "createdAt": "2024-04-30T12:14:03.830266",
+                "updateAt": "2024-04-30T20:29:18.664070"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "8 oz tomato sauce",
+            "title": "Simmer",
+            "originalText": "8.0 ounce tomato sauce",
+            "referenceId": "4ca760ff-7e34-446c-820c-7d900d51fdee"
+        },
+        {
+            "quantity": 0.75,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "26f561cf-9bea-435b-9348-8ddd9cf0590b",
+                "name": "oregano",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:48.559994",
+                "updateAt": "2024-04-27T03:06:37.316798"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b3/\u2084 tsp oregano",
+            "title": "",
+            "originalText": "0.75 teaspoon oregano",
+            "referenceId": "32a30404-a1d8-4f04-8d7d-dab2848055c3"
+        },
+        {
+            "quantity": 0.25,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "6a0fbf0a-d467-4b67-a42e-d9cdc019b2b5",
+                "name": "ketchup",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-30T20:00:00.240111",
+                "updateAt": "2024-04-30T20:26:58.205397"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2084 cup ketchup",
+            "title": "",
+            "originalText": "0.25 cup ketchup",
+            "referenceId": "6b421a53-d0d9-405d-98dc-a0c6297dc8b3"
+        },
+        {
+            "quantity": 0.5,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "9d0467ab-477b-4281-a39b-947c5ed0f6ed",
+                "name": "parmesan cheese",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "aliases": [],
+                "label": {
+                    "name": "Pasta",
+                    "color": "#cd1652",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8"
+                },
+                "createdAt": "2024-04-29T13:13:29.729126",
+                "updateAt": "2024-04-30T01:53:22.096219"
+            },
+            "note": "grated",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 cup parmesan cheese grated",
+            "title": "At end",
+            "originalText": "0.5 cup grated parmesan",
+            "referenceId": "0ef0bf86-a1e1-4742-9eb7-acc4f84fc143"
+        },
+        {
+            "quantity": 0.0,
+            "unit": {
+                "id": "d2ec378b-608b-4e61-b0fe-ed15ed84302d",
+                "name": "ounce",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "oz",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.919838",
+                "updateAt": "2024-05-13T12:27:05.285653"
+            },
+            "food": {
+                "id": "507a9da3-3882-4b90-b4ff-746f75651b62",
+                "name": "cream cheese",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "aliases": [],
+                "label": {
+                    "name": "Dairy Products",
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f"
+                },
+                "createdAt": "2024-04-29T13:12:56.094575",
+                "updateAt": "2024-04-30T01:53:30.473715"
+            },
+            "note": "reduced fat",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "cream cheese reduced fat",
+            "title": "",
+            "originalText": "8.0 ounce cream cheese (reduced fat)",
+            "referenceId": "c1a2805c-d63b-468b-b081-89a0bff02694"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
+                "name": "pound",
+                "pluralName": "pounds",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "lb",
+                "pluralAbbreviation": "lbs",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.726674",
+                "updateAt": "2024-05-02T12:28:24.776546"
+            },
+            "food": {
+                "id": "f5a2c4a8-4044-4966-9925-e5c8fd597581",
+                "name": "egg noodles",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "aliases": [],
+                "label": {
+                    "name": "Pasta",
+                    "color": "#cd1652",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8"
+                },
+                "createdAt": "2024-04-30T12:44:58.411624",
+                "updateAt": "2024-04-30T20:27:10.313071"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 lb egg noodles",
+            "title": "",
+            "originalText": "1.0 lbs egg noodles",
+            "referenceId": "3ad38d8b-f228-4b03-997b-1dcc60a2c25e"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "df5d67bd-cc85-447e-b958-6ad11aa906c3",
+            "title": "",
+            "text": "Start egg noodles",
+            "ingredientReferences": []
+        },
+        {
+            "id": "6e32b646-fd6d-423c-916a-095759c64e21",
+            "title": "",
+            "text": "* Brown ground beef, onion, peppers, broccoli and garlic\n* Stir in sauce, ketchup and oregano \n* Simmer 10 min, spoon off excess fat\n* Remove from heat\n* Add cream cheese and Parmesan.  Heat only gently to melt cheese.\n",
+            "ingredientReferences": []
+        },
+        {
+            "id": "d2c1d063-35f2-4556-bfbe-07e6945d3909",
+            "title": "",
+            "text": "add egg noodles",
+            "ingredientReferences": []
+        }
+    ],
+    "nutrition": {
+        "calories": null,
+        "fatContent": null,
+        "proteinContent": null,
+        "carbohydrateContent": null,
+        "fiberContent": null,
+        "sodiumContent": null,
+        "sugarContent": null
+    },
+    "settings": {
+        "public": true,
+        "showNutrition": false,
+        "showAssets": false,
+        "landscapeView": false,
+        "disableComments": false,
+        "disableAmount": false,
+        "locked": false
+    },
+    "assets": [],
+    "notes": [
+        {
+            "title": "2014-03-09",
+            "text": "Added peppers and broccoli.  So far it's good.  It ups the servings to 8 which means it comes out as:\n\nCalories: 3952/494\nCarbs: 334/42\nFat: 190/24\nProtein: 194/24\nSodium: 4483/560\nSugar: 67/8\n\nStill on the high end of calorie density but well within norms.\n"
+        }
+    ],
+    "extras": {},
+    "comments": []
+}

@@ -1,0 +1,279 @@
+{
+    "id": "8847d8be-03e4-41ef-841b-1c3daff49670",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "name": "Peanut Rice",
+    "slug": "peanut-rice",
+    "image": null,
+    "recipeYield": "2",
+    "totalTime": null,
+    "prepTime": null,
+    "cookTime": null,
+    "performTime": null,
+    "description": "",
+    "recipeCategory": [
+        {
+            "id": "5b7f4cd2-5d0e-440e-8e88-64ad06d1aad1",
+            "name": "entree",
+            "slug": "entree"
+        }
+    ],
+    "tags": [
+        {
+            "id": "e1c1c1a2-7783-4dc2-979e-a6f35e1c17e9",
+            "name": "Needs Pic",
+            "slug": "needs-pic"
+        }
+    ],
+    "tools": [],
+    "rating": 3.0,
+    "orgURL": null,
+    "dateAdded": "2024-05-02",
+    "dateUpdated": "2024-05-02T12:39:27.360718",
+    "createdAt": "2024-05-02T01:31:14.128109",
+    "updateAt": "2024-05-02T12:39:27.363161",
+    "lastMade": null,
+    "recipeIngredient": [
+        {
+            "quantity": 0.75,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "e4b1aec5-079c-4af6-b03f-a7085cdabe00",
+                "name": "basmati rice",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "aliases": [],
+                "label": {
+                    "name": "Pasta",
+                    "color": "#cd1652",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8"
+                },
+                "createdAt": "2024-04-30T12:26:35.222517",
+                "updateAt": "2024-04-30T20:29:11.306008"
+            },
+            "note": "uncooked",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b3/\u2084 cup basmati rice uncooked",
+            "title": "",
+            "originalText": "0.75 cup uncooked basmati rice",
+            "referenceId": "d73b84d6-cb23-4332-8876-6cdb3729d642"
+        },
+        {
+            "quantity": 0.5,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "4643f54f-dd32-473a-bd10-b100dfafceba",
+                "name": "adobo",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-27T02:32:07.257395",
+                "updateAt": "2024-04-27T03:03:54.880978"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 tsp adobo",
+            "title": "",
+            "originalText": "0.5 teaspoon adobo",
+            "referenceId": "2e1ffacb-a7f3-4141-b0e5-4beb8cce20e4"
+        },
+        {
+            "quantity": 0.25,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "35dfd6bb-be59-4d4d-bdf8-868e5a0d812c",
+                "name": "turmeric",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-05-02T12:38:22.732636",
+                "updateAt": "2024-05-03T12:48:40.299272"
+            },
+            "note": "ground",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2084 tsp turmeric ground",
+            "title": "",
+            "originalText": "0.25 teaspoon ground turmeric",
+            "referenceId": "d6f07303-d35d-4e21-b5d7-25bb9c297a33"
+        },
+        {
+            "quantity": 0.5,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "f1ce82c9-b0f0-403b-b720-a6bced3d1159",
+                "name": "peas",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": null,
+                "aliases": [],
+                "label": null,
+                "createdAt": "2024-04-26T19:32:40.898472",
+                "updateAt": "2024-04-26T19:32:40.898476"
+            },
+            "note": "frozen petite",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 cup peas frozen petite",
+            "title": "",
+            "originalText": "0.5 cup frozen petite peas",
+            "referenceId": "4cdf658b-7baf-40b6-acf4-83c1b41effd5"
+        },
+        {
+            "quantity": 0.5,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "0222bfb1-ae68-43a4-9dc4-e5c114f62d04",
+                "name": "peanuts",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-27T11:43:15.621098",
+                "updateAt": "2024-04-27T11:48:11.812361"
+            },
+            "note": "dry roasted",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 cup peanuts dry roasted",
+            "title": "",
+            "originalText": "0.5 cup dry roasted peanuts",
+            "referenceId": "20620b8c-47c9-407b-81e4-1b49c2daf86c"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "74dd9cae-92a6-4ff9-a7fe-3d6d43ab13fb",
+            "title": "",
+            "text": "Mix the rice, water, salt, and turmeric in a pot, and bring to a boil. Cover, reduce heat to low, and simmer 20 minutes.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "acdf9921-4cfd-46be-9e7c-f52bc9f77fc8",
+            "title": "",
+            "text": "Stir the peas and peanuts into the cooked rice to serve.",
+            "ingredientReferences": []
+        }
+    ],
+    "nutrition": {
+        "calories": null,
+        "fatContent": null,
+        "proteinContent": null,
+        "carbohydrateContent": null,
+        "fiberContent": null,
+        "sodiumContent": null,
+        "sugarContent": null
+    },
+    "settings": {
+        "public": true,
+        "showNutrition": false,
+        "showAssets": false,
+        "landscapeView": false,
+        "disableComments": false,
+        "disableAmount": false,
+        "locked": false
+    },
+    "assets": [],
+    "notes": [
+        {
+            "title": "2014-04-20",
+            "text": "Had two cups of left over rice.  Fried with a bit of olive oil and all the rest of the ingredients.  Added additional water to re-hydrate the rice.\n"
+        }
+    ],
+    "extras": {},
+    "comments": []
+}

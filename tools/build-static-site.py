@@ -133,13 +133,18 @@ def get_search_tokens(recipe):
 
     tokens = [clean(x) for x in tokens]
 
+    try:
+        int_rating = int(recipe["rating"] if recipe["rating"] else 0)
+    except ValueError:
+        int_rating = 0
+
     return {
         "id": recipe["slug"],
         "name": recipe["name"],
         "search_tokens": " ".join([t for t in tokens if t]),
         "tags": tags,
         "categories": categories,
-        "rating": recipe["rating"] if recipe["rating"] else 0,
+        "display_stars": "★" * int_rating + "☆" * (5 - int_rating),
     }
 
 
@@ -147,6 +152,7 @@ def make_index(slugs):
     recipes = []
     for slug in slugs:
         recipe = get_recipe(slug)
+        (DEST / (slug + ".json")).write_text(json.dumps(recipe, indent=4))
         print(json.dumps(recipe, indent=4))
         if "shopping" in [c["name"].lower() for c in recipe["recipeCategory"]]:
             continue

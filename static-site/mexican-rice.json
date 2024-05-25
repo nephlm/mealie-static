@@ -1,0 +1,354 @@
+{
+    "id": "940f0c85-756d-4a9f-a858-13ddcb53b8ef",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "name": "Mexican Rice",
+    "slug": "mexican-rice",
+    "image": null,
+    "recipeYield": "2",
+    "totalTime": null,
+    "prepTime": "5 min",
+    "cookTime": null,
+    "performTime": "20 min",
+    "description": "",
+    "recipeCategory": [
+        {
+            "id": "5b7f4cd2-5d0e-440e-8e88-64ad06d1aad1",
+            "name": "entree",
+            "slug": "entree"
+        }
+    ],
+    "tags": [],
+    "tools": [],
+    "rating": 2.0,
+    "orgURL": "https://www.allrecipes.com/recipe/27072/mexican-rice-ii/",
+    "dateAdded": "2024-04-30",
+    "dateUpdated": "2024-05-25T12:13:54.798869",
+    "createdAt": "2024-04-30T01:36:39.390630",
+    "updateAt": "2024-05-25T12:13:54.801277",
+    "lastMade": null,
+    "recipeIngredient": [
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tbsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253",
+                "updateAt": "2024-05-13T12:27:59.862809"
+            },
+            "food": {
+                "id": "75f848c8-5343-4c80-a97c-74f48aa7b681",
+                "name": "olive oil",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
+                "aliases": [],
+                "label": {
+                    "name": "Oil",
+                    "color": "#e89eb9",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "046d1084-5c4a-4f9f-8695-c38791043125"
+                },
+                "createdAt": "2024-04-26T19:32:30.465893",
+                "updateAt": "2024-04-27T03:15:40.768294"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 tbsp olive oil",
+            "title": "",
+            "originalText": "2.0 tablespoon olive oil",
+            "referenceId": "94ebfe2d-37d0-42d0-84a2-3a903adb9872"
+        },
+        {
+            "quantity": 0.0,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "e4b1aec5-079c-4af6-b03f-a7085cdabe00",
+                "name": "basmati rice",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "aliases": [],
+                "label": {
+                    "name": "Pasta",
+                    "color": "#cd1652",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8"
+                },
+                "createdAt": "2024-04-30T12:26:35.222517",
+                "updateAt": "2024-04-30T20:29:11.306008"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "basmati rice",
+            "title": "",
+            "originalText": "0.75 cup basmati rice",
+            "referenceId": "63c880b0-d0e0-49e3-a69c-5c6bac275d3c"
+        },
+        {
+            "quantity": 0.25,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "4643f54f-dd32-473a-bd10-b100dfafceba",
+                "name": "adobo",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-27T02:32:07.257395",
+                "updateAt": "2024-04-27T03:03:54.880978"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2084 tsp adobo",
+            "title": "",
+            "originalText": "0.25 teaspoon adobo",
+            "referenceId": "64613397-6676-4556-a8d1-d4db4393fd16"
+        },
+        {
+            "quantity": 0.5,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "a7b69d57-bb2c-4d34-936c-c6ea7b5ec994",
+                "name": "cumin",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:22.629248",
+                "updateAt": "2024-04-27T03:19:03.874657"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 tsp cumin",
+            "title": "",
+            "originalText": "0.5 teaspoon cumin",
+            "referenceId": "1b3a6799-e501-436c-87c6-2e66c80d3b03"
+        },
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tbsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253",
+                "updateAt": "2024-05-13T12:27:59.862809"
+            },
+            "food": {
+                "id": "1e397cd3-35eb-4c64-b8cf-b40dfc61cd0b",
+                "name": "onion",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "aliases": [],
+                "label": {
+                    "name": "Frozen Foods",
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726"
+                },
+                "createdAt": "2024-04-26T19:32:21.362752",
+                "updateAt": "2024-04-27T03:18:52.550301"
+            },
+            "note": "dried",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 tbsp onion dried",
+            "title": "",
+            "originalText": "2.0 tablespoon dried onions",
+            "referenceId": "9631c23e-5c04-4998-ac74-9c52685506c0"
+        },
+        {
+            "quantity": 0.25,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "a24308d7-7f7e-4a36-b11f-be495896103d",
+                "name": "tomato sauce",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "aliases": [],
+                "label": {
+                    "name": "Pasta",
+                    "color": "#cd1652",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8"
+                },
+                "createdAt": "2024-04-30T12:14:03.830266",
+                "updateAt": "2024-04-30T20:29:18.664070"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2084 cup tomato sauce",
+            "title": "",
+            "originalText": "0.25 cup tomato sauce",
+            "referenceId": "37c20080-7d9c-4c18-b475-8a0cbd16d22d"
+        },
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "c7a85ae8-3c6f-4bd1-9162-f425edd8c23a",
+                "name": "chicken broth",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-29T12:55:48.093285",
+                "updateAt": "2024-04-30T01:54:19.435207"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 cups chicken broth",
+            "title": "",
+            "originalText": "2.0 cups chicken broth",
+            "referenceId": "1b3b2f3e-9eaf-42b4-a85b-a9bebd41f3e1"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "b50dffb1-2d70-4ff6-97fa-85299f1e8691",
+            "title": "",
+            "text": "* Cook rice 1 min in olive oil, stirring\n* Transfer rice and add everything else to rice cooker\n* Cook\n",
+            "ingredientReferences": []
+        }
+    ],
+    "nutrition": {
+        "calories": null,
+        "fatContent": null,
+        "proteinContent": null,
+        "carbohydrateContent": null,
+        "fiberContent": null,
+        "sodiumContent": null,
+        "sugarContent": null
+    },
+    "settings": {
+        "public": true,
+        "showNutrition": false,
+        "showAssets": false,
+        "landscapeView": false,
+        "disableComments": false,
+        "disableAmount": false,
+        "locked": false
+    },
+    "assets": [],
+    "notes": [
+        {
+            "title": "",
+            "text": "This is rated poorly, because I don't make it, I have not recollection if it was good or not.\n\n---\n\nAdd a touch extra water to the rice.\n\nOnion should be 1/2 cup equivalent\n\nOriginal recipe called for 1/2 cup tomato sauce, 1/4 onion, 1 tsp garlic salt."
+        }
+    ],
+    "extras": {},
+    "comments": []
+}

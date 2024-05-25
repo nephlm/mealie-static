@@ -1,0 +1,919 @@
+{
+    "id": "945f38af-2053-480e-8b6f-af4f0e9e0deb",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "name": "Cha Cha's White Chicken Chili",
+    "slug": "cha-cha-s-white-chicken-chili",
+    "image": null,
+    "recipeYield": "8",
+    "totalTime": null,
+    "prepTime": "20 min",
+    "cookTime": null,
+    "performTime": "5 hours",
+    "description": "",
+    "recipeCategory": [
+        {
+            "id": "5b7f4cd2-5d0e-440e-8e88-64ad06d1aad1",
+            "name": "entree",
+            "slug": "entree"
+        }
+    ],
+    "tags": [
+        {
+            "id": "f9b7cd7b-6c65-4e58-bc79-42520f72b77c",
+            "name": "Southwestern",
+            "slug": "southwestern"
+        }
+    ],
+    "tools": [],
+    "rating": 4.0,
+    "orgURL": "http://allrecipes.com/recipe/cha-chas-white-chicken-chili/detail.aspx",
+    "dateAdded": "2024-04-27",
+    "dateUpdated": "2024-04-27T03:34:40.172753",
+    "createdAt": "2024-04-27T02:20:27.433806",
+    "updateAt": "2024-04-27T03:01:54.025325",
+    "lastMade": null,
+    "recipeIngredient": [
+        {
+            "quantity": 3.0,
+            "unit": {
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tbsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253",
+                "updateAt": "2024-05-13T12:27:59.862809"
+            },
+            "food": {
+                "id": "75f848c8-5343-4c80-a97c-74f48aa7b681",
+                "name": "olive oil",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
+                "aliases": [],
+                "label": {
+                    "name": "Oil",
+                    "color": "#e89eb9",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "046d1084-5c4a-4f9f-8695-c38791043125"
+                },
+                "createdAt": "2024-04-26T19:32:30.465893",
+                "updateAt": "2024-04-27T03:15:40.768294"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "3 tbsp olive oil",
+            "title": "Roux",
+            "originalText": "3 tablespoon olive oil",
+            "referenceId": "bc011a67-131a-404a-9da8-f5b9461e4c2c"
+        },
+        {
+            "quantity": 3.0,
+            "unit": {
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tbsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253",
+                "updateAt": "2024-05-13T12:27:59.862809"
+            },
+            "food": {
+                "id": "c19cfcd8-10d0-464b-9b65-e6c8d757db8f",
+                "name": "flour",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-26T19:32:07.611040",
+                "updateAt": "2024-04-27T03:20:02.944168"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "3 tbsp flour",
+            "title": "",
+            "originalText": "3 tablespoon flour",
+            "referenceId": "e57658e9-f4da-425e-91fb-76105b333066"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "d9a322c3-fd8e-4b39-809f-abcbd76b8062",
+                "name": "water",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": null,
+                "aliases": [],
+                "label": null,
+                "createdAt": "2024-04-27T02:31:21.445759",
+                "updateAt": "2024-04-27T03:05:36.520887"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 cup water",
+            "title": "",
+            "originalText": "1 cup water",
+            "referenceId": "656727f2-0d36-49d4-9341-adecd10d2fa7"
+        },
+        {
+            "quantity": 3.0,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "d9a322c3-fd8e-4b39-809f-abcbd76b8062",
+                "name": "water",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": null,
+                "aliases": [],
+                "label": null,
+                "createdAt": "2024-04-27T02:31:21.445759",
+                "updateAt": "2024-04-27T03:05:36.520887"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "3 cups water",
+            "title": "Base",
+            "originalText": "3 cups water",
+            "referenceId": "0faa3e2d-0b01-47b7-827a-fe2111368245"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "900abf67-7a16-40fa-bcab-e6ea1d80b634",
+                "name": "better than boullion",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-27T02:31:47.639314",
+                "updateAt": "2024-04-27T03:05:13.208553"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 tsp better than boullion",
+            "title": "",
+            "originalText": "1 teaspoon better than boullion",
+            "referenceId": "70354b2c-ea02-4b6d-96bb-b4785c381c87"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "b7e8f8b8-19f9-4e20-9783-f90d8aa54bb8",
+                "name": "milk",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "aliases": [],
+                "label": {
+                    "name": "Dairy Products",
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f"
+                },
+                "createdAt": "2024-04-26T19:32:20.019954",
+                "updateAt": "2024-04-27T03:18:41.120456"
+            },
+            "note": "dried",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 tsp milk dried",
+            "title": "",
+            "originalText": "1 teaspoon dried milk",
+            "referenceId": "b5ada9f4-ccf1-4000-946e-13b9370e5b88"
+        },
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "a7b69d57-bb2c-4d34-936c-c6ea7b5ec994",
+                "name": "cumin",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:22.629248",
+                "updateAt": "2024-04-27T03:19:03.874657"
+            },
+            "note": "ground",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 tsp cumin ground",
+            "title": "Spices",
+            "originalText": "2 teaspoon ground cumin",
+            "referenceId": "2701bdef-bbf5-412f-aced-d18bdb36eba8"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "26f561cf-9bea-435b-9348-8ddd9cf0590b",
+                "name": "oregano",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:48.559994",
+                "updateAt": "2024-04-27T03:06:37.316798"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 tsp oregano",
+            "title": "",
+            "originalText": "1 teaspoon oragano",
+            "referenceId": "865b8112-b59e-4f26-af1d-88ac073ddc45"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "587cccf7-b102-46d0-a598-acb38cb2de8c",
+                "name": "cayenne pepper",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:38.727699",
+                "updateAt": "2024-04-27T03:08:25.782853"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 tsp cayenne pepper",
+            "title": "",
+            "originalText": "1 teaspoon cayenne pepper",
+            "referenceId": "dbe28fa2-33a1-472f-8c22-d4433c1661de"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "4643f54f-dd32-473a-bd10-b100dfafceba",
+                "name": "adobo",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-27T02:32:07.257395",
+                "updateAt": "2024-04-27T03:03:54.880978"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 tsp adobo",
+            "title": "",
+            "originalText": "1 teaspoon adobo",
+            "referenceId": "a4faedde-4cf2-4e05-b259-638fea567262"
+        },
+        {
+            "quantity": 0.5,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "b23ef96b-f10d-48a0-87e6-63e1ff9b111e",
+                "name": "pepper",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [
+                    {
+                        "name": "black pepper"
+                    }
+                ],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:43.184271",
+                "updateAt": "2024-04-27T03:08:33.535970"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 tsp pepper",
+            "title": "",
+            "originalText": "1/2 teaspoon black pepper",
+            "referenceId": "9e67a0ac-4030-4736-b9a0-51e596d93def"
+        },
+        {
+            "quantity": 0.25,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "b7e58727-a301-4681-9512-6a36c7e00f23",
+                "name": "sage",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-27T02:32:56.236727",
+                "updateAt": "2024-04-27T03:04:24.921090"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2084 tsp sage",
+            "title": "",
+            "originalText": "1/4 teaspoon sage",
+            "referenceId": "64ca42ba-6257-4115-9cea-d9354e11bfaf"
+        },
+        {
+            "quantity": 0.25,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "608f04ed-6723-4ca0-b3ee-8f39da829a55",
+                "name": "thyme",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-27T02:33:03.731832",
+                "updateAt": "2024-04-27T03:04:18.346868"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2084 tsp thyme",
+            "title": "",
+            "originalText": "1/4 teaspoon thyme",
+            "referenceId": "a86bf6f8-9397-4553-b2ca-e61af8b12921"
+        },
+        {
+            "quantity": 4.0,
+            "unit": {
+                "id": "f860cec4-a431-41b7-8ddc-0035e4be52c2",
+                "name": "clove",
+                "pluralName": "cloves",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:12.511215",
+                "updateAt": "2024-05-13T12:25:56.749590"
+            },
+            "food": {
+                "id": "fd860af3-2047-4ffc-be87-65cbeb97ce1e",
+                "name": "garlic",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:35.923453",
+                "updateAt": "2024-04-27T03:14:08.683777"
+            },
+            "note": "crushed",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "4 cloves garlic crushed",
+            "title": "",
+            "originalText": "4 cloves garlic (crushed)",
+            "referenceId": "910144aa-e338-4717-a944-73b228be33d6"
+        },
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "94661c62-5523-4f5c-aa77-b8a7536ef03b",
+                "name": "can",
+                "pluralName": "cans",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:12.664803",
+                "updateAt": "2024-05-13T12:25:48.960493"
+            },
+            "food": {
+                "id": "bab521c8-386b-4f30-a6de-a4f2874353c1",
+                "name": "green chili peppers",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-27T02:33:23.266179",
+                "updateAt": "2024-04-27T03:05:03.254621"
+            },
+            "note": "4 ounce cans",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 cans green chili peppers 4 ounce cans",
+            "title": "Bulk",
+            "originalText": "2 cans chopped green chili peppers (4 ounce cans)",
+            "referenceId": "cd45333d-fd24-4d30-9568-2bd8053273da"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
+                "name": "pound",
+                "pluralName": "pounds",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "lb",
+                "pluralAbbreviation": "lbs",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.726674",
+                "updateAt": "2024-05-02T12:28:24.776546"
+            },
+            "food": {
+                "id": "1c6ed8a1-a9c9-4c1b-b23e-6c2fc952324c",
+                "name": "great northern beans",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-27T02:34:11.491460",
+                "updateAt": "2024-04-27T03:04:53.759860"
+            },
+            "note": "(cooked, dry weight)",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 lb great northern beans (cooked, dry weight)",
+            "title": "",
+            "originalText": "1 lbs white beans (cooked, dry weight)",
+            "referenceId": "c959a065-415a-45b2-a71e-65508bc30494"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "237f6be2-5e4b-4583-8e04-c9e298c3ac21",
+                "name": "bag",
+                "pluralName": "bags",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-27T02:34:36.952058",
+                "updateAt": "2024-05-13T12:25:27.496645"
+            },
+            "food": {
+                "id": "1e397cd3-35eb-4c64-b8cf-b40dfc61cd0b",
+                "name": "onion",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "aliases": [],
+                "label": {
+                    "name": "Frozen Foods",
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726"
+                },
+                "createdAt": "2024-04-26T19:32:21.362752",
+                "updateAt": "2024-04-27T03:18:52.550301"
+            },
+            "note": "frozen",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 bag onion frozen",
+            "title": "",
+            "originalText": "1 bag frozen onion",
+            "referenceId": "596f9a23-7848-455b-bb9f-5ea1f02d962b"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
+                "name": "pound",
+                "pluralName": "pounds",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "lb",
+                "pluralAbbreviation": "lbs",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.726674",
+                "updateAt": "2024-05-02T12:28:24.776546"
+            },
+            "food": {
+                "id": "cc1820ef-425f-43d7-9407-f221279897ba",
+                "name": "chicken",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
+                "aliases": [],
+                "label": {
+                    "name": "Meat",
+                    "color": "#be2f02",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "13258664-db75-4091-a629-d51f0a89797c"
+                },
+                "createdAt": "2024-04-27T02:34:58.638668",
+                "updateAt": "2024-04-27T03:04:42.786511"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 lb chicken",
+            "title": "",
+            "originalText": "1 pound chicken",
+            "referenceId": "707f1a53-bca4-4f70-9bed-f9c928fafcae"
+        },
+        {
+            "quantity": 0.5,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "93823d8d-484a-4a6d-a490-a294850751d8",
+                "name": "corn",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "aliases": [],
+                "label": {
+                    "name": "Frozen Foods",
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726"
+                },
+                "createdAt": "2024-04-26T19:32:27.197666",
+                "updateAt": "2024-04-27T03:18:01.905846"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 cup corn",
+            "title": "Finish",
+            "originalText": "1/2 cup corn",
+            "referenceId": "2c084819-0f7f-4169-b41d-f236fe8871cf"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "cda8485d-c439-40df-8a19-3a97c4511ab7",
+                "name": "cheese",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "aliases": [],
+                "label": {
+                    "name": "Dairy Products",
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f"
+                },
+                "createdAt": "2024-04-26T19:32:26.395935",
+                "updateAt": "2024-04-27T03:17:53.832874"
+            },
+            "note": "(shredded, mexican blend)",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 cup cheese (shredded, mexican blend)",
+            "title": "Garnish",
+            "originalText": "1 cup shredded cheese",
+            "referenceId": "262c204c-6470-48bf-96a2-53d2e430a45d"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "3c58ad08-4c34-49d0-9259-3a4d854f330b",
+            "title": "",
+            "text": "Make Roux:\n\nPut oil in a small pot over med heat, when warm add flour, and mix constantly (I use a whisk).  When it starts durning golden, add water and keep stiring until it thickens.  Take it off the heat, it's done. \n\n",
+            "ingredientReferences": []
+        },
+        {
+            "id": "43a09366-9eff-4c39-b71e-b2fda3bce75e",
+            "title": "",
+            "text": "Dry Beans:\nBoil for 3+ minutes then either continue boiling or strain and put in slow cooker until desired firmness.  Strain when done.   Can also be replaced with 45oz of canned great northern beans.  (This will add a lot of salt, so consider lowering the amount of adobo).\n\nBetter than bouillon can be dropped by replacing all water with chicken stock.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "ecde9ae4-52ba-41b5-ae3f-6af49cd2959a",
+            "title": "",
+            "text": "Slow Cooker:\n\n* Prepare base in slow cooker\n* Make roux and add to base, mix until smooth\n* Add spices to slow cooker, mix\n* Add bulk items,  (for frozen onions cook them in the roux pot for 10ish minutes to soften them up)\n* Cook for 5 hours\n\n* Add finish items and shred chicken.\n* Add corn.\n* Cook for additional hour.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "1185dc23-9f93-4939-b828-4515118911ed",
+            "title": "",
+            "text": "Stove top:\n\n* Cook onions over med-low heat in large pot until they're done.  (With frozen onions you might want to cook hit them with high heat at first to get them going and boil off the liquid.)  Add the spices while the onions are cooking.\n\n* Cut the chicken up and add it and everything but the cheese.  Bring it to a simmer for 20+ minutes.  ",
+            "ingredientReferences": []
+        },
+        {
+            "id": "da356e22-3ee9-430d-ae9f-cdd04e7ed5dd",
+            "title": "",
+            "text": "Serve:\n\n* Top with shredded mexican blend cheese (or probably whatever else you've got around) while serving.",
+            "ingredientReferences": []
+        }
+    ],
+    "nutrition": {
+        "calories": null,
+        "fatContent": null,
+        "proteinContent": null,
+        "carbohydrateContent": null,
+        "fiberContent": null,
+        "sodiumContent": null,
+        "sugarContent": null
+    },
+    "settings": {
+        "public": true,
+        "showNutrition": false,
+        "showAssets": false,
+        "landscapeView": false,
+        "disableComments": false,
+        "disableAmount": false,
+        "locked": false
+    },
+    "assets": [],
+    "notes": [
+        {
+            "title": "Old Junk",
+            "text": "   Heat the oil in a large saucepan over medium-low heat. Slowly cook and stir the onion until tender. Mix in the garlic, jalapeno, green chile peppers, cumin, oregano and cayenne. Continue to cook and stir the mixture until tender, about 3 minutes. Mix in the chicken broth, chicken and white beans. Simmer 15 minutes, stirring occasionally.  \n   \nRemove the mixture from heat. Slowly stir in the cheese until melted. Serve warm.   \n  \n Nutritional Information\n \n Cha Cha's White Chicken Chili \n Servings Per Recipe: 4\n Amount Per Serving\n Calories: 706\n  Total Fat:  18.2g \n  Cholesterol:  97mg \n  Sodium:  1902mg \n  Total Carbs:  77g \n  \u00a0\u00a0\u00a0\u00a0Dietary Fiber:  17.1g \n  Protein:  60g"
+        },
+        {
+            "title": "2014-02-10",
+            "text": "Slow cooker, used dry beans and replacement cream of.  (1/2 tsp better than bool, tsp dried milk, 3 tbsp olive oil, 3 tbsp flour 1/4 tsp sage, thyme, onion powder, garlic powder, pinch of adobo)\nRemoved about 5955mg of sodium, added 1 tsp of adobo (1400mg of sodium)\nJust threw everything in the slow cooker on high for 5-6 hours\nMay need a little more water, waiting for everything to warm up to see if more gets released by frozen stuff. (added +1 cup to a total of 3)"
+        },
+        {
+            "title": "Comments",
+            "text": " SELENEJC\u00a0\n Jan. 28, 2007\n  \n This is a great recipe. Based on my preferences and from previous feedback, I made some modifications. My husband and I like spicy food but I found this recipe as is is a little too spicy. I only use a 1/2 of the jalape\u00f1os and cayenne pepper. I use 2 cans of the green chilies. I wanted my chili a little thicker so I pureed one can of the white beans and only used 2 cups of chicken broth. I also added a can of black beans and a can of corn. And finally since the cheese adds a lot of fat, rather than mixing it all in, I just sprinkle a little on top before eating. This is really delicious. Everyone I serve it too raves about it.\n \n \n DREGINEK\u00a0\n Sep. 10, 2003\n \n We loved this recipe but it is soooooo hot! Per a previous review, I cut down to 2 cans of beans, and only used 1/4 tsp of cayene pepper and added some sour cream to cool it down but still...HOT! I will make again but I will eliminate the jalapeno peppers altogether (I'm not a huge fan of them anyways), cut the cumin down to 1 tsp and omit all cayenne pepper. Really, the taste is fabulous...if your not weak of tongue. I was practically sweating just eating a bowl! Still, will make again with my alterations.\n \n Food assembler\u00a0\n Feb. 18, 2009\n \n First of all Excellent the tase is quite unique. Two helpful hints. I put everything together before I even turned on the flame on my big pot. Also I put the cheese in last so that it would not burn on the bottom of the pot. Made it both ways and frankly both ways turned out the same with the surprise when you eat it the next day. WOW!\n\n HAWESA\u00a0\n Jun. 9, 2008\n \n I added a can of corn, used a can of cream of chicken in place of one can of chicken broth, used all mild green chilies instead of jalapenos (it came out perfectly spiced), and threw everything into the crockpot on high for 4 hours. I hand-shredded the chicken at the end and put it back in. Delicious! Oh, and I also pureed one can of the white beans and that really helped to thicken things up.\n \n MASKSOFNOH\u00a0\n Oct. 16, 2002\n \n This is the BEST chili! By far my new favorite. It's the perfect amount of spice, very warm! I used pepperjack cheese and replaced 1 can of white beans with black beans. I added 1/2 c. sour cream at the end and topped with tomatoes. This is absolutely wonderful chili, thanks for a GREAT recipe!\n \n LADYJAYPEE\u00a0\n Jun. 4, 2006\n \n This is SO good! I just made it and am waiting for my husband to get home; if he doesn't hurry, it will be too late. :-) We like hot spicey foods, but we don't like it so overpowering that the heat takes over the flavor. SO! I used only 2 tablespoons of the jalapenos and chopped them up very finely so they would be well-distributed throughout the dish. I also used 1/4 tsp of cayenne pepper. This is perfect seasoning for us. I also only put in one can of chicken broth on the advice of other reviewers, and I added a 4th can of beans to thicken it up a bit. Thank you, Cathy! It is great!\n \n twins596\u00a0\n Jan. 8, 2007\n \n This soup is nothing short of awesome. My husband raved about this soup for 2 days. I did brown the cooked chicken w/ the onions, didn't have white beans, just used 1 can navy beans & 1 can dark red kidney beans, added some frozen corn and 1 can of cream of chicken. Then, since it was EXTREMELY spicy (quite a kick) and sort of thin, I added some diced potatoes to absorb some of the broth and \"kick\". My husband was getting it out of the pot before I even added the cheese, which I'm sure is just as good sprinkled on top later. This recipe really surprised me on how it tasted like something you would get @ a pricey restaurant. It smells really good when cooking and would be an awesome soup to serve @ a party (and impress your guests). Way to go!\n\n PYTNPLACE\u00a0\n Jan. 10, 2004\n \n Yum!! We loved this recipe. Made some changes. Used one pound all white meat ground turkey and 2 skinless, boned chicken breasts diced. Cooked the meat together with the seasonings. Added some chili powder to the seasoning. Reduced the cayenne to 1/8 teaspoon. To further lower fat I skipped the cheese and put 1/2 can beans in food processor and used this to thicken. Garnishes on side to use as desired were: cheese, tortilla chips, sour cream, salsa and red onion. Warms your tummy in this very chilly winter!\n \n Jeanette\u00a0\n Jan. 10, 2004\n \n OH MY GOSH! This was great!!! I used skinless, boneless chicken tenders instead of the cooked chicken. I sauted them until they were no longer pink, then added the onions, fresh garlic, chiles, and spices to the same saute pan...Then I dumped everything into a big stew pot, and simmered it for an hour or so. I also added about 2 tsps of Chili Powder, and substituted shredded Colby/Jack cheese...This recipe got rave reviews from everyone! I served it with warm flour tortillas, and a huge salad. YUM! Will make this again!."
+        }
+    ],
+    "extras": {},
+    "comments": []
+}

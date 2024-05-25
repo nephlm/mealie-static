@@ -1,0 +1,558 @@
+{
+    "id": "930d6c1c-bd21-40a8-a382-ec8ac9859d9c",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "name": "Chorizo-Cod-Potato Stew",
+    "slug": "chorizo-cod-potato-stew",
+    "image": null,
+    "recipeYield": "4 servings",
+    "totalTime": null,
+    "prepTime": "15 min",
+    "cookTime": null,
+    "performTime": "30 min",
+    "description": "Rachal Ray \"Express lane meals\"",
+    "recipeCategory": [
+        {
+            "id": "5b7f4cd2-5d0e-440e-8e88-64ad06d1aad1",
+            "name": "entree",
+            "slug": "entree"
+        }
+    ],
+    "tags": [
+        {
+            "id": "e1c1c1a2-7783-4dc2-979e-a6f35e1c17e9",
+            "name": "Needs Pic",
+            "slug": "needs-pic"
+        }
+    ],
+    "tools": [],
+    "rating": 4.0,
+    "orgURL": null,
+    "dateAdded": "2024-04-29",
+    "dateUpdated": "2024-05-25T12:12:13.619527",
+    "createdAt": "2024-04-29T18:14:18.651359",
+    "updateAt": "2024-04-30T00:25:49.352314",
+    "lastMade": null,
+    "recipeIngredient": [
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tbsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253",
+                "updateAt": "2024-05-13T12:27:59.862809"
+            },
+            "food": {
+                "id": "75f848c8-5343-4c80-a97c-74f48aa7b681",
+                "name": "olive oil",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
+                "aliases": [],
+                "label": {
+                    "name": "Oil",
+                    "color": "#e89eb9",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "046d1084-5c4a-4f9f-8695-c38791043125"
+                },
+                "createdAt": "2024-04-26T19:32:30.465893",
+                "updateAt": "2024-04-27T03:15:40.768294"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 tbsp olive oil",
+            "title": "",
+            "originalText": "2.0 tablespoon olive oil",
+            "referenceId": "7a7bed36-90a3-43f9-9d2e-a1b060cbeb75"
+        },
+        {
+            "quantity": 0.5,
+            "unit": {
+                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
+                "name": "pound",
+                "pluralName": "pounds",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "lb",
+                "pluralAbbreviation": "lbs",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.726674",
+                "updateAt": "2024-05-02T12:28:24.776546"
+            },
+            "food": {
+                "id": "607bad3b-3ca7-49bc-92e0-678b6cfa793d",
+                "name": "chorizo",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
+                "aliases": [],
+                "label": {
+                    "name": "Meat",
+                    "color": "#be2f02",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "13258664-db75-4091-a629-d51f0a89797c"
+                },
+                "createdAt": "2024-04-30T00:20:24.913261",
+                "updateAt": "2024-04-30T01:50:28.619078"
+            },
+            "note": "or andouille sausage, thinly sliced",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 lb chorizo or andouille sausage, thinly sliced",
+            "title": "",
+            "originalText": "0.5 pound chorizo (or andouille sausage), thinly sliced",
+            "referenceId": "46f9e3d9-6a80-4640-be24-f5c59abe66f1"
+        },
+        {
+            "quantity": 5.0,
+            "unit": null,
+            "food": {
+                "id": "37832f9d-9a7f-46ba-8008-318e4b203c17",
+                "name": "potatoes",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "aliases": [],
+                "label": {
+                    "name": "Produce",
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
+                },
+                "createdAt": "2024-04-26T19:32:39.537591",
+                "updateAt": "2024-04-26T19:51:52.650876"
+            },
+            "note": "red or white boiling, cut in quarters",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "5 potatoes red or white boiling, cut in quarters",
+            "title": "",
+            "originalText": "5.0 red (or white boiling potatoes), cut quarters and thinly sliced",
+            "referenceId": "13d7e4f3-9d7e-4cb6-9785-656ec6cefa0e"
+        },
+        {
+            "quantity": 1.0,
+            "unit": null,
+            "food": {
+                "id": "1e397cd3-35eb-4c64-b8cf-b40dfc61cd0b",
+                "name": "onion",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "aliases": [],
+                "label": {
+                    "name": "Frozen Foods",
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726"
+                },
+                "createdAt": "2024-04-26T19:32:21.362752",
+                "updateAt": "2024-04-27T03:18:52.550301"
+            },
+            "note": "large, chopped",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 onion large, chopped",
+            "title": "",
+            "originalText": "1.0 large onion, chopped",
+            "referenceId": "5fe236c3-0f19-4d98-8ed3-4040b1d98764"
+        },
+        {
+            "quantity": 1.0,
+            "unit": null,
+            "food": {
+                "id": "a22ede96-a507-486e-89f5-fc2184062be4",
+                "name": "carrot",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "aliases": [],
+                "label": {
+                    "name": "Produce",
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
+                },
+                "createdAt": "2024-04-26T19:32:36.805146",
+                "updateAt": "2024-04-27T03:14:32.053074"
+            },
+            "note": "peeled, cut in half and sliced into half moons",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 carrot peeled, cut in half and sliced into half moons",
+            "title": "",
+            "originalText": "1.0 carrot, peeled, cut in half and sliced into half moons",
+            "referenceId": "4fbee06d-0b1c-4a64-85fb-b0c996849feb"
+        },
+        {
+            "quantity": 4.0,
+            "unit": {
+                "id": "f860cec4-a431-41b7-8ddc-0035e4be52c2",
+                "name": "clove",
+                "pluralName": "cloves",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:12.511215",
+                "updateAt": "2024-05-13T12:25:56.749590"
+            },
+            "food": {
+                "id": "fd860af3-2047-4ffc-be87-65cbeb97ce1e",
+                "name": "garlic",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:35.923453",
+                "updateAt": "2024-04-27T03:14:08.683777"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "4 cloves garlic",
+            "title": "",
+            "originalText": "4.0 garlic gloves",
+            "referenceId": "94ef9bd8-bb93-49fe-adff-b7002e21131f"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "bac186a1-4e3a-4946-9ce2-1b9c25cacb68",
+                "name": "white wine",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "c952206c-6772-4f43-a09c-b2a584fb9ea2",
+                "aliases": [],
+                "label": {
+                    "name": "Other",
+                    "color": "#E0E0E0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "c952206c-6772-4f43-a09c-b2a584fb9ea2"
+                },
+                "createdAt": "2024-04-30T00:22:09.885352",
+                "updateAt": "2024-04-30T01:52:17.646460"
+            },
+            "note": "dry",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 cup white wine dry",
+            "title": "",
+            "originalText": "1.0 cup dry white wine",
+            "referenceId": "b6aecdc7-3e4a-498c-8dd0-d0ab7cd962db"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "94661c62-5523-4f5c-aa77-b8a7536ef03b",
+                "name": "can",
+                "pluralName": "cans",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:12.664803",
+                "updateAt": "2024-05-13T12:25:48.960493"
+            },
+            "food": {
+                "id": "05f9cc59-ae41-475e-acb3-7d541b8982f9",
+                "name": "diced fire roasted tomatoes",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": null,
+                "aliases": [],
+                "label": null,
+                "createdAt": "2024-05-25T12:12:02.695435",
+                "updateAt": "2024-05-25T12:12:02.695440"
+            },
+            "note": "14 oz",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 can diced fire roasted tomatoes 14 oz",
+            "title": "",
+            "originalText": "1.0 14 ounce can diced fire-roasted tomatoes",
+            "referenceId": "f7d5a422-35ea-4b7d-a620-1dec80b06a12"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "2070ce8c-85af-45c9-b4ef-22d8f0daa969",
+                "name": "quart",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "qt",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.054536",
+                "updateAt": "2024-05-13T12:27:39.303216"
+            },
+            "food": {
+                "id": "462fd00d-de38-44c4-9b93-67bc92f67b60",
+                "name": "chicken stock",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-30T00:23:10.560253",
+                "updateAt": "2024-04-30T01:51:01.014809"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 qt chicken stock",
+            "title": "",
+            "originalText": "1.0 quart chicken stock",
+            "referenceId": "78e02b8d-afba-44cb-9666-97ae60d63e59"
+        },
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "94661c62-5523-4f5c-aa77-b8a7536ef03b",
+                "name": "can",
+                "pluralName": "cans",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:12.664803",
+                "updateAt": "2024-05-13T12:25:48.960493"
+            },
+            "food": {
+                "id": "271defae-91f9-4f87-ae6b-c1413befc296",
+                "name": "roasted red pepper",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-30T00:24:04.240832",
+                "updateAt": "2024-04-30T01:51:39.540698"
+            },
+            "note": "chopped",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 cans roasted red pepper chopped",
+            "title": "",
+            "originalText": "2.0 jarred roasted red peppers, chopped",
+            "referenceId": "fa3ca33d-958e-46f3-98ac-3a000cde9a5b"
+        },
+        {
+            "quantity": 1.5,
+            "unit": {
+                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
+                "name": "pound",
+                "pluralName": "pounds",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "lb",
+                "pluralAbbreviation": "lbs",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.726674",
+                "updateAt": "2024-05-02T12:28:24.776546"
+            },
+            "food": {
+                "id": "3dc03f6d-e39b-471e-8d30-15b1b77bdb3c",
+                "name": "cod",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": null,
+                "aliases": [],
+                "label": null,
+                "createdAt": "2024-04-26T19:32:47.210932",
+                "updateAt": "2024-04-26T19:32:47.210935"
+            },
+            "note": "fresh, cut into 2 inch chunks",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 \u00b9/\u2082 lbs cod fresh, cut into 2 inch chunks",
+            "title": "",
+            "originalText": "1.5 pound fresh cod, cut into 2 inch chunks",
+            "referenceId": "a5704673-30dc-4318-b5ba-0139bf882c6c"
+        },
+        {
+            "quantity": 0.5,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "ba9ff18f-168d-4935-9979-90869bf67de6",
+                "name": "parsley",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:33.010244",
+                "updateAt": "2024-04-27T03:14:52.341690"
+            },
+            "note": "fresh flat-leaf, chopped",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 cup parsley fresh flat-leaf, chopped",
+            "title": "",
+            "originalText": "0.5 cup fresh flat-leaf parsley, chopped",
+            "referenceId": "b3cb5d06-8d14-43fe-b859-728d8bb11f09"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "53cb940c-65de-4155-943c-9cab38144dcd",
+            "title": "",
+            "text": "Preheat a soup pot over medium-high heat with the olive oil.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "439265d4-140b-4fce-86f9-f58bb93ae6ab",
+            "title": "",
+            "text": "Added the sliced chorizo and cook for 2 minutes",
+            "ingredientReferences": []
+        },
+        {
+            "id": "662b55ca-c1be-4292-a5d6-195c52a775fc",
+            "title": "",
+            "text": "Add the onions, carrot and garlic.  Season with salt and pepper and cook, stirring frequently, for 5 minutes.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "81117e38-f87d-47a4-9248-4c447d04d08e",
+            "title": "",
+            "text": "Add the white wine and cook for 3 minutes.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "a37af833-bedc-43cb-a075-c579c4dce954",
+            "title": "",
+            "text": "Add the fire-roasted tomatoes, chicken stock and roasted red-peppers.  Bring up to a simmer and cook for 5 minutes.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "a8812417-f69e-4ba8-8090-f400ccddeca7",
+            "title": "",
+            "text": "You want the soup to be a gentle simmer before you add the fish so, if necessary, turn the heat down a little.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "42fe50ad-f9e9-4035-b22c-7a1d63456186",
+            "title": "",
+            "text": "Add the cod.  Gently simmer for 3-4 minutes, or until the fish is cooked through.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "23f9e1ac-09e5-4b9b-a761-c5d5a8ec7b93",
+            "title": "",
+            "text": "Finish the soup with parsley, taste for seasoning, and serve",
+            "ingredientReferences": []
+        }
+    ],
+    "nutrition": {
+        "calories": null,
+        "fatContent": null,
+        "proteinContent": null,
+        "carbohydrateContent": null,
+        "fiberContent": null,
+        "sodiumContent": null,
+        "sugarContent": null
+    },
+    "settings": {
+        "public": true,
+        "showNutrition": false,
+        "showAssets": false,
+        "landscapeView": false,
+        "disableComments": false,
+        "disableAmount": false,
+        "locked": false
+    },
+    "assets": [],
+    "notes": [
+        {
+            "title": "",
+            "text": "This is not in rotation due to it's ingredients that I don't normally stock, though it likely could be adapted.\n\nFirst time was cooked without parsley"
+        }
+    ],
+    "extras": {},
+    "comments": []
+}

@@ -1,0 +1,476 @@
+{
+    "id": "613cf232-2d62-4380-818c-d0f730e56188",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "name": "Rice with Clams and Chorizo",
+    "slug": "rice-with-clams-and-chorizo",
+    "image": null,
+    "recipeYield": "4",
+    "totalTime": "45 min",
+    "prepTime": null,
+    "cookTime": null,
+    "performTime": null,
+    "description": "Surf \u2019n\u2019 turf is a classic combo that rarely goes beyond a lobster tail and steak. For a fun twist that\u2019s not quite as costly, pair spicy Mexican chorizo and clams, serve it tossed with pasta, and consider it surf \u2019n\u2019 turf for the weeknight schedule.\n\nWhat to buy: Mexican chorizo (not to be confused with its Spanish counterpart) is a fresh pork sausage that must be cooked prior to eating. It can be mild or spicy, and is found at gourmet markets or online. If you can\u2019t find Mexican chorizo, you can sub in any fresh, spicy sausage.\n",
+    "recipeCategory": [
+        {
+            "id": "5b7f4cd2-5d0e-440e-8e88-64ad06d1aad1",
+            "name": "entree",
+            "slug": "entree"
+        }
+    ],
+    "tags": [
+        {
+            "id": "e1c1c1a2-7783-4dc2-979e-a6f35e1c17e9",
+            "name": "Needs Pic",
+            "slug": "needs-pic"
+        },
+        {
+            "id": "fb90d11f-22a5-4df2-9531-1e575038aa7a",
+            "name": "Italian",
+            "slug": "italian"
+        }
+    ],
+    "tools": [],
+    "rating": 2.0,
+    "orgURL": "http://www.chow.com/recipes/14121-linguine-with-clams-and-chorizo",
+    "dateAdded": "2024-04-30",
+    "dateUpdated": "2024-04-30T12:54:59.883466",
+    "createdAt": "2024-04-30T00:58:29.241898",
+    "updateAt": "2024-04-30T01:03:12.311584",
+    "lastMade": null,
+    "recipeIngredient": [
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tbsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253",
+                "updateAt": "2024-05-13T12:27:59.862809"
+            },
+            "food": {
+                "id": "75f848c8-5343-4c80-a97c-74f48aa7b681",
+                "name": "olive oil",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
+                "aliases": [],
+                "label": {
+                    "name": "Oil",
+                    "color": "#e89eb9",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "046d1084-5c4a-4f9f-8695-c38791043125"
+                },
+                "createdAt": "2024-04-26T19:32:30.465893",
+                "updateAt": "2024-04-27T03:15:40.768294"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 tbsp olive oil",
+            "title": "",
+            "originalText": "2.0 tablespoons olive oil",
+            "referenceId": "f3e4ecd0-6d32-4f1b-9dea-451e2b6ea7e7"
+        },
+        {
+            "quantity": 2.0,
+            "unit": null,
+            "food": {
+                "id": "feedb023-7cd3-4bb9-b3cc-4d04930ec7f7",
+                "name": "shallot",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": null,
+                "aliases": [],
+                "label": null,
+                "createdAt": "2024-04-26T19:32:24.123906",
+                "updateAt": "2024-04-26T19:32:24.123909"
+            },
+            "note": "medium, finely chopped",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 shallot medium, finely chopped",
+            "title": "",
+            "originalText": "2.0 medium shallots, finely chopped",
+            "referenceId": "b04d8ade-c6df-4f54-98ab-b4815e77a640"
+        },
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "f860cec4-a431-41b7-8ddc-0035e4be52c2",
+                "name": "clove",
+                "pluralName": "cloves",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:12.511215",
+                "updateAt": "2024-05-13T12:25:56.749590"
+            },
+            "food": {
+                "id": "fd860af3-2047-4ffc-be87-65cbeb97ce1e",
+                "name": "garlic",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:35.923453",
+                "updateAt": "2024-04-27T03:14:08.683777"
+            },
+            "note": "finely chopped",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 cloves garlic finely chopped",
+            "title": "",
+            "originalText": "2.0 cloves garlic cloves, finely chopped",
+            "referenceId": "27767ba4-79ab-43a6-a5f1-66d68b86ca15"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
+                "name": "pound",
+                "pluralName": "pounds",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "lb",
+                "pluralAbbreviation": "lbs",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.726674",
+                "updateAt": "2024-05-02T12:28:24.776546"
+            },
+            "food": {
+                "id": "607bad3b-3ca7-49bc-92e0-678b6cfa793d",
+                "name": "chorizo",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
+                "aliases": [],
+                "label": {
+                    "name": "Meat",
+                    "color": "#be2f02",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "13258664-db75-4091-a629-d51f0a89797c"
+                },
+                "createdAt": "2024-04-30T00:20:24.913261",
+                "updateAt": "2024-04-30T01:50:28.619078"
+            },
+            "note": "mexican, casing removed",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 lb chorizo mexican, casing removed",
+            "title": "",
+            "originalText": "1.0 pound mexican chorizo, casing removed",
+            "referenceId": "3e7912db-9b53-46bf-80cb-cbc5070508a3"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "94661c62-5523-4f5c-aa77-b8a7536ef03b",
+                "name": "can",
+                "pluralName": "cans",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:12.664803",
+                "updateAt": "2024-05-13T12:25:48.960493"
+            },
+            "food": {
+                "id": "009c3e24-66e3-4048-b244-fd4a34225363",
+                "name": "clams",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-30T00:26:57.346756",
+                "updateAt": "2024-04-30T01:51:11.155043"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 can clams",
+            "title": "",
+            "originalText": "1.0 can clams",
+            "referenceId": "a8bc681e-992d-4e57-9ff9-1a90ebfc76d9"
+        },
+        {
+            "quantity": 0.0,
+            "unit": null,
+            "food": {
+                "id": "e83a890e-0d16-4075-88d3-863e53c8a2a4",
+                "name": "salt",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:32.495091",
+                "updateAt": "2024-04-27T03:09:26.465777"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "salt",
+            "title": "",
+            "originalText": "none salt",
+            "referenceId": "3cf2de27-3e46-4bd1-b629-29e8a274a950"
+        },
+        {
+            "quantity": 0.0,
+            "unit": null,
+            "food": {
+                "id": "b23ef96b-f10d-48a0-87e6-63e1ff9b111e",
+                "name": "pepper",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [
+                    {
+                        "name": "black pepper"
+                    }
+                ],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:43.184271",
+                "updateAt": "2024-04-27T03:08:33.535970"
+            },
+            "note": "freshly ground",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "pepper freshly ground",
+            "title": "",
+            "originalText": "none freshly ground black pepper",
+            "referenceId": "67477e03-cf20-4a0b-bd1f-97fa772375c0"
+        },
+        {
+            "quantity": 8.0,
+            "unit": {
+                "id": "d2ec378b-608b-4e61-b0fe-ed15ed84302d",
+                "name": "ounce",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "oz",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.919838",
+                "updateAt": "2024-05-13T12:27:05.285653"
+            },
+            "food": {
+                "id": "5ca2f1b7-4127-43b7-bf85-e35c0eb875a5",
+                "name": "beer",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "c952206c-6772-4f43-a09c-b2a584fb9ea2",
+                "aliases": [],
+                "label": {
+                    "name": "Other",
+                    "color": "#E0E0E0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "c952206c-6772-4f43-a09c-b2a584fb9ea2"
+                },
+                "createdAt": "2024-04-27T12:06:45.337002",
+                "updateAt": "2024-04-27T12:09:57.268116"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "8 oz beer",
+            "title": "",
+            "originalText": "8.0 ounce beer",
+            "referenceId": "f1482de4-90ed-426c-9352-7f0c0771903a"
+        },
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "ba9ff18f-168d-4935-9979-90869bf67de6",
+                "name": "parsley",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:33.010244",
+                "updateAt": "2024-04-27T03:14:52.341690"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 tsp parsley",
+            "title": "",
+            "originalText": "2.0 teaspoon parsley flakes",
+            "referenceId": "f68dbb04-10e1-484f-a56b-1c506ea567c6"
+        },
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "85a8de4c-7718-4605-9853-9043520d7467",
+                "name": "rice",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "aliases": [],
+                "label": {
+                    "name": "Pasta",
+                    "color": "#cd1652",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8"
+                },
+                "createdAt": "2024-04-26T19:32:25.399883",
+                "updateAt": "2024-04-27T03:17:34.167267"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 cups rice",
+            "title": "",
+            "originalText": "2.0 cups rice",
+            "referenceId": "344f75c3-3108-473c-ab09-6e4c7074d032"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "7f9482c7-d1ab-43e9-8351-40aea2fa34c5",
+            "title": "",
+            "text": "Cook rice as normal in broth ",
+            "ingredientReferences": []
+        },
+        {
+            "id": "99e917cb-b1e4-4250-9c45-951892a0ae4c",
+            "title": "",
+            "text": "While the rice cooks, heat the olive oil in a large pan over medium-high heat.  When the oil shimmers, add the chorizo and break it up with the back of a spoon. Cook, stirring occasionally, until brown, about 6 minutes. ",
+            "ingredientReferences": []
+        },
+        {
+            "id": "eb08b379-592b-41ac-8dac-ecd7daaba726",
+            "title": "",
+            "text": "Add the shallots and garlic, season with salt and pepper, and cook, stirring occasionally, until softened, about 3 minutes. ",
+            "ingredientReferences": []
+        },
+        {
+            "id": "a70c1aeb-8a71-42ef-b95c-3d577c54dc70",
+            "title": "",
+            "text": "Add the beer and clams.  Cover and steam for a few minutes.  ",
+            "ingredientReferences": []
+        },
+        {
+            "id": "7e7ebcea-3d78-4776-83f4-3e23234492c9",
+            "title": "",
+            "text": "Add parsley and rice.  Stir and let sit so the rice absorbs the remaining liquid.",
+            "ingredientReferences": []
+        }
+    ],
+    "nutrition": {
+        "calories": null,
+        "fatContent": null,
+        "proteinContent": null,
+        "carbohydrateContent": null,
+        "fiberContent": null,
+        "sodiumContent": null,
+        "sugarContent": null
+    },
+    "settings": {
+        "public": true,
+        "showNutrition": false,
+        "showAssets": false,
+        "landscapeView": false,
+        "disableComments": false,
+        "disableAmount": false,
+        "locked": false
+    },
+    "assets": [],
+    "notes": [
+        {
+            "title": "",
+            "text": "Original Recipe was over linguine instead of rice and used vodka instead of beer and clams in shells.\n"
+        },
+        {
+            "title": "",
+            "text": "Apr 6, 2011 11:18 AM  \n\nhow do I tweak this then? less voddy? I was going to use canned/jar clams (I know but I didn&amp;#x27;t want to fuss with the real thing until I knew it would work. maybe forego the clams and just use the chorizo? btw, Tito&amp;#x27;s handmade vodka is super smooth with a great vodka flavor.\n\nh\n  harleyquinn Apr 5, 2011 11:04 PM  \n\nWhere I think this goes wrong is sausage and clams. That sounds like a nasty combination. Leave it as linguine with one or the other. I wouldn&amp;#x27;t begin to ruin linguine and clam with pork or beef sausage. I&amp;#x27;d stop and make it linguine and a white clam sauce/topping.\n\nj\n  Jimbo00 Apr 5, 2011 06:41 PM  \n\nCiil)\n\n   Kolins Sep 5, 2010 05:03 AM  \n\nThe taste of vodka was so overpowering!! And no, I did not use cheap vodka, used Finlandia. I had great expectations for this and was very disappointed.\n\nl\n  lem9579 Jun 21, 2010 01:36 AM  \n\nMade this last night. So good!! And fast and easy to put together. I think I would substitute white wine for the vodka next time. And mussels for the clams. I make something similar with just the mussels and chorizo and beer as the broth for steaming the mussels open. I add some toasted baguette slices and its a fun and tasty happy hour snack.\n\nk\n  kristyn Jun 8, 2010 01:15 AM  \n\nWe just made this and YUMMM!! I am on a low-carb diet and did it with low-carb noodles! YUMMY! Even my 9 year old chowed it down! Great recipe!\n\nj\n  jahnroze May 20, 2010 09:03 AM  \n\nMmmm I just love clams\n\nAnthony Pittarelli\n\na\n  Anthony Pittarelli May 19, 2010 02:49 PM  \n\nI really like the veggie chorizo better than the meat sausage and so does my non veggie husband. Trader Joes has a version which seems to be pretty mild but still good\n\nd\n  debeadgirl May 19, 2010 10:06 AM  \n\nOne of my favorite dishes while living in italy was Spaghetti Vongole, which is a fresh and light pasta with clams, fresh parsley, plum tomatoes and garlic. I tried this recipe by adding in chorizo and vodka. It definitely makes it a more heavier dish than when made just with clams. But I love the depth of flavor the vodka adds. All in all, I&amp;#x27;d definitely make this again.\n\n   TRex May 19, 2010 06:13 AM  \n\nRecipe does send cool, I was envisioning some toasted breadcrumbs to give the clams an oreganata-like vibe. Obviously don&amp;#x27;t want to overdo it with pasta in the mix, but there&amp;#x27;s something about that coarse texture coupled with clams that makes my taste buds sing!\n\nJonny\nwww.SundaySauceNY.com\n\nj\n  Jonny Mangia Nov 18, 2009 10:34 PM  \n\nI think recipe sounds awesome too, I love clam linguine and the adding of sausage is a great idea, I would substitute for a turkey or chicken sausage to lighten the calories alittle bit, will definitely try.\n\nt\n  thefish53 Nov 17, 2009 09:18 PM  \n\ni think this sounds great! i found another that sounds similar, minus the chorizo (which i do like btw). This one has hot pepper flakes which are my favorite. Try it out! \nhttp://www.behindtheburner.com/recipe...\n\nf\n  foodfan123 Jul 1, 2009 01:32 AM  \n\nMade this last night and it was the bomb! (yeah &amp;#x27;90&amp;#x27;s slang) But seriously it was so friggin&amp;#x27; good that an altercation broke out for leftovers.\n\nd\n  Dr. Feb 3, 2009 04:51 AM  \n\nOr a milder sausage like linguica (sorry, just reread and registered that finding an alternative less spicy was also a concern!) I&amp;#x27;ve seen it at certain Ralphs and Vons, in hotter or milder forms.\n\ns\n  stvnptrk66 Jan 28, 2009 03:40 PM  \n\nThere is also SoyRizo which I&amp;#x27;m told uses the spices and flavorings but not the (delicious but for some, understandably disturbing) meat content and behaves much like chorizo in that it can be cooked less for a moister product or longer for a drier, crispier texture. Not sure what to do in place of the vodka but I don&amp;#x27;t think it&amp;#x27;s insurmountable.\n\ns\n  stvnptrk66 Jan 28, 2009 03:37 PM  \n\nThere is Jenna-O&amp;#x27;s Italian sweet (as well as hot) sausages in the supermarket. Or buy ground pork or ground turkey and season with whatever strikes your fancy! Sadly, the ingredient I must substitute for is the vodka. Any suggestions out there? The recipe needs something, as it has no sauce. If the turkey is not acceptable for vegetarians/non- red meat eaters, there are other, tastier recipes for linguini and clams. Cheers!\n\nt\n  trillinchick Jan 14, 2009 12:54 AM  \n\nI don&amp;#x27;t eat chorizo either...I can&amp;#x27;t take anything mildly hot or spicy hot!! Substitutes for this meat please? Or is it okay to do without?\n\nl\n  LadyintheKitchen Jan 8, 2009 08:18 AM  \n\nthis sounds AWESOME and i have some fresh linguine, and parsley growing in the window! \n\nexcept - i don&amp;#x27;t eat chorizo, or any other meats except seafood. i know i could just omit, but sometimes that leaves a void in a dish. wondering what spices/ingredients chowhounds might recommend subbing in place of the meat?\n\n   rabidog Jan 5, 2009 05:04 AM  \n\nKrystyna,\n\nI would think mussels would be an appropriate substitute.\n\ng\n  Goldbricker Jan 1, 2009 04:12 AM  \n\nthis sounds great, you are right ijhhot mexican chorizo is fresh but not ready to eat-good call. I think some sherry would be good in this in place of vodka. I will be trying it soon.\n\n   saucegoddess Dec 30, 2008 10:38 PM  \n\nEdit the recipe, you can save peoples lives and keep us from getting sick!\nquote from text: \"What to buy: Mexican chorizo (not to be confused with its Spanish counterpart) is a fresh pork sausage that is ready to eat.\"\nMexican chorizo is not ready to eat, it must be cooked. Please edit recipe.\n\ni\n  ijhhot Dec 30, 2008 12:28 AM  \n\nIn Australia we DO NOT get CLAMS we have these VERY tiny shellfish called PIPIS (They are a pain in the neck- about 1/4\" of flesh(meat) NO KIDDING Can ayone suggest another FRESH shellfish to use I have made Linguine with Clams using canned BUT would prefer Fresh, Thanks Krystyna\n\n   KrystynaCooks Dec 27, 2008 12:50 PM  \n\nYum, adding the chorizo and vodka is a nice touch....I wouldn&amp;#x27;t cook the chorizo first, I&amp;#x27;d add it while sauteing the shallots and garlic because it would get too dry otherwise...Will definitely try this recipe. Thank you.\n\np\n  Pesel Dec 26, 2008 03:41 AM\n"
+        }
+    ],
+    "extras": {},
+    "comments": []
+}

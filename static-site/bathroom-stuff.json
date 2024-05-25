@@ -1,0 +1,268 @@
+{
+    "id": "7d659a80-6f66-4275-9b81-60f76e8f50f3",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "name": "Bathroom Stuff",
+    "slug": "bathroom-stuff",
+    "image": null,
+    "recipeYield": null,
+    "totalTime": null,
+    "prepTime": null,
+    "cookTime": null,
+    "performTime": null,
+    "description": "",
+    "recipeCategory": [
+        {
+            "id": "528184fc-6756-4323-a0c3-ece1c3a4dc9e",
+            "name": "shopping",
+            "slug": "shopping"
+        }
+    ],
+    "tags": [
+        {
+            "id": "e1c1c1a2-7783-4dc2-979e-a6f35e1c17e9",
+            "name": "Needs Pic",
+            "slug": "needs-pic"
+        }
+    ],
+    "tools": [],
+    "rating": null,
+    "orgURL": null,
+    "dateAdded": "2024-05-07",
+    "dateUpdated": "2024-05-11T14:26:06.933507",
+    "createdAt": "2024-05-07T19:41:34.419597",
+    "updateAt": "2024-05-11T14:26:06.935214",
+    "lastMade": null,
+    "recipeIngredient": [
+        {
+            "quantity": 0.0,
+            "unit": null,
+            "food": {
+                "id": "b7e5e6d7-35d3-48e3-b76e-94cfe2fc6741",
+                "name": "toilet paper",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": null,
+                "aliases": [],
+                "label": null,
+                "createdAt": "2024-05-11T14:25:28.942785",
+                "updateAt": "2024-05-11T14:25:28.942789"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "toilet paper",
+            "title": "",
+            "originalText": "toilet paper",
+            "referenceId": "bbc6f28d-493d-4abd-a7a5-843641830c91"
+        },
+        {
+            "quantity": 0.0,
+            "unit": null,
+            "food": {
+                "id": "043af28b-8813-4383-a8a4-bb74bdc1fd26",
+                "name": "toothbrush",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": null,
+                "aliases": [],
+                "label": null,
+                "createdAt": "2024-05-11T14:25:33.016269",
+                "updateAt": "2024-05-11T14:25:33.016272"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "toothbrush",
+            "title": "",
+            "originalText": "toothbrush",
+            "referenceId": "9583bddf-e3ac-45c1-acbb-716d4073a1f1"
+        },
+        {
+            "quantity": 0.0,
+            "unit": null,
+            "food": {
+                "id": "cdd93375-36d8-4dba-a6a1-a32f21c8ca36",
+                "name": "mouthwash",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": null,
+                "aliases": [],
+                "label": null,
+                "createdAt": "2024-05-11T14:25:34.953082",
+                "updateAt": "2024-05-11T14:25:34.953086"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "mouthwash",
+            "title": "",
+            "originalText": "mouthwash",
+            "referenceId": "facbf1fa-01e9-4ef7-9951-f78330b3503e"
+        },
+        {
+            "quantity": 0.0,
+            "unit": null,
+            "food": {
+                "id": "c962d026-6d7a-49c3-83f9-66fc00dc0453",
+                "name": "toothpaste",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": null,
+                "aliases": [],
+                "label": null,
+                "createdAt": "2024-05-11T14:25:38.284661",
+                "updateAt": "2024-05-11T14:25:38.284666"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "toothpaste",
+            "title": "",
+            "originalText": "toothpaste",
+            "referenceId": "5dd23467-c3c0-4978-b1eb-de91685bfb78"
+        },
+        {
+            "quantity": 0.0,
+            "unit": null,
+            "food": {
+                "id": "efb094e1-ce55-472d-beec-029fb8cb68ea",
+                "name": "shampoo",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": null,
+                "aliases": [],
+                "label": null,
+                "createdAt": "2024-05-11T14:25:40.154561",
+                "updateAt": "2024-05-11T14:25:40.154565"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "shampoo",
+            "title": "",
+            "originalText": "shampoo",
+            "referenceId": "3d839cd7-d74d-4228-9608-730b2f72da73"
+        },
+        {
+            "quantity": 0.0,
+            "unit": null,
+            "food": {
+                "id": "f14de015-2f59-4d79-986a-f9347b877c2f",
+                "name": "soap",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": null,
+                "aliases": [],
+                "label": null,
+                "createdAt": "2024-05-11T14:25:42.802100",
+                "updateAt": "2024-05-11T14:25:42.802102"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "soap",
+            "title": "",
+            "originalText": "soap",
+            "referenceId": "639f7b97-cb59-40e9-a2ed-9533684621b6"
+        },
+        {
+            "quantity": 0.0,
+            "unit": null,
+            "food": {
+                "id": "9d1bf12d-917c-416e-91f8-25baa64a4b92",
+                "name": "razors",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": null,
+                "aliases": [],
+                "label": null,
+                "createdAt": "2024-05-11T14:25:44.554801",
+                "updateAt": "2024-05-11T14:25:44.554805"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "razors",
+            "title": "",
+            "originalText": "razors",
+            "referenceId": "04defd43-97cd-4470-9574-40ed26e3eb04"
+        },
+        {
+            "quantity": 0.0,
+            "unit": null,
+            "food": {
+                "id": "a04596ca-6c07-428e-8054-206dc04b4f03",
+                "name": "aloe",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": null,
+                "aliases": [],
+                "label": null,
+                "createdAt": "2024-05-11T14:25:47.548082",
+                "updateAt": "2024-05-11T14:25:47.548085"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "aloe",
+            "title": "",
+            "originalText": "aloe",
+            "referenceId": "85247c87-4aad-4286-9cbd-db0e23df2cb7"
+        },
+        {
+            "quantity": 0.0,
+            "unit": null,
+            "food": {
+                "id": "86d1befc-d154-450c-8fb0-e4174f399282",
+                "name": "advil",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": null,
+                "aliases": [],
+                "label": null,
+                "createdAt": "2024-05-11T14:25:49.795249",
+                "updateAt": "2024-05-11T14:25:49.795252"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "advil",
+            "title": "",
+            "originalText": "advil",
+            "referenceId": "ac70cc72-b124-48a6-a850-9b0c11c40eaf"
+        }
+    ],
+    "recipeInstructions": [],
+    "nutrition": {
+        "calories": null,
+        "fatContent": null,
+        "proteinContent": null,
+        "carbohydrateContent": null,
+        "fiberContent": null,
+        "sodiumContent": null,
+        "sugarContent": null
+    },
+    "settings": {
+        "public": true,
+        "showNutrition": false,
+        "showAssets": false,
+        "landscapeView": false,
+        "disableComments": false,
+        "disableAmount": false,
+        "locked": false
+    },
+    "assets": [],
+    "notes": [],
+    "extras": {},
+    "comments": []
+}

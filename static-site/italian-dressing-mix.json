@@ -1,0 +1,540 @@
+{
+    "id": "38305830-69f5-499a-9171-ff67ee447d23",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "name": "Italian Dressing Mix",
+    "slug": "italian-dressing-mix",
+    "image": null,
+    "recipeYield": "1",
+    "totalTime": null,
+    "prepTime": "5 min",
+    "cookTime": null,
+    "performTime": "5 min",
+    "description": "",
+    "recipeCategory": [
+        {
+            "id": "a56787ef-8315-4823-93e5-76c39308da3c",
+            "name": "Ingrediant",
+            "slug": "ingrediant"
+        },
+        {
+            "id": "65294f6b-32ce-4c5f-b8ef-0e83bfa10107",
+            "name": "Salad",
+            "slug": "salad"
+        }
+    ],
+    "tags": [
+        {
+            "id": "e1c1c1a2-7783-4dc2-979e-a6f35e1c17e9",
+            "name": "Needs Pic",
+            "slug": "needs-pic"
+        }
+    ],
+    "tools": [],
+    "rating": 5.0,
+    "orgURL": "http://allrecipes.com/recipe/italian-dressing-mix/Detail.aspx",
+    "dateAdded": "2024-04-30",
+    "dateUpdated": "2024-04-30T12:57:56.232784",
+    "createdAt": "2024-04-30T00:39:04.355533",
+    "updateAt": "2024-04-30T12:57:56.234907",
+    "lastMade": null,
+    "recipeIngredient": [
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tbsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253",
+                "updateAt": "2024-05-13T12:27:59.862809"
+            },
+            "food": {
+                "id": "26f561cf-9bea-435b-9348-8ddd9cf0590b",
+                "name": "oregano",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:48.559994",
+                "updateAt": "2024-04-27T03:06:37.316798"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 tbsp oregano",
+            "title": "",
+            "originalText": "2.0 tablespoon oregano",
+            "referenceId": "d3e0c289-5fe6-46f3-b008-b1a8a3159828"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tbsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253",
+                "updateAt": "2024-05-13T12:27:59.862809"
+            },
+            "food": {
+                "id": "4643f54f-dd32-473a-bd10-b100dfafceba",
+                "name": "adobo",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-27T02:32:07.257395",
+                "updateAt": "2024-04-27T03:03:54.880978"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 tbsp adobo",
+            "title": "",
+            "originalText": "1.0 tablespoon adobo",
+            "referenceId": "38bd0684-f996-4e3e-99da-4d0af4326781"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tbsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253",
+                "updateAt": "2024-05-13T12:27:59.862809"
+            },
+            "food": {
+                "id": "de09ad78-8460-446f-88c8-abb398544766",
+                "name": "onion powder",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-29T13:14:34.621701",
+                "updateAt": "2024-04-30T01:53:08.588780"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 tbsp onion powder",
+            "title": "",
+            "originalText": "1.0 tablespoon onion powder",
+            "referenceId": "06a44391-630b-4a5a-8007-83bb01bbfce5"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tbsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253",
+                "updateAt": "2024-05-13T12:27:59.862809"
+            },
+            "food": {
+                "id": "cfe5cec3-42b0-4abc-a1c3-62c6a2b999e3",
+                "name": "brown sugar",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-26T19:32:52.031829",
+                "updateAt": "2024-04-30T01:56:46.636065"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 tbsp brown sugar",
+            "title": "",
+            "originalText": "1.0 tablespoon brown sugar",
+            "referenceId": "894e34ed-c8d7-433d-be83-ee7d97ef016e"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tbsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253",
+                "updateAt": "2024-05-13T12:27:59.862809"
+            },
+            "food": {
+                "id": "9d0467ab-477b-4281-a39b-947c5ed0f6ed",
+                "name": "parmesan cheese",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "aliases": [],
+                "label": {
+                    "name": "Pasta",
+                    "color": "#cd1652",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8"
+                },
+                "createdAt": "2024-04-29T13:13:29.729126",
+                "updateAt": "2024-04-30T01:53:22.096219"
+            },
+            "note": "grated",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 tbsp parmesan cheese grated",
+            "title": "",
+            "originalText": "1.0 tablespoon grated parmesan cheese",
+            "referenceId": "c230513c-0b95-4473-9aa6-d8dc97f212e7"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tbsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253",
+                "updateAt": "2024-05-13T12:27:59.862809"
+            },
+            "food": {
+                "id": "ba9ff18f-168d-4935-9979-90869bf67de6",
+                "name": "parsley",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:33.010244",
+                "updateAt": "2024-04-27T03:14:52.341690"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 tbsp parsley",
+            "title": "",
+            "originalText": "1.0 tablespoon parsley flakes",
+            "referenceId": "fdd61b18-b09b-497a-9228-f00917bf3ad7"
+        },
+        {
+            "quantity": 0.25,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "608f04ed-6723-4ca0-b3ee-8f39da829a55",
+                "name": "thyme",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-27T02:33:03.731832",
+                "updateAt": "2024-04-27T03:04:18.346868"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2084 tsp thyme",
+            "title": "",
+            "originalText": "0.25 teaspoon thyme",
+            "referenceId": "95bec1cb-b16d-4c53-aee2-78f75b6bd333"
+        },
+        {
+            "quantity": 0.25,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "bc154572-ef45-450d-8ea9-4cce14860836",
+                "name": "celery seeds",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-30T12:56:30.219146",
+                "updateAt": "2024-04-30T20:27:04.777611"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2084 tsp celery seeds",
+            "title": "",
+            "originalText": "0.25 teaspoon celery seeds",
+            "referenceId": "8962160d-fa41-485e-9a76-6f63d4a81894"
+        },
+        {
+            "quantity": 0.5,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "5fc2dc18-46db-4b96-9680-6484a76b9093",
+                "name": "red pepper",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "aliases": [],
+                "label": {
+                    "name": "Produce",
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
+                },
+                "createdAt": "2024-04-29T23:56:11.556967",
+                "updateAt": "2024-04-30T00:03:47.195518"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 tsp red pepper",
+            "title": "",
+            "originalText": "0.5 teaspoon red pepper",
+            "referenceId": "f9b681b3-5a51-42ce-9ac4-4121ba2d1849"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "b23ef96b-f10d-48a0-87e6-63e1ff9b111e",
+                "name": "pepper",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [
+                    {
+                        "name": "black pepper"
+                    }
+                ],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:43.184271",
+                "updateAt": "2024-04-27T03:08:33.535970"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 tsp pepper",
+            "title": "",
+            "originalText": "1.0 teaspoon black pepper",
+            "referenceId": "b0c77cec-4e62-4770-92b6-094dac3e51e7"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "84bd4e93-0857-4ba8-91ac-3b8eec13f415",
+                "name": "basil",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:30.910641",
+                "updateAt": "2024-04-27T03:15:30.128287"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 tsp basil",
+            "title": "",
+            "originalText": "1.0 teaspoon basil",
+            "referenceId": "27d5df82-4cbe-415a-b189-312ecbc43370"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "85bc7dff-e61d-4e40-8525-ee932d85e1fd",
+            "title": "",
+            "text": "In a small bowl, mix together the garlic salt, onion powder, sugar, oregano, pepper, thyme, basil, parsley, celery salt and regular salt. Store in a tightly sealed container.\n",
+            "ingredientReferences": []
+        },
+        {
+            "id": "52566656-54c8-498a-9053-f0e9d77c1066",
+            "title": "",
+            "text": "To prepare dressing, whisk together 1/4 cup white vinegar, 2/3 cup canola oil, 2 tablespoons water and 2 tablespoons of the dry mix.\n",
+            "ingredientReferences": []
+        },
+        {
+            "id": "6c7cf8f2-415e-4245-858b-81290c551556",
+            "title": "",
+            "text": "For Family Salad:\n* 1/3 cup oil (olive)\n* 2 tbs vinegar\n* 1 tbs water\n* 1 tbs mix\n\nSingle Serving:\n1.5 tbs oil\n.5 tbs vinegar\n.5 tbs water\n.25 tbs mix (.5-1 tsp)\n",
+            "ingredientReferences": []
+        }
+    ],
+    "nutrition": {
+        "calories": null,
+        "fatContent": null,
+        "proteinContent": null,
+        "carbohydrateContent": null,
+        "fiberContent": null,
+        "sodiumContent": null,
+        "sugarContent": null
+    },
+    "settings": {
+        "public": true,
+        "showNutrition": false,
+        "showAssets": false,
+        "landscapeView": false,
+        "disableComments": false,
+        "disableAmount": false,
+        "locked": false
+    },
+    "assets": [],
+    "notes": [],
+    "extras": {},
+    "comments": []
+}

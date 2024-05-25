@@ -1,0 +1,295 @@
+{
+    "id": "de50a157-8694-4336-8081-287f5bd49632",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "name": "Chicken and Salsa (Slow Cooked)",
+    "slug": "chicken-and-salsa-slow-cooked",
+    "image": null,
+    "recipeYield": null,
+    "totalTime": null,
+    "prepTime": null,
+    "cookTime": null,
+    "performTime": null,
+    "description": "",
+    "recipeCategory": [],
+    "tags": [],
+    "tools": [],
+    "rating": 5.0,
+    "orgURL": null,
+    "dateAdded": "2024-05-02",
+    "dateUpdated": "2024-05-02T02:15:31.739247",
+    "createdAt": "2024-05-02T02:07:07.522909",
+    "updateAt": "2024-05-25T11:58:11.224048",
+    "lastMade": null,
+    "recipeIngredient": [
+        {
+            "quantity": 1.0,
+            "unit": null,
+            "food": null,
+            "note": "0.3333333333333333 cup olive oil",
+            "isFood": false,
+            "disableAmount": true,
+            "display": "0.3333333333333333 cup olive oil",
+            "title": "Roux",
+            "originalText": null,
+            "referenceId": "ea94449a-55d1-4d84-9065-862add2e4d16"
+        },
+        {
+            "quantity": 1.0,
+            "unit": null,
+            "food": null,
+            "note": "0.3333333333333333 cup flour",
+            "isFood": false,
+            "disableAmount": true,
+            "display": "0.3333333333333333 cup flour",
+            "title": "",
+            "originalText": null,
+            "referenceId": "4f3767a2-fe39-4a66-a65e-5448740f0668"
+        },
+        {
+            "quantity": 1.0,
+            "unit": null,
+            "food": null,
+            "note": "2 cups water",
+            "isFood": false,
+            "disableAmount": true,
+            "display": "2 cups water",
+            "title": "",
+            "originalText": null,
+            "referenceId": "151fd297-0afb-4824-b519-a36b2fdc81de"
+        },
+        {
+            "quantity": 1.0,
+            "unit": null,
+            "food": null,
+            "note": "3 cups water",
+            "isFood": false,
+            "disableAmount": true,
+            "display": "3 cups water",
+            "title": "Spices",
+            "originalText": null,
+            "referenceId": "c842cbfa-037c-4166-80b5-72c4d0654991"
+        },
+        {
+            "quantity": 1.0,
+            "unit": null,
+            "food": null,
+            "note": "1 tsp adobo",
+            "isFood": false,
+            "disableAmount": true,
+            "display": "1 tsp adobo",
+            "title": "",
+            "originalText": null,
+            "referenceId": "f5798595-8bb7-4546-b9fc-67bc85bdd269"
+        },
+        {
+            "quantity": 1.0,
+            "unit": null,
+            "food": null,
+            "note": "0.5 tsp Sage",
+            "isFood": false,
+            "disableAmount": true,
+            "display": "0.5 tsp Sage",
+            "title": "",
+            "originalText": null,
+            "referenceId": "e0ba74d9-e58d-4008-9776-100faa7951ef"
+        },
+        {
+            "quantity": 1.0,
+            "unit": null,
+            "food": null,
+            "note": "0.5 tsp Thyme",
+            "isFood": false,
+            "disableAmount": true,
+            "display": "0.5 tsp Thyme",
+            "title": "",
+            "originalText": null,
+            "referenceId": "4eb25208-1897-4725-8535-bcc775f2436d"
+        },
+        {
+            "quantity": 1.0,
+            "unit": null,
+            "food": null,
+            "note": "0.25 tsp cayenne pepper",
+            "isFood": false,
+            "disableAmount": true,
+            "display": "0.25 tsp cayenne pepper",
+            "title": "",
+            "originalText": null,
+            "referenceId": "29652fd5-26a5-4420-abf8-cf84b90f54fc"
+        },
+        {
+            "quantity": 1.0,
+            "unit": null,
+            "food": null,
+            "note": "2 cloves garlic",
+            "isFood": false,
+            "disableAmount": true,
+            "display": "2 cloves garlic",
+            "title": "",
+            "originalText": null,
+            "referenceId": "9cf6a3f1-4d5a-407d-b7f8-c1296676721d"
+        },
+        {
+            "quantity": 1.0,
+            "unit": null,
+            "food": null,
+            "note": "0.5 tsp better than bullion",
+            "isFood": false,
+            "disableAmount": true,
+            "display": "0.5 tsp better than bullion",
+            "title": "",
+            "originalText": null,
+            "referenceId": "b43e5564-393b-4ec9-8af6-7ca7a49a6556"
+        },
+        {
+            "quantity": 1.0,
+            "unit": null,
+            "food": null,
+            "note": "1 can green chili peppers",
+            "isFood": false,
+            "disableAmount": true,
+            "display": "1 can green chili peppers",
+            "title": "",
+            "originalText": null,
+            "referenceId": "895c574c-9f65-407b-87de-73d1f97fe016"
+        },
+        {
+            "quantity": 1.0,
+            "unit": null,
+            "food": null,
+            "note": "1.5 cups salsa, 1 jar",
+            "isFood": false,
+            "disableAmount": true,
+            "display": "1.5 cups salsa, 1 jar",
+            "title": "Bulk",
+            "originalText": null,
+            "referenceId": "0126e5dc-4c60-409e-a496-4593f996759a"
+        },
+        {
+            "quantity": 1.0,
+            "unit": null,
+            "food": null,
+            "note": "1  frozen onion",
+            "isFood": false,
+            "disableAmount": true,
+            "display": "1  frozen onion",
+            "title": "",
+            "originalText": null,
+            "referenceId": "121ecb50-7dbe-48f2-aa2f-dc823803f533"
+        },
+        {
+            "quantity": 1.0,
+            "unit": null,
+            "food": null,
+            "note": "1 lb chicken breast",
+            "isFood": false,
+            "disableAmount": true,
+            "display": "1 lb chicken breast",
+            "title": "",
+            "originalText": null,
+            "referenceId": "74e8391d-2067-4842-8e3d-4315f5891b81"
+        },
+        {
+            "quantity": 1.0,
+            "unit": null,
+            "food": null,
+            "note": "1.5 cups rice",
+            "isFood": false,
+            "disableAmount": true,
+            "display": "1.5 cups rice",
+            "title": "Finish",
+            "originalText": null,
+            "referenceId": "bee718dd-70ad-4c68-8fbb-6ef1b2fd4c53"
+        },
+        {
+            "quantity": 1.0,
+            "unit": null,
+            "food": null,
+            "note": "1 cup corn",
+            "isFood": false,
+            "disableAmount": true,
+            "display": "1 cup corn",
+            "title": "",
+            "originalText": null,
+            "referenceId": "25d02fae-368f-4463-b9a2-37013246b8f7"
+        },
+        {
+            "quantity": 1.0,
+            "unit": null,
+            "food": null,
+            "note": "Shredded Cheese",
+            "isFood": false,
+            "disableAmount": true,
+            "display": "Shredded Cheese",
+            "title": "Garnish",
+            "originalText": null,
+            "referenceId": "1e1d8e3e-abe2-4626-8162-62aac6c741e6"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "f8bfaa90-dafc-448d-8416-157443a6d7eb",
+            "title": "",
+            "text": "* Prepare Roux\n    * Olive Oil\n    * Add flower slowly, mix constantly.\n    * Add Water, stir until thick\n* Add Roux to slow Cooker.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "0d830120-46ba-4854-8aad-f037e210c832",
+            "title": "",
+            "text": "Add water the spices to slow cooker and mix.\n\nThis recipe really needs more liquid which I usually add on an ad hoc basis, so be prepared to add more liquid nor or when reheating leftovers. ",
+            "ingredientReferences": []
+        },
+        {
+            "id": "d5fdf55d-e179-494d-a64a-e338baa8bca5",
+            "title": "",
+            "text": "Add bulk to slow cooker, mix some more.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "e77b9024-d090-4606-bb1b-e5f039e4a47d",
+            "title": "",
+            "text": "Cooke on low for 5 hours, then shred chicken.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "6bc6e892-9464-4e42-835e-a490e81893eb",
+            "title": "",
+            "text": "Add Rice, corn and cook for 1 more hour",
+            "ingredientReferences": []
+        },
+        {
+            "id": "a980c579-c6e2-4aa1-80bc-0173620d5b21",
+            "title": "",
+            "text": "Garnish with cheese.  Be generous.",
+            "ingredientReferences": []
+        }
+    ],
+    "nutrition": {
+        "calories": null,
+        "fatContent": null,
+        "proteinContent": null,
+        "carbohydrateContent": null,
+        "fiberContent": null,
+        "sodiumContent": null,
+        "sugarContent": null
+    },
+    "settings": {
+        "public": true,
+        "showNutrition": false,
+        "showAssets": false,
+        "landscapeView": false,
+        "disableComments": false,
+        "disableAmount": true,
+        "locked": false
+    },
+    "assets": [],
+    "notes": [
+        {
+            "title": "2015-03-25",
+            "text": "Added a cup of water to 3 cups\n\nWas coming out bland so added:\n1/2 tsp adobo\n1/4 tsp cayenne\nCan of green chili\n\n1 1/2 cup of salsa is a 16 oz jar-\n"
+        }
+    ],
+    "extras": {},
+    "comments": []
+}

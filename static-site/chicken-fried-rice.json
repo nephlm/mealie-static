@@ -1,0 +1,474 @@
+{
+    "id": "9309f2f2-6b88-4c0b-9a7d-f8618426744a",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "name": "Chicken Fried Rice",
+    "slug": "chicken-fried-rice",
+    "image": null,
+    "recipeYield": "4",
+    "totalTime": null,
+    "prepTime": "1 hour",
+    "cookTime": null,
+    "performTime": "10 min",
+    "description": "Chinese Chicken Fried Rice II - All Recipes",
+    "recipeCategory": [
+        {
+            "id": "5b7f4cd2-5d0e-440e-8e88-64ad06d1aad1",
+            "name": "entree",
+            "slug": "entree"
+        }
+    ],
+    "tags": [
+        {
+            "id": "7554d359-722a-48f8-b465-23091d967ffc",
+            "name": "Asian",
+            "slug": "asian"
+        },
+        {
+            "id": "e1c1c1a2-7783-4dc2-979e-a6f35e1c17e9",
+            "name": "Needs Pic",
+            "slug": "needs-pic"
+        }
+    ],
+    "tools": [],
+    "rating": 2.0,
+    "orgURL": "http://allrecipes.com/Recipe/Chinese-Chicken-Fried-Rice-II/Detail.aspx",
+    "dateAdded": "2024-04-29",
+    "dateUpdated": "2024-05-25T12:16:41.591992",
+    "createdAt": "2024-04-29T02:01:32.472275",
+    "updateAt": "2024-05-25T11:59:26.603374",
+    "lastMade": null,
+    "recipeIngredient": [
+        {
+            "quantity": 1.0,
+            "unit": null,
+            "food": {
+                "id": "ce51d81c-dbcb-477e-88fc-3359d4eb7fa5",
+                "name": "egg",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "aliases": [],
+                "label": {
+                    "name": "Dairy Products",
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f"
+                },
+                "createdAt": "2024-04-29T13:21:56.458709",
+                "updateAt": "2024-04-30T01:52:50.518341"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 egg",
+            "title": "",
+            "originalText": "1.0 egg",
+            "referenceId": "dc1ff870-d224-493f-9db9-398753a882b6"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tbsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253",
+                "updateAt": "2024-05-13T12:27:59.862809"
+            },
+            "food": {
+                "id": "d9a322c3-fd8e-4b39-809f-abcbd76b8062",
+                "name": "water",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": null,
+                "aliases": [],
+                "label": null,
+                "createdAt": "2024-04-27T02:31:21.445759",
+                "updateAt": "2024-04-27T03:05:36.520887"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 tbsp water",
+            "title": "",
+            "originalText": "1.0 tablespoon water",
+            "referenceId": "80e48f5b-ff70-4a3f-bbc9-47f730a39340"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tbsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253",
+                "updateAt": "2024-05-13T12:27:59.862809"
+            },
+            "food": {
+                "id": "27fcdf3d-7471-4ea7-9056-1a4342841761",
+                "name": "butter",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "aliases": [],
+                "label": {
+                    "name": "Dairy Products",
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f"
+                },
+                "createdAt": "2024-04-26T19:32:50.494673",
+                "updateAt": "2024-04-27T03:06:51.864313"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 tbsp butter",
+            "title": "",
+            "originalText": "1.0 tablespoon butter",
+            "referenceId": "9a264b64-00c1-4db2-85e0-fc26704dfda6"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tbsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253",
+                "updateAt": "2024-05-13T12:27:59.862809"
+            },
+            "food": {
+                "id": "5b1aa91f-1f0f-4ecc-8945-b39cc1842893",
+                "name": "vegetable oil",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
+                "aliases": [],
+                "label": {
+                    "name": "Oil",
+                    "color": "#e89eb9",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "046d1084-5c4a-4f9f-8695-c38791043125"
+                },
+                "createdAt": "2024-04-29T13:22:17.852129",
+                "updateAt": "2024-04-30T01:52:41.149406"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 tbsp vegetable oil",
+            "title": "",
+            "originalText": "1.0 tablespoon vegetable oil",
+            "referenceId": "169a0c0b-5ea6-4b3b-9f04-7658951a0a92"
+        },
+        {
+            "quantity": 1.0,
+            "unit": null,
+            "food": {
+                "id": "1e397cd3-35eb-4c64-b8cf-b40dfc61cd0b",
+                "name": "onion",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "aliases": [],
+                "label": {
+                    "name": "Frozen Foods",
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726"
+                },
+                "createdAt": "2024-04-26T19:32:21.362752",
+                "updateAt": "2024-04-27T03:18:52.550301"
+            },
+            "note": "chopped",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 onion chopped",
+            "title": "",
+            "originalText": "1.0 onion, chopped",
+            "referenceId": "d5ab9390-6fd7-4ec6-968a-b38742b2fdd2"
+        },
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "85a8de4c-7718-4605-9853-9043520d7467",
+                "name": "rice",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "aliases": [],
+                "label": {
+                    "name": "Pasta",
+                    "color": "#cd1652",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8"
+                },
+                "createdAt": "2024-04-26T19:32:25.399883",
+                "updateAt": "2024-04-27T03:17:34.167267"
+            },
+            "note": "cooked, cold",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 cups rice cooked, cold",
+            "title": "",
+            "originalText": "2.0 cups cooked white rice, cold",
+            "referenceId": "74351785-eb68-4934-93a9-6c6e8eefb8fd"
+        },
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tbsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253",
+                "updateAt": "2024-05-13T12:27:59.862809"
+            },
+            "food": {
+                "id": "5fdcd369-8502-4e38-94b4-8363a8d6f638",
+                "name": "soy sauce",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-27T11:43:48.390392",
+                "updateAt": "2024-04-27T11:49:13.222641"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 tbsp soy sauce",
+            "title": "",
+            "originalText": "2.0 tablespoon soy sauce",
+            "referenceId": "34f69a37-e69c-47a6-bee0-c8b879b4c438"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "b23ef96b-f10d-48a0-87e6-63e1ff9b111e",
+                "name": "pepper",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [
+                    {
+                        "name": "black pepper"
+                    }
+                ],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:43.184271",
+                "updateAt": "2024-04-27T03:08:33.535970"
+            },
+            "note": "ground",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 tsp pepper ground",
+            "title": "",
+            "originalText": "1.0 teaspoon ground black pepper",
+            "referenceId": "9b0d76d4-dcbf-49ab-bed9-f886c38ae1a3"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "cc1820ef-425f-43d7-9407-f221279897ba",
+                "name": "chicken",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
+                "aliases": [],
+                "label": {
+                    "name": "Meat",
+                    "color": "#be2f02",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "13258664-db75-4091-a629-d51f0a89797c"
+                },
+                "createdAt": "2024-04-27T02:34:58.638668",
+                "updateAt": "2024-04-27T03:04:42.786511"
+            },
+            "note": "cooked chopped",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 cup chicken cooked chopped",
+            "title": "",
+            "originalText": "1.0 cup cooked, chopped chicken meat",
+            "referenceId": "7f296a71-a7d0-4d13-8b6b-147bb97037e3"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "20a4a004-9637-49aa-b437-cf0f15587a32",
+            "title": "",
+            "text": "In a small bowl, beat egg with water. Melt butter in a large skillet over medium low heat. Add egg and leave flat for 1 to 2 minutes. Remove from skillet and cut into shreds.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "ca2e866e-ff34-46fb-b4de-4d53d141cf26",
+            "title": "",
+            "text": "Heat oil in same skillet; add onion and saute until soft. Then add rice, soy sauce, pepper and chicken. Stir fry together for about 5 minutes, then stir in egg. Serve hot.",
+            "ingredientReferences": []
+        }
+    ],
+    "nutrition": {
+        "calories": null,
+        "fatContent": null,
+        "proteinContent": null,
+        "carbohydrateContent": null,
+        "fiberContent": null,
+        "sodiumContent": null,
+        "sugarContent": null
+    },
+    "settings": {
+        "public": true,
+        "showNutrition": false,
+        "showAssets": false,
+        "landscapeView": false,
+        "disableComments": false,
+        "disableAmount": false,
+        "locked": false
+    },
+    "assets": [],
+    "notes": [
+        {
+            "title": "Rating Note",
+            "text": "Rated poorly because I don't make it.  No recollection if it was good or not. "
+        },
+        {
+            "title": "",
+            "text": "Rice must be cold, probably takes an hour to achieve.  20+ minutes to prepare the rice, 30 minutes in the freezer, mixing regularly to get to cold.\n\nThe recipe at it's native size is to large fro my normal frying pan, reduce size or get a bigger cooking surface.\n\nIt's also pretty bland, unless you are adding some flavor to it, load up on the pepper."
+        },
+        {
+            "title": "Nutritional Information",
+            "text": " Amount Per Serving\u00a0 Calories: 340 | Total Fat: 13.6g | Cholesterol: 119mg\n \n \n Nutritional Information\n \n Chinese Chicken Fried Rice II\n \n Servings Per Recipe: 3\n \n Amount Per Serving\n \n Calories: 340\n  \n  Total Fat:  13.6g \n  Cholesterol:  119mg \n  Sodium:  688mg \n  Total Carbs:  34.5g \n  \u00a0\u00a0\u00a0\u00a0Dietary Fiber:  1.3g \n  Protein:  18.9g  \n VIEW DETAILED NUTRITION\n \n About: Nutrition Info\n "
+        },
+        {
+            "title": " Reviewed on Aug. 24, 2004 by NATALIESHD",
+            "text": " I was pleasantly surprised to find that this came out just as good as the fried rice I get at my favorite local Thai restaurant. I followed the recipe in terms of ingredients, but here are a few extra things I did: I pounded my chicken breasts flat, cut them up into strips, and quickly stir fried them in a little olive oil and just a pinch of salt. Once they were almost cooked through, I splashed on a little bit of soy sauce and set them aside. I cooked my sliced onions in the butter, (instead of the eggs. I used PAM for those) Great flavor and gave the rice a little something too. When I combined all ingredients, I also added some green onion to this dish, red pepper, and red pepper flakes. Also! *Make sure your rice is cold when you cook this!* GREAT recipe, will use again and again. Thanks! \n Was this review helpful?  [ YES ] \n I was pleasantly surprised to find that this came out just as good as the fried rice I get at...\n"
+        },
+        {
+            "title": "Reviewed on Jan. 25, 2004 by GJESSICA11",
+            "text": " Make sure your rice is COLD before you stir fry!!!!   Was this review helpful?  [ YES ] \n Make sure your rice is COLD before you stir fry!!!!\n"
+        },
+        {
+            "title": "Reviewed on Apr. 18, 2003 by mommyblock",
+            "text": " Love this one! I used thawed frozen mixed vegis and added them after everything. Made for a very quick and easy recipe. I do recommend that you have everything chopped and ready to add before you actually start cooking as this cooks very quickly and leaves no time in between. My 3yo loves fried rice when we are out so this was an excellent dinner for her! And I could chop the vegis and chicken into bite sizes for her and not worry about her trying to stuff something too big into her mouth! And the rest of the family loves it just as well, even my super picky husband (who seems to never eat anythign I make! LOL) \n Was this review helpful?  [ YES ] \n Love this one! I used thawed frozen mixed vegis and added them after everything. Made for a..."
+        },
+        {
+            "title": "Reviewed on Dec. 31, 2006 by khullander",
+            "text": " Excellent, easy recipe. I rinse the rice in cold water, so I don't have to wait. I also decreased the pepper because it's got a little too much zip. \n Was this review helpful?  [ YES ] \n Excellent, easy recipe. I rinse the rice in cold water, so I don't have to wait. I also..."
+        },
+        {
+            "title": "Reviewed on Sep. 9, 2007 by tizzylizz",
+            "text": " This is one of those recipes you can easily tweek to your own tastes. I added peas and green onions at the end with the egg. Only used 1/2 of the pepper called for & used seasme oil instead of the veg. oil. Thought it made a very good side. Will make again! \n Was this review helpful?  [ YES ] \n This is one of those recipes you can easily tweek to your own tastes. I added peas and green...\n"
+        },
+        {
+            "title": "Reviewed on Sep. 11, 2003 by NJSS2000",
+            "text": " Very good. I made it without the chicken, but added some leftover green peas. I served it with asian flavored grilled chicken. I look forward to making it with the chicken next time. \n Was this review helpful?  [ YES ] \n Very good. I made it without the chicken, but added some leftover green peas. I served it...\n"
+        },
+        {
+            "title": "Reviewed on Jun. 22, 2003 by FOODIE19",
+            "text": " This needed some alteration, but turned out great. And bear in mind it's a lot of work and requires significant chopping. I added green onion and chopped ed pepper, as well as teriyaki sauce. I also added some red pepper flakes for spice. And at the last minute, I added some pineapple and pineapple juice and cashews for a special treat. My boyfriend loved it! It made a lot. \n Was this review helpful?  [ YES ] \n This needed some alteration, but turned out great. And bear in mind it's a lot of work and...\n"
+        },
+        {
+            "title": "Reviewed on May 14, 2007 by KaringKare",
+            "text": " This was super easy and tasted yummy. I added a some fresh ginger (since I had some) and 2 cloves of garlic. I used sesame oil as it just adds a bit more of an asian flair! It was great.. family loved it! \n Was this review helpful?  [ YES ] \n This was super easy and tasted yummy. I added a some fresh ginger (since I had some) and 2...\n"
+        },
+        {
+            "title": "Reviewed on Dec. 9, 2006 by TJ",
+            "text": "This was a very tasty and simple recipe. I added some chopped up garlic to the onions as I sauteed them. Also I recommend using A LOT less pepper as it is VERY spicy if you don't. You really don't have to put any pepper in if you don't want to. It's quite flavorful without it. \n Was this review helpful?  [ YES ] \n This was a very tasty and simple recipe. I added some chopped up garlic to the onions as I.."
+        },
+        {
+            "title": "Reviewed on Nov. 9, 2003 by 1BUSYMOMNTX",
+            "text": " This is a simple, quick fried rice recipe that the whole family liked. I omitted the chicken, and added shrimp and frozen peas. Used it as a side dish to sweet and sour chicken. I will definitely use this one again! \n Was this review helpful?  [ YES ] \n This is a simple, quick fried rice recipe that the whole family liked. I omitted the chicken,...\n"
+        }
+    ],
+    "extras": {},
+    "comments": []
+}

@@ -1,0 +1,384 @@
+{
+    "id": "f7c51a7a-2c7a-40a6-9962-3c3884c42b76",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "name": "Chocolate Mint Pie",
+    "slug": "chocolate-mint-pie",
+    "image": null,
+    "recipeYield": "2 pies",
+    "totalTime": null,
+    "prepTime": null,
+    "cookTime": null,
+    "performTime": null,
+    "description": "This is the revised 2023 recipe that folds in all modifications and simplifications up to that point.",
+    "recipeCategory": [
+        {
+            "id": "6dbe3510-09a9-4b90-8bc8-39f185b8c8b6",
+            "name": "Dessert",
+            "slug": "dessert"
+        }
+    ],
+    "tags": [
+        {
+            "id": "dc321406-a09c-48e1-8a52-97c1dafa5d00",
+            "name": "Family",
+            "slug": "family"
+        }
+    ],
+    "tools": [],
+    "rating": 5.0,
+    "orgURL": null,
+    "dateAdded": "2024-04-30",
+    "dateUpdated": "2024-04-30T12:42:59.501038",
+    "createdAt": "2024-04-30T01:24:00.379407",
+    "updateAt": "2024-04-30T12:42:59.503291",
+    "lastMade": null,
+    "recipeIngredient": [
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "79cee2b6-a596-4e19-8558-8b4eac7c0612",
+                "name": "box",
+                "pluralName": "boxes",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-30T12:39:03.991880",
+                "updateAt": "2024-05-13T12:24:46.180246"
+            },
+            "food": {
+                "id": "98e90ec9-1f09-4d89-bedf-94d0a77b8d1f",
+                "name": "chocolate pudding",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-30T12:39:29.660859",
+                "updateAt": "2024-04-30T20:28:02.265019"
+            },
+            "note": "(non-instant, 4 serving/3.4 ounce each)",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 boxes chocolate pudding (non-instant, 4 serving/3.4 ounce each)",
+            "title": "",
+            "originalText": "2.0 chocolate pudding (non-instant, 4 serving/3.4 ounce each)",
+            "referenceId": "516b9f80-7dfa-474a-8a06-2c4df0eb4610"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "237f6be2-5e4b-4583-8e04-c9e298c3ac21",
+                "name": "bag",
+                "pluralName": "bags",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-27T02:34:36.952058",
+                "updateAt": "2024-05-13T12:25:27.496645"
+            },
+            "food": null,
+            "note": "semi-sweet, whole bag",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 bag semi-sweet, whole bag",
+            "title": "",
+            "originalText": "none semi-sweet chocolate chips (whole bag)",
+            "referenceId": "3e7cb6d5-7bdf-439a-81fc-a57cff86fd38"
+        },
+        {
+            "quantity": 4.0,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "b7e8f8b8-19f9-4e20-9783-f90d8aa54bb8",
+                "name": "milk",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "aliases": [],
+                "label": {
+                    "name": "Dairy Products",
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f"
+                },
+                "createdAt": "2024-04-26T19:32:20.019954",
+                "updateAt": "2024-04-27T03:18:41.120456"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "4 cups milk",
+            "title": "",
+            "originalText": "4.0 cups milk",
+            "referenceId": "3b9428fd-02f0-4064-90f2-1225236318f9"
+        },
+        {
+            "quantity": 8.0,
+            "unit": {
+                "id": "d2ec378b-608b-4e61-b0fe-ed15ed84302d",
+                "name": "ounce",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "oz",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.919838",
+                "updateAt": "2024-05-13T12:27:05.285653"
+            },
+            "food": {
+                "id": "507a9da3-3882-4b90-b4ff-746f75651b62",
+                "name": "cream cheese",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "aliases": [],
+                "label": {
+                    "name": "Dairy Products",
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f"
+                },
+                "createdAt": "2024-04-29T13:12:56.094575",
+                "updateAt": "2024-04-30T01:53:30.473715"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "8 oz cream cheese",
+            "title": "",
+            "originalText": "8.0 ounce cream cheese",
+            "referenceId": "64e6e5be-e44a-47df-b7b4-dd0c90b6affc"
+        },
+        {
+            "quantity": 8.0,
+            "unit": {
+                "id": "d2ec378b-608b-4e61-b0fe-ed15ed84302d",
+                "name": "ounce",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "oz",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.919838",
+                "updateAt": "2024-05-13T12:27:05.285653"
+            },
+            "food": {
+                "id": "5769f784-fe39-4299-9a0f-cdf986c859a8",
+                "name": "cool whip",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "aliases": [],
+                "label": {
+                    "name": "Frozen Foods",
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726"
+                },
+                "createdAt": "2024-04-30T12:40:48.978883",
+                "updateAt": "2024-04-30T20:27:56.787156"
+            },
+            "note": "tub, thawed",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "8 oz cool whip tub, thawed",
+            "title": "",
+            "originalText": "8.0 ounce tub cool whip (thawed)",
+            "referenceId": "8f726ac1-9c5e-4a58-ad73-0f68753fa1db"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "04dc4b83-a9fa-4b96-996d-cf052f3d73f2",
+                "name": "sugar",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-26T19:32:50.312461",
+                "updateAt": "2024-04-30T01:57:03.018980"
+            },
+            "note": "powdered",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 cup sugar powdered",
+            "title": "",
+            "originalText": "1.0 cup powdered sugar",
+            "referenceId": "1f7c26d6-6685-4be0-994e-83818edb4252"
+        },
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "b8e31d8e-87c3-4fc5-9bd9-9ddcdf1b8a30",
+                "name": "peppermint extract",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-30T12:41:13.037799",
+                "updateAt": "2024-04-30T20:27:46.981763"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 tsp peppermint extract",
+            "title": "",
+            "originalText": "2.0 teaspoon peppermint extract",
+            "referenceId": "588649f6-eda1-4621-8c35-5b06c1769ab0"
+        },
+        {
+            "quantity": 2.0,
+            "unit": null,
+            "food": {
+                "id": "e2e49ce1-93c0-4314-8806-d1ee93349068",
+                "name": "oreo pie crust",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-30T12:41:54.392828",
+                "updateAt": "2024-04-30T20:27:39.723777"
+            },
+            "note": "or 1 deep dish",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 oreo pie crust or 1 deep dish",
+            "title": "",
+            "originalText": "2.0 oreo pie crusts (or 1 deep dish)",
+            "referenceId": "59e689e9-8139-462e-b124-4e005bfc0a87"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "c0ccea28-b1f5-46cc-b9da-52ef7822422c",
+            "title": "",
+            "text": "Stir together pudding, milk as directed on package.  While cooking add chocolate chips until they are melted.  Set aside.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "d2f470de-2917-4fa0-8cf3-19516627a512",
+            "title": "",
+            "text": "In med bowl beat cream cheese (softened), powdered  sugar, peppermint extract until smooth.  Gently fold 2 cups of cool whip.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "8464c198-4121-4b20-b4fc-c34289278589",
+            "title": "",
+            "text": "Spread cream mixture in the shell.  Top with chocolate mixture.  Refrigerate at least 2 hours.",
+            "ingredientReferences": []
+        }
+    ],
+    "nutrition": {
+        "calories": null,
+        "fatContent": null,
+        "proteinContent": null,
+        "carbohydrateContent": null,
+        "fiberContent": null,
+        "sodiumContent": null,
+        "sugarContent": null
+    },
+    "settings": {
+        "public": true,
+        "showNutrition": false,
+        "showAssets": false,
+        "landscapeView": false,
+        "disableComments": false,
+        "disableAmount": false,
+        "locked": false
+    },
+    "assets": [],
+    "notes": [
+        {
+            "title": "",
+            "text": "Putting the cream cheese in the microwave for 20 seconds didn't seem to hurt it.  It was still solid, but probably softer.\n\n2 cups of cool whip is not quite the whole container, but pretty close.\n"
+        }
+    ],
+    "extras": {},
+    "comments": []
+}

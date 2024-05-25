@@ -1,0 +1,574 @@
+{
+    "id": "9fae18da-36c7-494b-bc5a-a50e00e4e2a1",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "name": "Slow Cooker Balsamic Garlic Pork Tenderloin",
+    "slug": "slow-cooker-balsamic-garlic-pork-tenderloin",
+    "image": "35",
+    "recipeYield": "4",
+    "totalTime": null,
+    "prepTime": "10 min",
+    "cookTime": null,
+    "performTime": "4 hours",
+    "description": "",
+    "recipeCategory": [
+        {
+            "id": "5b7f4cd2-5d0e-440e-8e88-64ad06d1aad1",
+            "name": "entree",
+            "slug": "entree"
+        }
+    ],
+    "tags": [],
+    "tools": [],
+    "rating": 2.0,
+    "orgURL": "https://www.tosimplyinspire.com/slow-cooker-balsamic-garlic-pork-tenderloin.html",
+    "dateAdded": "2024-05-07",
+    "dateUpdated": "2024-05-14T20:37:44.242956",
+    "createdAt": "2024-05-07T19:59:59.756304",
+    "updateAt": "2024-05-24T11:28:59.876961",
+    "lastMade": null,
+    "recipeIngredient": [
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
+                "name": "pound",
+                "pluralName": "pounds",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "lb",
+                "pluralAbbreviation": "lbs",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.726674",
+                "updateAt": "2024-05-02T12:28:24.776546"
+            },
+            "food": {
+                "id": "3b840f19-b0c7-4b7c-8e19-cdaf93e9f480",
+                "name": "pork tenderloin",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
+                "aliases": [],
+                "label": {
+                    "name": "Meat",
+                    "color": "#be2f02",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "13258664-db75-4091-a629-d51f0a89797c"
+                },
+                "createdAt": "2024-05-10T12:30:24.618811",
+                "updateAt": "2024-05-13T12:20:26.331246"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 lbs pork tenderloin",
+            "title": "",
+            "originalText": "2 lbs pork tenderloin",
+            "referenceId": "6ba4bc3a-000b-4a9e-b354-d91bd158672c"
+        },
+        {
+            "quantity": 6.0,
+            "unit": {
+                "id": "f860cec4-a431-41b7-8ddc-0035e4be52c2",
+                "name": "clove",
+                "pluralName": "cloves",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:12.511215",
+                "updateAt": "2024-05-13T12:25:56.749590"
+            },
+            "food": {
+                "id": "fd860af3-2047-4ffc-be87-65cbeb97ce1e",
+                "name": "garlic",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:35.923453",
+                "updateAt": "2024-04-27T03:14:08.683777"
+            },
+            "note": "minced",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "6 cloves garlic minced",
+            "title": "",
+            "originalText": "6 cloves garlic, minced",
+            "referenceId": "68113ad6-a2f1-4b3c-950a-c2e744030e01"
+        },
+        {
+            "quantity": 0.5,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "790a356c-d836-44e8-826d-556bdcf391e5",
+                "name": "balsamic vinegar",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
+                "aliases": [],
+                "label": {
+                    "name": "Oil",
+                    "color": "#e89eb9",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "046d1084-5c4a-4f9f-8695-c38791043125"
+                },
+                "createdAt": "2024-05-10T12:30:42.867415",
+                "updateAt": "2024-05-13T12:20:18.454760"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 cup balsamic vinegar",
+            "title": "",
+            "originalText": "0.25 cup balsamic vinegar",
+            "referenceId": "460af19c-223e-49bb-8969-f7d7e2275dbb"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "d9a322c3-fd8e-4b39-809f-abcbd76b8062",
+                "name": "water",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": null,
+                "aliases": [],
+                "label": null,
+                "createdAt": "2024-04-27T02:31:21.445759",
+                "updateAt": "2024-04-27T03:05:36.520887"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 cup water",
+            "title": "",
+            "originalText": "0.5 cup water",
+            "referenceId": "f51a5acf-b4a5-423c-9b79-44d2223982cf"
+        },
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tbsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253",
+                "updateAt": "2024-05-13T12:27:59.862809"
+            },
+            "food": {
+                "id": "f3c19faa-40fd-4a99-8452-b7228462cb53",
+                "name": "honey",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-26T19:32:19.441833",
+                "updateAt": "2024-04-27T03:19:47.128984"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 tbsp honey",
+            "title": "",
+            "originalText": "2 tablespoon honey",
+            "referenceId": "1b3a0f95-1e62-409e-890f-f8f1b699b0e5"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "5bf7293e-4cfd-4054-ae2e-09e50a3e6a0a",
+                "name": "dry mustard",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-05-10T12:30:55.164515",
+                "updateAt": "2024-05-13T12:20:12.031593"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 tsp dry mustard",
+            "title": "",
+            "originalText": "1 teaspoon dry mustard",
+            "referenceId": "eb18f3a7-6540-434a-a064-33886642a2bc"
+        },
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "a4ddd513-ed4a-48fc-986b-b9c7c0a68fb0",
+                "name": "rosemary",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-05-10T12:30:59.908382",
+                "updateAt": "2024-05-13T12:20:06.432042"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 tsp rosemary",
+            "title": "",
+            "originalText": "2 tablespoon rosemary",
+            "referenceId": "3013eaea-2e7d-41ed-8e77-0ae7ff05f6ce"
+        },
+        {
+            "quantity": 0.5,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "b23ef96b-f10d-48a0-87e6-63e1ff9b111e",
+                "name": "pepper",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [
+                    {
+                        "name": "black pepper"
+                    }
+                ],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:43.184271",
+                "updateAt": "2024-04-27T03:08:33.535970"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 tsp pepper",
+            "title": "",
+            "originalText": "0.5 teaspoon pepper",
+            "referenceId": "12a72acd-c059-42df-a676-e6ec978942a8"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "900abf67-7a16-40fa-bcab-e6ea1d80b634",
+                "name": "better than boullion",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-27T02:31:47.639314",
+                "updateAt": "2024-04-27T03:05:13.208553"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 tsp better than boullion",
+            "title": "",
+            "originalText": null,
+            "referenceId": "b55371b3-e29e-4582-90ff-1fc25b13ad7c"
+        },
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "5d5c2a4c-808a-41f7-a938-4a06e6debc4a",
+                "name": "measure",
+                "pluralName": "measures",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-30T00:17:23.440330",
+                "updateAt": "2024-05-13T12:25:04.339964"
+            },
+            "food": {
+                "id": "e4b1aec5-079c-4af6-b03f-a7085cdabe00",
+                "name": "basmati rice",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "aliases": [],
+                "label": {
+                    "name": "Pasta",
+                    "color": "#cd1652",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8"
+                },
+                "createdAt": "2024-04-30T12:26:35.222517",
+                "updateAt": "2024-04-30T20:29:11.306008"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 measures basmati rice",
+            "title": "Rice",
+            "originalText": null,
+            "referenceId": "5125213b-9e71-4e23-9822-517893905bcf"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "900abf67-7a16-40fa-bcab-e6ea1d80b634",
+                "name": "better than boullion",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-27T02:31:47.639314",
+                "updateAt": "2024-04-27T03:05:13.208553"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 tsp better than boullion",
+            "title": "",
+            "originalText": null,
+            "referenceId": "647a920f-7acd-4ba9-bc73-d6900f4eaf97"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tbsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253",
+                "updateAt": "2024-05-13T12:27:59.862809"
+            },
+            "food": {
+                "id": "75f848c8-5343-4c80-a97c-74f48aa7b681",
+                "name": "olive oil",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
+                "aliases": [],
+                "label": {
+                    "name": "Oil",
+                    "color": "#e89eb9",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "046d1084-5c4a-4f9f-8695-c38791043125"
+                },
+                "createdAt": "2024-04-26T19:32:30.465893",
+                "updateAt": "2024-04-27T03:15:40.768294"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 tbsp olive oil",
+            "title": "",
+            "originalText": null,
+            "referenceId": "5a4d11d3-0897-4699-8b09-50130607a469"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "937fca69-ef86-401e-8a96-59902fce0086",
+            "title": "",
+            "text": "* Place tenderloin in slow cooker\n* Mix everything else together in bowl and poor over tenderloin\n* Cook on Low for 4-5 hours.\n",
+            "ingredientReferences": []
+        },
+        {
+            "id": "54e6502b-dc23-49b0-9a87-99a199977aa0",
+            "title": "",
+            "text": "Half hour before it should be ready, cook rice in cooker, or  however you cook rice.  Cook in chicken broth and add olive oil.  ",
+            "ingredientReferences": []
+        },
+        {
+            "id": "c0367217-70cc-4ed6-b0da-8c453c28b02b",
+            "title": "",
+            "text": "Cut up tenderloin into pieces.  \n\nAdd rice and tenderloin pieces back into the liquid left in the slow cooker, mix.  ",
+            "ingredientReferences": []
+        }
+    ],
+    "nutrition": {
+        "calories": null,
+        "fatContent": null,
+        "proteinContent": null,
+        "carbohydrateContent": null,
+        "fiberContent": null,
+        "sodiumContent": null,
+        "sugarContent": null
+    },
+    "settings": {
+        "public": true,
+        "showNutrition": false,
+        "showAssets": false,
+        "landscapeView": false,
+        "disableComments": false,
+        "disableAmount": false,
+        "locked": false
+    },
+    "assets": [],
+    "notes": [
+        {
+            "title": "",
+            "text": "Future\n\n* Add more rice, though will likely need more liquid.\n* Add mixed vegetables when cooking the rice.  \n\n2024-05-14\n* After 5 hours on high, internal temperature was way over the target of 145-165.  \n* Meat itself still seemed a bit dry.  \n    * I cut it up and added back into the liquid.\n* Cooked rice in broth and added that to the liquid.  \n\nWe'll see how that does.  \n\nOriginal\n\n* This came out super dry, despite all the recipe sources saying not to add extra water, so that goes out the window.  \n    * I'd add more liquid, \n    * The cook times are high as well.  With chicken 5 hours on low does the job, so I'd probably cut the cook times in half. (adjusted in the recipe)"
+        },
+        {
+            "title": "Sodium",
+            "text": "pork tenderloin ~263 mg sodium / pound\nBalsamic Vinegar ~ 4mg sodium / tbsp\nNo other source of sodium\n\nAdding Better than Bullion would be a bonus but reduced sodium version is 510mg sodium / tsp\n"
+        }
+    ],
+    "extras": {},
+    "comments": []
+}

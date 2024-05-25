@@ -1,0 +1,242 @@
+{
+    "id": "afd38274-f19f-4e37-9759-3dbce9a54c25",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "name": "Extras",
+    "slug": "extras",
+    "image": null,
+    "recipeYield": null,
+    "totalTime": null,
+    "prepTime": null,
+    "cookTime": null,
+    "performTime": null,
+    "description": "",
+    "recipeCategory": [
+        {
+            "id": "528184fc-6756-4323-a0c3-ece1c3a4dc9e",
+            "name": "shopping",
+            "slug": "shopping"
+        }
+    ],
+    "tags": [
+        {
+            "id": "e1c1c1a2-7783-4dc2-979e-a6f35e1c17e9",
+            "name": "Needs Pic",
+            "slug": "needs-pic"
+        }
+    ],
+    "tools": [],
+    "rating": null,
+    "orgURL": null,
+    "dateAdded": "2024-05-07",
+    "dateUpdated": "2024-05-11T14:24:42.207717",
+    "createdAt": "2024-05-07T19:53:45.643335",
+    "updateAt": "2024-05-11T14:24:42.209696",
+    "lastMade": null,
+    "recipeIngredient": [
+        {
+            "quantity": 0.0,
+            "unit": null,
+            "food": {
+                "id": "b158db59-ade9-4534-861a-679266aaeee8",
+                "name": "canned fruit",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": null,
+                "aliases": [],
+                "label": null,
+                "createdAt": "2024-05-11T14:23:39.921765",
+                "updateAt": "2024-05-11T14:23:39.921768"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "canned fruit",
+            "title": "",
+            "originalText": "canned fruit",
+            "referenceId": "33d229f1-ad19-42c8-954f-634cba454078"
+        },
+        {
+            "quantity": 0.0,
+            "unit": null,
+            "food": {
+                "id": "9e7c781c-b5fa-4058-be97-7626d9cd2b3d",
+                "name": "pudding",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": null,
+                "aliases": [],
+                "label": null,
+                "createdAt": "2024-05-11T14:23:47.001295",
+                "updateAt": "2024-05-11T14:23:47.001298"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "pudding",
+            "title": "",
+            "originalText": "pudding",
+            "referenceId": "36ff475d-a71a-4995-a341-52034b45cf00"
+        },
+        {
+            "quantity": 0.0,
+            "unit": null,
+            "food": {
+                "id": "d58e3dc3-08f4-478e-aa8d-c5a003932737",
+                "name": "chunky soup",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-27T12:28:31.202713",
+                "updateAt": "2024-04-27T12:31:54.285762"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "chunky soup",
+            "title": "",
+            "originalText": "chunky soup",
+            "referenceId": "cd561452-6ec2-4922-87ab-7c8e259148da"
+        },
+        {
+            "quantity": 0.0,
+            "unit": null,
+            "food": {
+                "id": "e8b93746-8843-4547-a6c3-0911d1f9c48e",
+                "name": "grapes",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "aliases": [],
+                "label": {
+                    "name": "Produce",
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
+                },
+                "createdAt": "2024-04-30T20:20:38.430985",
+                "updateAt": "2024-04-30T20:26:03.942227"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "grapes",
+            "title": "",
+            "originalText": "grapes",
+            "referenceId": "310f1eea-d3b4-433a-ac87-310b96ecec33"
+        },
+        {
+            "quantity": 0.0,
+            "unit": null,
+            "food": {
+                "id": "aa729443-5a4c-44fd-ba7e-7205afc8c826",
+                "name": "potato salad",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": null,
+                "aliases": [],
+                "label": null,
+                "createdAt": "2024-05-11T14:23:55.987916",
+                "updateAt": "2024-05-11T14:23:55.987921"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "potato salad",
+            "title": "",
+            "originalText": "potato salad",
+            "referenceId": "56b8fb68-61b3-4c2d-ab18-6e40dfcb397f"
+        },
+        {
+            "quantity": 0.0,
+            "unit": null,
+            "food": {
+                "id": "daa73cf2-7063-448a-a16a-f900a12d9856",
+                "name": "pickles",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-27T12:27:52.977982",
+                "updateAt": "2024-04-27T12:30:33.097609"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "pickles",
+            "title": "",
+            "originalText": "pickles",
+            "referenceId": "8e8bd92d-dab0-4580-a98e-bde99c1a8cc6"
+        },
+        {
+            "quantity": 0.0,
+            "unit": null,
+            "food": {
+                "id": "fec0e0cf-138c-4548-ab61-e098b4ae21eb",
+                "name": "cheese slices",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "aliases": [],
+                "label": {
+                    "name": "Dairy Products",
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f"
+                },
+                "createdAt": "2024-04-27T12:28:06.296241",
+                "updateAt": "2024-04-27T12:30:49.757572"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "cheese slices",
+            "title": "",
+            "originalText": "sliced cheese",
+            "referenceId": "b502a633-860b-4206-9e15-421a17fedac8"
+        }
+    ],
+    "recipeInstructions": [],
+    "nutrition": {
+        "calories": null,
+        "fatContent": null,
+        "proteinContent": null,
+        "carbohydrateContent": null,
+        "fiberContent": null,
+        "sodiumContent": null,
+        "sugarContent": null
+    },
+    "settings": {
+        "public": true,
+        "showNutrition": false,
+        "showAssets": false,
+        "landscapeView": false,
+        "disableComments": false,
+        "disableAmount": false,
+        "locked": false
+    },
+    "assets": [],
+    "notes": [],
+    "extras": {},
+    "comments": []
+}

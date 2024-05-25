@@ -1,0 +1,324 @@
+{
+    "id": "4e1367ee-90e8-4fb9-a337-2695b3f56e58",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "name": "Lemon Garlic Talapia",
+    "slug": "lemon-garlic-talapia",
+    "image": null,
+    "recipeYield": null,
+    "totalTime": null,
+    "prepTime": null,
+    "cookTime": null,
+    "performTime": null,
+    "description": "",
+    "recipeCategory": [
+        {
+            "id": "5b7f4cd2-5d0e-440e-8e88-64ad06d1aad1",
+            "name": "entree",
+            "slug": "entree"
+        }
+    ],
+    "tags": [
+        {
+            "id": "06c33f52-bf37-4044-ad83-bc071e6c090e",
+            "name": "Imprecise",
+            "slug": "imprecise"
+        },
+        {
+            "id": "e1c1c1a2-7783-4dc2-979e-a6f35e1c17e9",
+            "name": "Needs Pic",
+            "slug": "needs-pic"
+        }
+    ],
+    "tools": [],
+    "rating": 2.0,
+    "orgURL": null,
+    "dateAdded": "2024-04-29",
+    "dateUpdated": "2024-04-30T00:16:30.988466",
+    "createdAt": "2024-04-29T18:40:55.659484",
+    "updateAt": "2024-04-29T18:42:22.056960",
+    "lastMade": null,
+    "recipeIngredient": [
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "1a8c449b-027a-452f-b3bd-40f335bde503",
+                "name": "filet",
+                "pluralName": "filets",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-30T00:14:49.287759",
+                "updateAt": "2024-05-13T12:25:12.568193"
+            },
+            "food": {
+                "id": "246cea5b-0316-41a7-8c55-358d6201b99a",
+                "name": "tilapia",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
+                "aliases": [],
+                "label": {
+                    "name": "Meat",
+                    "color": "#be2f02",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "13258664-db75-4091-a629-d51f0a89797c"
+                },
+                "createdAt": "2024-04-30T00:14:59.426191",
+                "updateAt": "2024-04-30T01:50:50.741220"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 filets tilapia",
+            "title": "",
+            "originalText": "2.0 filet tilapia",
+            "referenceId": "0ebc1f3b-975a-4c36-9f26-bf39396515f7"
+        },
+        {
+            "quantity": 3.0,
+            "unit": {
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tbsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253",
+                "updateAt": "2024-05-13T12:27:59.862809"
+            },
+            "food": {
+                "id": "19a33840-9cc5-4ce3-922d-f140d8be02bf",
+                "name": "lemon juice",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-27T12:05:59.521458",
+                "updateAt": "2024-04-27T12:08:34.238564"
+            },
+            "note": "divided",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "3 tbsp lemon juice divided",
+            "title": "",
+            "originalText": "3.0 tablespoon lemon juice divided",
+            "referenceId": "22d52f6e-88df-4f74-b8c4-31b5cd0847f7"
+        },
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "f860cec4-a431-41b7-8ddc-0035e4be52c2",
+                "name": "clove",
+                "pluralName": "cloves",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:12.511215",
+                "updateAt": "2024-05-13T12:25:56.749590"
+            },
+            "food": {
+                "id": "fd860af3-2047-4ffc-be87-65cbeb97ce1e",
+                "name": "garlic",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:35.923453",
+                "updateAt": "2024-04-27T03:14:08.683777"
+            },
+            "note": "divided",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 cloves garlic divided",
+            "title": "",
+            "originalText": "2.0 cloves garlic, divided",
+            "referenceId": "75547aa0-d6dd-4e19-90bb-78ead59e4948"
+        },
+        {
+            "quantity": 1.5,
+            "unit": null,
+            "food": {
+                "id": "85a8de4c-7718-4605-9853-9043520d7467",
+                "name": "rice",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "aliases": [],
+                "label": {
+                    "name": "Pasta",
+                    "color": "#cd1652",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8"
+                },
+                "createdAt": "2024-04-26T19:32:25.399883",
+                "updateAt": "2024-04-27T03:17:34.167267"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1.5 rice",
+            "title": "",
+            "originalText": "1.5 measures rice",
+            "referenceId": "e7f69a32-4232-40bb-8f70-9a63b6404b0c"
+        },
+        {
+            "quantity": 0.0,
+            "unit": null,
+            "food": {
+                "id": "4643f54f-dd32-473a-bd10-b100dfafceba",
+                "name": "adobo",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-27T02:32:07.257395",
+                "updateAt": "2024-04-27T03:03:54.880978"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "adobo",
+            "title": "",
+            "originalText": "none adobo",
+            "referenceId": "f4d8989c-d8a8-49c8-b010-ddb7d7cf49ff"
+        },
+        {
+            "quantity": 0.0,
+            "unit": null,
+            "food": {
+                "id": "b23ef96b-f10d-48a0-87e6-63e1ff9b111e",
+                "name": "pepper",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [
+                    {
+                        "name": "black pepper"
+                    }
+                ],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:43.184271",
+                "updateAt": "2024-04-27T03:08:33.535970"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "pepper",
+            "title": "",
+            "originalText": "none pepper",
+            "referenceId": "c6a74395-ecf7-4801-a8db-b1f74a72a763"
+        },
+        {
+            "quantity": 0.0,
+            "unit": null,
+            "food": {
+                "id": "608f04ed-6723-4ca0-b3ee-8f39da829a55",
+                "name": "thyme",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-27T02:33:03.731832",
+                "updateAt": "2024-04-27T03:04:18.346868"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "thyme",
+            "title": "",
+            "originalText": "none thyme",
+            "referenceId": "dabc49c4-b515-4309-b542-d16e1ea1557c"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "a1979c9d-810c-4185-ab15-e31574105b0b",
+            "title": "",
+            "text": "Rice:\n\nUsing rice cooker use 1.5 measures rice.  Cook in chicken broth with 2 tbsp of lemon juice, glove of garlic and sprinkles of the other spices to preference 1/4 1/2 tsp of each.  Add in mixed veggies of choice and let the rice cooker do it's thing.\n",
+            "ingredientReferences": []
+        },
+        {
+            "id": "84b6bfd5-2c4f-49ad-a6fd-305259cc9b1d",
+            "title": "",
+            "text": "Fish:\n\nWarm up the pan, laying in the rest of the lemon juice and garlic.  add Chicken broth to about 1/2 inch base.  Spice with thyme, adobo, pepper.  Set to med low and cook turning over once 2-3 minutes.  cook until it flakes.  Set aside whole or break it up and leave it in the pan.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "07d60fc9-9aab-4ec2-9936-1c64b50be061",
+            "title": "",
+            "text": "Combine: \n\nWhen the rice is ready add it to pan, give it a quick stir fry then let is sit absorb the liquid.  All done.\n",
+            "ingredientReferences": []
+        }
+    ],
+    "nutrition": {
+        "calories": null,
+        "fatContent": null,
+        "proteinContent": null,
+        "carbohydrateContent": null,
+        "fiberContent": null,
+        "sodiumContent": null,
+        "sugarContent": null
+    },
+    "settings": {
+        "public": true,
+        "showNutrition": false,
+        "showAssets": false,
+        "landscapeView": false,
+        "disableComments": false,
+        "disableAmount": false,
+        "locked": false
+    },
+    "assets": [],
+    "notes": [],
+    "extras": {},
+    "comments": []
+}

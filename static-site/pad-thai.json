@@ -1,0 +1,774 @@
+{
+    "id": "699fca15-c617-452e-bedc-f972ccdc089d",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "name": "Pad Thai",
+    "slug": "pad-thai",
+    "image": null,
+    "recipeYield": null,
+    "totalTime": null,
+    "prepTime": "40 min",
+    "cookTime": null,
+    "performTime": "20 min",
+    "description": "",
+    "recipeCategory": [
+        {
+            "id": "5b7f4cd2-5d0e-440e-8e88-64ad06d1aad1",
+            "name": "entree",
+            "slug": "entree"
+        }
+    ],
+    "tags": [
+        {
+            "id": "7554d359-722a-48f8-b465-23091d967ffc",
+            "name": "Asian",
+            "slug": "asian"
+        },
+        {
+            "id": "e1c1c1a2-7783-4dc2-979e-a6f35e1c17e9",
+            "name": "Needs Pic",
+            "slug": "needs-pic"
+        }
+    ],
+    "tools": [],
+    "rating": 3.0,
+    "orgURL": "http://allrecipes.com/recipe/42968/pad-thai/?internalSource=search%20result&referringContentType=search%20results",
+    "dateAdded": "2024-05-07",
+    "dateUpdated": "2024-05-10T12:56:02.360074",
+    "createdAt": "2024-05-07T19:09:16.659405",
+    "updateAt": "2024-05-25T11:58:06.966640",
+    "lastMade": null,
+    "recipeIngredient": [
+        {
+            "quantity": 12.0,
+            "unit": {
+                "id": "d2ec378b-608b-4e61-b0fe-ed15ed84302d",
+                "name": "ounce",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "oz",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.919838",
+                "updateAt": "2024-05-13T12:27:05.285653"
+            },
+            "food": {
+                "id": "7e99767a-ddf2-449d-9a2b-95224084fafa",
+                "name": "rice noodles",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "aliases": [],
+                "label": {
+                    "name": "Pasta",
+                    "color": "#cd1652",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8"
+                },
+                "createdAt": "2024-05-10T12:52:24.309872",
+                "updateAt": "2024-05-13T12:17:48.473044"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "12 oz rice noodles",
+            "title": "Noodles",
+            "originalText": "12 ounce rice noodles",
+            "referenceId": "6d072d3d-3317-41fa-81d5-0d3d63c6e30a"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
+                "name": "pound",
+                "pluralName": "pounds",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "lb",
+                "pluralAbbreviation": "lbs",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.726674",
+                "updateAt": "2024-05-02T12:28:24.776546"
+            },
+            "food": {
+                "id": "cc1820ef-425f-43d7-9407-f221279897ba",
+                "name": "chicken",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
+                "aliases": [],
+                "label": {
+                    "name": "Meat",
+                    "color": "#be2f02",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "13258664-db75-4091-a629-d51f0a89797c"
+                },
+                "createdAt": "2024-04-27T02:34:58.638668",
+                "updateAt": "2024-04-27T03:04:42.786511"
+            },
+            "note": "chopped",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 lb chicken chopped",
+            "title": "Chicken",
+            "originalText": "1 lbs chopped chicken",
+            "referenceId": "0e46e0cd-112c-4efa-aec8-106ac8e59b5b"
+        },
+        {
+            "quantity": 4.0,
+            "unit": {
+                "id": "f860cec4-a431-41b7-8ddc-0035e4be52c2",
+                "name": "clove",
+                "pluralName": "cloves",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:12.511215",
+                "updateAt": "2024-05-13T12:25:56.749590"
+            },
+            "food": {
+                "id": "fd860af3-2047-4ffc-be87-65cbeb97ce1e",
+                "name": "garlic",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:35.923453",
+                "updateAt": "2024-04-27T03:14:08.683777"
+            },
+            "note": "or more)",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "4 cloves garlic or more)",
+            "title": "",
+            "originalText": "4 clove garlic (or more)",
+            "referenceId": "56cdac5b-4ade-4fb6-b79b-d1bd7691bd1d"
+        },
+        {
+            "quantity": 4.0,
+            "unit": null,
+            "food": {
+                "id": "ce51d81c-dbcb-477e-88fc-3359d4eb7fa5",
+                "name": "egg",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "aliases": [],
+                "label": {
+                    "name": "Dairy Products",
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f"
+                },
+                "createdAt": "2024-04-29T13:21:56.458709",
+                "updateAt": "2024-04-30T01:52:50.518341"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "4 egg",
+            "title": "Eggs",
+            "originalText": "4 eggs",
+            "referenceId": "c795af86-b676-4174-91d8-16c0139a8ed9"
+        },
+        {
+            "quantity": 0.125,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "77102815-22c9-4798-bb19-91176cf6f32e",
+                "name": "sesame oil",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
+                "aliases": [],
+                "label": {
+                    "name": "Oil",
+                    "color": "#e89eb9",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "046d1084-5c4a-4f9f-8695-c38791043125"
+                },
+                "createdAt": "2024-04-27T11:42:33.580856",
+                "updateAt": "2024-04-27T11:47:07.291341"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2088 cup sesame oil",
+            "title": "",
+            "originalText": "0.125 cup sesame oil",
+            "referenceId": "ccd5593d-75ef-4209-b9ed-8ae95f76eb42"
+        },
+        {
+            "quantity": 0.25,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "75f848c8-5343-4c80-a97c-74f48aa7b681",
+                "name": "olive oil",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
+                "aliases": [],
+                "label": {
+                    "name": "Oil",
+                    "color": "#e89eb9",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "046d1084-5c4a-4f9f-8695-c38791043125"
+                },
+                "createdAt": "2024-04-26T19:32:30.465893",
+                "updateAt": "2024-04-27T03:15:40.768294"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2084 cup olive oil",
+            "title": "",
+            "originalText": "0.25 cup olive oil",
+            "referenceId": "ce64c064-a8e1-45b7-9147-ed27cc63d789"
+        },
+        {
+            "quantity": 6.0,
+            "unit": {
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tbsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253",
+                "updateAt": "2024-05-13T12:27:59.862809"
+            },
+            "food": {
+                "id": "3073d61a-c07c-419e-b7f9-c61c5e350e08",
+                "name": "fish sauce",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-05-10T12:52:55.455998",
+                "updateAt": "2024-05-13T12:17:38.289985"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "6 tbsp fish sauce",
+            "title": "Stirfry",
+            "originalText": "6 tablespoon fish sauce",
+            "referenceId": "666e2e0d-d695-4e0d-a1e7-d80148a84e5a"
+        },
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tbsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253",
+                "updateAt": "2024-05-13T12:27:59.862809"
+            },
+            "food": {
+                "id": "5fdcd369-8502-4e38-94b4-8363a8d6f638",
+                "name": "soy sauce",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-27T11:43:48.390392",
+                "updateAt": "2024-04-27T11:49:13.222641"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 tbsp soy sauce",
+            "title": "",
+            "originalText": "2 tablespoon soy sauce",
+            "referenceId": "0055d398-ea2d-45ea-976e-138cc61c7fbd"
+        },
+        {
+            "quantity": 0.5,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "cee475aa-583f-4be0-8bc9-7e2963d2163d",
+                "name": "peanut butter",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "be29b677-1d21-4f67-8954-0357c7300d50",
+                "aliases": [],
+                "label": {
+                    "name": "Breads",
+                    "color": "#d7771e",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "be29b677-1d21-4f67-8954-0357c7300d50"
+                },
+                "createdAt": "2024-04-27T11:43:27.033020",
+                "updateAt": "2024-04-27T11:48:01.614616"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 tsp peanut butter",
+            "title": "",
+            "originalText": "0.5 teaspoon peanut butter",
+            "referenceId": "faf6b481-7b53-4344-b9da-f64f978124f9"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tbsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253",
+                "updateAt": "2024-05-13T12:27:59.862809"
+            },
+            "food": {
+                "id": "e2cbe589-c39c-4ef5-bbb3-068cd3a887c8",
+                "name": "red pepper flakes",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-27T11:44:32.724777",
+                "updateAt": "2024-04-27T11:49:59.129682"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 tbsp red pepper flakes",
+            "title": "",
+            "originalText": "1 tablespoon crushed red peppers",
+            "referenceId": "c4c4f8cd-d72c-4f41-b1dc-6f20c2b21854"
+        },
+        {
+            "quantity": 6.0,
+            "unit": {
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tbsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253",
+                "updateAt": "2024-05-13T12:27:59.862809"
+            },
+            "food": {
+                "id": "f3c19faa-40fd-4a99-8452-b7228462cb53",
+                "name": "honey",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-26T19:32:19.441833",
+                "updateAt": "2024-04-27T03:19:47.128984"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "6 tbsp honey",
+            "title": "",
+            "originalText": "6 tablespoon honey",
+            "referenceId": "5b379016-b128-40e1-9f72-20359398ef37"
+        },
+        {
+            "quantity": 3.0,
+            "unit": {
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tbsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253",
+                "updateAt": "2024-05-13T12:27:59.862809"
+            },
+            "food": {
+                "id": "e08f9f2a-7b87-4e76-be95-c89c6de39cf3",
+                "name": "rice vinegar",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
+                "aliases": [],
+                "label": {
+                    "name": "Oil",
+                    "color": "#e89eb9",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "046d1084-5c4a-4f9f-8695-c38791043125"
+                },
+                "createdAt": "2024-04-27T11:44:21.418417",
+                "updateAt": "2024-04-27T11:48:34.291410"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "3 tbsp rice vinegar",
+            "title": "",
+            "originalText": "3 tablespoon rice vinegar",
+            "referenceId": "c162a232-b6eb-49c9-a553-b3c510409838"
+        },
+        {
+            "quantity": 0.25,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "587cccf7-b102-46d0-a598-acb38cb2de8c",
+                "name": "cayenne pepper",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:38.727699",
+                "updateAt": "2024-04-27T03:08:25.782853"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2084 tsp cayenne pepper",
+            "title": "",
+            "originalText": "0.25 teaspoon cayenne pepper",
+            "referenceId": "f2d20698-7682-4746-90e7-e1471519b0d1"
+        },
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "32ba064b-a53c-4103-a330-8e4e510e862e",
+                "name": "bean sprouts",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": null,
+                "aliases": [],
+                "label": null,
+                "createdAt": "2024-05-10T12:53:35.547971",
+                "updateAt": "2024-05-10T12:53:35.547975"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 cups bean sprouts",
+            "title": "End",
+            "originalText": "2 cups bean sprouts",
+            "referenceId": "0bbfd324-999d-4a5b-827a-bf87e48a90d4"
+        },
+        {
+            "quantity": 3.0,
+            "unit": null,
+            "food": {
+                "id": "97940640-0196-4fff-bb2f-a525c526cc8c",
+                "name": "green onion",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "aliases": [],
+                "label": {
+                    "name": "Produce",
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
+                },
+                "createdAt": "2024-04-26T19:32:33.825761",
+                "updateAt": "2024-04-27T03:15:01.347465"
+            },
+            "note": "chopped",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "3 green onion chopped",
+            "title": "",
+            "originalText": "3 green onions, chopped",
+            "referenceId": "06b3fa72-74a3-461c-ad8d-155f9992d16f"
+        },
+        {
+            "quantity": 0.5,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "0222bfb1-ae68-43a4-9dc4-e5c114f62d04",
+                "name": "peanuts",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-27T11:43:15.621098",
+                "updateAt": "2024-04-27T11:48:11.812361"
+            },
+            "note": "crushed",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 cup peanuts crushed",
+            "title": "",
+            "originalText": "0.5 cup crushed peanuts",
+            "referenceId": "ae81d83f-9c20-4a67-91c8-a8b0b58a59db"
+        },
+        {
+            "quantity": 0.0,
+            "unit": null,
+            "food": {
+                "id": "19a33840-9cc5-4ce3-922d-f140d8be02bf",
+                "name": "lemon juice",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-27T12:05:59.521458",
+                "updateAt": "2024-04-27T12:08:34.238564"
+            },
+            "note": "garnish",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "lemon juice garnish",
+            "title": "Garnish",
+            "originalText": "lemon juice (garnish)",
+            "referenceId": "f2a3ac23-9008-464a-a4ab-bde07403d870"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "98f71df7-3438-4e27-a607-4851311cac4a",
+            "title": "",
+            "text": "Soak rice noodles in cold water 30 to 50 minutes, or until soft. Drain, and set aside.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "b2d9a75f-5fa3-4ec0-98db-ba21c739aa8c",
+            "title": "",
+            "text": "Saute chicken with garlic until browned (add tiny bits of water to keep the pan lubricated as needed). Remove, and set aside. ",
+            "ingredientReferences": []
+        },
+        {
+            "id": "24c6c337-84f2-48d4-92a3-160b46eb7ccc",
+            "title": "",
+            "text": "Heat oil in wok over medium-high heat. ",
+            "ingredientReferences": []
+        },
+        {
+            "id": "5763b57a-a56c-4d53-b52c-9e77268d4eab",
+            "title": "",
+            "text": "Crack eggs into hot oil, and cook until firm. ",
+            "ingredientReferences": []
+        },
+        {
+            "id": "c36b4cd4-8451-4036-a36b-c70cc221a815",
+            "title": "",
+            "text": "Stir in chicken, and cook for 5 minutes. ",
+            "ingredientReferences": []
+        },
+        {
+            "id": "1254004f-c8be-4bcf-badf-4b3d10431548",
+            "title": "",
+            "text": "Add softened noodles, and vinegar, fish sauce, honey, soy sauce, peanut butter, cayenne pepper and red pepper. ",
+            "ingredientReferences": []
+        },
+        {
+            "id": "27c8b153-4d2e-4fff-9a6d-9dcc4c3b7374",
+            "title": "",
+            "text": "Adjust seasonings to taste.   Add water or chicken broth to chosen consistency.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "c13ffc9f-68c1-4791-903f-3627b0e52db1",
+            "title": "",
+            "text": "Mix while cooking, until noodles are tender.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "aa2d5259-927c-4b43-945a-5f034611e31a",
+            "title": "",
+            "text": "Add bean sprouts, green onions and nuts and cook/mix for 3 minutes",
+            "ingredientReferences": []
+        }
+    ],
+    "nutrition": {
+        "calories": null,
+        "fatContent": null,
+        "proteinContent": null,
+        "carbohydrateContent": null,
+        "fiberContent": null,
+        "sodiumContent": null,
+        "sugarContent": null
+    },
+    "settings": {
+        "public": true,
+        "showNutrition": false,
+        "showAssets": false,
+        "landscapeView": false,
+        "disableComments": false,
+        "disableAmount": false,
+        "locked": false
+    },
+    "assets": [],
+    "notes": [],
+    "extras": {},
+    "comments": []
+}

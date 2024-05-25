@@ -1,0 +1,572 @@
+{
+    "id": "c2fe63e5-8245-4bee-b71f-33a309bbfe81",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "name": "Pasta Fazoole with Clam Sauce",
+    "slug": "pasta-fazoole-with-clam-sauce",
+    "image": null,
+    "recipeYield": "4 servings",
+    "totalTime": null,
+    "prepTime": "5 min",
+    "cookTime": null,
+    "performTime": "20 min",
+    "description": "",
+    "recipeCategory": [
+        {
+            "id": "5b7f4cd2-5d0e-440e-8e88-64ad06d1aad1",
+            "name": "entree",
+            "slug": "entree"
+        }
+    ],
+    "tags": [
+        {
+            "id": "e1c1c1a2-7783-4dc2-979e-a6f35e1c17e9",
+            "name": "Needs Pic",
+            "slug": "needs-pic"
+        }
+    ],
+    "tools": [],
+    "rating": 5.0,
+    "orgURL": null,
+    "dateAdded": "2024-04-29",
+    "dateUpdated": "2024-04-30T00:29:24.162374",
+    "createdAt": "2024-04-29T18:24:20.941572",
+    "updateAt": "2024-04-29T18:27:33.956630",
+    "lastMade": null,
+    "recipeIngredient": [
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tbsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253",
+                "updateAt": "2024-05-13T12:27:59.862809"
+            },
+            "food": {
+                "id": "75f848c8-5343-4c80-a97c-74f48aa7b681",
+                "name": "olive oil",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
+                "aliases": [],
+                "label": {
+                    "name": "Oil",
+                    "color": "#e89eb9",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "046d1084-5c4a-4f9f-8695-c38791043125"
+                },
+                "createdAt": "2024-04-26T19:32:30.465893",
+                "updateAt": "2024-04-27T03:15:40.768294"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 tbsp olive oil",
+            "title": "",
+            "originalText": "1.0 tablespoon olive oil",
+            "referenceId": "89524fd1-fa3d-45b9-8690-2880ce5afd8f"
+        },
+        {
+            "quantity": 3.0,
+            "unit": {
+                "id": "f860cec4-a431-41b7-8ddc-0035e4be52c2",
+                "name": "clove",
+                "pluralName": "cloves",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:12.511215",
+                "updateAt": "2024-05-13T12:25:56.749590"
+            },
+            "food": {
+                "id": "fd860af3-2047-4ffc-be87-65cbeb97ce1e",
+                "name": "garlic",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:35.923453",
+                "updateAt": "2024-04-27T03:14:08.683777"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "3 cloves garlic",
+            "title": "",
+            "originalText": "3.0 cloves garlic",
+            "referenceId": "d253d928-5545-48cd-8f8a-d6a5ee45d669"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "94661c62-5523-4f5c-aa77-b8a7536ef03b",
+                "name": "can",
+                "pluralName": "cans",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:12.664803",
+                "updateAt": "2024-05-13T12:25:48.960493"
+            },
+            "food": {
+                "id": "009c3e24-66e3-4048-b244-fd4a34225363",
+                "name": "clams",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-30T00:26:57.346756",
+                "updateAt": "2024-04-30T01:51:11.155043"
+            },
+            "note": "10 oz",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 can clams 10 oz",
+            "title": "",
+            "originalText": "10.0 ounce baby clams",
+            "referenceId": "f64e1f5a-1346-4482-b253-ac0e8452f338"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "94661c62-5523-4f5c-aa77-b8a7536ef03b",
+                "name": "can",
+                "pluralName": "cans",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:12.664803",
+                "updateAt": "2024-05-13T12:25:48.960493"
+            },
+            "food": {
+                "id": "6564a442-cc73-49ae-99e8-738131ebe5c3",
+                "name": "white beans",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-30T00:27:21.653139",
+                "updateAt": "2024-04-30T01:51:19.679083"
+            },
+            "note": "15 oz",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 can white beans 15 oz",
+            "title": "",
+            "originalText": "15.0 ounce white beans",
+            "referenceId": "1b7ab219-a604-496b-8041-3a46d0458131"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "94661c62-5523-4f5c-aa77-b8a7536ef03b",
+                "name": "can",
+                "pluralName": "cans",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:12.664803",
+                "updateAt": "2024-05-13T12:25:48.960493"
+            },
+            "food": {
+                "id": "69622eea-3935-4d27-91a8-d1f30ac20746",
+                "name": "tomato ",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "aliases": [],
+                "label": {
+                    "name": "Produce",
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
+                },
+                "createdAt": "2024-04-26T19:32:18.483079",
+                "updateAt": "2024-04-27T03:19:35.365817"
+            },
+            "note": "diced, 15oz",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 can tomato  diced, 15oz",
+            "title": "",
+            "originalText": "15.0 ounce diced tomatoes",
+            "referenceId": "2f5c6379-5ce8-4640-80a8-f29534673571"
+        },
+        {
+            "quantity": 25.0,
+            "unit": {
+                "id": "d2ec378b-608b-4e61-b0fe-ed15ed84302d",
+                "name": "ounce",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "oz",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.919838",
+                "updateAt": "2024-05-13T12:27:05.285653"
+            },
+            "food": {
+                "id": "d9a322c3-fd8e-4b39-809f-abcbd76b8062",
+                "name": "water",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": null,
+                "aliases": [],
+                "label": null,
+                "createdAt": "2024-04-27T02:31:21.445759",
+                "updateAt": "2024-04-27T03:05:36.520887"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "25 oz water",
+            "title": "",
+            "originalText": "25.0 ounce water",
+            "referenceId": "2b48e13b-bdd2-4173-8254-dcbcdfd1754f"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "26f561cf-9bea-435b-9348-8ddd9cf0590b",
+                "name": "oregano",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:48.559994",
+                "updateAt": "2024-04-27T03:06:37.316798"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 tsp oregano",
+            "title": "",
+            "originalText": "1.0 teaspoon oregano",
+            "referenceId": "70c7e059-63f0-469f-a78c-f1202b519bf0"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "84bd4e93-0857-4ba8-91ac-3b8eec13f415",
+                "name": "basil",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:30.910641",
+                "updateAt": "2024-04-27T03:15:30.128287"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 tsp basil",
+            "title": "",
+            "originalText": "1.0 teaspoon basil",
+            "referenceId": "12a22564-51b0-418d-8138-8f6bc217f2a5"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "4643f54f-dd32-473a-bd10-b100dfafceba",
+                "name": "adobo",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-27T02:32:07.257395",
+                "updateAt": "2024-04-27T03:03:54.880978"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 tsp adobo",
+            "title": "",
+            "originalText": "1.0 teaspoon adobo seasoning",
+            "referenceId": "dd710b00-135a-44d6-bf8d-a41f811197aa"
+        },
+        {
+            "quantity": 5.0,
+            "unit": {
+                "id": "d2ec378b-608b-4e61-b0fe-ed15ed84302d",
+                "name": "ounce",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "oz",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.919838",
+                "updateAt": "2024-05-13T12:27:05.285653"
+            },
+            "food": {
+                "id": "6cb06d67-ab07-4093-8bb2-faee61e16851",
+                "name": "pasta shells",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "aliases": [],
+                "label": {
+                    "name": "Pasta",
+                    "color": "#cd1652",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8"
+                },
+                "createdAt": "2024-04-30T00:28:18.620968",
+                "updateAt": "2024-04-30T01:51:30.012652"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "5 oz pasta shells",
+            "title": "",
+            "originalText": "5.0 ounce shells",
+            "referenceId": "5c552fec-1467-48ed-8ca7-b2b938e1cb6c"
+        },
+        {
+            "quantity": 0.0,
+            "unit": null,
+            "food": {
+                "id": "9d0467ab-477b-4281-a39b-947c5ed0f6ed",
+                "name": "parmesan cheese",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "aliases": [],
+                "label": {
+                    "name": "Pasta",
+                    "color": "#cd1652",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8"
+                },
+                "createdAt": "2024-04-29T13:13:29.729126",
+                "updateAt": "2024-04-30T01:53:22.096219"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "parmesan cheese",
+            "title": "",
+            "originalText": "none garnish grated parmisean cheese",
+            "referenceId": "dff62945-4319-429a-aa18-a87cf52eed31"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "59adc3a5-0e9c-4f1a-be70-0ae47d56bd6c",
+            "title": "",
+            "text": "Cover bottom of pot with olive oil",
+            "ingredientReferences": []
+        },
+        {
+            "id": "79fd5a55-e580-44ab-8fa3-38a9ed8c5c97",
+            "title": "",
+            "text": "Add garlic to oil",
+            "ingredientReferences": []
+        },
+        {
+            "id": "62da9a96-6f45-4203-8692-cd1eeb0dc9c1",
+            "title": "",
+            "text": "Turn on medium and spread paste around.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "064f6825-9ae8-4d90-8ee0-7094d13f3831",
+            "title": "",
+            "text": "When oil is hot, dump in white beans, clams and diced tomatoes (Italian spiced)",
+            "ingredientReferences": []
+        },
+        {
+            "id": "0d5c7692-4e97-4e9f-b4fb-acb9e5e97557",
+            "title": "",
+            "text": "Extra liquid is required, so refill each can about half way to get all the clinging bits and dump that in as well.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "5320b5ef-05dd-4099-877c-3865f81a638d",
+            "title": "",
+            "text": "Add Basil, Oregano and Adobo sprinkle to cover surface.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "b0305e03-560b-4511-afa7-73b1e65474ed",
+            "title": "",
+            "text": "Turn to high.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "02911015-2b4a-44a1-88de-ed0f80a49a67",
+            "title": "",
+            "text": "When boiling, add 1/3 to 1/2 of pasta shells box (5-6.5 oz), depending on how much pasta-to-other-stuff you want.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "7a4257bd-c751-4c9b-9b09-b900b7ffb071",
+            "title": "",
+            "text": "Lower to simmer, cover and cook for the time on the shells box <u>minus 2 minutes</u>.  It's best to stir occasionally because pasta on the top will be steaming while the pasta on the bottom will be boiling.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "3575c6b2-5e9c-47b5-835b-6fdd42600c84",
+            "title": "",
+            "text": "Turn off heat and let sit for 10 minutes to absorb rest of liquid.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "97ae533e-76ac-44d9-a87f-24cddad413f8",
+            "title": "",
+            "text": "Enjoy, makes 2-3 meals.  Refrigerate and reheat in pot.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "cccf335c-3e2a-4cca-b463-9f65112bdf51",
+            "title": "",
+            "text": "Garnish with grated parmisan cheese",
+            "ingredientReferences": []
+        }
+    ],
+    "nutrition": {
+        "calories": null,
+        "fatContent": null,
+        "proteinContent": null,
+        "carbohydrateContent": null,
+        "fiberContent": null,
+        "sodiumContent": null,
+        "sugarContent": null
+    },
+    "settings": {
+        "public": true,
+        "showNutrition": false,
+        "showAssets": false,
+        "landscapeView": false,
+        "disableComments": false,
+        "disableAmount": false,
+        "locked": false
+    },
+    "assets": [],
+    "notes": [
+        {
+            "title": "",
+            "text": "With Dried Beans and unsalted tomatoes:\n* added 1 tsp orgeno, basil and garlic (meant to do 1/2, oops)\n* full adobo coverage\n* Add the whole container full of water not just half, since the cans are packed in liquid.\n"
+        }
+    ],
+    "extras": {},
+    "comments": []
+}

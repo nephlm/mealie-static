@@ -1,0 +1,550 @@
+{
+    "id": "f0f8c2cf-e347-422f-a8c1-62cb466dcf0d",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "name": "Cajun Chicken Alfredo",
+    "slug": "cajun-chicken-alfredo",
+    "image": null,
+    "recipeYield": null,
+    "totalTime": null,
+    "prepTime": "10 min",
+    "cookTime": null,
+    "performTime": "25 min",
+    "description": "",
+    "recipeCategory": [
+        {
+            "id": "5b7f4cd2-5d0e-440e-8e88-64ad06d1aad1",
+            "name": "entree",
+            "slug": "entree"
+        }
+    ],
+    "tags": [
+        {
+            "id": "e1c1c1a2-7783-4dc2-979e-a6f35e1c17e9",
+            "name": "Needs Pic",
+            "slug": "needs-pic"
+        },
+        {
+            "id": "fb90d11f-22a5-4df2-9531-1e575038aa7a",
+            "name": "Italian",
+            "slug": "italian"
+        }
+    ],
+    "tools": [],
+    "rating": 2.0,
+    "orgURL": "www.recipezaar.com",
+    "dateAdded": "2024-04-29",
+    "dateUpdated": "2024-04-29T13:18:58.508587",
+    "createdAt": "2024-04-29T01:39:25.680967",
+    "updateAt": "2024-04-29T13:18:58.511744",
+    "lastMade": null,
+    "recipeIngredient": [
+        {
+            "quantity": 2.0,
+            "unit": null,
+            "food": {
+                "id": "e830c89b-eeb4-4a3d-b69e-b2f988e0682a",
+                "name": "chicken breasts",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
+                "aliases": [],
+                "label": {
+                    "name": "Meat",
+                    "color": "#be2f02",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "13258664-db75-4091-a629-d51f0a89797c"
+                },
+                "createdAt": "2024-04-29T12:56:02.667962",
+                "updateAt": "2024-04-30T01:54:13.862241"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 chicken breasts",
+            "title": "",
+            "originalText": "2.0 boneless chicken breasts",
+            "referenceId": "2629a82c-5a0f-438f-be8f-f121b5f73fc1"
+        },
+        {
+            "quantity": 0.125,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "27fcdf3d-7471-4ea7-9056-1a4342841761",
+                "name": "butter",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "aliases": [],
+                "label": {
+                    "name": "Dairy Products",
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f"
+                },
+                "createdAt": "2024-04-26T19:32:50.494673",
+                "updateAt": "2024-04-27T03:06:51.864313"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2088 cup butter",
+            "title": "",
+            "originalText": "0.125 cup butter",
+            "referenceId": "e51b338b-b4c6-4353-8960-f0a394cbf7f5"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "7356820e-d0ce-4c1d-9c4a-0f08320e7290",
+                "name": "half and half",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "aliases": [],
+                "label": {
+                    "name": "Dairy Products",
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f"
+                },
+                "createdAt": "2024-04-29T13:11:54.302819",
+                "updateAt": "2024-04-30T01:53:37.791039"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 cup half and half",
+            "title": "",
+            "originalText": "1.0 cup half and half",
+            "referenceId": "d10816ab-510c-4917-932f-ea838be031a2"
+        },
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "d2ec378b-608b-4e61-b0fe-ed15ed84302d",
+                "name": "ounce",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "oz",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.919838",
+                "updateAt": "2024-05-13T12:27:05.285653"
+            },
+            "food": {
+                "id": "507a9da3-3882-4b90-b4ff-746f75651b62",
+                "name": "cream cheese",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "aliases": [],
+                "label": {
+                    "name": "Dairy Products",
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f"
+                },
+                "createdAt": "2024-04-29T13:12:56.094575",
+                "updateAt": "2024-04-30T01:53:30.473715"
+            },
+            "note": "2-4 oz",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 oz cream cheese 2-4 oz",
+            "title": "",
+            "originalText": "2.0 ounce cream cheese",
+            "referenceId": "6619f664-d87f-42da-9767-9be62bd5c866"
+        },
+        {
+            "quantity": 0.125,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "9d0467ab-477b-4281-a39b-947c5ed0f6ed",
+                "name": "parmesan cheese",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "aliases": [],
+                "label": {
+                    "name": "Pasta",
+                    "color": "#cd1652",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8"
+                },
+                "createdAt": "2024-04-29T13:13:29.729126",
+                "updateAt": "2024-04-30T01:53:22.096219"
+            },
+            "note": "grated",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2088 cup parmesan cheese grated",
+            "title": "",
+            "originalText": "0.125 cup grated parmesan cheese",
+            "referenceId": "51cace1f-062c-4a43-9c2c-3e458a573dae"
+        },
+        {
+            "quantity": 4.0,
+            "unit": {
+                "id": "d2ec378b-608b-4e61-b0fe-ed15ed84302d",
+                "name": "ounce",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "oz",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.919838",
+                "updateAt": "2024-05-13T12:27:05.285653"
+            },
+            "food": {
+                "id": "887d6ccd-7088-447d-857a-d7b4c40a4719",
+                "name": "fettuccine",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "aliases": [],
+                "label": {
+                    "name": "Pasta",
+                    "color": "#cd1652",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8"
+                },
+                "createdAt": "2024-04-29T13:13:51.878902",
+                "updateAt": "2024-04-30T01:53:14.904843"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "4 oz fettuccine",
+            "title": "",
+            "originalText": "4.0 ounce fettuccine",
+            "referenceId": "ed148bc1-5d88-4d3f-b53b-c8834da3c6f4"
+        },
+        {
+            "quantity": 0.5,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "b23ef96b-f10d-48a0-87e6-63e1ff9b111e",
+                "name": "pepper",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [
+                    {
+                        "name": "black pepper"
+                    }
+                ],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:43.184271",
+                "updateAt": "2024-04-27T03:08:33.535970"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 tsp pepper",
+            "title": "",
+            "originalText": "0.5 teaspoon black pepper",
+            "referenceId": "57e5dc38-7206-47da-85c1-447e0dba7724"
+        },
+        {
+            "quantity": 0.5,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "587cccf7-b102-46d0-a598-acb38cb2de8c",
+                "name": "cayenne pepper",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:38.727699",
+                "updateAt": "2024-04-27T03:08:25.782853"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 tsp cayenne pepper",
+            "title": "",
+            "originalText": "0.5 teaspoon cayenne pepper",
+            "referenceId": "6c2460a0-28f0-4ec6-ba57-fdd55bb79ac8"
+        },
+        {
+            "quantity": 0.5,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "de09ad78-8460-446f-88c8-abb398544766",
+                "name": "onion powder",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-29T13:14:34.621701",
+                "updateAt": "2024-04-30T01:53:08.588780"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 tsp onion powder",
+            "title": "",
+            "originalText": "0.5 teaspoon onion powder",
+            "referenceId": "f420b73a-29c7-48bf-a80b-2cb71149e451"
+        },
+        {
+            "quantity": 0.5,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "7620db51-f224-4809-89ff-e93bb91515b5",
+                "name": "paprika",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:55.859096",
+                "updateAt": "2024-05-13T12:17:13.658926"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 tsp paprika",
+            "title": "",
+            "originalText": "0.5 teaspoon paprika",
+            "referenceId": "6b214d49-5df0-4bf7-a222-be349f2c648c"
+        },
+        {
+            "quantity": 0.5,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "93fff357-8629-408a-a3da-f9c324cad9c4",
+                "name": "garlic powder",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-29T13:14:44.383401",
+                "updateAt": "2024-04-30T01:53:00.284312"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 tsp garlic powder",
+            "title": "",
+            "originalText": "0.5 teaspoon garlic powder",
+            "referenceId": "bb8c20d4-8b77-478f-9e81-20e4bc7cbc88"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "1e9989c3-cd20-4580-8fa1-4c5d266e7708",
+            "title": "",
+            "text": "Prepare noodles according to package directions and set aside.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "87077e17-4fd2-40df-9249-5eb2d269c35c",
+            "title": "",
+            "text": "Trim chicken breasts of fat and cut into bite sized pieces. (If doing restaurant style you may prefer to leave the breasts whole or cut into strips, up to you).",
+            "ingredientReferences": []
+        },
+        {
+            "id": "a438f259-d5f9-4429-ba6e-69e900ea6cb6",
+            "title": "",
+            "text": "Saute chicken in butter. If you are doing restaurant style us only 1-2 tbsp of butter, reserving the rest.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "ce22f102-f8e2-4400-9740-69789bbcad90",
+            "title": "",
+            "text": "Add cajun seasoning to chicken while it sautes, adding the ingredients to taste, you can always add more later.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "454b11a0-5fcd-418b-9719-1aec710e2658",
+            "title": "",
+            "text": "For family style, once chicken is cooked, stir in half and half or cream and cheeses. Bring to a low boil and stir until melted and creamy. Toss with pasta and serve!",
+            "ingredientReferences": []
+        },
+        {
+            "id": "b1737aa5-9c14-4a10-9aef-ec8d53b53e1c",
+            "title": "",
+            "text": "For restaurant style, melt remaining butter in a medium sauce pan, add half and half or cream. Melt in cheeses, stir to combine. Toss with pasta and place chicken on top.",
+            "ingredientReferences": []
+        }
+    ],
+    "nutrition": {
+        "calories": null,
+        "fatContent": null,
+        "proteinContent": null,
+        "carbohydrateContent": null,
+        "fiberContent": null,
+        "sodiumContent": null,
+        "sugarContent": null
+    },
+    "settings": {
+        "public": true,
+        "showNutrition": false,
+        "showAssets": false,
+        "landscapeView": false,
+        "disableComments": false,
+        "disableAmount": false,
+        "locked": false
+    },
+    "assets": [],
+    "notes": [
+        {
+            "title": "",
+            "text": "All but the chicken seems to the amount for a 1/4 of a full amount that should be in one recipe.\n\ncame out a bit hot and a bit watery.  Next time cut back on cayenne and let in simmer/reduce longer.\n"
+        }
+    ],
+    "extras": {},
+    "comments": []
+}

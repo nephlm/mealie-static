@@ -1,0 +1,777 @@
+{
+    "id": "9b9cb73b-58f6-4363-96ff-7ff739aa250a",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "name": "Seafood Paella",
+    "slug": "seafood-paella",
+    "image": null,
+    "recipeYield": "9",
+    "totalTime": null,
+    "prepTime": "30 min",
+    "cookTime": null,
+    "performTime": "30 min",
+    "description": "Paella recipe, not sure what year this is from.",
+    "recipeCategory": [
+        {
+            "id": "5b7f4cd2-5d0e-440e-8e88-64ad06d1aad1",
+            "name": "entree",
+            "slug": "entree"
+        }
+    ],
+    "tags": [
+        {
+            "id": "381093a7-0e3f-4516-86bb-34d7afa25ef6",
+            "name": "Seafood",
+            "slug": "seafood"
+        },
+        {
+            "id": "dc321406-a09c-48e1-8a52-97c1dafa5d00",
+            "name": "Family",
+            "slug": "family"
+        },
+        {
+            "id": "e1c1c1a2-7783-4dc2-979e-a6f35e1c17e9",
+            "name": "Needs Pic",
+            "slug": "needs-pic"
+        }
+    ],
+    "tools": [],
+    "rating": 5.0,
+    "orgURL": null,
+    "dateAdded": "2024-04-30",
+    "dateUpdated": "2024-04-30T20:14:42.503501",
+    "createdAt": "2024-04-30T01:17:13.894180",
+    "updateAt": "2024-04-30T20:14:42.505874",
+    "lastMade": null,
+    "recipeIngredient": [
+        {
+            "quantity": 3.0,
+            "unit": null,
+            "food": {
+                "id": "1e397cd3-35eb-4c64-b8cf-b40dfc61cd0b",
+                "name": "onion",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "aliases": [],
+                "label": {
+                    "name": "Frozen Foods",
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726"
+                },
+                "createdAt": "2024-04-26T19:32:21.362752",
+                "updateAt": "2024-04-27T03:18:52.550301"
+            },
+            "note": "browned",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "3 onion browned",
+            "title": "",
+            "originalText": "3.0 browned onions",
+            "referenceId": "a7028454-1c65-4474-89c2-fb1d49adb71b"
+        },
+        {
+            "quantity": 1.0,
+            "unit": null,
+            "food": {
+                "id": "5fc2dc18-46db-4b96-9680-6484a76b9093",
+                "name": "red pepper",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "aliases": [],
+                "label": {
+                    "name": "Produce",
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
+                },
+                "createdAt": "2024-04-29T23:56:11.556967",
+                "updateAt": "2024-04-30T00:03:47.195518"
+            },
+            "note": "or green",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 red pepper or green",
+            "title": "",
+            "originalText": "1.0 pepper (red (or green))",
+            "referenceId": "758f0948-32aa-49b9-903c-70f326e4b7e2"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
+                "name": "pound",
+                "pluralName": "pounds",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "lb",
+                "pluralAbbreviation": "lbs",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.726674",
+                "updateAt": "2024-05-02T12:28:24.776546"
+            },
+            "food": {
+                "id": "5501b50d-863d-4d1d-b81e-a7ddb553945d",
+                "name": "Italian Sausage",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
+                "aliases": [],
+                "label": {
+                    "name": "Meat",
+                    "color": "#be2f02",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "13258664-db75-4091-a629-d51f0a89797c"
+                },
+                "createdAt": "2024-04-30T00:11:04.825124",
+                "updateAt": "2024-04-30T01:50:17.498418"
+            },
+            "note": "bulk",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 lb Italian Sausage bulk",
+            "title": "",
+            "originalText": "1.0 lbs bulk hot sausage",
+            "referenceId": "e209852b-8355-4839-a675-5756cee03f66"
+        },
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
+                "name": "pound",
+                "pluralName": "pounds",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "lb",
+                "pluralAbbreviation": "lbs",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.726674",
+                "updateAt": "2024-05-02T12:28:24.776546"
+            },
+            "food": {
+                "id": "483778ee-140a-4144-b25e-87257aedc491",
+                "name": "seafood",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": null,
+                "aliases": [],
+                "label": null,
+                "createdAt": "2024-04-26T19:32:39.748804",
+                "updateAt": "2024-04-26T19:32:39.748808"
+            },
+            "note": "calamari, scallops, cod",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 lbs seafood calamari, scallops, cod",
+            "title": "",
+            "originalText": "2.0 lbs frozen mixed seafood (calamari, scallops, cod)",
+            "referenceId": "2e3dc368-59e1-4098-bd1b-f9c025ea4478"
+        },
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "1a8c449b-027a-452f-b3bd-40f335bde503",
+                "name": "filet",
+                "pluralName": "filets",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-30T00:14:49.287759",
+                "updateAt": "2024-05-13T12:25:12.568193"
+            },
+            "food": {
+                "id": "3dc03f6d-e39b-471e-8d30-15b1b77bdb3c",
+                "name": "cod",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": null,
+                "aliases": [],
+                "label": null,
+                "createdAt": "2024-04-26T19:32:47.210932",
+                "updateAt": "2024-04-26T19:32:47.210935"
+            },
+            "note": "small",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 filets cod small",
+            "title": "",
+            "originalText": "2.0 small filet cod",
+            "referenceId": "148add62-5c2d-4ed1-832b-8b5dbe1305c9"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "237f6be2-5e4b-4583-8e04-c9e298c3ac21",
+                "name": "bag",
+                "pluralName": "bags",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-27T02:34:36.952058",
+                "updateAt": "2024-05-13T12:25:27.496645"
+            },
+            "food": {
+                "id": "a0c963fc-e246-4644-b8c2-a2c871d5187f",
+                "name": "mussels",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": null,
+                "aliases": [],
+                "label": null,
+                "createdAt": "2024-04-26T19:32:46.789715",
+                "updateAt": "2024-04-26T19:32:46.789720"
+            },
+            "note": "(unknown size)",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 bag mussels (unknown size)",
+            "title": "",
+            "originalText": "1.0 bag of mussels",
+            "referenceId": "56dd1f52-b3c9-4b19-91d0-9dc2ca6ed66a"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
+                "name": "pound",
+                "pluralName": "pounds",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "lb",
+                "pluralAbbreviation": "lbs",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.726674",
+                "updateAt": "2024-05-02T12:28:24.776546"
+            },
+            "food": {
+                "id": "a06ed6fb-7574-45ea-8483-bfd0d8b98260",
+                "name": "shrimp",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
+                "aliases": [],
+                "label": {
+                    "name": "Meat",
+                    "color": "#be2f02",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "13258664-db75-4091-a629-d51f0a89797c"
+                },
+                "createdAt": "2024-04-30T20:07:04.721416",
+                "updateAt": "2024-04-30T20:26:51.166182"
+            },
+            "note": "(pre-cooked)",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 lb shrimp (pre-cooked)",
+            "title": "",
+            "originalText": "1.0 lbs pre-cooked shrimp",
+            "referenceId": "90920caa-e33a-4623-b5a8-c80ed369ff28"
+        },
+        {
+            "quantity": 1.75,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "85a8de4c-7718-4605-9853-9043520d7467",
+                "name": "rice",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "aliases": [],
+                "label": {
+                    "name": "Pasta",
+                    "color": "#cd1652",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8"
+                },
+                "createdAt": "2024-04-26T19:32:25.399883",
+                "updateAt": "2024-04-27T03:17:34.167267"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 \u00b3/\u2084 cups rice",
+            "title": "",
+            "originalText": "1.75 cups rice",
+            "referenceId": "b4d2fd6d-e561-4885-8f88-3c6a81a1094e"
+        },
+        {
+            "quantity": 1.5,
+            "unit": {
+                "id": "2070ce8c-85af-45c9-b4ef-22d8f0daa969",
+                "name": "quart",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "qt",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.054536",
+                "updateAt": "2024-05-13T12:27:39.303216"
+            },
+            "food": {
+                "id": "c7a85ae8-3c6f-4bd1-9162-f425edd8c23a",
+                "name": "chicken broth",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-29T12:55:48.093285",
+                "updateAt": "2024-04-30T01:54:19.435207"
+            },
+            "note": "or fish broth",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 \u00b9/\u2082 qt chicken broth or fish broth",
+            "title": "",
+            "originalText": "1.5 qts chicken broth (or fish broth)",
+            "referenceId": "2f391f7e-5a4e-428d-b1a5-f2395e6b9fd1"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "94661c62-5523-4f5c-aa77-b8a7536ef03b",
+                "name": "can",
+                "pluralName": "cans",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:12.664803",
+                "updateAt": "2024-05-13T12:25:48.960493"
+            },
+            "food": {
+                "id": "69622eea-3935-4d27-91a8-d1f30ac20746",
+                "name": "tomato ",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "aliases": [],
+                "label": {
+                    "name": "Produce",
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
+                },
+                "createdAt": "2024-04-26T19:32:18.483079",
+                "updateAt": "2024-04-27T03:19:35.365817"
+            },
+            "note": "diced, salt free",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 can tomato  diced, salt free",
+            "title": "",
+            "originalText": "1.0 can diced tomatoes (salt free)",
+            "referenceId": "cb1eb317-70f3-416b-b65e-f94e32c86ed7"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "195e7e83-0195-40e4-815e-6c7cd47ac3a9",
+                "name": "bunch",
+                "pluralName": "bunches",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-27T11:42:55.765925",
+                "updateAt": "2024-05-13T12:25:21.687410"
+            },
+            "food": {
+                "id": "1acaf9fa-93ce-4351-86f6-19b042ca39c8",
+                "name": "scallion",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "aliases": [],
+                "label": {
+                    "name": "Produce",
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
+                },
+                "createdAt": "2024-04-26T19:32:15.414557",
+                "updateAt": "2024-04-27T03:19:19.445681"
+            },
+            "note": "(green part)",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 bunch scallion (green part)",
+            "title": "",
+            "originalText": "1.0 bunch of scallions (green part)",
+            "referenceId": "8b41af2f-97c8-4791-9bdd-942df2d8d732"
+        },
+        {
+            "quantity": 0.0,
+            "unit": null,
+            "food": {
+                "id": "4643f54f-dd32-473a-bd10-b100dfafceba",
+                "name": "adobo",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-27T02:32:07.257395",
+                "updateAt": "2024-04-27T03:03:54.880978"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "adobo",
+            "title": "",
+            "originalText": "none adobo",
+            "referenceId": "04e8ed27-a0f4-423a-a399-4b20d45c7d26"
+        },
+        {
+            "quantity": 0.06,
+            "unit": {
+                "id": "d2ec378b-608b-4e61-b0fe-ed15ed84302d",
+                "name": "ounce",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "oz",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.919838",
+                "updateAt": "2024-05-13T12:27:05.285653"
+            },
+            "food": {
+                "id": "c819c37d-3428-422e-a408-bcae0fa6a2e5",
+                "name": "saffron",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-30T20:08:17.090236",
+                "updateAt": "2024-04-30T20:26:42.911857"
+            },
+            "note": "the whoe bottle",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2081\u2087 oz saffron the whoe bottle",
+            "title": "",
+            "originalText": "0.06 ounce bottle saffron",
+            "referenceId": "456c9620-376d-4747-a9d0-ab62abfae534"
+        },
+        {
+            "quantity": 0.0,
+            "unit": null,
+            "food": {
+                "id": "ee8687a8-c250-4808-9b66-5f8a39b78106",
+                "name": "achiote",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-30T20:08:58.596589",
+                "updateAt": "2024-04-30T20:26:35.152422"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "achiote",
+            "title": "",
+            "originalText": "none achiote",
+            "referenceId": "67092700-2175-48a8-82ca-3cba1a33e7c9"
+        },
+        {
+            "quantity": 4.0,
+            "unit": {
+                "id": "f860cec4-a431-41b7-8ddc-0035e4be52c2",
+                "name": "clove",
+                "pluralName": "cloves",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:12.511215",
+                "updateAt": "2024-05-13T12:25:56.749590"
+            },
+            "food": {
+                "id": "fd860af3-2047-4ffc-be87-65cbeb97ce1e",
+                "name": "garlic",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:35.923453",
+                "updateAt": "2024-04-27T03:14:08.683777"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "4 cloves garlic",
+            "title": "",
+            "originalText": "4.0 cloves of garlic",
+            "referenceId": "02252cd7-f32e-4232-9921-e721d5071989"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
+                "name": "pound",
+                "pluralName": "pounds",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "lb",
+                "pluralAbbreviation": "lbs",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.726674",
+                "updateAt": "2024-05-02T12:28:24.776546"
+            },
+            "food": {
+                "id": "cc1820ef-425f-43d7-9407-f221279897ba",
+                "name": "chicken",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
+                "aliases": [],
+                "label": {
+                    "name": "Meat",
+                    "color": "#be2f02",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "13258664-db75-4091-a629-d51f0a89797c"
+                },
+                "createdAt": "2024-04-27T02:34:58.638668",
+                "updateAt": "2024-04-27T03:04:42.786511"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 lb chicken",
+            "title": "",
+            "originalText": "1.0 lbs chicken",
+            "referenceId": "488b408e-065d-412d-9f06-6ef0aec290c2"
+        },
+        {
+            "quantity": 0.5,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "90bbaa11-3dc1-4748-9609-1162f3975a55",
+                "name": "smoked paprika",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-30T20:10:07.690026",
+                "updateAt": "2024-04-30T20:26:29.472616"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 tsp smoked paprika",
+            "title": "",
+            "originalText": "0.5 teaspoon smoked paprika",
+            "referenceId": "aa5ce6cd-6df8-4d8d-afbd-a8a278126a08"
+        },
+        {
+            "quantity": 0.0,
+            "unit": null,
+            "food": {
+                "id": "b23ef96b-f10d-48a0-87e6-63e1ff9b111e",
+                "name": "pepper",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [
+                    {
+                        "name": "black pepper"
+                    }
+                ],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:43.184271",
+                "updateAt": "2024-04-27T03:08:33.535970"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "pepper",
+            "title": "",
+            "originalText": "none pepper",
+            "referenceId": "878d8d48-06c2-4a34-a816-2579ee41042d"
+        },
+        {
+            "quantity": 0.0,
+            "unit": null,
+            "food": {
+                "id": "b50dc0f0-d525-4279-afaf-a329f6599183",
+                "name": "tamarc",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-30T20:10:28.535920",
+                "updateAt": "2024-04-30T20:26:23.202975"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "tamarc",
+            "title": "",
+            "originalText": "none tamarac",
+            "referenceId": "2e4e7341-8250-46b1-bc96-9cbfb700f3d6"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "0ca3ec09-56ca-45c5-b2a5-a62e52516420",
+            "title": "",
+            "text": "* brown onions in olive oil\n* add pepper when onions 2/3rd done\n* add Sausage, chicken, garlic and adobo when peppers are mostly done\n* Mix rice with other spices\n* add rice, saut\u00e9 for 3-5 minutes until it starts getting white\n* add broth, tomatoes, scallions\n* Let cook until liquid level is at desired level\n* Add flounder (and chicken)\n* add mixed seafood\n* add mussels\n* add pre-cooked shrimp\n* lets stand for 10 minutes",
+            "ingredientReferences": []
+        }
+    ],
+    "nutrition": {
+        "calories": null,
+        "fatContent": null,
+        "proteinContent": null,
+        "carbohydrateContent": null,
+        "fiberContent": null,
+        "sodiumContent": null,
+        "sugarContent": null
+    },
+    "settings": {
+        "public": true,
+        "showNutrition": false,
+        "showAssets": false,
+        "landscapeView": false,
+        "disableComments": false,
+        "disableAmount": false,
+        "locked": false
+    },
+    "assets": [],
+    "notes": [
+        {
+            "title": "",
+            "text": "adobe and pepper cover surface.\n\nTamarac can be used in place of achiote... a double cover of the surface.\n"
+        },
+        {
+            "title": "2020 Ingredients",
+            "text": "* 2 lbs pre-cooked shrimp\n* 1 lb sausage\n* 1 lb cod fillet\n* 2 lbs scallops\n* 2 cans baby clams (juice was added during broth phase)\n* 1 qt seafood broth and clam juice (see above)\n* 1 red pepper, 2 green\n* 3 small onions\n* no scallion, no chicken\n"
+        }
+    ],
+    "extras": {},
+    "comments": []
+}

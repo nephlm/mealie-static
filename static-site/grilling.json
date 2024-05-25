@@ -1,0 +1,326 @@
+{
+    "id": "7b1e557b-b69b-4c2d-9323-63821fefae2f",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "name": "Grilling",
+    "slug": "grilling",
+    "image": null,
+    "recipeYield": "6",
+    "totalTime": "",
+    "prepTime": "15 min",
+    "cookTime": null,
+    "performTime": "30 min",
+    "description": "",
+    "recipeCategory": [],
+    "tags": [],
+    "tools": [
+        {
+            "id": "db4db060-c23b-4a1f-9c64-bc99c123f0ff",
+            "name": "Grill",
+            "slug": "grill",
+            "onHand": false
+        }
+    ],
+    "rating": 5.0,
+    "orgURL": null,
+    "dateAdded": "2024-04-26",
+    "dateUpdated": "2024-04-27T03:44:27.659151",
+    "createdAt": "2024-04-26T19:41:50.632191",
+    "updateAt": "2024-05-25T11:59:32.526274",
+    "lastMade": null,
+    "recipeIngredient": [
+        {
+            "quantity": 3.0,
+            "unit": {
+                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
+                "name": "pound",
+                "pluralName": "pounds",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "lb",
+                "pluralAbbreviation": "lbs",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.726674",
+                "updateAt": "2024-05-02T12:28:24.776546"
+            },
+            "food": {
+                "id": "692064f2-ac98-45bf-aa3c-d474b869e79d",
+                "name": "ground beef",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
+                "aliases": [],
+                "label": {
+                    "name": "Meat",
+                    "color": "#be2f02",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "13258664-db75-4091-a629-d51f0a89797c"
+                },
+                "createdAt": "2024-04-26T19:43:28.852645",
+                "updateAt": "2024-04-26T19:47:54.745662"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "3 lbs ground beef",
+            "title": null,
+            "originalText": null,
+            "referenceId": "b6c3f4b4-d7cb-4f00-9ae0-07407705d26f"
+        },
+        {
+            "quantity": 8.0,
+            "unit": null,
+            "food": {
+                "id": "49bdc6d2-b24c-4a0c-925b-080516c7433f",
+                "name": "Hot Dog",
+                "pluralName": "Hot Dogs",
+                "description": "",
+                "extras": {},
+                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
+                "aliases": [],
+                "label": {
+                    "name": "Meat",
+                    "color": "#be2f02",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "13258664-db75-4091-a629-d51f0a89797c"
+                },
+                "createdAt": "2024-04-26T19:44:04.004552",
+                "updateAt": "2024-04-26T19:48:24.405304"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "8 Hot Dogs",
+            "title": "",
+            "originalText": null,
+            "referenceId": "53873ea4-2dd2-431c-971b-1b132be98e69"
+        },
+        {
+            "quantity": 8.0,
+            "unit": null,
+            "food": {
+                "id": "d8246277-2104-4ba0-b599-314061281343",
+                "name": "Hamburger Buns",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "be29b677-1d21-4f67-8954-0357c7300d50",
+                "aliases": [],
+                "label": {
+                    "name": "Breads",
+                    "color": "#d7771e",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "be29b677-1d21-4f67-8954-0357c7300d50"
+                },
+                "createdAt": "2024-04-26T19:44:41.560301",
+                "updateAt": "2024-04-26T19:49:22.467543"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "8 Hamburger Buns",
+            "title": "",
+            "originalText": null,
+            "referenceId": "9677e8a9-046a-4786-b15e-30b42463ae84"
+        },
+        {
+            "quantity": 8.0,
+            "unit": null,
+            "food": {
+                "id": "48006cd5-be78-4ee9-bfa8-74947c676d42",
+                "name": "Hot Dog buns",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "be29b677-1d21-4f67-8954-0357c7300d50",
+                "aliases": [],
+                "label": {
+                    "name": "Breads",
+                    "color": "#d7771e",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "be29b677-1d21-4f67-8954-0357c7300d50"
+                },
+                "createdAt": "2024-04-26T19:45:11.431627",
+                "updateAt": "2024-04-26T19:48:57.914666"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "8 Hot Dog buns",
+            "title": "",
+            "originalText": null,
+            "referenceId": "243dc28b-3fcd-42a0-9ac0-91b7ef97ffbd"
+        },
+        {
+            "quantity": 5.0,
+            "unit": {
+                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
+                "name": "pound",
+                "pluralName": "pounds",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "lb",
+                "pluralAbbreviation": "lbs",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.726674",
+                "updateAt": "2024-05-02T12:28:24.776546"
+            },
+            "food": {
+                "id": "37832f9d-9a7f-46ba-8008-318e4b203c17",
+                "name": "potatoes",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "aliases": [],
+                "label": {
+                    "name": "Produce",
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
+                },
+                "createdAt": "2024-04-26T19:32:39.537591",
+                "updateAt": "2024-04-26T19:51:52.650876"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "5 lbs potatoes",
+            "title": "",
+            "originalText": null,
+            "referenceId": "352374b9-7b9d-43f6-9887-5af047833d15"
+        },
+        {
+            "quantity": 8.0,
+            "unit": {
+                "id": "2dd32cde-24c5-4a3a-8732-606b68ac73ac",
+                "name": "slice",
+                "pluralName": "slices",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:53:08.920331",
+                "updateAt": "2024-05-13T12:25:38.033788"
+            },
+            "food": {
+                "id": "cda8485d-c439-40df-8a19-3a97c4511ab7",
+                "name": "cheese",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "aliases": [],
+                "label": {
+                    "name": "Dairy Products",
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f"
+                },
+                "createdAt": "2024-04-26T19:32:26.395935",
+                "updateAt": "2024-04-27T03:17:53.832874"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "8 slices cheese",
+            "title": "",
+            "originalText": null,
+            "referenceId": "9908b742-276d-4565-85b8-3e110d876c79"
+        },
+        {
+            "quantity": 1.0,
+            "unit": null,
+            "food": {
+                "id": "69622eea-3935-4d27-91a8-d1f30ac20746",
+                "name": "tomato ",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "aliases": [],
+                "label": {
+                    "name": "Produce",
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
+                },
+                "createdAt": "2024-04-26T19:32:18.483079",
+                "updateAt": "2024-04-27T03:19:35.365817"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 tomato",
+            "title": "",
+            "originalText": null,
+            "referenceId": "3a835aed-cdfe-4b68-8cb6-d9799bd5f2ef"
+        },
+        {
+            "quantity": 1.0,
+            "unit": null,
+            "food": {
+                "id": "cfc31e6a-3fe2-436d-a211-198c2ee97931",
+                "name": "lettuce",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "aliases": [],
+                "label": {
+                    "name": "Produce",
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
+                },
+                "createdAt": "2024-04-26T19:32:40.324142",
+                "updateAt": "2024-04-27T03:45:53.249418"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 lettuce",
+            "title": "",
+            "originalText": null,
+            "referenceId": "b04ede8f-ca2c-4510-9bcc-4f2fe63c8c61"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "0c114b89-3552-4c9d-8fbe-1f5d0b02519f",
+            "title": "",
+            "text": "Recipe steps as well as other fields in the recipe page support markdown syntax.\n\n**Add a link**\n\n[My Link](https://demo.mealie.io)\n\n",
+            "ingredientReferences": []
+        }
+    ],
+    "nutrition": {
+        "calories": null,
+        "fatContent": null,
+        "proteinContent": null,
+        "carbohydrateContent": null,
+        "fiberContent": null,
+        "sodiumContent": null,
+        "sugarContent": null
+    },
+    "settings": {
+        "public": true,
+        "showNutrition": false,
+        "showAssets": false,
+        "landscapeView": false,
+        "disableComments": false,
+        "disableAmount": false,
+        "locked": false
+    },
+    "assets": [],
+    "notes": [],
+    "extras": {},
+    "comments": []
+}

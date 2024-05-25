@@ -1,0 +1,605 @@
+{
+    "id": "ffe8e534-a05b-42de-a833-e05d67c02169",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "name": "Week's Sundries",
+    "slug": "week-s-sundries",
+    "image": null,
+    "recipeYield": null,
+    "totalTime": null,
+    "prepTime": null,
+    "cookTime": null,
+    "performTime": null,
+    "description": "",
+    "recipeCategory": [
+        {
+            "id": "528184fc-6756-4323-a0c3-ece1c3a4dc9e",
+            "name": "shopping",
+            "slug": "shopping"
+        }
+    ],
+    "tags": [
+        {
+            "id": "e1c1c1a2-7783-4dc2-979e-a6f35e1c17e9",
+            "name": "Needs Pic",
+            "slug": "needs-pic"
+        }
+    ],
+    "tools": [],
+    "rating": null,
+    "orgURL": null,
+    "dateAdded": "2024-04-30",
+    "dateUpdated": "2024-04-30T20:24:09.550002",
+    "createdAt": "2024-04-30T00:53:17.648795",
+    "updateAt": "2024-04-30T20:24:09.552359",
+    "lastMade": null,
+    "recipeIngredient": [
+        {
+            "quantity": 2.5,
+            "unit": {
+                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
+                "name": "pound",
+                "pluralName": "pounds",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "lb",
+                "pluralAbbreviation": "lbs",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.726674",
+                "updateAt": "2024-05-02T12:28:24.776546"
+            },
+            "food": {
+                "id": "e8b93746-8843-4547-a6c3-0911d1f9c48e",
+                "name": "grapes",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "aliases": [],
+                "label": {
+                    "name": "Produce",
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
+                },
+                "createdAt": "2024-04-30T20:20:38.430985",
+                "updateAt": "2024-04-30T20:26:03.942227"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 \u00b9/\u2082 lbs grapes",
+            "title": "",
+            "originalText": "2.5 lbs bag grapes",
+            "referenceId": "db677ef8-a52e-46c7-97e5-6fca0290a9a7"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
+                "name": "pound",
+                "pluralName": "pounds",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "lb",
+                "pluralAbbreviation": "lbs",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.726674",
+                "updateAt": "2024-05-02T12:28:24.776546"
+            },
+            "food": {
+                "id": "a22ede96-a507-486e-89f5-fc2184062be4",
+                "name": "carrot",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "aliases": [],
+                "label": {
+                    "name": "Produce",
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
+                },
+                "createdAt": "2024-04-26T19:32:36.805146",
+                "updateAt": "2024-04-27T03:14:32.053074"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 lb carrot",
+            "title": "",
+            "originalText": "16.0 ounce carrots",
+            "referenceId": "fa7f9e04-9d9f-4e52-b8a8-818cab49beed"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "ef4fa795-bd9c-46ef-81bd-65a57e906fe1",
+                "name": "jar",
+                "pluralName": "jars",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-30T20:18:45.180773",
+                "updateAt": "2024-05-13T12:24:37.051214"
+            },
+            "food": {
+                "id": "daa73cf2-7063-448a-a16a-f900a12d9856",
+                "name": "pickles",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-27T12:27:52.977982",
+                "updateAt": "2024-04-27T12:30:33.097609"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 jar pickles",
+            "title": "",
+            "originalText": "16.0 ounce pickles",
+            "referenceId": "cf9b3a32-cadd-4928-adea-794f93e7c9d5"
+        },
+        {
+            "quantity": 8.0,
+            "unit": {
+                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
+                "name": "pound",
+                "pluralName": "pounds",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "lb",
+                "pluralAbbreviation": "lbs",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.726674",
+                "updateAt": "2024-05-02T12:28:24.776546"
+            },
+            "food": {
+                "id": "8014c894-5d75-4d79-a7d2-4b715d98926d",
+                "name": "oranges",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "aliases": [],
+                "label": {
+                    "name": "Produce",
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
+                },
+                "createdAt": "2024-04-26T19:32:57.501061",
+                "updateAt": "2024-04-27T03:06:04.190695"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "8 lbs oranges",
+            "title": "",
+            "originalText": "8.0 lbs oranges",
+            "referenceId": "56c78b67-91e0-46a2-bd94-f0723930fee8"
+        },
+        {
+            "quantity": 1.0,
+            "unit": null,
+            "food": {
+                "id": "9e38ee9e-fed0-40fb-950b-d44c8a56f3b2",
+                "name": "romaine lettuce",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "aliases": [],
+                "label": {
+                    "name": "Produce",
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
+                },
+                "createdAt": "2024-04-30T20:21:41.735975",
+                "updateAt": "2024-04-30T20:25:56.504196"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 romaine lettuce",
+            "title": "",
+            "originalText": "1.0 romaine lettuce",
+            "referenceId": "8402750f-9954-4da4-bcb7-c24cbc5b0101"
+        },
+        {
+            "quantity": 1.0,
+            "unit": null,
+            "food": {
+                "id": "5fc2dc18-46db-4b96-9680-6484a76b9093",
+                "name": "red pepper",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "aliases": [],
+                "label": {
+                    "name": "Produce",
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
+                },
+                "createdAt": "2024-04-29T23:56:11.556967",
+                "updateAt": "2024-04-30T00:03:47.195518"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 red pepper",
+            "title": "",
+            "originalText": "1.0 red pepper",
+            "referenceId": "154fe6ba-9f39-48f7-90ac-a9d7d5425b1e"
+        },
+        {
+            "quantity": 1.0,
+            "unit": null,
+            "food": {
+                "id": "4b1a5dc8-edfb-4882-aae4-819bc1122cb3",
+                "name": "cucumber",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "aliases": [],
+                "label": {
+                    "name": "Produce",
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
+                },
+                "createdAt": "2024-04-26T19:32:17.899950",
+                "updateAt": "2024-04-30T02:04:46.686427"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 cucumber",
+            "title": "",
+            "originalText": "1.0 cucumber",
+            "referenceId": "d230978c-2dc8-4b52-ab49-4c7ee664699a"
+        },
+        {
+            "quantity": 2.0,
+            "unit": null,
+            "food": {
+                "id": "69622eea-3935-4d27-91a8-d1f30ac20746",
+                "name": "tomato ",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "aliases": [],
+                "label": {
+                    "name": "Produce",
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
+                },
+                "createdAt": "2024-04-26T19:32:18.483079",
+                "updateAt": "2024-04-27T03:19:35.365817"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 tomato",
+            "title": "",
+            "originalText": "2.0 plum tomatoes",
+            "referenceId": "e356b434-4d4f-4cb1-a157-f3979f1242e2"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "195e7e83-0195-40e4-815e-6c7cd47ac3a9",
+                "name": "bunch",
+                "pluralName": "bunches",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-27T11:42:55.765925",
+                "updateAt": "2024-05-13T12:25:21.687410"
+            },
+            "food": {
+                "id": "93acbbe9-3ea9-4f6e-aae1-06c116126b32",
+                "name": "celery",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "aliases": [],
+                "label": {
+                    "name": "Produce",
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
+                },
+                "createdAt": "2024-04-26T19:32:50.103022",
+                "updateAt": "2024-04-27T03:07:16.816049"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 bunch celery",
+            "title": "",
+            "originalText": "none celery",
+            "referenceId": "89ac414e-8cb8-46e8-b94e-31338b00a060"
+        },
+        {
+            "quantity": 0.0,
+            "unit": null,
+            "food": {
+                "id": "e4f6ccd4-7314-462a-b8e3-e2e963665057",
+                "name": "mixed fruit",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "aliases": [],
+                "label": {
+                    "name": "Produce",
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
+                },
+                "createdAt": "2024-04-30T20:22:25.910456",
+                "updateAt": "2024-04-30T20:25:42.136886"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "mixed fruit",
+            "title": "",
+            "originalText": "none mixed fruit",
+            "referenceId": "40fcbcd3-f2bf-463a-9a2f-24668f7fb079"
+        },
+        {
+            "quantity": 0.0,
+            "unit": null,
+            "food": {
+                "id": "e2a6326a-90c7-4c66-a8ed-1740f51872a9",
+                "name": "berries",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "aliases": [],
+                "label": {
+                    "name": "Produce",
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
+                },
+                "createdAt": "2024-04-30T20:22:37.839565",
+                "updateAt": "2024-04-30T20:25:31.242259"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "berries",
+            "title": "",
+            "originalText": "none berries",
+            "referenceId": "0913d428-1cd7-4f8c-ac83-52c86ece5eaf"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "237f6be2-5e4b-4583-8e04-c9e298c3ac21",
+                "name": "bag",
+                "pluralName": "bags",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-27T02:34:36.952058",
+                "updateAt": "2024-05-13T12:25:27.496645"
+            },
+            "food": {
+                "id": "0420a619-3c02-455e-86aa-2b1731d61458",
+                "name": "turkey pepperoni",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-30T20:23:00.696281",
+                "updateAt": "2024-04-30T20:25:20.540594"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 bag turkey pepperoni",
+            "title": "",
+            "originalText": "none turkey pepperoni",
+            "referenceId": "3a24d6fb-434f-4abd-9f66-f4cd415754a0"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "237f6be2-5e4b-4583-8e04-c9e298c3ac21",
+                "name": "bag",
+                "pluralName": "bags",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-27T02:34:36.952058",
+                "updateAt": "2024-05-13T12:25:27.496645"
+            },
+            "food": {
+                "id": "8c36eb30-421f-4bce-8c15-515053a32c47",
+                "name": "croutons",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-27T12:27:48.651524",
+                "updateAt": "2024-04-27T12:29:50.877239"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 bag croutons",
+            "title": "",
+            "originalText": "none croutons",
+            "referenceId": "fff52c20-c431-4593-8880-dcc6ce0b5c63"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "237f6be2-5e4b-4583-8e04-c9e298c3ac21",
+                "name": "bag",
+                "pluralName": "bags",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-27T02:34:36.952058",
+                "updateAt": "2024-05-13T12:25:27.496645"
+            },
+            "food": {
+                "id": "5d3f61f6-fd77-47a7-8742-57894c85a640",
+                "name": "goldfish",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-27T12:28:26.381843",
+                "updateAt": "2024-04-27T12:31:39.888480"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 bag goldfish",
+            "title": "",
+            "originalText": "none goldfish",
+            "referenceId": "b9923eb9-66c1-413f-8b85-7602d32fe414"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "79cee2b6-a596-4e19-8558-8b4eac7c0612",
+                "name": "box",
+                "pluralName": "boxes",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-30T12:39:03.991880",
+                "updateAt": "2024-05-13T12:24:46.180246"
+            },
+            "food": {
+                "id": "c51beb32-de4d-4852-a165-f8dcc011671b",
+                "name": "cheerios",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-27T12:28:40.282111",
+                "updateAt": "2024-04-27T12:32:13.016948"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 box cheerios",
+            "title": "",
+            "originalText": "none cheerios",
+            "referenceId": "86de0810-4ce1-45b2-bdbd-b091dbeb0144"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "e665b04a-d32c-4d99-a12d-d263ce694fae",
+            "title": "",
+            "text": "Put things in grocery bag, pay for them, bring them home. ",
+            "ingredientReferences": []
+        }
+    ],
+    "nutrition": {
+        "calories": null,
+        "fatContent": null,
+        "proteinContent": null,
+        "carbohydrateContent": null,
+        "fiberContent": null,
+        "sodiumContent": null,
+        "sugarContent": null
+    },
+    "settings": {
+        "public": true,
+        "showNutrition": false,
+        "showAssets": false,
+        "landscapeView": false,
+        "disableComments": false,
+        "disableAmount": false,
+        "locked": false
+    },
+    "assets": [],
+    "notes": [],
+    "extras": {},
+    "comments": []
+}

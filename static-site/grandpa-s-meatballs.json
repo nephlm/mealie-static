@@ -1,0 +1,288 @@
+{
+    "id": "e27d7fd2-92a7-45f3-9fd2-7af4cdefb4e0",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "name": "Grandpa's Meatballs",
+    "slug": "grandpa-s-meatballs",
+    "image": null,
+    "recipeYield": "12 meatballs",
+    "totalTime": null,
+    "prepTime": "20 min",
+    "cookTime": null,
+    "performTime": "20 min",
+    "description": "",
+    "recipeCategory": [
+        {
+            "id": "5b7f4cd2-5d0e-440e-8e88-64ad06d1aad1",
+            "name": "entree",
+            "slug": "entree"
+        }
+    ],
+    "tags": [
+        {
+            "id": "dc321406-a09c-48e1-8a52-97c1dafa5d00",
+            "name": "Family",
+            "slug": "family"
+        },
+        {
+            "id": "e1c1c1a2-7783-4dc2-979e-a6f35e1c17e9",
+            "name": "Needs Pic",
+            "slug": "needs-pic"
+        },
+        {
+            "id": "fb90d11f-22a5-4df2-9531-1e575038aa7a",
+            "name": "Italian",
+            "slug": "italian"
+        }
+    ],
+    "tools": [],
+    "rating": 5.0,
+    "orgURL": null,
+    "dateAdded": "2024-04-30",
+    "dateUpdated": "2024-04-30T12:14:14.623276",
+    "createdAt": "2024-04-30T01:28:54.289830",
+    "updateAt": "2024-04-30T01:36:01.049150",
+    "lastMade": null,
+    "recipeIngredient": [
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
+                "name": "pound",
+                "pluralName": "pounds",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "lb",
+                "pluralAbbreviation": "lbs",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.726674",
+                "updateAt": "2024-05-02T12:28:24.776546"
+            },
+            "food": {
+                "id": "692064f2-ac98-45bf-aa3c-d474b869e79d",
+                "name": "ground beef",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
+                "aliases": [],
+                "label": {
+                    "name": "Meat",
+                    "color": "#be2f02",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "13258664-db75-4091-a629-d51f0a89797c"
+                },
+                "createdAt": "2024-04-26T19:43:28.852645",
+                "updateAt": "2024-04-26T19:47:54.745662"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 lb ground beef",
+            "title": "",
+            "originalText": "1.0 lbs ground beef",
+            "referenceId": "3b82ff48-e4e9-4cb4-8056-6d6430b9b548"
+        },
+        {
+            "quantity": 2.0,
+            "unit": null,
+            "food": {
+                "id": "ce51d81c-dbcb-477e-88fc-3359d4eb7fa5",
+                "name": "egg",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "aliases": [],
+                "label": {
+                    "name": "Dairy Products",
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f"
+                },
+                "createdAt": "2024-04-29T13:21:56.458709",
+                "updateAt": "2024-04-30T01:52:50.518341"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 egg",
+            "title": "",
+            "originalText": "2.0 eggs",
+            "referenceId": "2a11c134-91d5-403a-84fa-6aef02c2cd5b"
+        },
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "5aea46b8-c539-458a-834a-ab0857bb35d7",
+                "name": "Italian Bread Crumbs",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-30T12:13:05.364195",
+                "updateAt": "2024-04-30T20:24:58.889995"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 cups Italian Bread Crumbs",
+            "title": "",
+            "originalText": "2.0 c italian bread crumbs",
+            "referenceId": "d7421e58-f208-43d1-aa19-0dd7ffad1891"
+        },
+        {
+            "quantity": 0.25,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "a24308d7-7f7e-4a36-b11f-be495896103d",
+                "name": "tomato sauce",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "aliases": [],
+                "label": {
+                    "name": "Pasta",
+                    "color": "#cd1652",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8"
+                },
+                "createdAt": "2024-04-30T12:14:03.830266",
+                "updateAt": "2024-04-30T20:29:18.664070"
+            },
+            "note": "ketchup in a pinch",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2084 cup tomato sauce ketchup in a pinch",
+            "title": "",
+            "originalText": "0.25 cup tomato sauce (ketchup in a pinch)",
+            "referenceId": "1b000dd4-6e70-4e3a-aaf3-f9f31c6e5503"
+        },
+        {
+            "quantity": 1.0,
+            "unit": null,
+            "food": {
+                "id": "1e397cd3-35eb-4c64-b8cf-b40dfc61cd0b",
+                "name": "onion",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "aliases": [],
+                "label": {
+                    "name": "Frozen Foods",
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726"
+                },
+                "createdAt": "2024-04-26T19:32:21.362752",
+                "updateAt": "2024-04-27T03:18:52.550301"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 onion",
+            "title": "",
+            "originalText": "1.0 onion",
+            "referenceId": "94aff42a-f460-4712-a6a3-0439cabacf72"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "f62b9719-b909-4b2f-8ea6-633c5f5b0c4f",
+            "title": "",
+            "text": "Preheat oven to 350 degrees",
+            "ingredientReferences": []
+        },
+        {
+            "id": "1fd06148-72bb-40f8-ad17-34f4ccf9d12e",
+            "title": "",
+            "text": "Chop onions as small as you can, because they are just mixed in raw.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "2293ab89-a22e-48bb-86e5-dccf6bdf5a2c",
+            "title": "",
+            "text": "Dump everything in a big bowl, push up your sleeves and squeeze & smoosh through your fingers with both hands until the whole mix is uniform. Clean hands, keep them wet so stuff doesn't stick to them, and form balls. Put foil on bake pan and spray with PAM or something. Or just leave bake pan as is and spend more effort cleaning up.\n* when forming, you must really compress them to keep them nice and solid after cooking.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "4b7930da-9717-480c-aba3-0c2901fd13a1",
+            "title": "",
+            "text": "You want them crunchy on the outside, thoroughly cooked but juicy inside. (I'll have to do some experimenting to see how long that is at 350.",
+            "ingredientReferences": []
+        }
+    ],
+    "nutrition": {
+        "calories": null,
+        "fatContent": null,
+        "proteinContent": null,
+        "carbohydrateContent": null,
+        "fiberContent": null,
+        "sodiumContent": null,
+        "sugarContent": null
+    },
+    "settings": {
+        "public": true,
+        "showNutrition": false,
+        "showAssets": false,
+        "landscapeView": false,
+        "disableComments": false,
+        "disableAmount": false,
+        "locked": false
+    },
+    "assets": [],
+    "notes": [
+        {
+            "title": "2014-03-03",
+            "text": "Switching to 1 egg and adding 2tbsp Parmesan cheese.  Keeping spices and breadcrumb (1c) from below.\n\n2c bread crumbs was too much I think.  changing to 1c.  \nadding 1/4 tsp garlic powder + 1/2 tsp parsley + 1/2 tsp oregano, closer to 1/2 cup tomato sauce\n"
+        },
+        {
+            "title": "2012-09-08",
+            "text": "2 eggs.  Let the onion defrost.  Mixed everything the meat and bread crumbs and let warm up.  With the frozen onion and all the liquid in that it is about drying it out.  Lots of bread crumbs until it had a solidity and was self sticking.  Try bringing the temperature up to 375 to get a more crunchy outside.  \n\nUsed garlic powder, some ketchup and bbq sauce since I didn't have tomato sauce.  Should have added the parsley and oregano."
+        },
+        {
+            "title": "Lore",
+            "text": "This recipe originally came from your grandfather, but he did things differently:\n1. He never heard of baking them. He cooked them in oil in a high-sided frying pan. We did that until sometime, probably when we were on some diet.\n2. He chopped up stale Italian bread for the bread crumbs.\n3. \"You're supposed to use pork and beef,\" but he only went and bought the pork for special occasions.\n4. He used tomato sauce, home-made of course, instead of ketchup. Just a very small amount.\n5. I vaguely remember him adding plain water if the mix was too dry.\n"
+        }
+    ],
+    "extras": {},
+    "comments": []
+}

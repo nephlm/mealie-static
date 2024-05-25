@@ -1,0 +1,826 @@
+{
+    "id": "8e026011-19ef-4afa-8143-301e981c68d4",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "name": "Chili",
+    "slug": "chili",
+    "image": "185",
+    "recipeYield": "6",
+    "totalTime": null,
+    "prepTime": "5 min",
+    "cookTime": null,
+    "performTime": "5 hours",
+    "description": "",
+    "recipeCategory": [
+        {
+            "id": "5b7f4cd2-5d0e-440e-8e88-64ad06d1aad1",
+            "name": "entree",
+            "slug": "entree"
+        }
+    ],
+    "tags": [],
+    "tools": [],
+    "rating": 5.0,
+    "orgURL": "http://allrecipes.com/Recipe/Thirty-Minute-Chili/Detail.aspx",
+    "dateAdded": "2024-04-29",
+    "dateUpdated": "2024-05-15T19:37:43.317746",
+    "createdAt": "2024-04-29T18:04:59.598794",
+    "updateAt": "2024-04-30T00:13:39.441936",
+    "lastMade": null,
+    "recipeIngredient": [
+        {
+            "quantity": 4.0,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "9ee197ab-eda6-497f-aa70-b7cc53e4564a",
+                "name": "chili powder",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-30T00:09:10.242308",
+                "updateAt": "2024-04-30T01:51:50.542512"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "4 tsp chili powder",
+            "title": "Dry Spices",
+            "originalText": "4.0 teaspoon chili powder",
+            "referenceId": "5e571fa1-a96a-4665-a8da-429f4233c00a"
+        },
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "e2cbe589-c39c-4ef5-bbb3-068cd3a887c8",
+                "name": "red pepper flakes",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-27T11:44:32.724777",
+                "updateAt": "2024-04-27T11:49:59.129682"
+            },
+            "note": "crushed",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 tsp red pepper flakes crushed",
+            "title": "",
+            "originalText": "2.0 teaspoon crushed red pepper",
+            "referenceId": "096acf32-feb8-476f-bd86-7b4c59163aaf"
+        },
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "a7b69d57-bb2c-4d34-936c-c6ea7b5ec994",
+                "name": "cumin",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:22.629248",
+                "updateAt": "2024-04-27T03:19:03.874657"
+            },
+            "note": "ground",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 tsp cumin ground",
+            "title": "",
+            "originalText": "2.0 teaspoon ground cumin",
+            "referenceId": "72dfda1e-05ea-4eea-982a-3fe4d3f6cfb2"
+        },
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "ba9ff18f-168d-4935-9979-90869bf67de6",
+                "name": "parsley",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:33.010244",
+                "updateAt": "2024-04-27T03:14:52.341690"
+            },
+            "note": "dried",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 tsp parsley dried",
+            "title": "",
+            "originalText": "2.0 teaspoon dried parsley",
+            "referenceId": "9b68db31-f1e0-4f77-a087-b1e1a50ffe32"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "e83a890e-0d16-4075-88d3-863e53c8a2a4",
+                "name": "salt",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:32.495091",
+                "updateAt": "2024-04-27T03:09:26.465777"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 tsp salt",
+            "title": "",
+            "originalText": "1.0 teaspoon salt",
+            "referenceId": "0e550fe8-4b90-4351-a56b-ad3b518573a6"
+        },
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "84bd4e93-0857-4ba8-91ac-3b8eec13f415",
+                "name": "basil",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:30.910641",
+                "updateAt": "2024-04-27T03:15:30.128287"
+            },
+            "note": "dried",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 tsp basil dried",
+            "title": "",
+            "originalText": "2.0 teaspoon dried basil",
+            "referenceId": "6fce2f53-6c36-4254-81e6-e49706a8c6e3"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "26f561cf-9bea-435b-9348-8ddd9cf0590b",
+                "name": "oregano",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:48.559994",
+                "updateAt": "2024-04-27T03:06:37.316798"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 tsp oregano",
+            "title": "",
+            "originalText": "1.0 teaspoon oregano",
+            "referenceId": "36cf10df-3501-4eb7-b22c-8123d1abe79e"
+        },
+        {
+            "quantity": 0.25,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "b23ef96b-f10d-48a0-87e6-63e1ff9b111e",
+                "name": "pepper",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [
+                    {
+                        "name": "black pepper"
+                    }
+                ],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:43.184271",
+                "updateAt": "2024-04-27T03:08:33.535970"
+            },
+            "note": "ground",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2084 tsp pepper ground",
+            "title": "",
+            "originalText": "0.25 teaspoon ground black pepper",
+            "referenceId": "13891ab3-8e64-4649-bbe2-b317ed8a68b7"
+        },
+        {
+            "quantity": 4.0,
+            "unit": {
+                "id": "f860cec4-a431-41b7-8ddc-0035e4be52c2",
+                "name": "clove",
+                "pluralName": "cloves",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:12.511215",
+                "updateAt": "2024-05-13T12:25:56.749590"
+            },
+            "food": {
+                "id": "fd860af3-2047-4ffc-be87-65cbeb97ce1e",
+                "name": "garlic",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:35.923453",
+                "updateAt": "2024-04-27T03:14:08.683777"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "4 cloves garlic",
+            "title": "Brown",
+            "originalText": "4.0 cloves garlic",
+            "referenceId": "ff22b263-0616-4dd5-ae59-ca32a82a7b08"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "237f6be2-5e4b-4583-8e04-c9e298c3ac21",
+                "name": "bag",
+                "pluralName": "bags",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-27T02:34:36.952058",
+                "updateAt": "2024-05-13T12:25:27.496645"
+            },
+            "food": {
+                "id": "1e397cd3-35eb-4c64-b8cf-b40dfc61cd0b",
+                "name": "onion",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "aliases": [],
+                "label": {
+                    "name": "Frozen Foods",
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726"
+                },
+                "createdAt": "2024-04-26T19:32:21.362752",
+                "updateAt": "2024-04-27T03:18:52.550301"
+            },
+            "note": "frozen",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 bag onion frozen",
+            "title": "",
+            "originalText": "1.0 bag frozen onions",
+            "referenceId": "b864df0e-960b-4244-89a1-c3365e5d7130"
+        },
+        {
+            "quantity": 0.5,
+            "unit": {
+                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
+                "name": "pound",
+                "pluralName": "pounds",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "lb",
+                "pluralAbbreviation": "lbs",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.726674",
+                "updateAt": "2024-05-02T12:28:24.776546"
+            },
+            "food": {
+                "id": "5501b50d-863d-4d1d-b81e-a7ddb553945d",
+                "name": "Italian Sausage",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
+                "aliases": [],
+                "label": {
+                    "name": "Meat",
+                    "color": "#be2f02",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "13258664-db75-4091-a629-d51f0a89797c"
+                },
+                "createdAt": "2024-04-30T00:11:04.825124",
+                "updateAt": "2024-04-30T01:50:17.498418"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 lb Italian Sausage",
+            "title": "",
+            "originalText": "2.0 links italian sausages",
+            "referenceId": "382d663e-097a-4459-9c2b-6dba16fedc86"
+        },
+        {
+            "quantity": 1.5,
+            "unit": {
+                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
+                "name": "pound",
+                "pluralName": "pounds",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "lb",
+                "pluralAbbreviation": "lbs",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.726674",
+                "updateAt": "2024-05-02T12:28:24.776546"
+            },
+            "food": {
+                "id": "692064f2-ac98-45bf-aa3c-d474b869e79d",
+                "name": "ground beef",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
+                "aliases": [],
+                "label": {
+                    "name": "Meat",
+                    "color": "#be2f02",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "13258664-db75-4091-a629-d51f0a89797c"
+                },
+                "createdAt": "2024-04-26T19:43:28.852645",
+                "updateAt": "2024-04-26T19:47:54.745662"
+            },
+            "note": "ground",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 \u00b9/\u2082 lbs ground beef ground",
+            "title": "",
+            "originalText": "1.5 lbs ground beef",
+            "referenceId": "ea98ee89-80fd-4ff3-b69e-82c2dfdb858e"
+        },
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "94661c62-5523-4f5c-aa77-b8a7536ef03b",
+                "name": "can",
+                "pluralName": "cans",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:12.664803",
+                "updateAt": "2024-05-13T12:25:48.960493"
+            },
+            "food": {
+                "id": "69622eea-3935-4d27-91a8-d1f30ac20746",
+                "name": "tomato ",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "aliases": [],
+                "label": {
+                    "name": "Produce",
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
+                },
+                "createdAt": "2024-04-26T19:32:18.483079",
+                "updateAt": "2024-04-27T03:19:35.365817"
+            },
+            "note": "diced, no salt added",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 cans tomato  diced, no salt added",
+            "title": "Slow Cook",
+            "originalText": "2.0 cans diced tomatoes",
+            "referenceId": "62c1e0d3-45bb-4007-baa2-27effe867c86"
+        },
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "94661c62-5523-4f5c-aa77-b8a7536ef03b",
+                "name": "can",
+                "pluralName": "cans",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:12.664803",
+                "updateAt": "2024-05-13T12:25:48.960493"
+            },
+            "food": {
+                "id": "b65c3547-6051-426d-98f4-93e78b119516",
+                "name": "kidney beans",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-30T00:11:59.528295",
+                "updateAt": "2024-04-30T01:50:41.875278"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 cans kidney beans",
+            "title": "",
+            "originalText": "2.0 can kidney beans",
+            "referenceId": "5ac1025c-8470-4acc-8713-385303bfa5fb"
+        },
+        {
+            "quantity": 1.5,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "f3c19faa-40fd-4a99-8452-b7228462cb53",
+                "name": "honey",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-26T19:32:19.441833",
+                "updateAt": "2024-04-27T03:19:47.128984"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 \u00b9/\u2082 tsp honey",
+            "title": "",
+            "originalText": "1.5 teaspoon honey",
+            "referenceId": "c0c90096-3d73-45b0-9c6d-16c839533c91"
+        },
+        {
+            "quantity": 1.0,
+            "unit": null,
+            "food": {
+                "id": "5ca2f1b7-4127-43b7-bf85-e35c0eb875a5",
+                "name": "beer",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "c952206c-6772-4f43-a09c-b2a584fb9ea2",
+                "aliases": [],
+                "label": {
+                    "name": "Other",
+                    "color": "#E0E0E0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "c952206c-6772-4f43-a09c-b2a584fb9ea2"
+                },
+                "createdAt": "2024-04-27T12:06:45.337002",
+                "updateAt": "2024-04-27T12:09:57.268116"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 beer",
+            "title": "",
+            "originalText": "10.0 ounce beer",
+            "referenceId": "2af9d95d-c56d-4bfe-a9fc-97505526f7f7"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "85a8de4c-7718-4605-9853-9043520d7467",
+                "name": "rice",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "aliases": [],
+                "label": {
+                    "name": "Pasta",
+                    "color": "#cd1652",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8"
+                },
+                "createdAt": "2024-04-26T19:32:25.399883",
+                "updateAt": "2024-04-27T03:17:34.167267"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 cup rice",
+            "title": "Finish",
+            "originalText": "1.0 cup rice, cooked",
+            "referenceId": "0dbb424d-80d6-4ac6-ae7a-4232aa775983"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "ced992f1-2ee0-4994-bfbf-6e7ba071d279",
+                "name": "shredded cheese",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "aliases": [],
+                "label": {
+                    "name": "Dairy Products",
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f"
+                },
+                "createdAt": "2024-04-29T12:58:31.112043",
+                "updateAt": "2024-04-30T01:54:07.855215"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 cup shredded cheese",
+            "title": "Garnish",
+            "originalText": "1.0 cup shredded cheese",
+            "referenceId": "73935cc3-0833-4c6f-bac7-3ebe79e3b20e"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "ec3e9734-c5f6-4d5c-bece-2e8a6c5d123f",
+            "title": "",
+            "text": "Mix all the spices together except the garlic.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "dc06ebc3-ca55-4591-aba1-d8073e684bc6",
+            "title": "",
+            "text": "Get the sausages to the same temperature as the ground beef.  Remove casings, or even better use uncased sausage.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "30f0b289-9949-4e84-954b-d3f5b067aee1",
+            "title": "",
+            "text": "Brown ground beef with sausages, onions, garlic, small amount of spice mix.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "855d3ede-9759-41c6-8289-d8eba6f8a1fa",
+            "title": "",
+            "text": "Add everything (including rest of spice mix) except rice to slow cooker, cook on low for 3-4 hours.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "76f50e09-e7d1-4578-943a-de4d706a7062",
+            "title": "",
+            "text": "Add rice cook until rice is done.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "eda96ad6-c395-4048-ade4-b63ea4b3148b",
+            "title": "",
+            "text": "Top with shredded cheese.",
+            "ingredientReferences": []
+        }
+    ],
+    "nutrition": {
+        "calories": null,
+        "fatContent": null,
+        "proteinContent": null,
+        "carbohydrateContent": null,
+        "fiberContent": null,
+        "sodiumContent": null,
+        "sugarContent": null
+    },
+    "settings": {
+        "public": true,
+        "showNutrition": false,
+        "showAssets": false,
+        "landscapeView": false,
+        "disableComments": false,
+        "disableAmount": false,
+        "locked": false
+    },
+    "assets": [],
+    "notes": [
+        {
+            "title": "",
+            "text": "I added a couple of sausages because I was low on ground beef which only comes in 1.3lbs and 3 lbs.\n\nThrew pretty much a whole dreamweaver wheat beer in there."
+        }
+    ],
+    "extras": {},
+    "comments": []
+}
