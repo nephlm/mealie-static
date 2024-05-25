@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8" />
-        <title>Lasagna</title>
+        <title>Fish and Fried Rice</title>
         <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
@@ -24,19 +24,19 @@
                             Home
                         </a>
                         
-                        <a class="ml-6" href= "lasagna.json">JSON</a>
+                        <a class="ml-6" href= "fish-and-fried-rice.json">JSON</a>
 
                     </div>
                     <div class="column has-text-right">
                         <span class="tag is-rounded is-primary is-light is-size-7 ml-1"> entree</span>
-                        <span class="tag is-rounded is-primary is-light is-size-7 "> Family</span><span class="tag is-rounded is-primary is-light is-size-7 ml-1"> Needs Pic</span><span class="tag is-rounded is-primary is-light is-size-7 ml-1"> Italian</span>
-                        <span class="tag is-rounded is-primary is-light is-size-7">★★★★★</span>
+                        <span class="tag is-rounded is-primary is-light is-size-7 "> Imprecise</span><span class="tag is-rounded is-primary is-light is-size-7 ml-1"> Seafood</span><span class="tag is-rounded is-primary is-light is-size-7 ml-1"> Family</span><span class="tag is-rounded is-primary is-light is-size-7 ml-1"> Ken</span><span class="tag is-rounded is-primary is-light is-size-7 ml-1"> Needs Pic</span>
+                        <span class="tag is-rounded is-primary is-light is-size-7">☆☆☆☆☆</span>
                     </div>
                 </div>
             </div>
 
             <div class="hero-body">
-                <p class="title">Lasagna</p>
+                <p class="title">Fish and Fried Rice</p>
                 <p class="subtitle is-6"></p>
             </div>
         </section>
@@ -54,84 +54,76 @@
                         
                         
                         <li class="no-bullet">
-                            32 oz ricotta
-                        </li>
-                        
-                        
-                        
-                        <li class="no-bullet">
-                            1 bag Grandpa's Meatballs
-                        </li>
-                        
-                        
-                        
-                        <li class="no-bullet">
-                            2 links Italian Sausage 
+                            1 lb fish 
                         </li>
                         
                             <li class="ml-4 is-italic is-size-7 has-text-grey">
-                                2-3 links / .5 lbs bulk
+                                whtie
                             </li>
                         
                         
                         
                         <li class="no-bullet">
-                            1 lb mozzarella cheese 
+                            1 onion 
                         </li>
                         
                             <li class="ml-4 is-italic is-size-7 has-text-grey">
-                                shredded
+                                large
                             </li>
                         
                         
                         
                         <li class="no-bullet">
-                            2 cups parmesan cheese
-                        </li>
-                        
-                        
-                        
-                        <li class="no-bullet">
-                            1 lb 
+                            3 tsp garlic 
                         </li>
                         
                             <li class="ml-4 is-italic is-size-7 has-text-grey">
-                                curly edged
+                                heaping
                             </li>
                         
                         
                         
                         <li class="no-bullet">
-                            1 tsp salt
+                            1 bag riced cauliflower
                         </li>
                         
                         
                         
                         <li class="no-bullet">
-                            1 tsp olive oil
+                            1 bag pepper strips
                         </li>
                         
                         
                         
                         <li class="no-bullet">
-                            1 egg
-                        </li>
-                        
-                        
-                        
-                        <li class="no-bullet">
-                            1 tbsp parsley
-                        </li>
-                        
-                        
-                        
-                        <li class="no-bullet">
-                            45 oz tomato sauce 
+                            2 measures basmati rice 1.25 cups
                         </li>
                         
                             <li class="ml-4 is-italic is-size-7 has-text-grey">
-                                big jar
+                                1.25 cups 
                             </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ¹/₂ jar tartar sauce 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                small
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            pepper
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            dill
+                        </li>
                         
                         
                     </ul>
@@ -143,63 +135,42 @@
                     <h2 class="title is-3">Instructions</h2>
                     
                         <script>
-                            var parsed = marked.parse(`* Mix egg, ricotta and parsley in bowl  (use beater, wisk)
-
-`, {breaks: true})
+                            var parsed = marked.parse(`Heat oil in a wok pan, saute the rice, take it out to cook however you do.`, {breaks: true})
                             $('#instructions').append('<div class="box content">' + parsed + '</div>')
                             </script>
                     
                         <script>
-                            var parsed = marked.parse(`* Cook lasagna noodles
-    * tsp salt
-    * tsp oil
-    * boil
-    * cook noodles until good (al dente)`, {breaks: true})
+                            var parsed = marked.parse(`Saute fish filets, 2 minutes a side, and remove. They'll break up, which is fine.`, {breaks: true})
                             $('#instructions').append('<div class="box content">' + parsed + '</div>')
                             </script>
                     
                         <script>
-                            var parsed = marked.parse(`* mash meatballs with a bit sauce (this is addition to the 48 oz of pasta sauce`, {breaks: true})
+                            var parsed = marked.parse(`Chop sofrito ingredients and saute, adding garlic later so it doesn't burn.`, {breaks: true})
                             $('#instructions').append('<div class="box content">' + parsed + '</div>')
                             </script>
                     
                         <script>
-                            var parsed = marked.parse(`Build Lasagna 
-
-* thin layer of sauce (Bottom)
-* sprinkling/thin layer of mozzarella/Parmesan (optional)
-* layer of noodles (cut lengthwise if needed to fill in gaps)
-    * debate cross hatching
-* layer of sauce
-* layer of meat
-* layer of ricotta mix
-* fill in with mozzarella, Parmesan
-* Repeat noodle, sauce, cheese (thicker layer or sauce here)
-* noodle layer
-* sauce layer (light layer)
-* mozzarella/parm layer (Top)
-
-Sauce layers are thin, mostly a painting on top of noodles (should be a full 48 oz in the layers)
-
-Ricotta layer is several clumps everywhere
-`, {breaks: true})
+                            var parsed = marked.parse(`Dump frozen vegs into a big enough bowl and zap 8 mins.`, {breaks: true})
                             $('#instructions').append('<div class="box content">' + parsed + '</div>')
                             </script>
                     
                         <script>
-                            var parsed = marked.parse(`cook at 350 for 1 hour, covered with foil for 30 minutes.  Do not smoosh foil down.
-* sauce bubbling around edges
-* cheese beginning to be golden`, {breaks: true})
+                            var parsed = marked.parse(`Break up fish into flakes. If it has skin on it like ours did, use a knife to chop the fish and skin into chunks. Sprinkle it with dill.`, {breaks: true})
                             $('#instructions').append('<div class="box content">' + parsed + '</div>')
                             </script>
                     
                         <script>
-                            var parsed = marked.parse(`eat the leftover ingredients.`, {breaks: true})
+                            var parsed = marked.parse(`When sofrito is ready, add vegs and rice and fish.`, {breaks: true})
                             $('#instructions').append('<div class="box content">' + parsed + '</div>')
                             </script>
                     
                         <script>
-                            var parsed = marked.parse(`let sit for 20 minutes (covered)`, {breaks: true})
+                            var parsed = marked.parse(`Add pepper to taste and tartar sauce. Stir until tartar sauce is mixed in.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`Eat.`, {breaks: true})
                             $('#instructions').append('<div class="box content">' + parsed + '</div>')
                             </script>
                     
@@ -213,6 +184,21 @@ Ricotta layer is several clumps everywhere
 
                 <h2 class="title is-3">Notes</h2>
                 
+                <div class="box">
+
+                    <h3 class="subtitle is-6 has-text-weight-medium">
+                        2024-05-25:
+                    </h3>
+                </div>
+                <script>
+                    var parsed = marked.parse(`Halibut was used, but probably any white fish would work.
+
+Carrot & celery for a real sofrito would be better than just onion, but we didn't do that.
+
+If you don't like cauliflower, maybe substitute it with chopped broccoli or a can of diced tomatoes. But the cauliflower disappears into the rice with hardly any taste.`, {breaks: true})
+                    $('.box:last').append('<div class="content">' + parsed + '</div>')
+                    </script>
+            
         </div>
         </section>
 

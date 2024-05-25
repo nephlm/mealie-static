@@ -1,0 +1,454 @@
+{
+    "id": "afdd6570-41be-4edf-a611-ff1cb2818f60",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "name": "Fish and Fried Rice",
+    "slug": "fish-and-fried-rice",
+    "image": null,
+    "recipeYield": "4",
+    "totalTime": null,
+    "prepTime": null,
+    "cookTime": null,
+    "performTime": null,
+    "description": "",
+    "recipeCategory": [
+        {
+            "id": "5b7f4cd2-5d0e-440e-8e88-64ad06d1aad1",
+            "name": "entree",
+            "slug": "entree"
+        }
+    ],
+    "tags": [
+        {
+            "id": "06c33f52-bf37-4044-ad83-bc071e6c090e",
+            "name": "Imprecise",
+            "slug": "imprecise"
+        },
+        {
+            "id": "381093a7-0e3f-4516-86bb-34d7afa25ef6",
+            "name": "Seafood",
+            "slug": "seafood"
+        },
+        {
+            "id": "dc321406-a09c-48e1-8a52-97c1dafa5d00",
+            "name": "Family",
+            "slug": "family"
+        },
+        {
+            "id": "dda7c216-2bf6-42cf-85bf-b431030e9d2d",
+            "name": "Ken",
+            "slug": "ken"
+        },
+        {
+            "id": "e1c1c1a2-7783-4dc2-979e-a6f35e1c17e9",
+            "name": "Needs Pic",
+            "slug": "needs-pic"
+        }
+    ],
+    "tools": [],
+    "rating": null,
+    "orgURL": null,
+    "dateAdded": "2024-05-25",
+    "dateUpdated": "2024-05-25T14:16:27.828376",
+    "createdAt": "2024-05-25T14:03:19.818795",
+    "updateAt": "2024-05-25T14:03:19.818796",
+    "lastMade": null,
+    "recipeIngredient": [
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
+                "name": "pound",
+                "pluralName": "pounds",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "lb",
+                "pluralAbbreviation": "lbs",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.726674",
+                "updateAt": "2024-05-02T12:28:24.776546"
+            },
+            "food": {
+                "id": "72400097-51cf-467b-b262-99aa514500a1",
+                "name": "fish",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": null,
+                "aliases": [],
+                "label": null,
+                "createdAt": "2024-04-26T19:32:19.643490",
+                "updateAt": "2024-04-26T19:32:19.643494"
+            },
+            "note": "whtie",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 lb fish whtie",
+            "title": null,
+            "originalText": null,
+            "referenceId": "b6c18eb0-37f1-482b-be49-54d70fc86b4a"
+        },
+        {
+            "quantity": 1.0,
+            "unit": null,
+            "food": {
+                "id": "1e397cd3-35eb-4c64-b8cf-b40dfc61cd0b",
+                "name": "onion",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "aliases": [],
+                "label": {
+                    "name": "Frozen Foods",
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726"
+                },
+                "createdAt": "2024-04-26T19:32:21.362752",
+                "updateAt": "2024-04-27T03:18:52.550301"
+            },
+            "note": "large",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 onion large",
+            "title": "",
+            "originalText": null,
+            "referenceId": "7d44532b-97a7-4f40-847f-68e9eddcb202"
+        },
+        {
+            "quantity": 3.0,
+            "unit": {
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "tsp",
+                "pluralAbbreviation": "",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458",
+                "updateAt": "2024-05-13T12:28:06.444827"
+            },
+            "food": {
+                "id": "fd860af3-2047-4ffc-be87-65cbeb97ce1e",
+                "name": "garlic",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:35.923453",
+                "updateAt": "2024-04-27T03:14:08.683777"
+            },
+            "note": "heaping",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "3 tsp garlic heaping",
+            "title": "",
+            "originalText": null,
+            "referenceId": "a0b39075-62ac-44fb-a8c0-6380236e7838"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "237f6be2-5e4b-4583-8e04-c9e298c3ac21",
+                "name": "bag",
+                "pluralName": "bags",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-27T02:34:36.952058",
+                "updateAt": "2024-05-13T12:25:27.496645"
+            },
+            "food": {
+                "id": "fc7039a9-7529-415e-bc39-7f3f3f11c0ae",
+                "name": "riced cauliflower",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": null,
+                "aliases": [],
+                "label": null,
+                "createdAt": "2024-05-25T14:05:53.019456",
+                "updateAt": "2024-05-25T14:05:53.019462"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 bag riced cauliflower",
+            "title": "",
+            "originalText": null,
+            "referenceId": "e6043991-218e-4763-a92c-c70c49dd2dc5"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "237f6be2-5e4b-4583-8e04-c9e298c3ac21",
+                "name": "bag",
+                "pluralName": "bags",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-27T02:34:36.952058",
+                "updateAt": "2024-05-13T12:25:27.496645"
+            },
+            "food": {
+                "id": "3fedefc9-5c81-4bd6-8afb-47375c1c4af5",
+                "name": "pepper strips",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "aliases": [],
+                "label": {
+                    "name": "Frozen Foods",
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726"
+                },
+                "createdAt": "2024-04-30T12:36:39.391555",
+                "updateAt": "2024-04-30T20:28:17.778867"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 bag pepper strips",
+            "title": "",
+            "originalText": null,
+            "referenceId": "94117007-b607-4dcf-8ed4-766012541c2f"
+        },
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "5d5c2a4c-808a-41f7-a938-4a06e6debc4a",
+                "name": "measure",
+                "pluralName": "measures",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-30T00:17:23.440330",
+                "updateAt": "2024-05-13T12:25:04.339964"
+            },
+            "food": {
+                "id": "e4b1aec5-079c-4af6-b03f-a7085cdabe00",
+                "name": "basmati rice",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "aliases": [],
+                "label": {
+                    "name": "Pasta",
+                    "color": "#cd1652",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8"
+                },
+                "createdAt": "2024-04-30T12:26:35.222517",
+                "updateAt": "2024-04-30T20:29:11.306008"
+            },
+            "note": "1.25 cups ",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 measures basmati rice 1.25 cups",
+            "title": "",
+            "originalText": null,
+            "referenceId": "d47f4c5f-58c9-407d-9ea6-9a9886443b87"
+        },
+        {
+            "quantity": 0.5,
+            "unit": {
+                "id": "ef4fa795-bd9c-46ef-81bd-65a57e906fe1",
+                "name": "jar",
+                "pluralName": "jars",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-30T20:18:45.180773",
+                "updateAt": "2024-05-13T12:24:37.051214"
+            },
+            "food": {
+                "id": "954785f0-c4e2-4380-94d3-6bad7523d458",
+                "name": "tartar sauce",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": null,
+                "aliases": [],
+                "label": null,
+                "createdAt": "2024-05-25T14:12:23.053875",
+                "updateAt": "2024-05-25T14:12:23.053878"
+            },
+            "note": "small",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 jar tartar sauce small",
+            "title": "",
+            "originalText": null,
+            "referenceId": "56348499-57c3-4494-90c5-c8134aa8c5ab"
+        },
+        {
+            "quantity": null,
+            "unit": null,
+            "food": {
+                "id": "b23ef96b-f10d-48a0-87e6-63e1ff9b111e",
+                "name": "pepper",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [
+                    {
+                        "name": "black pepper"
+                    }
+                ],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-26T19:32:43.184271",
+                "updateAt": "2024-04-27T03:08:33.535970"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "pepper",
+            "title": "",
+            "originalText": null,
+            "referenceId": "ae033b83-2375-4709-a4c7-a194c35f7ceb"
+        },
+        {
+            "quantity": null,
+            "unit": null,
+            "food": {
+                "id": "aef0b329-df37-4d91-878b-f8514562b350",
+                "name": "dill",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-27T12:06:12.375336",
+                "updateAt": "2024-04-27T12:08:02.036033"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "dill",
+            "title": "",
+            "originalText": null,
+            "referenceId": "dd4a92d9-9256-456d-a9e8-8a6703a54fd9"
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "7d9ea700-9966-4657-a87c-0a95e54b93e7",
+            "title": "",
+            "text": "Heat oil in a wok pan, saute the rice, take it out to cook however you do.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "69be3c28-ac41-4815-87fb-30a2f96c714d",
+            "title": "",
+            "text": "Saute fish filets, 2 minutes a side, and remove. They'll break up, which is fine.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "4038aec5-27d7-4ed0-84f8-72caad80f1c0",
+            "title": "",
+            "text": "Chop sofrito ingredients and saute, adding garlic later so it doesn't burn.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "ca03c7c9-147f-4bf4-9825-2c9cc6b5e2d3",
+            "title": "",
+            "text": "Dump frozen vegs into a big enough bowl and zap 8 mins.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "7eb0283e-eb14-47ff-b7a2-7069c22f1944",
+            "title": "",
+            "text": "Break up fish into flakes. If it has skin on it like ours did, use a knife to chop the fish and skin into chunks. Sprinkle it with dill.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "a6a59db5-68f8-43d9-b3cd-97be9757b0c1",
+            "title": "",
+            "text": "When sofrito is ready, add vegs and rice and fish.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "d014d9e0-315b-4696-8ba5-0c764201c17b",
+            "title": "",
+            "text": "Add pepper to taste and tartar sauce. Stir until tartar sauce is mixed in.",
+            "ingredientReferences": []
+        },
+        {
+            "id": "94c284f6-a783-49bb-85ef-6b2f11342f42",
+            "title": "",
+            "text": "Eat.",
+            "ingredientReferences": []
+        }
+    ],
+    "nutrition": {
+        "calories": null,
+        "fatContent": null,
+        "proteinContent": null,
+        "carbohydrateContent": null,
+        "fiberContent": null,
+        "sodiumContent": null,
+        "sugarContent": null
+    },
+    "settings": {
+        "public": true,
+        "showNutrition": false,
+        "showAssets": false,
+        "landscapeView": false,
+        "disableComments": false,
+        "disableAmount": false,
+        "locked": false
+    },
+    "assets": [],
+    "notes": [
+        {
+            "title": "2024-05-25",
+            "text": "Halibut was used, but probably any white fish would work.\n\nCarrot & celery for a real sofrito would be better than just onion, but we didn't do that.\n\nIf you don't like cauliflower, maybe substitute it with chopped broccoli or a can of diced tomatoes. But the cauliflower disappears into the rice with hardly any taste."
+        }
+    ],
+    "extras": {},
+    "comments": []
+}
