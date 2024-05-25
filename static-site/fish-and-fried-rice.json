@@ -49,9 +49,9 @@
     "rating": null,
     "orgURL": null,
     "dateAdded": "2024-05-25",
-    "dateUpdated": "2024-05-25T14:16:27.828376",
+    "dateUpdated": "2024-05-25T14:20:45.732513",
     "createdAt": "2024-05-25T14:03:19.818795",
-    "updateAt": "2024-05-25T14:03:19.818796",
+    "updateAt": "2024-05-25T14:20:45.735468",
     "lastMade": null,
     "recipeIngredient": [
         {
@@ -269,7 +269,7 @@
                 "createdAt": "2024-04-30T12:26:35.222517",
                 "updateAt": "2024-04-30T20:29:11.306008"
             },
-            "note": "1.25 cups ",
+            "note": "1.25 cups",
             "isFood": true,
             "disableAmount": false,
             "display": "2 measures basmati rice 1.25 cups",
@@ -376,49 +376,49 @@
     ],
     "recipeInstructions": [
         {
-            "id": "7d9ea700-9966-4657-a87c-0a95e54b93e7",
+            "id": "a947f629-85e0-4853-9e29-02c64a5f4278",
             "title": "",
             "text": "Heat oil in a wok pan, saute the rice, take it out to cook however you do.",
             "ingredientReferences": []
         },
         {
-            "id": "69be3c28-ac41-4815-87fb-30a2f96c714d",
+            "id": "906ecf29-ab36-40c3-a2c6-bbc501fb7215",
             "title": "",
             "text": "Saute fish filets, 2 minutes a side, and remove. They'll break up, which is fine.",
             "ingredientReferences": []
         },
         {
-            "id": "4038aec5-27d7-4ed0-84f8-72caad80f1c0",
+            "id": "73ff35eb-f78c-43a7-bac9-7b9dcd32bc08",
             "title": "",
             "text": "Chop sofrito ingredients and saute, adding garlic later so it doesn't burn.",
             "ingredientReferences": []
         },
         {
-            "id": "ca03c7c9-147f-4bf4-9825-2c9cc6b5e2d3",
+            "id": "98107c98-b8b3-4aa6-b183-38fc4d344b62",
             "title": "",
             "text": "Dump frozen vegs into a big enough bowl and zap 8 mins.",
             "ingredientReferences": []
         },
         {
-            "id": "7eb0283e-eb14-47ff-b7a2-7069c22f1944",
+            "id": "67f3d374-ffb7-4eef-b22a-5991cc8e77a4",
             "title": "",
             "text": "Break up fish into flakes. If it has skin on it like ours did, use a knife to chop the fish and skin into chunks. Sprinkle it with dill.",
             "ingredientReferences": []
         },
         {
-            "id": "a6a59db5-68f8-43d9-b3cd-97be9757b0c1",
+            "id": "98e49a54-89b1-4903-bd42-da4d184f10a7",
             "title": "",
             "text": "When sofrito is ready, add vegs and rice and fish.",
             "ingredientReferences": []
         },
         {
-            "id": "d014d9e0-315b-4696-8ba5-0c764201c17b",
+            "id": "8e048423-010e-47db-ba26-a53d22bf3fca",
             "title": "",
             "text": "Add pepper to taste and tartar sauce. Stir until tartar sauce is mixed in.",
             "ingredientReferences": []
         },
         {
-            "id": "94c284f6-a783-49bb-85ef-6b2f11342f42",
+            "id": "5b8b7485-7a97-4273-8563-7ca3e6c6d5d6",
             "title": "",
             "text": "Eat.",
             "ingredientReferences": []
