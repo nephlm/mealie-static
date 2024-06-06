@@ -9,7 +9,8 @@ api_token = keyring.get_password("mealie", "api")
 list_id = "e27baaa6-9057-43c3-a64d-16b8218fc4e1"
 
 TEMPLATE = "list.tmpl"
-DEST = "~/Src/devops/quasisemi.com/src/caddy/site/list.html"
+# DEST = "~/Src/devops/quasisemi.com/src/caddy/site/list.html"
+DEST = "../static-site/list.html"
 
 
 def render(shopping_list):
