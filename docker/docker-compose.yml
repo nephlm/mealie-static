@@ -31,4 +31,4 @@ volumes:
     driver_opts:
       type: none
       o: bind
-      device: /home/tkuster/Src/devops/mealie/data
+      device: /home/tkuster/Src/devops/mealie-static/data
