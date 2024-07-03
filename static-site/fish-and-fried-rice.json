@@ -5,7 +5,7 @@
     "name": "Fish and Fried Rice",
     "slug": "fish-and-fried-rice",
     "image": null,
-    "recipeYield": "4",
+    "recipeYield": "5",
     "totalTime": null,
     "prepTime": null,
     "cookTime": null,
@@ -46,14 +46,42 @@
         }
     ],
     "tools": [],
-    "rating": null,
+    "rating": 3.0,
     "orgURL": null,
     "dateAdded": "2024-05-25",
-    "dateUpdated": "2024-05-25T14:20:45.732513",
+    "dateUpdated": "2024-06-22T14:25:40.698198",
     "createdAt": "2024-05-25T14:03:19.818795",
     "updateAt": "2024-05-25T14:20:45.735468",
     "lastMade": null,
     "recipeIngredient": [
+        {
+            "quantity": 1.0,
+            "unit": null,
+            "food": {
+                "id": "75f848c8-5343-4c80-a97c-74f48aa7b681",
+                "name": "olive oil",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
+                "aliases": [],
+                "label": {
+                    "name": "Oil",
+                    "color": "#e89eb9",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "046d1084-5c4a-4f9f-8695-c38791043125"
+                },
+                "createdAt": "2024-04-26T19:32:30.465893",
+                "updateAt": "2024-04-27T03:15:40.768294"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 olive oil",
+            "title": "Fish",
+            "originalText": null,
+            "referenceId": "07ad6850-a1f4-4012-bae5-57befce38e99"
+        },
         {
             "quantity": 1.0,
             "unit": {
@@ -76,11 +104,16 @@
                 "pluralName": null,
                 "description": "",
                 "extras": {},
-                "labelId": null,
+                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
                 "aliases": [],
-                "label": null,
+                "label": {
+                    "name": "Meat",
+                    "color": "#be2f02",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "13258664-db75-4091-a629-d51f0a89797c"
+                },
                 "createdAt": "2024-04-26T19:32:19.643490",
-                "updateAt": "2024-04-26T19:32:19.643494"
+                "updateAt": "2024-06-06T18:05:45.996155"
             },
             "note": "whtie",
             "isFood": true,
@@ -89,6 +122,103 @@
             "title": null,
             "originalText": null,
             "referenceId": "b6c18eb0-37f1-482b-be49-54d70fc86b4a"
+        },
+        {
+            "quantity": 2.0,
+            "unit": {
+                "id": "5d5c2a4c-808a-41f7-a938-4a06e6debc4a",
+                "name": "measure",
+                "pluralName": "measures",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-30T00:17:23.440330",
+                "updateAt": "2024-05-13T12:25:04.339964"
+            },
+            "food": {
+                "id": "e4b1aec5-079c-4af6-b03f-a7085cdabe00",
+                "name": "basmati rice",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "aliases": [],
+                "label": {
+                    "name": "Pasta",
+                    "color": "#cd1652",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8"
+                },
+                "createdAt": "2024-04-30T12:26:35.222517",
+                "updateAt": "2024-04-30T20:29:11.306008"
+            },
+            "note": "1.25 cups",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 measures basmati rice 1.25 cups",
+            "title": "Rice",
+            "originalText": null,
+            "referenceId": "d47f4c5f-58c9-407d-9ea6-9a9886443b87"
+        },
+        {
+            "quantity": 1.0,
+            "unit": null,
+            "food": {
+                "id": "75f848c8-5343-4c80-a97c-74f48aa7b681",
+                "name": "olive oil",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
+                "aliases": [],
+                "label": {
+                    "name": "Oil",
+                    "color": "#e89eb9",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "046d1084-5c4a-4f9f-8695-c38791043125"
+                },
+                "createdAt": "2024-04-26T19:32:30.465893",
+                "updateAt": "2024-04-27T03:15:40.768294"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 olive oil",
+            "title": "",
+            "originalText": null,
+            "referenceId": "8c27a0a7-4b13-4fc7-ab7b-87faae9e01e4"
+        },
+        {
+            "quantity": 1.0,
+            "unit": null,
+            "food": {
+                "id": "aef0b329-df37-4d91-878b-f8514562b350",
+                "name": "dill",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "aliases": [],
+                "label": {
+                    "name": "Spices",
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                },
+                "createdAt": "2024-04-27T12:06:12.375336",
+                "updateAt": "2024-04-27T12:08:02.036033"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 dill",
+            "title": "",
+            "originalText": null,
+            "referenceId": "be3cbc62-c44a-473e-b60c-29876ae122c1"
         },
         {
             "quantity": 1.0,
@@ -114,7 +244,7 @@
             "isFood": true,
             "disableAmount": false,
             "display": "1 onion large",
-            "title": "",
+            "title": "Stirfry",
             "originalText": null,
             "referenceId": "7d44532b-97a7-4f40-847f-68e9eddcb202"
         },
@@ -162,9 +292,50 @@
         {
             "quantity": 1.0,
             "unit": {
-                "id": "237f6be2-5e4b-4583-8e04-c9e298c3ac21",
-                "name": "bag",
-                "pluralName": "bags",
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "a22ede96-a507-486e-89f5-fc2184062be4",
+                "name": "carrot",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "aliases": [],
+                "label": {
+                    "name": "Produce",
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
+                },
+                "createdAt": "2024-04-26T19:32:36.805146",
+                "updateAt": "2024-04-27T03:14:32.053074"
+            },
+            "note": "Frozen, Optional",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 cup carrot Frozen, Optional",
+            "title": "",
+            "originalText": null,
+            "referenceId": "23a61e31-b2c3-4e8a-802f-5927542b3fbf"
+        },
+        {
+            "quantity": 3.0,
+            "unit": {
+                "id": "8f99b5e2-62a5-4526-9720-de9f18b010fb",
+                "name": "stalk",
+                "pluralName": "stalks",
                 "description": "",
                 "extras": {},
                 "fraction": true,
@@ -172,28 +343,33 @@
                 "pluralAbbreviation": "",
                 "useAbbreviation": false,
                 "aliases": [],
-                "createdAt": "2024-04-27T02:34:36.952058",
-                "updateAt": "2024-05-13T12:25:27.496645"
+                "createdAt": "2024-04-30T12:37:03.209347",
+                "updateAt": "2024-05-13T12:24:55.520467"
             },
             "food": {
-                "id": "fc7039a9-7529-415e-bc39-7f3f3f11c0ae",
-                "name": "riced cauliflower",
+                "id": "93acbbe9-3ea9-4f6e-aae1-06c116126b32",
+                "name": "celery",
                 "pluralName": null,
                 "description": "",
                 "extras": {},
-                "labelId": null,
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
                 "aliases": [],
-                "label": null,
-                "createdAt": "2024-05-25T14:05:53.019456",
-                "updateAt": "2024-05-25T14:05:53.019462"
+                "label": {
+                    "name": "Produce",
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
+                },
+                "createdAt": "2024-04-26T19:32:50.103022",
+                "updateAt": "2024-04-27T03:07:16.816049"
             },
-            "note": "",
+            "note": "Optional",
             "isFood": true,
             "disableAmount": false,
-            "display": "1 bag riced cauliflower",
+            "display": "3 stalks celery Optional",
             "title": "",
             "originalText": null,
-            "referenceId": "e6043991-218e-4763-a92c-c70c49dd2dc5"
+            "referenceId": "126c9633-da0f-4a86-956d-73cb3e7c30b8"
         },
         {
             "quantity": 1.0,
@@ -237,52 +413,39 @@
             "referenceId": "94117007-b607-4dcf-8ed4-766012541c2f"
         },
         {
-            "quantity": 2.0,
-            "unit": {
-                "id": "5d5c2a4c-808a-41f7-a938-4a06e6debc4a",
-                "name": "measure",
-                "pluralName": "measures",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "",
-                "pluralAbbreviation": "",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-30T00:17:23.440330",
-                "updateAt": "2024-05-13T12:25:04.339964"
-            },
+            "quantity": null,
+            "unit": null,
             "food": {
-                "id": "e4b1aec5-079c-4af6-b03f-a7085cdabe00",
-                "name": "basmati rice",
+                "id": "aef0b329-df37-4d91-878b-f8514562b350",
+                "name": "dill",
                 "pluralName": null,
                 "description": "",
                 "extras": {},
-                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
                 "aliases": [],
                 "label": {
-                    "name": "Pasta",
-                    "color": "#cd1652",
+                    "name": "Spices",
+                    "color": "#d09477",
                     "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8"
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
                 },
-                "createdAt": "2024-04-30T12:26:35.222517",
-                "updateAt": "2024-04-30T20:29:11.306008"
+                "createdAt": "2024-04-27T12:06:12.375336",
+                "updateAt": "2024-04-27T12:08:02.036033"
             },
-            "note": "1.25 cups",
+            "note": "",
             "isFood": true,
             "disableAmount": false,
-            "display": "2 measures basmati rice 1.25 cups",
+            "display": "dill",
             "title": "",
             "originalText": null,
-            "referenceId": "d47f4c5f-58c9-407d-9ea6-9a9886443b87"
+            "referenceId": "dd4a92d9-9256-456d-a9e8-8a6703a54fd9"
         },
         {
-            "quantity": 0.5,
+            "quantity": 1.0,
             "unit": {
-                "id": "ef4fa795-bd9c-46ef-81bd-65a57e906fe1",
-                "name": "jar",
-                "pluralName": "jars",
+                "id": "237f6be2-5e4b-4583-8e04-c9e298c3ac21",
+                "name": "bag",
+                "pluralName": "bags",
                 "description": "",
                 "extras": {},
                 "fraction": true,
@@ -290,28 +453,33 @@
                 "pluralAbbreviation": "",
                 "useAbbreviation": false,
                 "aliases": [],
-                "createdAt": "2024-04-30T20:18:45.180773",
-                "updateAt": "2024-05-13T12:24:37.051214"
+                "createdAt": "2024-04-27T02:34:36.952058",
+                "updateAt": "2024-05-13T12:25:27.496645"
             },
             "food": {
-                "id": "954785f0-c4e2-4380-94d3-6bad7523d458",
-                "name": "tartar sauce",
+                "id": "fc7039a9-7529-415e-bc39-7f3f3f11c0ae",
+                "name": "riced cauliflower",
                 "pluralName": null,
                 "description": "",
                 "extras": {},
-                "labelId": null,
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
                 "aliases": [],
-                "label": null,
-                "createdAt": "2024-05-25T14:12:23.053875",
-                "updateAt": "2024-05-25T14:12:23.053878"
+                "label": {
+                    "name": "Frozen Foods",
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726"
+                },
+                "createdAt": "2024-05-25T14:05:53.019456",
+                "updateAt": "2024-06-06T18:06:34.685551"
             },
-            "note": "small",
+            "note": "",
             "isFood": true,
             "disableAmount": false,
-            "display": "\u00b9/\u2082 jar tartar sauce small",
+            "display": "1 bag riced cauliflower",
             "title": "",
             "originalText": null,
-            "referenceId": "56348499-57c3-4494-90c5-c8134aa8c5ab"
+            "referenceId": "e6043991-218e-4763-a92c-c70c49dd2dc5"
         },
         {
             "quantity": null,
@@ -341,84 +509,97 @@
             "isFood": true,
             "disableAmount": false,
             "display": "pepper",
-            "title": "",
+            "title": "End",
             "originalText": null,
             "referenceId": "ae033b83-2375-4709-a4c7-a194c35f7ceb"
         },
         {
-            "quantity": null,
-            "unit": null,
+            "quantity": 0.5,
+            "unit": {
+                "id": "ef4fa795-bd9c-46ef-81bd-65a57e906fe1",
+                "name": "jar",
+                "pluralName": "jars",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "",
+                "pluralAbbreviation": "",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-30T20:18:45.180773",
+                "updateAt": "2024-05-13T12:24:37.051214"
+            },
             "food": {
-                "id": "aef0b329-df37-4d91-878b-f8514562b350",
-                "name": "dill",
+                "id": "954785f0-c4e2-4380-94d3-6bad7523d458",
+                "name": "tartar sauce",
                 "pluralName": null,
                 "description": "",
                 "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
                 "aliases": [],
                 "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
                     "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
                 },
-                "createdAt": "2024-04-27T12:06:12.375336",
-                "updateAt": "2024-04-27T12:08:02.036033"
+                "createdAt": "2024-05-25T14:12:23.053875",
+                "updateAt": "2024-06-06T18:06:27.045952"
             },
-            "note": "",
+            "note": "small",
             "isFood": true,
             "disableAmount": false,
-            "display": "dill",
+            "display": "\u00b9/\u2082 jar tartar sauce small",
             "title": "",
             "originalText": null,
-            "referenceId": "dd4a92d9-9256-456d-a9e8-8a6703a54fd9"
+            "referenceId": "56348499-57c3-4494-90c5-c8134aa8c5ab"
         }
     ],
     "recipeInstructions": [
         {
-            "id": "a947f629-85e0-4853-9e29-02c64a5f4278",
+            "id": "4065b8dd-2d9b-4c0b-9dbc-293c858d11a1",
             "title": "",
             "text": "Heat oil in a wok pan, saute the rice, take it out to cook however you do.",
             "ingredientReferences": []
         },
         {
-            "id": "906ecf29-ab36-40c3-a2c6-bbc501fb7215",
+            "id": "0cbd7d47-2290-449e-8f78-c981e5080515",
             "title": "",
             "text": "Saute fish filets, 2 minutes a side, and remove. They'll break up, which is fine.",
             "ingredientReferences": []
         },
         {
-            "id": "73ff35eb-f78c-43a7-bac9-7b9dcd32bc08",
+            "id": "feb9aa0d-b494-454a-b454-d46873f6e525",
             "title": "",
             "text": "Chop sofrito ingredients and saute, adding garlic later so it doesn't burn.",
             "ingredientReferences": []
         },
         {
-            "id": "98107c98-b8b3-4aa6-b183-38fc4d344b62",
+            "id": "5ff666ca-937f-42f4-941d-41561d3d07f3",
             "title": "",
             "text": "Dump frozen vegs into a big enough bowl and zap 8 mins.",
             "ingredientReferences": []
         },
         {
-            "id": "67f3d374-ffb7-4eef-b22a-5991cc8e77a4",
+            "id": "cb55c381-fb23-4111-8435-01994e593162",
             "title": "",
             "text": "Break up fish into flakes. If it has skin on it like ours did, use a knife to chop the fish and skin into chunks. Sprinkle it with dill.",
             "ingredientReferences": []
         },
         {
-            "id": "98e49a54-89b1-4903-bd42-da4d184f10a7",
+            "id": "c111756d-d6a7-4878-9d69-f8756b78c895",
             "title": "",
             "text": "When sofrito is ready, add vegs and rice and fish.",
             "ingredientReferences": []
         },
         {
-            "id": "8e048423-010e-47db-ba26-a53d22bf3fca",
+            "id": "e7a8ce95-7059-45cd-823b-e8f26f49ce9f",
             "title": "",
             "text": "Add pepper to taste and tartar sauce. Stir until tartar sauce is mixed in.",
             "ingredientReferences": []
         },
         {
-            "id": "5b8b7485-7a97-4273-8563-7ca3e6c6d5d6",
+            "id": "9705e773-888d-4821-ab59-d94abcf216f5",
             "title": "",
             "text": "Eat.",
             "ingredientReferences": []
@@ -444,6 +625,10 @@
     },
     "assets": [],
     "notes": [
+        {
+            "title": "2024-06-22",
+            "text": "TK Notes:\n\nAdded:\n* 3 stalks celery\n* 1 cup frozen carrots\n* dash of cayenne pepper\n\nPrep Defrost / partial cook\n* Microwaved a cup of frozen carrots for 3 minutes\n* Microwaved 1/2-3/4 of a bag of frozen peppers for  90 seconds\n* Cooked frozen riced cauliflower for 3 minutes\n\nDid a rough chop on all the above.\n\nInstructions\n*  Cooked the rice in rice cooker directly with dill and olive oil\n* Cooked fish as above (cod)\n* Put frozen onion and garlic and wok and started cooking.\n* Added everything but the fish and rice to the wok and stir-fried.  Added the dill while cooking.\n    * Added a ~tsp of lemon juice, I think this was important.\n    * When the celery was soft enough, called it done.\n* Add rice, fish, tartar sauce, pepper.  Mix.  Eat.\n\nShould have split stirfry phase into:\n* onions, garlic, carrots, celery which take longer to cook\n* Peppers, riced cauliflower, dill, lemon juice which don't need as long."
+        },
         {
             "title": "2024-05-25",
             "text": "Halibut was used, but probably any white fish would work.\n\nCarrot & celery for a real sofrito would be better than just onion, but we didn't do that.\n\nIf you don't like cauliflower, maybe substitute it with chopped broccoli or a can of diced tomatoes. But the cauliflower disappears into the rice with hardly any taste."

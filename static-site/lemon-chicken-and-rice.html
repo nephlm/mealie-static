@@ -53,6 +53,93 @@
 
                         
                         
+                        
+                    </ul>
+                        <p class="subtitle is-6 has-text-weight-medium">
+                            Marinade
+                        </p>
+                        <ul class="no-bullet">
+                        
+                        <li class="no-bullet">
+                             
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                2 tbsp soy sauce
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                             
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                3 tbsp olive oil
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                             
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                1 tbsp honey
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ¹/₂ tbsp lemon juice 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                1/2 tbsp lemon juice
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                             
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                1 clove garlic
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                             
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                3 tsp lemon zest
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ¹/₂ tsp dill 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                1/2 tsp dill
+                            </li>
+                        
+                        
+                        
+                        
+                    </div>
+                    <div class="box">
+                        
+                    </ul>
+                        <p class="subtitle is-6 has-text-weight-medium">
+                            Rice
+                        </p>
+                        <ul class="no-bullet">
+                        
                         <li class="no-bullet">
                             2 measures rice
                         </li>
@@ -60,13 +147,7 @@
                         
                         
                         <li class="no-bullet">
-                            5 chicken cutlets
-                        </li>
-                        
-                        
-                        
-                        <li class="no-bullet">
-                            2 tbsp butter
+                            2 tbsp olive oil
                         </li>
                         
                         
@@ -78,13 +159,19 @@
                         
                         
                         <li class="no-bullet">
-                            3 tbsp lemon juice
+                            ¹/₂ tbsp lemon juice
                         </li>
                         
                         
                         
                         <li class="no-bullet">
-                            ¹/₂ tsp thyme
+                            ¹/₂ tsp dill
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 tsp lemon zest
                         </li>
                         
                         
@@ -100,6 +187,50 @@
                         </li>
                         
                         
+                        
+                        <li class="no-bullet">
+                            2 cups mixed vegitables
+                        </li>
+                        
+                        
+                        
+                        
+                    </div>
+                    <div class="box">
+                        
+                    </ul>
+                        <p class="subtitle is-6 has-text-weight-medium">
+                            Cook
+                        </p>
+                        <ul class="no-bullet">
+                        
+                        <li class="no-bullet">
+                            5 chicken cutlets
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            0.5 onion
+                        </li>
+                        
+                        
+                        
+                        
+                    </div>
+                    <div class="box">
+                        
+                    </ul>
+                        <p class="subtitle is-6 has-text-weight-medium">
+                            End
+                        </p>
+                        <ul class="no-bullet">
+                        
+                        <li class="no-bullet">
+                            2 cups chicken broth
+                        </li>
+                        
+                        
                     </ul>
                     </div>
                 </div>
@@ -109,32 +240,32 @@
                     <h2 class="title is-3">Instructions</h2>
                     
                         <script>
+                            var parsed = marked.parse(`Marinade:
+
+Add Marinade to pan.  Cut chicken into cubes, add to marinade and mix everything so the chicken is coated.  Refrigerate for an hour or more.  `, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
                             var parsed = marked.parse(`Rice:
 * The rice a made in a rice cooker.
     * Add two measures of rice
     * Use chicken broth instead of water
-         * add 1 clove garlic, 
-         * 2 tbsp butter, 
-         * 1.5 tbsp lemon juice, 
-         * .25 tsp thyme 
-         * sprinkle lightly with adobo
+    * Add frozen mixed vegetables to the the rice cooker.
     * Let cook
+
+I prep the rice cooker at the same time I do the marinade, and let the vegetables defrost in the rice cooker while the chicken is marinading. 
 `, {breaks: true})
                             $('#instructions').append('<div class="box content">' + parsed + '</div>')
                             </script>
                     
                         <script>
-                            var parsed = marked.parse(`Chicken:
-* Start the chicken about 10 minutes before the rice is done.
-* cover bottom of pan with a very thin layer of chicken broth
-    * add 1 clove garlic, let it cook a few minutes on low/warm
-* cut chicken cutlets into cubes
-* add more chicken broth until there is 1/4 to 1/2 inch of chicken broth in the pan
-    * add chicken
-    * 1 tbsp lemon juice
-    * 1/4 tsp thyme
-    * sprinkle adobo
-* cook, stirring regularly
+                            var parsed = marked.parse(`We want to cook the chicken with the onion, but that might require giving the onion some cooking time on it's own to avoid over cooking the chicken.  Unfortunately that means contaminating another dish with raw chicken probably.
+
+Provisional Procedure:
+* Move chicken to a  bowl and add onion to pan.  
+* Cook onion on med to med-low until starting to soften.
+* Add chicken back, turn heat up so the outside of the chicken gets a little brown without drying out. 
 `, {breaks: true})
                             $('#instructions').append('<div class="box content">' + parsed + '</div>')
                             </script>
@@ -143,7 +274,8 @@
                             var parsed = marked.parse(`Combine:
 * when chicken and rice are done
 * add rice to pan
-    * mix and allow rice to absorb liquid
+* add chicken broth to pan.  Since the chicken broth isn't warm, continue to warm for a few minutes to get everything nice and warm.
+* Let sit 5 minutes so the liquid is absorbed by the rice. 
  
 Serve!`, {breaks: true})
                             $('#instructions').append('<div class="box content">' + parsed + '</div>')
@@ -159,18 +291,6 @@ Serve!`, {breaks: true})
 
                 <h2 class="title is-3">Notes</h2>
                 
-                <div class="box">
-
-                    
-                </div>
-                <script>
-                    var parsed = marked.parse(`First time I tried it, I had 2 tbsp lemon juice in the rice, which seems to lemony.  The lemon in the chicken didn't seem very over stated.
-
-I wouldn't be afraid of adding more garlic or more thyme.  Neither jumped out at me.
-`, {breaks: true})
-                    $('.box:last').append('<div class="content">' + parsed + '</div>')
-                    </script>
-            
         </div>
         </section>
 

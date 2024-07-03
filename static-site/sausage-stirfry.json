@@ -34,9 +34,9 @@
     "rating": 5.0,
     "orgURL": null,
     "dateAdded": "2024-04-30",
-    "dateUpdated": "2024-04-30T12:37:57.627024",
+    "dateUpdated": "2024-06-06T17:58:40.249273",
     "createdAt": "2024-04-30T00:45:11.489386",
-    "updateAt": "2024-04-30T12:37:57.629419",
+    "updateAt": "2024-06-06T17:58:40.253180",
     "lastMade": null,
     "recipeIngredient": [
         {
@@ -174,8 +174,8 @@
                 "updateAt": "2024-05-13T12:28:06.444827"
             },
             "food": {
-                "id": "6051cdd8-6c04-4b6c-8f10-a1d42fa23a13",
-                "name": "red wine vinegar",
+                "id": "e08f9f2a-7b87-4e76-be95-c89c6de39cf3",
+                "name": "rice vinegar",
                 "pluralName": null,
                 "description": "",
                 "extras": {},
@@ -187,13 +187,13 @@
                     "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
                     "id": "046d1084-5c4a-4f9f-8695-c38791043125"
                 },
-                "createdAt": "2024-04-30T00:04:34.650701",
-                "updateAt": "2024-04-30T01:51:57.432496"
+                "createdAt": "2024-04-27T11:44:21.418417",
+                "updateAt": "2024-04-27T11:48:34.291410"
             },
             "note": "",
             "isFood": true,
             "disableAmount": false,
-            "display": "2 tsp red wine vinegar",
+            "display": "2 tsp rice vinegar",
             "title": "",
             "originalText": "2.0 teaspoon rice wine vinegar",
             "referenceId": "39594088-acb5-40b9-a5a7-3ff1553410ec"
@@ -680,31 +680,31 @@
     ],
     "recipeInstructions": [
         {
-            "id": "be84f677-1e08-4db3-8116-d04ad10a05e7",
+            "id": "9ae34bf2-1a79-496e-980e-ff89a008758e",
             "title": "",
             "text": "Mix the sauce together in any container large enough to hold it. ",
             "ingredientReferences": []
         },
         {
-            "id": "0ba42317-a062-440b-bd8e-3ded3fb4ba8b",
+            "id": "e09b8e3c-9646-419a-aeab-6c9be22a1fe1",
             "title": "",
             "text": "Cook rice in rice cooker.  Add butter and 2 tbs of stirfry sauce, cook in chicken broth.",
             "ingredientReferences": []
         },
         {
-            "id": "3d3714f3-1cb6-4781-8a3a-b222812bfd12",
+            "id": "9eee2abc-d3c2-4cf9-a431-bd8c9abee507",
             "title": "",
             "text": "Brown sausage.  Set aside sausage and broth.\n",
             "ingredientReferences": []
         },
         {
-            "id": "aa335c2a-fff1-4673-948b-1f5a6c5ca511",
+            "id": "0d47ca5f-d456-4171-bdef-51a3482bfba2",
             "title": "",
             "text": "In the same pan cook Asian stifry.  When almost done add sausage/broth and remainder of sauce.",
             "ingredientReferences": []
         },
         {
-            "id": "a70eb167-5bf0-41b5-b191-f7ffc814a5d5",
+            "id": "127371d5-a943-4c94-ae26-8291a3772b9e",
             "title": "",
             "text": "When done add rice and mix.",
             "ingredientReferences": []

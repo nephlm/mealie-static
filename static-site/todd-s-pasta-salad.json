@@ -29,7 +29,7 @@
     "rating": 5.0,
     "orgURL": null,
     "dateAdded": "2024-04-29",
-    "dateUpdated": "2024-04-30T00:01:30.085656",
+    "dateUpdated": "2024-06-29T19:05:21.124189",
     "createdAt": "2024-04-29T18:28:17.800867",
     "updateAt": "2024-05-25T11:59:10.276200",
     "lastMade": null,
@@ -362,18 +362,18 @@
         {
             "quantity": 2.0,
             "unit": {
-                "id": "d2ec378b-608b-4e61-b0fe-ed15ed84302d",
-                "name": "ounce",
-                "pluralName": null,
+                "id": "94661c62-5523-4f5c-aa77-b8a7536ef03b",
+                "name": "can",
+                "pluralName": "cans",
                 "description": "",
                 "extras": {},
                 "fraction": true,
-                "abbreviation": "oz",
+                "abbreviation": "",
                 "pluralAbbreviation": "",
-                "useAbbreviation": true,
+                "useAbbreviation": false,
                 "aliases": [],
-                "createdAt": "2024-04-26T19:32:10.919838",
-                "updateAt": "2024-05-13T12:27:05.285653"
+                "createdAt": "2024-04-26T19:32:12.664803",
+                "updateAt": "2024-05-13T12:25:48.960493"
             },
             "food": {
                 "id": "d65275b8-b3e6-45ee-9794-c7914f2fa6f3",
@@ -395,7 +395,7 @@
             "note": "chunk in water 5oz each",
             "isFood": true,
             "disableAmount": false,
-            "display": "2 oz tuna chunk in water 5oz each",
+            "display": "2 cans tuna chunk in water 5oz each",
             "title": "",
             "originalText": "10.0 ounce chunk tuna in water",
             "referenceId": "02d9e7c5-7f65-4052-b4c4-15ead67c7f8c"
@@ -403,31 +403,31 @@
     ],
     "recipeInstructions": [
         {
-            "id": "2b018466-cea0-4366-861f-33276618d952",
+            "id": "b09d496b-caec-4f07-a34a-1dadcedc678b",
             "title": "",
             "text": "Make Rotini (spiral pasta) as usual.  Add half the mayo, coat the pasta and refrigerate.",
             "ingredientReferences": []
         },
         {
-            "id": "c86904e3-1ab6-49e7-b35a-f8a5998f81e2",
+            "id": "1685d57d-8557-4ae4-abae-08736b8b81f7",
             "title": "",
             "text": "cut the cucumbers in the quarters the long way and then slice",
             "ingredientReferences": []
         },
         {
-            "id": "93b8d536-35ce-4764-8658-06d3da406e5f",
+            "id": "179fc256-dff5-4244-bf91-6c3fcb170f33",
             "title": "",
             "text": "cut the rest of the vegetables so no piece is larger than the cucumber pieces.",
             "ingredientReferences": []
         },
         {
-            "id": "cdb57557-48d8-4c2d-a9e0-a2397d3ef306",
+            "id": "8b4305c8-5dbd-45a4-848d-8811fa052e6e",
             "title": "",
             "text": "Add all the vegetables to the pasta, add the rest of the tuna, mayo and the spices.",
             "ingredientReferences": []
         },
         {
-            "id": "e369caf9-a978-4de3-bf1b-e10b2129c86d",
+            "id": "f981031a-02f8-4c71-9f8f-d1e0a55ccca5",
             "title": "",
             "text": "Mix thoroughly. Serve refrigerated.",
             "ingredientReferences": []

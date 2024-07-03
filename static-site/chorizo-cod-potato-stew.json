@@ -304,11 +304,16 @@
                 "pluralName": null,
                 "description": "",
                 "extras": {},
-                "labelId": null,
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
                 "aliases": [],
-                "label": null,
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
                 "createdAt": "2024-05-25T12:12:02.695435",
-                "updateAt": "2024-05-25T12:12:02.695440"
+                "updateAt": "2024-06-06T18:06:43.049869"
             },
             "note": "14 oz",
             "isFood": true,

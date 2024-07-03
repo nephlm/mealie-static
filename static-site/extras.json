@@ -43,11 +43,16 @@
                 "pluralName": null,
                 "description": "",
                 "extras": {},
-                "labelId": null,
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
                 "aliases": [],
-                "label": null,
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
                 "createdAt": "2024-05-11T14:23:39.921765",
-                "updateAt": "2024-05-11T14:23:39.921768"
+                "updateAt": "2024-06-06T18:07:01.955180"
             },
             "note": "",
             "isFood": true,

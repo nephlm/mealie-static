@@ -227,11 +227,16 @@
                 "pluralName": null,
                 "description": "",
                 "extras": {},
-                "labelId": null,
+                "labelId": "c952206c-6772-4f43-a09c-b2a584fb9ea2",
                 "aliases": [],
-                "label": null,
+                "label": {
+                    "name": "Other",
+                    "color": "#E0E0E0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "c952206c-6772-4f43-a09c-b2a584fb9ea2"
+                },
                 "createdAt": "2024-05-11T14:25:49.795249",
-                "updateAt": "2024-05-11T14:25:49.795252"
+                "updateAt": "2024-06-06T18:07:19.746206"
             },
             "note": "",
             "isFood": true,
