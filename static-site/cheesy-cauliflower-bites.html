@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8" />
-        <title>Grilling</title>
+        <title>Cheesy Cauliflower Bites</title>
         <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
@@ -24,19 +24,19 @@
                             Home
                         </a>
                         
-                        <a class="ml-6" href= "grilling.json">JSON</a>
+                        <a class="ml-6" href= "cheesy-cauliflower-bites.json">JSON</a>
 
                     </div>
                     <div class="column has-text-right">
-                        <span class="tag is-rounded is-primary is-light is-size-7 ml-1"> entree</span><span class="tag is-rounded is-primary is-light is-size-7 ml-1"> shopping</span>
-                        
-                        <span class="tag is-rounded is-primary is-light is-size-7">★★★★★</span>
+                        <span class="tag is-rounded is-primary is-light is-size-7 ml-1"> Side Dish</span>
+                        <span class="tag is-rounded is-primary is-light is-size-7 "> Needs Pic</span>
+                        <span class="tag is-rounded is-primary is-light is-size-7">☆☆☆☆☆</span>
                     </div>
                 </div>
             </div>
 
             <div class="hero-body">
-                <p class="title">Grilling</p>
+                <p class="title">Cheesy Cauliflower Bites</p>
                 <p class="subtitle is-6"></p>
             </div>
         </section>
@@ -53,95 +53,70 @@
 
                         
                         
+                        <li class="no-bullet">
+                            1 bag riced cauliflower 
+                        </li>
                         
-                    </ul>
-                        <p class="subtitle is-6 has-text-weight-medium">
-                            Base
-                        </p>
-                        <ul class="no-bullet">
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                (12 ounce)
+                            </li>
+                        
+                        
                         
                         <li class="no-bullet">
-                            3 lbs ground beef
+                            1 ¹/₄ cups shredded cheese 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                (sharp cheddar)
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ¹/₂ cup Italian Bread Crumbs
                         </li>
                         
                         
                         
                         <li class="no-bullet">
-                            8 Hot Dogs
+                            1 egg
                         </li>
                         
                         
                         
                         <li class="no-bullet">
-                            8 Hamburger Buns
+                            2 tsp onion powder
                         </li>
                         
                         
                         
                         <li class="no-bullet">
-                            8 Hot Dog buns
+                            2 tsp garlic powder
                         </li>
                         
                         
                         
                         <li class="no-bullet">
-                            8 slices cheese
+                            2 tsp oregano
                         </li>
                         
                         
                         
                         <li class="no-bullet">
-                            1 tomato
+                            2 tsp parsley
                         </li>
                         
                         
                         
                         <li class="no-bullet">
-                            1 lettuce
-                        </li>
-                        
-                        
-                        
-                        
-                    </div>
-                    <div class="box">
-                        
-                    </ul>
-                        <p class="subtitle is-6 has-text-weight-medium">
-                            Extra Goodness
-                        </p>
-                        <ul class="no-bullet">
-                        
-                        <li class="no-bullet">
-                            1 onion
+                            1 tsp red pepper flakes
                         </li>
                         
                         
                         
                         <li class="no-bullet">
-                            2 egg
-                        </li>
-                        
-                        
-                        
-                        <li class="no-bullet">
-                            1 cup Italian Bread Crumbs
-                        </li>
-                        
-                        
-                        
-                        
-                    </div>
-                    <div class="box">
-                        
-                    </ul>
-                        <p class="subtitle is-6 has-text-weight-medium">
-                            Side
-                        </p>
-                        <ul class="no-bullet">
-                        
-                        <li class="no-bullet">
-                            5 lbs potatoes
+                            ¹/₄ tsp pepper
                         </li>
                         
                         
@@ -154,13 +129,32 @@
                     <h2 class="title is-3">Instructions</h2>
                     
                         <script>
-                            var parsed = marked.parse(`Recipe steps as well as other fields in the recipe page support markdown syntax.
-
-**Add a link**
-
-[My Link](https://demo.mealie.io)
-
-`, {breaks: true})
+                            var parsed = marked.parse(`Pre-heat oven to 350 degrees.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`Microwave Cauliflower for 6 minutes. (Drain if needed.)`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`Mix everything else in a large bowl and mix it all together. (Adjust bread crumbs if needed for consistency.)`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`Form mixture into round balls (1.5 inch-ish), and place them on cookie tray lined with aluminum foil and sprayed with olive oil.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`(optional) Sprinkle additional cheese on top.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`Bake for 20 minutes, should be golden brown.`, {breaks: true})
                             $('#instructions').append('<div class="box content">' + parsed + '</div>')
                             </script>
                     

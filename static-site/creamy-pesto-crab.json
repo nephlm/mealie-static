@@ -34,9 +34,9 @@
     "rating": 5.0,
     "orgURL": null,
     "dateAdded": "2024-05-02",
-    "dateUpdated": "2024-05-02T12:46:39.231590",
+    "dateUpdated": "2024-09-05T18:51:19.549994",
     "createdAt": "2024-05-02T01:24:49.507516",
-    "updateAt": "2024-05-02T12:46:39.237342",
+    "updateAt": "2024-09-05T18:51:19.554769",
     "lastMade": null,
     "recipeIngredient": [
         {
@@ -697,49 +697,49 @@
     ],
     "recipeInstructions": [
         {
-            "id": "8308f33e-f44f-4280-a9f8-beab06841b4c",
+            "id": "74dfbafe-ce15-479f-9ff4-b2c02d8c0f8a",
             "title": "",
-            "text": "Start cooking rice with tbsp olive oil and a little chili powder and cilantro.",
+            "text": "Start cooking rice with tbsp olive oil and a little chili powder and parsley.",
             "ingredientReferences": []
         },
         {
-            "id": "f1c88473-051b-4c1c-a8e2-cf585aa9c21e",
+            "id": "49aa5139-8e56-461d-8a02-36df8f36aea7",
             "title": "",
             "text": "Add olive oil to big pan",
             "ingredientReferences": []
         },
         {
-            "id": "ceb9456c-75fc-465e-a904-cc4bd76287ba",
+            "id": "13c5f73d-ed38-482f-9ba5-f1ca60da7bec",
             "title": "",
             "text": "throw in (diced) peppers (while still frozen) and chives and stat cooking.",
             "ingredientReferences": []
         },
         {
-            "id": "541bacd4-b030-4356-ae4d-51e10cead269",
+            "id": "c9614657-fd74-48b5-9bcf-41d8facd6afc",
             "title": "",
             "text": "When those get going whisk in the milk.",
             "ingredientReferences": []
         },
         {
-            "id": "b5e110f8-5398-4d8a-883e-f1391f8388cd",
+            "id": "35b41258-ea43-4917-8127-13e2e216dab0",
             "title": "",
             "text": "When that's will mixed add in the water, pesto and all the spices.",
             "ingredientReferences": []
         },
         {
-            "id": "5ddc227f-46fc-4344-80e7-f69eb971b0ee",
+            "id": "712f8924-24ab-45db-84fd-9d62b5c3daba",
             "title": "",
             "text": "Add crab and cook until done.",
             "ingredientReferences": []
         },
         {
-            "id": "14ed83a2-66cd-47f0-b5e9-1abd1097ec8b",
+            "id": "58ce548d-1b6c-4622-a44c-daa89338e195",
             "title": "",
             "text": "Add in the rice and parm cheese.  Mix thoroughly.",
             "ingredientReferences": []
         },
         {
-            "id": "343c54c6-f47c-417e-b6cc-d8a7523cc7e6",
+            "id": "1d90e485-a1be-47ff-acfd-0167d700cc61",
             "title": "",
             "text": "Let sit for five minutes for the rice to pick up any left over liquid.",
             "ingredientReferences": []

@@ -11,7 +11,18 @@
     "cookTime": null,
     "performTime": "30 min",
     "description": "",
-    "recipeCategory": [],
+    "recipeCategory": [
+        {
+            "id": "5b7f4cd2-5d0e-440e-8e88-64ad06d1aad1",
+            "name": "entree",
+            "slug": "entree"
+        },
+        {
+            "id": "528184fc-6756-4323-a0c3-ece1c3a4dc9e",
+            "name": "shopping",
+            "slug": "shopping"
+        }
+    ],
     "tags": [],
     "tools": [
         {
@@ -24,9 +35,9 @@
     "rating": 5.0,
     "orgURL": null,
     "dateAdded": "2024-04-26",
-    "dateUpdated": "2024-04-27T03:44:27.659151",
+    "dateUpdated": "2024-09-14T12:15:34.252133",
     "createdAt": "2024-04-26T19:41:50.632191",
-    "updateAt": "2024-05-25T11:59:32.526274",
+    "updateAt": "2024-09-14T12:15:34.253924",
     "lastMade": null,
     "recipeIngredient": [
         {
@@ -66,7 +77,7 @@
             "isFood": true,
             "disableAmount": false,
             "display": "3 lbs ground beef",
-            "title": null,
+            "title": "Base",
             "originalText": null,
             "referenceId": "b6c3f4b4-d7cb-4f00-9ae0-07407705d26f"
         },
@@ -153,47 +164,6 @@
             "title": "",
             "originalText": null,
             "referenceId": "243dc28b-3fcd-42a0-9ac0-91b7ef97ffbd"
-        },
-        {
-            "quantity": 5.0,
-            "unit": {
-                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
-                "name": "pound",
-                "pluralName": "pounds",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "lb",
-                "pluralAbbreviation": "lbs",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:10.726674",
-                "updateAt": "2024-05-02T12:28:24.776546"
-            },
-            "food": {
-                "id": "37832f9d-9a7f-46ba-8008-318e4b203c17",
-                "name": "potatoes",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
-                "aliases": [],
-                "label": {
-                    "name": "Produce",
-                    "color": "#a7d766",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
-                },
-                "createdAt": "2024-04-26T19:32:39.537591",
-                "updateAt": "2024-04-26T19:51:52.650876"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "5 lbs potatoes",
-            "title": "",
-            "originalText": null,
-            "referenceId": "352374b9-7b9d-43f6-9887-5af047833d15"
         },
         {
             "quantity": 8.0,
@@ -291,11 +261,149 @@
             "title": "",
             "originalText": null,
             "referenceId": "b04ede8f-ca2c-4510-9bcc-4f2fe63c8c61"
+        },
+        {
+            "quantity": 1.0,
+            "unit": null,
+            "food": {
+                "id": "1e397cd3-35eb-4c64-b8cf-b40dfc61cd0b",
+                "name": "onion",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "aliases": [],
+                "label": {
+                    "name": "Frozen Foods",
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726"
+                },
+                "createdAt": "2024-04-26T19:32:21.362752",
+                "updateAt": "2024-04-27T03:18:52.550301"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 onion",
+            "title": "Extra Goodness",
+            "originalText": null,
+            "referenceId": "2a2775f1-9bea-4ff7-953d-4a251884219a"
+        },
+        {
+            "quantity": 2.0,
+            "unit": null,
+            "food": {
+                "id": "ce51d81c-dbcb-477e-88fc-3359d4eb7fa5",
+                "name": "egg",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "aliases": [],
+                "label": {
+                    "name": "Dairy Products",
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f"
+                },
+                "createdAt": "2024-04-29T13:21:56.458709",
+                "updateAt": "2024-04-30T01:52:50.518341"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "2 egg",
+            "title": "",
+            "originalText": null,
+            "referenceId": "7092681f-b38a-450e-b283-9cd3f6c53ed9"
+        },
+        {
+            "quantity": 1.0,
+            "unit": {
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "pluralName": "cups",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "cup",
+                "pluralAbbreviation": "c",
+                "useAbbreviation": false,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520",
+                "updateAt": "2024-05-13T12:21:47.446380"
+            },
+            "food": {
+                "id": "5aea46b8-c539-458a-834a-ab0857bb35d7",
+                "name": "Italian Bread Crumbs",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "aliases": [],
+                "label": {
+                    "name": "Cans and Jars",
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
+                },
+                "createdAt": "2024-04-30T12:13:05.364195",
+                "updateAt": "2024-04-30T20:24:58.889995"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "1 cup Italian Bread Crumbs",
+            "title": "",
+            "originalText": null,
+            "referenceId": "8496a92d-89ca-409f-aea4-36e150797ffb"
+        },
+        {
+            "quantity": 5.0,
+            "unit": {
+                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
+                "name": "pound",
+                "pluralName": "pounds",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "abbreviation": "lb",
+                "pluralAbbreviation": "lbs",
+                "useAbbreviation": true,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.726674",
+                "updateAt": "2024-05-02T12:28:24.776546"
+            },
+            "food": {
+                "id": "37832f9d-9a7f-46ba-8008-318e4b203c17",
+                "name": "potatoes",
+                "pluralName": null,
+                "description": "",
+                "extras": {},
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "aliases": [],
+                "label": {
+                    "name": "Produce",
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
+                },
+                "createdAt": "2024-04-26T19:32:39.537591",
+                "updateAt": "2024-04-26T19:51:52.650876"
+            },
+            "note": "",
+            "isFood": true,
+            "disableAmount": false,
+            "display": "5 lbs potatoes",
+            "title": "Side",
+            "originalText": null,
+            "referenceId": "352374b9-7b9d-43f6-9887-5af047833d15"
         }
     ],
     "recipeInstructions": [
         {
-            "id": "0c114b89-3552-4c9d-8fbe-1f5d0b02519f",
+            "id": "ae29124b-0178-4cb1-b81f-d5c9be44505d",
             "title": "",
             "text": "Recipe steps as well as other fields in the recipe page support markdown syntax.\n\n**Add a link**\n\n[My Link](https://demo.mealie.io)\n\n",
             "ingredientReferences": []
