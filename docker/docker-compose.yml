@@ -1,4 +1,7 @@
 version: "3.4"
+
+name: mealie
+
 services:
   mealie:
     image: ghcr.io/mealie-recipes/mealie:latest #
@@ -31,4 +34,4 @@ volumes:
     driver_opts:
       type: none
       o: bind
-      device: /home/tkuster/Src/devops/mealie-static/data
+      device: /srv/raid2023/Src/src/devops/mealie-static/data

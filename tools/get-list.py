@@ -22,12 +22,18 @@ def render(shopping_list):
 
 
 def compile_list():
-    host = "localhost"
-    port = 9925
-    base_url = f"http://{host}:{port}/api"
-    path = f"groups/shopping/lists/{list_id}"
+    # host = "192.168.1.2"
+    host = "mealie.nephlm.com"
+    # port = 9925
+    # base_url = f"http://{host}:{port}/api"
+    base_url = f"https://{host}/api"
+    # path = f"groups/shopping/lists/{list_id}"
+    path = f"households/shopping/lists/{list_id}"
     url = f"{base_url}/{path}"
+    print(url)
     response = httpx.get(url, headers={"Authorization": f"Bearer {api_token}"})
+    print(response.status_code)
+    # print(response.content)
     shopping_list = json.loads(response.content)
     compiled = {}
     for label in shopping_list["labelSettings"]:
