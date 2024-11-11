@@ -28,6 +28,20 @@ services:
       WEB_CONCURRENCY: 1
       BASE_URL: http://localhost
 
+  static-builder:
+    build: ./static-builder
+    environment:
+      API_KEY_FILE: /run/secrets/mealie_api_key
+      LIST_ID: e27baaa6-9057-43c3-a64d-16b8218fc4e1
+    volumes:
+      - ../static-site:/site
+    secrets:
+      - mealie_api_key
+
+secrets:
+  mealie_api_key:
+    file: ./mealie-api-key.txt
+
 volumes:
   mealie-data:
     driver: local

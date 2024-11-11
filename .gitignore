@@ -166,3 +166,5 @@ dev/code-generation/openapi.json
 
 #excluding images for now
 *.webp
+
+**/mealie-api-key.txt
