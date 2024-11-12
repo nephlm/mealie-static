@@ -3,13 +3,15 @@ import time
 from dataclasses import dataclass
 from pathlib import Path
 
+import build_static_site as site
+
 # from . import get_list
 import get_list
 import httpx
 
-BASE_URL = "http://mealie:9000"
-API_URL = BASE_URL + "/api"
-DEST = Path("/site")
+# BASE_URL = "http://mealie:9000"
+# API_URL = BASE_URL + "/api"
+# DEST = Path("/site")
 
 env = os.environ
 
@@ -20,9 +22,9 @@ LIST_ID = env["LIST_ID"]
 
 @dataclass
 class Config:
-    base_url: str
-    api_token: str
-    dest_dir: Path
+    base_url: str = "http://mealie:9000"
+    api_token: str = API_TOKEN
+    dest_dir: Path = Path("/site")
 
     @property
     def api_url(self):
@@ -49,23 +51,21 @@ def check_mealie_webserver(config):
 
 def main():
     fprint("===================== PROGRAM STARTED SUCCESSFULLY ===================")
-    config = Config(base_url=BASE_URL, api_token=API_TOKEN, dest_dir=DEST)
+    config = Config()
+    iterations = 0
     while not check_mealie_webserver(config):
         time.sleep(10)
     shopping_list = get_list.ShoppingList(config, LIST_ID)
     while True:
         shopping_list.write_list()
 
-        # shopping_list = get_list.compile_list(BASE_URL)
-        # print(shopping_list, flush=True)
-        # if shopping_list != last_shopping_list:
-        #     print("Shopping List Changed", flush=True)
-        #     page = get_list.render_list(shopping_list)
-        #     get_list.save_list(page, DEST / "list.html")
-        #     print("Shopping List Saved", flush=True)
-        #     last_shopping_list = shopping_list
+        if not iterations % 2:
+            index = site.Index(config)
+            index.make()
+
         for _ in range(30):
             time.sleep(1)
+        iterations += 1
 
 
 if __name__ == "__main__":

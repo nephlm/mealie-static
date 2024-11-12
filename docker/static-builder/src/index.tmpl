@@ -31,7 +31,18 @@
 </head>
 <body>
   <div id="app" class="container">
-    <h1 class="title">Recipe List</h1>
+    <div class="level">
+      <div class="level-left">
+        <div class="level-item">
+          <h1 class="title">Recipe List</h1>
+        </div>
+      </div>
+      <div class="level-right">
+        <div class="level-item">
+          <a href="list.html">Shopping List</a>
+        </div>
+      </div>
+    </div>
     <div class="field has-addons">
       <div class="control is-expanded">
         <input class="input" type="text" placeholder="Search..." v-model="searchQuery" @input="searchItems">

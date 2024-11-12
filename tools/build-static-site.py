@@ -18,9 +18,11 @@ API_TOKEN = keyring.get_password("mealie", "api")
 INDEX_TEMPLATE = "index.tmpl"
 
 
-HOST = "localhost"
-PORT = 9925
-BASE_URL = f"http://{HOST}:{PORT}/api"
+# HOST = "localhost"
+# PORT = 9925
+# BASE_URL = f"http://{HOST}:{PORT}/api"
+HOST = "mealie.nephlm.com"
+BASE_URL = f"https://{HOST}/api"
 
 DEST = Path.cwd().parent / "static-site"
 assert DEST.exists() and DEST.is_dir()
@@ -55,6 +57,7 @@ def get_recipe_list_page(url):
 
 
 def get_all_recipes():
+    next_url = None
     url = f"{BASE_URL}/recipes"
     next_path, recipes = get_recipe_list_page(url)
     all_recipes = recipes
