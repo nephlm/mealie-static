@@ -1,16 +1,45 @@
 {
-    "id": "c95b8035-4fe7-430e-9886-1a0a03e32d47",
-    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
-    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-    "name": "Peanut Noodles",
-    "slug": "peanut-noodles",
-    "image": "88",
-    "recipeYield": "4",
-    "totalTime": null,
-    "prepTime": "5 min",
+    "assets": [],
+    "comments": [],
     "cookTime": null,
-    "performTime": "20 min",
+    "createdAt": "2024-04-27T11:36:26.472253Z",
+    "dateAdded": "2024-04-27",
+    "dateUpdated": "2024-05-03T12:45:32.819011Z",
     "description": "",
+    "extras": {},
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "householdId": "74cd302c-032c-4707-b612-ada7618e0847",
+    "id": "c95b8035-4fe7-430e-9886-1a0a03e32d47",
+    "image": "88",
+    "lastMade": null,
+    "name": "Peanut Noodles",
+    "notes": [
+        {
+            "text": "The noodles will absorb a bunch of water, so you'll want to add water when reheating.",
+            "title": ""
+        },
+        {
+            "text": "",
+            "title": ""
+        }
+    ],
+    "nutrition": {
+        "calories": null,
+        "carbohydrateContent": null,
+        "cholesterolContent": null,
+        "fatContent": null,
+        "fiberContent": null,
+        "proteinContent": null,
+        "saturatedFatContent": null,
+        "sodiumContent": null,
+        "sugarContent": null,
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "orgURL": null,
+    "performTime": "20 min",
+    "prepTime": "5 min",
+    "rating": 5.0,
     "recipeCategory": [
         {
             "id": "5b7f4cd2-5d0e-440e-8e88-64ad06d1aad1",
@@ -18,6 +47,510 @@
             "slug": "entree"
         }
     ],
+    "recipeIngredient": [
+        {
+            "disableAmount": false,
+            "display": "1 lb linguine Whole grain",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T11:41:52.504824Z",
+                "description": "",
+                "extras": {},
+                "id": "9c1a49d9-f465-4547-aa56-d5743fb824f3",
+                "label": {
+                    "color": "#cd1652",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                    "name": "Pasta"
+                },
+                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "name": "linguine",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T11:46:44.450138Z"
+            },
+            "isFood": true,
+            "note": "Whole grain",
+            "originalText": "1 lbs spaghetti",
+            "quantity": 1.0,
+            "referenceId": "2509d2f6-83f0-4ae7-b44c-3b8505bbe0be",
+            "title": "Pasta",
+            "unit": {
+                "abbreviation": "lb",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.726674Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
+                "name": "pound",
+                "onHand": false,
+                "pluralAbbreviation": "lbs",
+                "pluralName": "pounds",
+                "updatedAt": "2024-05-02T12:28:24.776546Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "3 tbsp sesame oil",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T11:42:33.580856Z",
+                "description": "",
+                "extras": {},
+                "id": "77102815-22c9-4798-bb19-91176cf6f32e",
+                "label": {
+                    "color": "#e89eb9",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "046d1084-5c4a-4f9f-8695-c38791043125",
+                    "name": "Oil"
+                },
+                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
+                "name": "sesame oil",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T11:47:07.291341Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "3 tbls sesame oil",
+            "quantity": 3.0,
+            "referenceId": "883c825f-fe00-489e-8617-95be51aeedac",
+            "title": "Soften",
+            "unit": {
+                "abbreviation": "tbsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:27:59.862809Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 bunch green onion",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:33.825761Z",
+                "description": "",
+                "extras": {},
+                "id": "97940640-0196-4fff-bb2f-a525c526cc8c",
+                "label": {
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                    "name": "Produce"
+                },
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "name": "green onion",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:15:01.347465Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 bunch green onions",
+            "quantity": 1.0,
+            "referenceId": "6f04e7f8-8165-43c2-a57f-c945fad6c4dd",
+            "title": "",
+            "unit": {
+                "abbreviation": "",
+                "aliases": [],
+                "createdAt": "2024-04-27T11:42:55.765925Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "195e7e83-0195-40e4-815e-6c7cd47ac3a9",
+                "name": "bunch",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": "bunches",
+                "updatedAt": "2024-05-13T12:25:21.687410Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 cup peanuts crushed to pref",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T11:43:15.621098Z",
+                "description": "",
+                "extras": {},
+                "id": "0222bfb1-ae68-43a4-9dc4-e5c114f62d04",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "peanuts",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T11:48:11.812361Z"
+            },
+            "isFood": true,
+            "note": "crushed to pref",
+            "originalText": "1/2 cup peanuts (crushed to pref)",
+            "quantity": 0.5,
+            "referenceId": "7dc437c7-f696-4068-a8da-d085299be809",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 tsp ginger",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:23.096088Z",
+                "description": "",
+                "extras": {},
+                "id": "4d54230a-792c-4afe-b667-d5a6a1cc1d59",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "ginger",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:18:21.284110Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "2 teaspoon ginger",
+            "quantity": 2.0,
+            "referenceId": "8b207d2c-1c11-4835-b1f5-f9e60f61877f",
+            "title": "Ginger",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 cup peanut butter",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T11:43:27.033020Z",
+                "description": "",
+                "extras": {},
+                "id": "cee475aa-583f-4be0-8bc9-7e2963d2163d",
+                "label": {
+                    "color": "#d7771e",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "be29b677-1d21-4f67-8954-0357c7300d50",
+                    "name": "Breads"
+                },
+                "labelId": "be29b677-1d21-4f67-8954-0357c7300d50",
+                "name": "peanut butter",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T11:48:01.614616Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1/2 cup peanut butter",
+            "quantity": 0.5,
+            "referenceId": "d8a83934-88e5-481a-9683-b533f394c2cd",
+            "title": "Everything Else",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2084 cup soy sauce",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T11:43:48.390392Z",
+                "description": "",
+                "extras": {},
+                "id": "5fdcd369-8502-4e38-94b4-8363a8d6f638",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "soy sauce",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T11:49:13.222641Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1/4 cup soy sauce",
+            "quantity": 0.25,
+            "referenceId": "7e2435eb-951b-473e-8eca-a3703ec1cb3f",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 cup water hot",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T02:31:21.445759Z",
+                "description": "",
+                "extras": {},
+                "id": "d9a322c3-fd8e-4b39-809f-abcbd76b8062",
+                "label": null,
+                "labelId": null,
+                "name": "water",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:05:36.520887Z"
+            },
+            "isFood": true,
+            "note": "hot",
+            "originalText": "1 cup hot water",
+            "quantity": 1.0,
+            "referenceId": "a45941d4-1a68-4112-945c-e8549b056e58",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 tbsp rice vinegar",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T11:44:21.418417Z",
+                "description": "",
+                "extras": {},
+                "id": "e08f9f2a-7b87-4e76-be95-c89c6de39cf3",
+                "label": {
+                    "color": "#e89eb9",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "046d1084-5c4a-4f9f-8695-c38791043125",
+                    "name": "Oil"
+                },
+                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
+                "name": "rice vinegar",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T11:48:34.291410Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "2 tablespoon rice vinegar",
+            "quantity": 2.0,
+            "referenceId": "b7e50f46-2abe-44e1-b7a1-ae5a46c57a24",
+            "title": "",
+            "unit": {
+                "abbreviation": "tbsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:27:59.862809Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 tbsp honey",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:19.441833Z",
+                "description": "",
+                "extras": {},
+                "id": "f3c19faa-40fd-4a99-8452-b7228462cb53",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "honey",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:19:47.128984Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 tablespoon honey",
+            "quantity": 1.0,
+            "referenceId": "e84de842-33b0-470f-a66b-fa0479c6ceb9",
+            "title": "",
+            "unit": {
+                "abbreviation": "tbsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:27:59.862809Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 tsp red pepper flakes",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T11:44:32.724777Z",
+                "description": "",
+                "extras": {},
+                "id": "e2cbe589-c39c-4ef5-bbb3-068cd3a887c8",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "red pepper flakes",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T11:49:59.129682Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1/2 teaspoon red pepper flakes",
+            "quantity": 0.5,
+            "referenceId": "c632a18c-951d-4169-98bd-7e7deb293da3",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "c59d3b34-3518-4953-a448-8291d302d596",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "Cook pasta in a large pot of boiling water until done. Drain.\n\n",
+            "title": ""
+        },
+        {
+            "id": "8bbbaf43-cca0-4995-80cb-a991707182c3",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "Meanwhile, combine oil, peanuts and onions in a small skillet. Saute over low heat until tender. Add ginger; cook and stir for 1 to 2 minutes. Mix in peanut butter, soy sauce, water, vinegar, sugar, and red pepper flakes. Mix thoroughly until peanut butter in melted and it's thick.  Remove from heat.",
+            "title": ""
+        },
+        {
+            "id": "20881ffa-572c-4eb0-8df3-468cb346f6f9",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "Toss noodles with sauce, and serve.",
+            "title": ""
+        }
+    ],
+    "recipeYield": "4",
+    "settings": {
+        "disableAmount": false,
+        "disableComments": false,
+        "landscapeView": false,
+        "locked": false,
+        "public": true,
+        "showAssets": false,
+        "showNutrition": false
+    },
+    "slug": "peanut-noodles",
     "tags": [
         {
             "id": "7554d359-722a-48f8-b465-23091d967ffc",
@@ -26,510 +559,7 @@
         }
     ],
     "tools": [],
-    "rating": 5.0,
-    "orgURL": null,
-    "dateAdded": "2024-04-27",
-    "dateUpdated": "2024-05-03T12:45:32.819011",
-    "createdAt": "2024-04-27T11:36:26.472253",
-    "updateAt": "2024-05-25T12:07:35.321835",
-    "lastMade": null,
-    "recipeIngredient": [
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
-                "name": "pound",
-                "pluralName": "pounds",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "lb",
-                "pluralAbbreviation": "lbs",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:10.726674",
-                "updateAt": "2024-05-02T12:28:24.776546"
-            },
-            "food": {
-                "id": "9c1a49d9-f465-4547-aa56-d5743fb824f3",
-                "name": "linguine",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
-                "aliases": [],
-                "label": {
-                    "name": "Pasta",
-                    "color": "#cd1652",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8"
-                },
-                "createdAt": "2024-04-27T11:41:52.504824",
-                "updateAt": "2024-04-27T11:46:44.450138"
-            },
-            "note": "Whole grain",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 lb linguine Whole grain",
-            "title": "Pasta",
-            "originalText": "1 lbs spaghetti",
-            "referenceId": "2509d2f6-83f0-4ae7-b44c-3b8505bbe0be"
-        },
-        {
-            "quantity": 3.0,
-            "unit": {
-                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
-                "name": "tablespoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tbsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.018253",
-                "updateAt": "2024-05-13T12:27:59.862809"
-            },
-            "food": {
-                "id": "77102815-22c9-4798-bb19-91176cf6f32e",
-                "name": "sesame oil",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
-                "aliases": [],
-                "label": {
-                    "name": "Oil",
-                    "color": "#e89eb9",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "046d1084-5c4a-4f9f-8695-c38791043125"
-                },
-                "createdAt": "2024-04-27T11:42:33.580856",
-                "updateAt": "2024-04-27T11:47:07.291341"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "3 tbsp sesame oil",
-            "title": "Soften",
-            "originalText": "3 tbls sesame oil",
-            "referenceId": "883c825f-fe00-489e-8617-95be51aeedac"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "195e7e83-0195-40e4-815e-6c7cd47ac3a9",
-                "name": "bunch",
-                "pluralName": "bunches",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "",
-                "pluralAbbreviation": "",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-27T11:42:55.765925",
-                "updateAt": "2024-05-13T12:25:21.687410"
-            },
-            "food": {
-                "id": "97940640-0196-4fff-bb2f-a525c526cc8c",
-                "name": "green onion",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
-                "aliases": [],
-                "label": {
-                    "name": "Produce",
-                    "color": "#a7d766",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
-                },
-                "createdAt": "2024-04-26T19:32:33.825761",
-                "updateAt": "2024-04-27T03:15:01.347465"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 bunch green onion",
-            "title": "",
-            "originalText": "1 bunch green onions",
-            "referenceId": "6f04e7f8-8165-43c2-a57f-c945fad6c4dd"
-        },
-        {
-            "quantity": 0.5,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "0222bfb1-ae68-43a4-9dc4-e5c114f62d04",
-                "name": "peanuts",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-27T11:43:15.621098",
-                "updateAt": "2024-04-27T11:48:11.812361"
-            },
-            "note": "crushed to pref",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2082 cup peanuts crushed to pref",
-            "title": "",
-            "originalText": "1/2 cup peanuts (crushed to pref)",
-            "referenceId": "7dc437c7-f696-4068-a8da-d085299be809"
-        },
-        {
-            "quantity": 2.0,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "4d54230a-792c-4afe-b667-d5a6a1cc1d59",
-                "name": "ginger",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:23.096088",
-                "updateAt": "2024-04-27T03:18:21.284110"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "2 tsp ginger",
-            "title": "Ginger",
-            "originalText": "2 teaspoon ginger",
-            "referenceId": "8b207d2c-1c11-4835-b1f5-f9e60f61877f"
-        },
-        {
-            "quantity": 0.5,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "cee475aa-583f-4be0-8bc9-7e2963d2163d",
-                "name": "peanut butter",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "be29b677-1d21-4f67-8954-0357c7300d50",
-                "aliases": [],
-                "label": {
-                    "name": "Breads",
-                    "color": "#d7771e",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "be29b677-1d21-4f67-8954-0357c7300d50"
-                },
-                "createdAt": "2024-04-27T11:43:27.033020",
-                "updateAt": "2024-04-27T11:48:01.614616"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2082 cup peanut butter",
-            "title": "Everything Else",
-            "originalText": "1/2 cup peanut butter",
-            "referenceId": "d8a83934-88e5-481a-9683-b533f394c2cd"
-        },
-        {
-            "quantity": 0.25,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "5fdcd369-8502-4e38-94b4-8363a8d6f638",
-                "name": "soy sauce",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-27T11:43:48.390392",
-                "updateAt": "2024-04-27T11:49:13.222641"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2084 cup soy sauce",
-            "title": "",
-            "originalText": "1/4 cup soy sauce",
-            "referenceId": "7e2435eb-951b-473e-8eca-a3703ec1cb3f"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "d9a322c3-fd8e-4b39-809f-abcbd76b8062",
-                "name": "water",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": null,
-                "aliases": [],
-                "label": null,
-                "createdAt": "2024-04-27T02:31:21.445759",
-                "updateAt": "2024-04-27T03:05:36.520887"
-            },
-            "note": "hot",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 cup water hot",
-            "title": "",
-            "originalText": "1 cup hot water",
-            "referenceId": "a45941d4-1a68-4112-945c-e8549b056e58"
-        },
-        {
-            "quantity": 2.0,
-            "unit": {
-                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
-                "name": "tablespoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tbsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.018253",
-                "updateAt": "2024-05-13T12:27:59.862809"
-            },
-            "food": {
-                "id": "e08f9f2a-7b87-4e76-be95-c89c6de39cf3",
-                "name": "rice vinegar",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
-                "aliases": [],
-                "label": {
-                    "name": "Oil",
-                    "color": "#e89eb9",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "046d1084-5c4a-4f9f-8695-c38791043125"
-                },
-                "createdAt": "2024-04-27T11:44:21.418417",
-                "updateAt": "2024-04-27T11:48:34.291410"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "2 tbsp rice vinegar",
-            "title": "",
-            "originalText": "2 tablespoon rice vinegar",
-            "referenceId": "b7e50f46-2abe-44e1-b7a1-ae5a46c57a24"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
-                "name": "tablespoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tbsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.018253",
-                "updateAt": "2024-05-13T12:27:59.862809"
-            },
-            "food": {
-                "id": "f3c19faa-40fd-4a99-8452-b7228462cb53",
-                "name": "honey",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-26T19:32:19.441833",
-                "updateAt": "2024-04-27T03:19:47.128984"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 tbsp honey",
-            "title": "",
-            "originalText": "1 tablespoon honey",
-            "referenceId": "e84de842-33b0-470f-a66b-fa0479c6ceb9"
-        },
-        {
-            "quantity": 0.5,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "e2cbe589-c39c-4ef5-bbb3-068cd3a887c8",
-                "name": "red pepper flakes",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-27T11:44:32.724777",
-                "updateAt": "2024-04-27T11:49:59.129682"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2082 tsp red pepper flakes",
-            "title": "",
-            "originalText": "1/2 teaspoon red pepper flakes",
-            "referenceId": "c632a18c-951d-4169-98bd-7e7deb293da3"
-        }
-    ],
-    "recipeInstructions": [
-        {
-            "id": "c59d3b34-3518-4953-a448-8291d302d596",
-            "title": "",
-            "text": "Cook pasta in a large pot of boiling water until done. Drain.\n\n",
-            "ingredientReferences": []
-        },
-        {
-            "id": "8bbbaf43-cca0-4995-80cb-a991707182c3",
-            "title": "",
-            "text": "Meanwhile, combine oil, peanuts and onions in a small skillet. Saute over low heat until tender. Add ginger; cook and stir for 1 to 2 minutes. Mix in peanut butter, soy sauce, water, vinegar, sugar, and red pepper flakes. Mix thoroughly until peanut butter in melted and it's thick.  Remove from heat.",
-            "ingredientReferences": []
-        },
-        {
-            "id": "20881ffa-572c-4eb0-8df3-468cb346f6f9",
-            "title": "",
-            "text": "Toss noodles with sauce, and serve.",
-            "ingredientReferences": []
-        }
-    ],
-    "nutrition": {
-        "calories": null,
-        "fatContent": null,
-        "proteinContent": null,
-        "carbohydrateContent": null,
-        "fiberContent": null,
-        "sodiumContent": null,
-        "sugarContent": null
-    },
-    "settings": {
-        "public": true,
-        "showNutrition": false,
-        "showAssets": false,
-        "landscapeView": false,
-        "disableComments": false,
-        "disableAmount": false,
-        "locked": false
-    },
-    "assets": [],
-    "notes": [
-        {
-            "title": "",
-            "text": "The noodles will absorb a bunch of water, so you'll want to add water when reheating."
-        },
-        {
-            "title": "",
-            "text": ""
-        }
-    ],
-    "extras": {},
-    "comments": []
+    "totalTime": null,
+    "updatedAt": "2024-05-25T12:07:35.321835Z",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31"
 }

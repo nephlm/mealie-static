@@ -1,16 +1,36 @@
 {
-    "id": "13f28315-a861-4c7a-ba37-7d483a4f5b87",
-    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
-    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-    "name": "Taco Seasonings",
-    "slug": "taco-seasonings",
-    "image": null,
-    "recipeYield": null,
-    "totalTime": null,
-    "prepTime": null,
+    "assets": [],
+    "comments": [],
     "cookTime": null,
-    "performTime": null,
+    "createdAt": "2024-05-02T01:39:08.477915Z",
+    "dateAdded": "2024-05-02",
+    "dateUpdated": "2024-05-02T12:34:26.506227Z",
     "description": "",
+    "extras": {},
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "householdId": "74cd302c-032c-4707-b612-ada7618e0847",
+    "id": "13f28315-a861-4c7a-ba37-7d483a4f5b87",
+    "image": null,
+    "lastMade": null,
+    "name": "Taco Seasonings",
+    "notes": [],
+    "nutrition": {
+        "calories": null,
+        "carbohydrateContent": null,
+        "cholesterolContent": null,
+        "fatContent": null,
+        "fiberContent": null,
+        "proteinContent": null,
+        "saturatedFatContent": null,
+        "sodiumContent": null,
+        "sugarContent": null,
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "orgURL": null,
+    "performTime": null,
+    "prepTime": null,
+    "rating": null,
     "recipeCategory": [
         {
             "id": "c6201cb7-49e2-4765-afb1-9bae85d06a78",
@@ -18,6 +38,419 @@
             "slug": "spice-mix"
         }
     ],
+    "recipeIngredient": [
+        {
+            "disableAmount": false,
+            "display": "1 tbsp chili powder",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-30T00:09:10.242308Z",
+                "description": "",
+                "extras": {},
+                "id": "9ee197ab-eda6-497f-aa70-b7cc53e4564a",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "chili powder",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:51:50.542512Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 tablespoon chili powder",
+            "quantity": 1.0,
+            "referenceId": "00ca3fce-7c9d-4b93-8945-152c59b8b71d",
+            "title": "",
+            "unit": {
+                "abbreviation": "tbsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:27:59.862809Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2084 tsp garlic powder",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-29T13:14:44.383401Z",
+                "description": "",
+                "extras": {},
+                "id": "93fff357-8629-408a-a3da-f9c324cad9c4",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "garlic powder",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:53:00.284312Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.25 teaspoon garlic powder",
+            "quantity": 0.25,
+            "referenceId": "8dee77c6-ba99-49b8-a416-0df42e15900b",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2084 tsp onion powder",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-29T13:14:34.621701Z",
+                "description": "",
+                "extras": {},
+                "id": "de09ad78-8460-446f-88c8-abb398544766",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "onion powder",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:53:08.588780Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.25 teaspoon onion powder",
+            "quantity": 0.25,
+            "referenceId": "39765de2-4d6a-4940-97b7-ade22d003051",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2084 tsp red pepper flakes crushed",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T11:44:32.724777Z",
+                "description": "",
+                "extras": {},
+                "id": "e2cbe589-c39c-4ef5-bbb3-068cd3a887c8",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "red pepper flakes",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T11:49:59.129682Z"
+            },
+            "isFood": true,
+            "note": "crushed",
+            "originalText": "0.25 teaspoon crushed red pepper",
+            "quantity": 0.25,
+            "referenceId": "2c3d9fcb-9654-4418-aabf-efc4188ca59a",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2084 tsp oregano",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:48.559994Z",
+                "description": "",
+                "extras": {},
+                "id": "26f561cf-9bea-435b-9348-8ddd9cf0590b",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "oregano",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:06:37.316798Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.25 teaspoon oregano",
+            "quantity": 0.25,
+            "referenceId": "5ed01c2d-7874-4efa-b5a0-72e5de465136",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 tsp paprika",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:55.859096Z",
+                "description": "",
+                "extras": {},
+                "id": "7620db51-f224-4809-89ff-e93bb91515b5",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "paprika",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:17:13.658926Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.5 teaspoon paprika",
+            "quantity": 0.5,
+            "referenceId": "9ea965fe-5081-497c-9b9b-c15b1dc3cbcb",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 \u00b9/\u2082 tsp cumin",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:22.629248Z",
+                "description": "",
+                "extras": {},
+                "id": "a7b69d57-bb2c-4d34-936c-c6ea7b5ec994",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "cumin",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:19:03.874657Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1.5 teaspoon cumin",
+            "quantity": 1.5,
+            "referenceId": "b7855697-5edf-4e85-b28c-c3f281c8b4f5",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 tsp adobo",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T02:32:07.257395Z",
+                "description": "",
+                "extras": {},
+                "id": "4643f54f-dd32-473a-bd10-b100dfafceba",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "adobo",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:03:54.880978Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 teaspoon adobo",
+            "quantity": 1.0,
+            "referenceId": "8c2861ce-27a1-47b0-8102-4cc43fc0f02a",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 tsp pepper",
+            "food": {
+                "aliases": [
+                    {
+                        "name": "black pepper"
+                    }
+                ],
+                "createdAt": "2024-04-26T19:32:43.184271Z",
+                "description": "",
+                "extras": {},
+                "id": "b23ef96b-f10d-48a0-87e6-63e1ff9b111e",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "pepper",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:08:33.535970Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 teaspoon black pepper",
+            "quantity": 1.0,
+            "referenceId": "1fe76ad1-bbab-4d76-a38e-dc78b48901fc",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "66e4682f-b206-4bc1-b067-8d54382ef5da",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "Just Mix it up.",
+            "title": ""
+        }
+    ],
+    "recipeYield": null,
+    "settings": {
+        "disableAmount": false,
+        "disableComments": false,
+        "landscapeView": false,
+        "locked": false,
+        "public": true,
+        "showAssets": false,
+        "showNutrition": false
+    },
+    "slug": "taco-seasonings",
     "tags": [
         {
             "id": "e1c1c1a2-7783-4dc2-979e-a6f35e1c17e9",
@@ -26,416 +459,7 @@
         }
     ],
     "tools": [],
-    "rating": null,
-    "orgURL": null,
-    "dateAdded": "2024-05-02",
-    "dateUpdated": "2024-05-02T12:34:26.506227",
-    "createdAt": "2024-05-02T01:39:08.477915",
-    "updateAt": "2024-05-02T12:34:26.508151",
-    "lastMade": null,
-    "recipeIngredient": [
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
-                "name": "tablespoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tbsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.018253",
-                "updateAt": "2024-05-13T12:27:59.862809"
-            },
-            "food": {
-                "id": "9ee197ab-eda6-497f-aa70-b7cc53e4564a",
-                "name": "chili powder",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-30T00:09:10.242308",
-                "updateAt": "2024-04-30T01:51:50.542512"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 tbsp chili powder",
-            "title": "",
-            "originalText": "1 tablespoon chili powder",
-            "referenceId": "00ca3fce-7c9d-4b93-8945-152c59b8b71d"
-        },
-        {
-            "quantity": 0.25,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "93fff357-8629-408a-a3da-f9c324cad9c4",
-                "name": "garlic powder",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-29T13:14:44.383401",
-                "updateAt": "2024-04-30T01:53:00.284312"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2084 tsp garlic powder",
-            "title": "",
-            "originalText": "0.25 teaspoon garlic powder",
-            "referenceId": "8dee77c6-ba99-49b8-a416-0df42e15900b"
-        },
-        {
-            "quantity": 0.25,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "de09ad78-8460-446f-88c8-abb398544766",
-                "name": "onion powder",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-29T13:14:34.621701",
-                "updateAt": "2024-04-30T01:53:08.588780"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2084 tsp onion powder",
-            "title": "",
-            "originalText": "0.25 teaspoon onion powder",
-            "referenceId": "39765de2-4d6a-4940-97b7-ade22d003051"
-        },
-        {
-            "quantity": 0.25,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "e2cbe589-c39c-4ef5-bbb3-068cd3a887c8",
-                "name": "red pepper flakes",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-27T11:44:32.724777",
-                "updateAt": "2024-04-27T11:49:59.129682"
-            },
-            "note": "crushed",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2084 tsp red pepper flakes crushed",
-            "title": "",
-            "originalText": "0.25 teaspoon crushed red pepper",
-            "referenceId": "2c3d9fcb-9654-4418-aabf-efc4188ca59a"
-        },
-        {
-            "quantity": 0.25,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "26f561cf-9bea-435b-9348-8ddd9cf0590b",
-                "name": "oregano",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:48.559994",
-                "updateAt": "2024-04-27T03:06:37.316798"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2084 tsp oregano",
-            "title": "",
-            "originalText": "0.25 teaspoon oregano",
-            "referenceId": "5ed01c2d-7874-4efa-b5a0-72e5de465136"
-        },
-        {
-            "quantity": 0.5,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "7620db51-f224-4809-89ff-e93bb91515b5",
-                "name": "paprika",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:55.859096",
-                "updateAt": "2024-05-13T12:17:13.658926"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2082 tsp paprika",
-            "title": "",
-            "originalText": "0.5 teaspoon paprika",
-            "referenceId": "9ea965fe-5081-497c-9b9b-c15b1dc3cbcb"
-        },
-        {
-            "quantity": 1.5,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "a7b69d57-bb2c-4d34-936c-c6ea7b5ec994",
-                "name": "cumin",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:22.629248",
-                "updateAt": "2024-04-27T03:19:03.874657"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 \u00b9/\u2082 tsp cumin",
-            "title": "",
-            "originalText": "1.5 teaspoon cumin",
-            "referenceId": "b7855697-5edf-4e85-b28c-c3f281c8b4f5"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "4643f54f-dd32-473a-bd10-b100dfafceba",
-                "name": "adobo",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-27T02:32:07.257395",
-                "updateAt": "2024-04-27T03:03:54.880978"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 tsp adobo",
-            "title": "",
-            "originalText": "1 teaspoon adobo",
-            "referenceId": "8c2861ce-27a1-47b0-8102-4cc43fc0f02a"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "b23ef96b-f10d-48a0-87e6-63e1ff9b111e",
-                "name": "pepper",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [
-                    {
-                        "name": "black pepper"
-                    }
-                ],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:43.184271",
-                "updateAt": "2024-04-27T03:08:33.535970"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 tsp pepper",
-            "title": "",
-            "originalText": "1 teaspoon black pepper",
-            "referenceId": "1fe76ad1-bbab-4d76-a38e-dc78b48901fc"
-        }
-    ],
-    "recipeInstructions": [
-        {
-            "id": "66e4682f-b206-4bc1-b067-8d54382ef5da",
-            "title": "",
-            "text": "Just Mix it up.",
-            "ingredientReferences": []
-        }
-    ],
-    "nutrition": {
-        "calories": null,
-        "fatContent": null,
-        "proteinContent": null,
-        "carbohydrateContent": null,
-        "fiberContent": null,
-        "sodiumContent": null,
-        "sugarContent": null
-    },
-    "settings": {
-        "public": true,
-        "showNutrition": false,
-        "showAssets": false,
-        "landscapeView": false,
-        "disableComments": false,
-        "disableAmount": false,
-        "locked": false
-    },
-    "assets": [],
-    "notes": [],
-    "extras": {},
-    "comments": []
+    "totalTime": null,
+    "updatedAt": "2024-05-02T12:34:26.508151Z",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31"
 }

@@ -1,16 +1,45 @@
 {
-    "id": "3cb63d28-d0e0-4d9a-9897-00d6237f9ea0",
-    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
-    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-    "name": "Spaghetti Sauce",
-    "slug": "spaghetti-sauce",
-    "image": null,
-    "recipeYield": null,
-    "totalTime": null,
-    "prepTime": null,
+    "assets": [],
+    "comments": [],
     "cookTime": null,
-    "performTime": null,
+    "createdAt": "2024-05-07T19:22:50.762501Z",
+    "dateAdded": "2024-05-07",
+    "dateUpdated": "2024-05-10T12:48:40.926141Z",
     "description": "",
+    "extras": {},
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "householdId": "74cd302c-032c-4707-b612-ada7618e0847",
+    "id": "3cb63d28-d0e0-4d9a-9897-00d6237f9ea0",
+    "image": null,
+    "lastMade": null,
+    "name": "Spaghetti Sauce",
+    "notes": [
+        {
+            "text": "Pairs with 2 pounds of Pasta.",
+            "title": ""
+        },
+        {
+            "text": "Sweet Sausage - 480 x6 - 2880\n3 Cans salt free dice tomatoes - 45 x 3.5 - 157\ntomato paste - 15 x 5 - 75\nUsed no adobo\nLow Sodium sauce: 70/oz @ 2oz/serving - 140\n\n3252 -  270 - 325 mg/serving\n\nMeatballs are extra:\n1/2 oz meatball - 95/meatball\n",
+            "title": "Sodium"
+        }
+    ],
+    "nutrition": {
+        "calories": null,
+        "carbohydrateContent": null,
+        "cholesterolContent": null,
+        "fatContent": null,
+        "fiberContent": null,
+        "proteinContent": null,
+        "saturatedFatContent": null,
+        "sodiumContent": null,
+        "sugarContent": null,
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "orgURL": null,
+    "performTime": null,
+    "prepTime": null,
+    "rating": 4.0,
     "recipeCategory": [
         {
             "id": "5b7f4cd2-5d0e-440e-8e88-64ad06d1aad1",
@@ -18,6 +47,665 @@
             "slug": "entree"
         }
     ],
+    "recipeIngredient": [
+        {
+            "disableAmount": false,
+            "display": "1 lb Italian Sausage",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-30T00:11:04.825124Z",
+                "description": "",
+                "extras": {},
+                "id": "5501b50d-863d-4d1d-b81e-a7ddb553945d",
+                "label": {
+                    "color": "#be2f02",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "13258664-db75-4091-a629-d51f0a89797c",
+                    "name": "Meat"
+                },
+                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
+                "name": "Italian Sausage",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:50:17.498418Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 pound hot italian sausage",
+            "quantity": 1.0,
+            "referenceId": "fcd4c839-451d-4455-b600-7024d3f7de3f",
+            "title": "",
+            "unit": {
+                "abbreviation": "lb",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.726674Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
+                "name": "pound",
+                "onHand": false,
+                "pluralAbbreviation": "lbs",
+                "pluralName": "pounds",
+                "updatedAt": "2024-05-02T12:28:24.776546Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 cup pepper strips",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-30T12:36:39.391555Z",
+                "description": "",
+                "extras": {},
+                "id": "3fedefc9-5c81-4bd6-8afb-47375c1c4af5",
+                "label": {
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726",
+                    "name": "Frozen Foods"
+                },
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "name": "pepper strips",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T20:28:17.778867Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 cup mixed peppers",
+            "quantity": 1.0,
+            "referenceId": "bd48e10e-60ff-4eb1-9831-8e048563c6d3",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 onion",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:21.362752Z",
+                "description": "",
+                "extras": {},
+                "id": "1e397cd3-35eb-4c64-b8cf-b40dfc61cd0b",
+                "label": {
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726",
+                    "name": "Frozen Foods"
+                },
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "name": "onion",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:18:52.550301Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 onion",
+            "quantity": 1.0,
+            "referenceId": "a1dadb6c-16d6-4ceb-a81e-81f4bdf103cf",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "1 tsp garlic",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:35.923453Z",
+                "description": "",
+                "extras": {},
+                "id": "fd860af3-2047-4ffc-be87-65cbeb97ce1e",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "garlic",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:14:08.683777Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 teaspoon garlic",
+            "quantity": 1.0,
+            "referenceId": "454ad3f7-10a8-4e42-82b2-a2808d90ba6b",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "3 cans tomato  diced",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:18.483079Z",
+                "description": "",
+                "extras": {},
+                "id": "69622eea-3935-4d27-91a8-d1f30ac20746",
+                "label": {
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                    "name": "Produce"
+                },
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "name": "tomato ",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:19:35.365817Z"
+            },
+            "isFood": true,
+            "note": "diced",
+            "originalText": "3 cans diced tomatoes",
+            "quantity": 3.0,
+            "referenceId": "5240033b-49b3-4c7a-b888-45b8b7f97a38",
+            "title": "",
+            "unit": {
+                "abbreviation": "",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:12.664803Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94661c62-5523-4f5c-aa77-b8a7536ef03b",
+                "name": "can",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": "cans",
+                "updatedAt": "2024-05-13T12:25:48.960493Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 tsp honey",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:19.441833Z",
+                "description": "",
+                "extras": {},
+                "id": "f3c19faa-40fd-4a99-8452-b7228462cb53",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "honey",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:19:47.128984Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 teaspoon honey",
+            "quantity": 1.0,
+            "referenceId": "4c07ae52-298e-4ad0-b3a8-aa61afedfb96",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 can tomato paste 6 oz",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-05-10T12:47:50.293628Z",
+                "description": "",
+                "extras": {},
+                "id": "902c7f3d-1b33-404b-814a-31d00a97d51c",
+                "label": {
+                    "color": "#cd1652",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                    "name": "Pasta"
+                },
+                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "name": "tomato paste",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:18:50.399158Z"
+            },
+            "isFood": true,
+            "note": "6 oz",
+            "originalText": "1 can tomato paste 6 ounce",
+            "quantity": 1.0,
+            "referenceId": "7936498e-d778-497f-8ec2-98c7bec7046e",
+            "title": "",
+            "unit": {
+                "abbreviation": "",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:12.664803Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94661c62-5523-4f5c-aa77-b8a7536ef03b",
+                "name": "can",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": "cans",
+                "updatedAt": "2024-05-13T12:25:48.960493Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 cups water",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T02:31:21.445759Z",
+                "description": "",
+                "extras": {},
+                "id": "d9a322c3-fd8e-4b39-809f-abcbd76b8062",
+                "label": null,
+                "labelId": null,
+                "name": "water",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:05:36.520887Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "2 cups water",
+            "quantity": 2.0,
+            "referenceId": "2b0e6fe0-93c2-4b17-a970-f543b6f4fdc1",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 tsp basil",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:30.910641Z",
+                "description": "",
+                "extras": {},
+                "id": "84bd4e93-0857-4ba8-91ac-3b8eec13f415",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "basil",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:15:30.128287Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 teaspoon basil",
+            "quantity": 1.0,
+            "referenceId": "b3923ea2-5a3b-4145-be99-bf097becc17a",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 tsp oregano",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:48.559994Z",
+                "description": "",
+                "extras": {},
+                "id": "26f561cf-9bea-435b-9348-8ddd9cf0590b",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "oregano",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:06:37.316798Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 teaspoon oregano",
+            "quantity": 1.0,
+            "referenceId": "84fe03c2-a4af-45fd-8def-84817abb6a95",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 tsp thyme",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T02:33:03.731832Z",
+                "description": "",
+                "extras": {},
+                "id": "608f04ed-6723-4ca0-b3ee-8f39da829a55",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "thyme",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:04:18.346868Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.5 teaspoon thyme",
+            "quantity": 0.5,
+            "referenceId": "85e64b6c-ecf9-4fc1-b378-25ae0925b1fa",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 tsp pepper",
+            "food": {
+                "aliases": [
+                    {
+                        "name": "black pepper"
+                    }
+                ],
+                "createdAt": "2024-04-26T19:32:43.184271Z",
+                "description": "",
+                "extras": {},
+                "id": "b23ef96b-f10d-48a0-87e6-63e1ff9b111e",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "pepper",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:08:33.535970Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.5 teaspoon black pepper",
+            "quantity": 0.5,
+            "referenceId": "75fbc35b-964f-441c-a5b6-0828a533f8c9",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 tsp adobo",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T02:32:07.257395Z",
+                "description": "",
+                "extras": {},
+                "id": "4643f54f-dd32-473a-bd10-b100dfafceba",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "adobo",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:03:54.880978Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.5 teaspoon adobo",
+            "quantity": 0.5,
+            "referenceId": "0bbd08a8-78e9-462f-80fe-49f62cd609f2",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 tsp red pepper flakes",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T11:44:32.724777Z",
+                "description": "",
+                "extras": {},
+                "id": "e2cbe589-c39c-4ef5-bbb3-068cd3a887c8",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "red pepper flakes",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T11:49:59.129682Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.5 teaspoon red pepper flake",
+            "quantity": 0.5,
+            "referenceId": "bab7c61e-b767-4b94-b45a-43e1b7f1b70a",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 cup tomato sauce optional, store bought)",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-30T12:14:03.830266Z",
+                "description": "",
+                "extras": {},
+                "id": "a24308d7-7f7e-4a36-b11f-be495896103d",
+                "label": {
+                    "color": "#cd1652",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                    "name": "Pasta"
+                },
+                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "name": "tomato sauce",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T20:29:18.664070Z"
+            },
+            "isFood": true,
+            "note": "optional, store bought)",
+            "originalText": "1 cup tomato sauce (optional, store bought)",
+            "quantity": 1.0,
+            "referenceId": "d9c2394a-a7a9-4c6f-ac7e-7e4984289a97",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "cfff49a8-74b1-46ff-b32b-ccb73a3281fa",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "* brown sausage, onions, peppers, garlic\n* Put everything else in\n* simmer 1+ hours\n* Ready!\n",
+            "title": ""
+        },
+        {
+            "id": "20c146d5-b4f0-42b3-bc8d-f1251ac2c988",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "In slow cooker:\n* Still brown everything first\n* Low for ~8 hours or High for 4 hours\n* cook some without cover at end if it's too liquidy\n",
+            "title": ""
+        }
+    ],
+    "recipeYield": null,
+    "settings": {
+        "disableAmount": false,
+        "disableComments": false,
+        "landscapeView": false,
+        "locked": false,
+        "public": true,
+        "showAssets": false,
+        "showNutrition": false
+    },
+    "slug": "spaghetti-sauce",
     "tags": [
         {
             "id": "e1c1c1a2-7783-4dc2-979e-a6f35e1c17e9",
@@ -31,659 +719,7 @@
         }
     ],
     "tools": [],
-    "rating": 4.0,
-    "orgURL": null,
-    "dateAdded": "2024-05-07",
-    "dateUpdated": "2024-05-10T12:48:40.926141",
-    "createdAt": "2024-05-07T19:22:50.762501",
-    "updateAt": "2024-05-25T11:57:53.260206",
-    "lastMade": null,
-    "recipeIngredient": [
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
-                "name": "pound",
-                "pluralName": "pounds",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "lb",
-                "pluralAbbreviation": "lbs",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:10.726674",
-                "updateAt": "2024-05-02T12:28:24.776546"
-            },
-            "food": {
-                "id": "5501b50d-863d-4d1d-b81e-a7ddb553945d",
-                "name": "Italian Sausage",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
-                "aliases": [],
-                "label": {
-                    "name": "Meat",
-                    "color": "#be2f02",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "13258664-db75-4091-a629-d51f0a89797c"
-                },
-                "createdAt": "2024-04-30T00:11:04.825124",
-                "updateAt": "2024-04-30T01:50:17.498418"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 lb Italian Sausage",
-            "title": "",
-            "originalText": "1 pound hot italian sausage",
-            "referenceId": "fcd4c839-451d-4455-b600-7024d3f7de3f"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "3fedefc9-5c81-4bd6-8afb-47375c1c4af5",
-                "name": "pepper strips",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
-                "aliases": [],
-                "label": {
-                    "name": "Frozen Foods",
-                    "color": "#216fb2",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "e4571c39-b7f7-4a4f-b701-283690066726"
-                },
-                "createdAt": "2024-04-30T12:36:39.391555",
-                "updateAt": "2024-04-30T20:28:17.778867"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 cup pepper strips",
-            "title": "",
-            "originalText": "1 cup mixed peppers",
-            "referenceId": "bd48e10e-60ff-4eb1-9831-8e048563c6d3"
-        },
-        {
-            "quantity": 1.0,
-            "unit": null,
-            "food": {
-                "id": "1e397cd3-35eb-4c64-b8cf-b40dfc61cd0b",
-                "name": "onion",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
-                "aliases": [],
-                "label": {
-                    "name": "Frozen Foods",
-                    "color": "#216fb2",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "e4571c39-b7f7-4a4f-b701-283690066726"
-                },
-                "createdAt": "2024-04-26T19:32:21.362752",
-                "updateAt": "2024-04-27T03:18:52.550301"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 onion",
-            "title": "",
-            "originalText": "1 onion",
-            "referenceId": "a1dadb6c-16d6-4ceb-a81e-81f4bdf103cf"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "fd860af3-2047-4ffc-be87-65cbeb97ce1e",
-                "name": "garlic",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:35.923453",
-                "updateAt": "2024-04-27T03:14:08.683777"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 tsp garlic",
-            "title": "",
-            "originalText": "1 teaspoon garlic",
-            "referenceId": "454ad3f7-10a8-4e42-82b2-a2808d90ba6b"
-        },
-        {
-            "quantity": 3.0,
-            "unit": {
-                "id": "94661c62-5523-4f5c-aa77-b8a7536ef03b",
-                "name": "can",
-                "pluralName": "cans",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "",
-                "pluralAbbreviation": "",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:12.664803",
-                "updateAt": "2024-05-13T12:25:48.960493"
-            },
-            "food": {
-                "id": "69622eea-3935-4d27-91a8-d1f30ac20746",
-                "name": "tomato ",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
-                "aliases": [],
-                "label": {
-                    "name": "Produce",
-                    "color": "#a7d766",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
-                },
-                "createdAt": "2024-04-26T19:32:18.483079",
-                "updateAt": "2024-04-27T03:19:35.365817"
-            },
-            "note": "diced",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "3 cans tomato  diced",
-            "title": "",
-            "originalText": "3 cans diced tomatoes",
-            "referenceId": "5240033b-49b3-4c7a-b888-45b8b7f97a38"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "f3c19faa-40fd-4a99-8452-b7228462cb53",
-                "name": "honey",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-26T19:32:19.441833",
-                "updateAt": "2024-04-27T03:19:47.128984"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 tsp honey",
-            "title": "",
-            "originalText": "1 teaspoon honey",
-            "referenceId": "4c07ae52-298e-4ad0-b3a8-aa61afedfb96"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "94661c62-5523-4f5c-aa77-b8a7536ef03b",
-                "name": "can",
-                "pluralName": "cans",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "",
-                "pluralAbbreviation": "",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:12.664803",
-                "updateAt": "2024-05-13T12:25:48.960493"
-            },
-            "food": {
-                "id": "902c7f3d-1b33-404b-814a-31d00a97d51c",
-                "name": "tomato paste",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
-                "aliases": [],
-                "label": {
-                    "name": "Pasta",
-                    "color": "#cd1652",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8"
-                },
-                "createdAt": "2024-05-10T12:47:50.293628",
-                "updateAt": "2024-05-13T12:18:50.399158"
-            },
-            "note": "6 oz",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 can tomato paste 6 oz",
-            "title": "",
-            "originalText": "1 can tomato paste 6 ounce",
-            "referenceId": "7936498e-d778-497f-8ec2-98c7bec7046e"
-        },
-        {
-            "quantity": 2.0,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "d9a322c3-fd8e-4b39-809f-abcbd76b8062",
-                "name": "water",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": null,
-                "aliases": [],
-                "label": null,
-                "createdAt": "2024-04-27T02:31:21.445759",
-                "updateAt": "2024-04-27T03:05:36.520887"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "2 cups water",
-            "title": "",
-            "originalText": "2 cups water",
-            "referenceId": "2b0e6fe0-93c2-4b17-a970-f543b6f4fdc1"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "84bd4e93-0857-4ba8-91ac-3b8eec13f415",
-                "name": "basil",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:30.910641",
-                "updateAt": "2024-04-27T03:15:30.128287"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 tsp basil",
-            "title": "",
-            "originalText": "1 teaspoon basil",
-            "referenceId": "b3923ea2-5a3b-4145-be99-bf097becc17a"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "26f561cf-9bea-435b-9348-8ddd9cf0590b",
-                "name": "oregano",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:48.559994",
-                "updateAt": "2024-04-27T03:06:37.316798"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 tsp oregano",
-            "title": "",
-            "originalText": "1 teaspoon oregano",
-            "referenceId": "84fe03c2-a4af-45fd-8def-84817abb6a95"
-        },
-        {
-            "quantity": 0.5,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "608f04ed-6723-4ca0-b3ee-8f39da829a55",
-                "name": "thyme",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-27T02:33:03.731832",
-                "updateAt": "2024-04-27T03:04:18.346868"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2082 tsp thyme",
-            "title": "",
-            "originalText": "0.5 teaspoon thyme",
-            "referenceId": "85e64b6c-ecf9-4fc1-b378-25ae0925b1fa"
-        },
-        {
-            "quantity": 0.5,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "b23ef96b-f10d-48a0-87e6-63e1ff9b111e",
-                "name": "pepper",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [
-                    {
-                        "name": "black pepper"
-                    }
-                ],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:43.184271",
-                "updateAt": "2024-04-27T03:08:33.535970"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2082 tsp pepper",
-            "title": "",
-            "originalText": "0.5 teaspoon black pepper",
-            "referenceId": "75fbc35b-964f-441c-a5b6-0828a533f8c9"
-        },
-        {
-            "quantity": 0.5,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "4643f54f-dd32-473a-bd10-b100dfafceba",
-                "name": "adobo",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-27T02:32:07.257395",
-                "updateAt": "2024-04-27T03:03:54.880978"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2082 tsp adobo",
-            "title": "",
-            "originalText": "0.5 teaspoon adobo",
-            "referenceId": "0bbd08a8-78e9-462f-80fe-49f62cd609f2"
-        },
-        {
-            "quantity": 0.5,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "e2cbe589-c39c-4ef5-bbb3-068cd3a887c8",
-                "name": "red pepper flakes",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-27T11:44:32.724777",
-                "updateAt": "2024-04-27T11:49:59.129682"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2082 tsp red pepper flakes",
-            "title": "",
-            "originalText": "0.5 teaspoon red pepper flake",
-            "referenceId": "bab7c61e-b767-4b94-b45a-43e1b7f1b70a"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "a24308d7-7f7e-4a36-b11f-be495896103d",
-                "name": "tomato sauce",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
-                "aliases": [],
-                "label": {
-                    "name": "Pasta",
-                    "color": "#cd1652",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8"
-                },
-                "createdAt": "2024-04-30T12:14:03.830266",
-                "updateAt": "2024-04-30T20:29:18.664070"
-            },
-            "note": "optional, store bought)",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 cup tomato sauce optional, store bought)",
-            "title": "",
-            "originalText": "1 cup tomato sauce (optional, store bought)",
-            "referenceId": "d9c2394a-a7a9-4c6f-ac7e-7e4984289a97"
-        }
-    ],
-    "recipeInstructions": [
-        {
-            "id": "cfff49a8-74b1-46ff-b32b-ccb73a3281fa",
-            "title": "",
-            "text": "* brown sausage, onions, peppers, garlic\n* Put everything else in\n* simmer 1+ hours\n* Ready!\n",
-            "ingredientReferences": []
-        },
-        {
-            "id": "20c146d5-b4f0-42b3-bc8d-f1251ac2c988",
-            "title": "",
-            "text": "In slow cooker:\n* Still brown everything first\n* Low for ~8 hours or High for 4 hours\n* cook some without cover at end if it's too liquidy\n",
-            "ingredientReferences": []
-        }
-    ],
-    "nutrition": {
-        "calories": null,
-        "fatContent": null,
-        "proteinContent": null,
-        "carbohydrateContent": null,
-        "fiberContent": null,
-        "sodiumContent": null,
-        "sugarContent": null
-    },
-    "settings": {
-        "public": true,
-        "showNutrition": false,
-        "showAssets": false,
-        "landscapeView": false,
-        "disableComments": false,
-        "disableAmount": false,
-        "locked": false
-    },
-    "assets": [],
-    "notes": [
-        {
-            "title": "",
-            "text": "Pairs with 2 pounds of Pasta."
-        },
-        {
-            "title": "Sodium",
-            "text": "Sweet Sausage - 480 x6 - 2880\n3 Cans salt free dice tomatoes - 45 x 3.5 - 157\ntomato paste - 15 x 5 - 75\nUsed no adobo\nLow Sodium sauce: 70/oz @ 2oz/serving - 140\n\n3252 -  270 - 325 mg/serving\n\nMeatballs are extra:\n1/2 oz meatball - 95/meatball\n"
-        }
-    ],
-    "extras": {},
-    "comments": []
+    "totalTime": null,
+    "updatedAt": "2024-05-25T11:57:53.260206Z",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31"
 }

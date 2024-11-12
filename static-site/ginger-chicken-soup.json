@@ -1,16 +1,36 @@
 {
-    "id": "2786820d-c9da-4a16-b4ac-8514e966cda3",
-    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
-    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-    "name": "Ginger Chicken Soup",
-    "slug": "ginger-chicken-soup",
-    "image": null,
-    "recipeYield": "1",
-    "totalTime": null,
-    "prepTime": "5 min",
+    "assets": [],
+    "comments": [],
     "cookTime": null,
-    "performTime": "5 min",
+    "createdAt": "2024-04-30T00:42:21.732863Z",
+    "dateAdded": "2024-04-30",
+    "dateUpdated": "2024-04-30T12:33:25.059301Z",
     "description": "",
+    "extras": {},
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "householdId": "74cd302c-032c-4707-b612-ada7618e0847",
+    "id": "2786820d-c9da-4a16-b4ac-8514e966cda3",
+    "image": null,
+    "lastMade": null,
+    "name": "Ginger Chicken Soup",
+    "notes": [],
+    "nutrition": {
+        "calories": null,
+        "carbohydrateContent": null,
+        "cholesterolContent": null,
+        "fatContent": null,
+        "fiberContent": null,
+        "proteinContent": null,
+        "saturatedFatContent": null,
+        "sodiumContent": null,
+        "sugarContent": null,
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "orgURL": null,
+    "performTime": "5 min",
+    "prepTime": "5 min",
+    "rating": 3.0,
     "recipeCategory": [
         {
             "id": "5b7f4cd2-5d0e-440e-8e88-64ad06d1aad1",
@@ -18,6 +38,258 @@
             "slug": "entree"
         }
     ],
+    "recipeIngredient": [
+        {
+            "disableAmount": false,
+            "display": "2 chicken tenders diced",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-30T12:32:01.490110Z",
+                "description": "",
+                "extras": {},
+                "id": "1fd457bb-860e-437a-8b7d-28fc12711290",
+                "label": {
+                    "color": "#be2f02",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "13258664-db75-4091-a629-d51f0a89797c",
+                    "name": "Meat"
+                },
+                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
+                "name": "chicken tenders",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T20:28:42.301000Z"
+            },
+            "isFood": true,
+            "note": "diced",
+            "originalText": "2.0 chicken tenders, diced",
+            "quantity": 2.0,
+            "referenceId": "8ec17e0f-2218-40a0-9a35-5952d272138f",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "125 g creamed corn (1/2 can)",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-30T12:32:15.154249Z",
+                "description": "",
+                "extras": {},
+                "id": "c440be0d-b829-4791-9fa0-e1e31c36f039",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "creamed corn",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T20:28:34.712304Z"
+            },
+            "isFood": true,
+            "note": "(1/2 can)",
+            "originalText": "125.0 gram creamed corn (1/2 can)",
+            "quantity": 125.0,
+            "referenceId": "75c74538-9afb-4aa7-aee7-e2f9a937c7ab",
+            "title": "",
+            "unit": {
+                "abbreviation": "g",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:11.127773Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "8d402cfc-1d76-4086-824c-d7a1bf75aaa1",
+                "name": "gram",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:26:51.031502Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 cup chicken broth",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-29T12:55:48.093285Z",
+                "description": "",
+                "extras": {},
+                "id": "c7a85ae8-3c6f-4bd1-9162-f425edd8c23a",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "chicken broth",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:54:19.435207Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1.0 cup chicken broth",
+            "quantity": 1.0,
+            "referenceId": "7620327b-ac58-48ad-aade-864049d8b745",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 spring onion diced",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:42.992736Z",
+                "description": "",
+                "extras": {},
+                "id": "10b843f9-b023-4c42-8602-ebdb7f13893d",
+                "label": {
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                    "name": "Produce"
+                },
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "name": "spring onion",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:12:45.058070Z"
+            },
+            "isFood": true,
+            "note": "diced",
+            "originalText": "1.0 spring onion, diced",
+            "quantity": 1.0,
+            "referenceId": "b48b7981-4df0-4a58-aefb-7882aae49530",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 tsp soy sauce",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T11:43:48.390392Z",
+                "description": "",
+                "extras": {},
+                "id": "5fdcd369-8502-4e38-94b4-8363a8d6f638",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "soy sauce",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T11:49:13.222641Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.5 teaspoon soy sauce",
+            "quantity": 0.5,
+            "referenceId": "ca2ec6d5-45bb-40e3-9065-629c699f9060",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2084 tsp ginger grated",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:23.096088Z",
+                "description": "",
+                "extras": {},
+                "id": "4d54230a-792c-4afe-b667-d5a6a1cc1d59",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "ginger",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:18:21.284110Z"
+            },
+            "isFood": true,
+            "note": "grated",
+            "originalText": "0.25 teaspoon grated ginger",
+            "quantity": 0.25,
+            "referenceId": "67d4b638-a891-445d-bd63-a65975665481",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "61797c1a-b3c3-4be9-812a-ac81c8db7c91",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "Put everything in small saucepan. Put it on medium heat.  Stir occasionally until chicken is cooked through.  About 5 min.",
+            "title": ""
+        }
+    ],
+    "recipeYield": "1",
+    "settings": {
+        "disableAmount": false,
+        "disableComments": false,
+        "landscapeView": false,
+        "locked": false,
+        "public": true,
+        "showAssets": false,
+        "showNutrition": false
+    },
+    "slug": "ginger-chicken-soup",
     "tags": [
         {
             "id": "e1c1c1a2-7783-4dc2-979e-a6f35e1c17e9",
@@ -26,263 +298,7 @@
         }
     ],
     "tools": [],
-    "rating": 3.0,
-    "orgURL": null,
-    "dateAdded": "2024-04-30",
-    "dateUpdated": "2024-04-30T12:33:25.059301",
-    "createdAt": "2024-04-30T00:42:21.732863",
-    "updateAt": "2024-04-30T12:33:30.750330",
-    "lastMade": null,
-    "recipeIngredient": [
-        {
-            "quantity": 2.0,
-            "unit": null,
-            "food": {
-                "id": "1fd457bb-860e-437a-8b7d-28fc12711290",
-                "name": "chicken tenders",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
-                "aliases": [],
-                "label": {
-                    "name": "Meat",
-                    "color": "#be2f02",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "13258664-db75-4091-a629-d51f0a89797c"
-                },
-                "createdAt": "2024-04-30T12:32:01.490110",
-                "updateAt": "2024-04-30T20:28:42.301000"
-            },
-            "note": "diced",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "2 chicken tenders diced",
-            "title": "",
-            "originalText": "2.0 chicken tenders, diced",
-            "referenceId": "8ec17e0f-2218-40a0-9a35-5952d272138f"
-        },
-        {
-            "quantity": 125.0,
-            "unit": {
-                "id": "8d402cfc-1d76-4086-824c-d7a1bf75aaa1",
-                "name": "gram",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "g",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:11.127773",
-                "updateAt": "2024-05-13T12:26:51.031502"
-            },
-            "food": {
-                "id": "c440be0d-b829-4791-9fa0-e1e31c36f039",
-                "name": "creamed corn",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-30T12:32:15.154249",
-                "updateAt": "2024-04-30T20:28:34.712304"
-            },
-            "note": "(1/2 can)",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "125 g creamed corn (1/2 can)",
-            "title": "",
-            "originalText": "125.0 gram creamed corn (1/2 can)",
-            "referenceId": "75c74538-9afb-4aa7-aee7-e2f9a937c7ab"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "c7a85ae8-3c6f-4bd1-9162-f425edd8c23a",
-                "name": "chicken broth",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-29T12:55:48.093285",
-                "updateAt": "2024-04-30T01:54:19.435207"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 cup chicken broth",
-            "title": "",
-            "originalText": "1.0 cup chicken broth",
-            "referenceId": "7620327b-ac58-48ad-aade-864049d8b745"
-        },
-        {
-            "quantity": 1.0,
-            "unit": null,
-            "food": {
-                "id": "10b843f9-b023-4c42-8602-ebdb7f13893d",
-                "name": "spring onion",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
-                "aliases": [],
-                "label": {
-                    "name": "Produce",
-                    "color": "#a7d766",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
-                },
-                "createdAt": "2024-04-26T19:32:42.992736",
-                "updateAt": "2024-04-27T03:12:45.058070"
-            },
-            "note": "diced",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 spring onion diced",
-            "title": "",
-            "originalText": "1.0 spring onion, diced",
-            "referenceId": "b48b7981-4df0-4a58-aefb-7882aae49530"
-        },
-        {
-            "quantity": 0.5,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "5fdcd369-8502-4e38-94b4-8363a8d6f638",
-                "name": "soy sauce",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-27T11:43:48.390392",
-                "updateAt": "2024-04-27T11:49:13.222641"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2082 tsp soy sauce",
-            "title": "",
-            "originalText": "0.5 teaspoon soy sauce",
-            "referenceId": "ca2ec6d5-45bb-40e3-9065-629c699f9060"
-        },
-        {
-            "quantity": 0.25,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "4d54230a-792c-4afe-b667-d5a6a1cc1d59",
-                "name": "ginger",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:23.096088",
-                "updateAt": "2024-04-27T03:18:21.284110"
-            },
-            "note": "grated",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2084 tsp ginger grated",
-            "title": "",
-            "originalText": "0.25 teaspoon grated ginger",
-            "referenceId": "67d4b638-a891-445d-bd63-a65975665481"
-        }
-    ],
-    "recipeInstructions": [
-        {
-            "id": "61797c1a-b3c3-4be9-812a-ac81c8db7c91",
-            "title": "",
-            "text": "Put everything in small saucepan. Put it on medium heat.  Stir occasionally until chicken is cooked through.  About 5 min.",
-            "ingredientReferences": []
-        }
-    ],
-    "nutrition": {
-        "calories": null,
-        "fatContent": null,
-        "proteinContent": null,
-        "carbohydrateContent": null,
-        "fiberContent": null,
-        "sodiumContent": null,
-        "sugarContent": null
-    },
-    "settings": {
-        "public": true,
-        "showNutrition": false,
-        "showAssets": false,
-        "landscapeView": false,
-        "disableComments": false,
-        "disableAmount": false,
-        "locked": false
-    },
-    "assets": [],
-    "notes": [],
-    "extras": {},
-    "comments": []
+    "totalTime": null,
+    "updatedAt": "2024-04-30T12:33:30.750330Z",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31"
 }

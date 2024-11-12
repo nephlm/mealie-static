@@ -1,16 +1,45 @@
 {
-    "id": "f3053887-ed5b-4bc1-b0bc-dc0926d31321",
-    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
-    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-    "name": "Slow Cooker BBQ Chicken",
-    "slug": "slow-cooker-bbq-chicken",
-    "image": null,
-    "recipeYield": null,
-    "totalTime": null,
-    "prepTime": null,
+    "assets": [],
+    "comments": [],
     "cookTime": null,
-    "performTime": null,
+    "createdAt": "2024-05-02T01:43:03.746728Z",
+    "dateAdded": "2024-05-02",
+    "dateUpdated": "2024-05-02T12:32:10.848118Z",
     "description": "",
+    "extras": {},
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "householdId": "74cd302c-032c-4707-b612-ada7618e0847",
+    "id": "f3053887-ed5b-4bc1-b0bc-dc0926d31321",
+    "image": null,
+    "lastMade": null,
+    "name": "Slow Cooker BBQ Chicken",
+    "notes": [
+        {
+            "text": "This incorporates an attempt to avoid store bought BBQ, Probably get better results by just using a bottle of BBQ sauce.",
+            "title": ""
+        },
+        {
+            "text": "Cooked on High for ~3 hours, then shredded.",
+            "title": ""
+        }
+    ],
+    "nutrition": {
+        "calories": null,
+        "carbohydrateContent": null,
+        "cholesterolContent": null,
+        "fatContent": null,
+        "fiberContent": null,
+        "proteinContent": null,
+        "saturatedFatContent": null,
+        "sodiumContent": null,
+        "sugarContent": null,
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "orgURL": "http://allrecipes.com/recipe/slow-cooker-bbq-chicken/detail.aspx?src=VD_Summary",
+    "performTime": null,
+    "prepTime": null,
+    "rating": 2.0,
     "recipeCategory": [
         {
             "id": "5b7f4cd2-5d0e-440e-8e88-64ad06d1aad1",
@@ -18,6 +47,587 @@
             "slug": "entree"
         }
     ],
+    "recipeIngredient": [
+        {
+            "disableAmount": false,
+            "display": "1 lb chicken breasts",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-29T12:56:02.667962Z",
+                "description": "",
+                "extras": {},
+                "id": "e830c89b-eeb4-4a3d-b69e-b2f988e0682a",
+                "label": {
+                    "color": "#be2f02",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "13258664-db75-4091-a629-d51f0a89797c",
+                    "name": "Meat"
+                },
+                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
+                "name": "chicken breasts",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:54:13.862241Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 pound chicken breasts",
+            "quantity": 1.0,
+            "referenceId": "2e0e2a09-213e-425f-b937-dbf6e88cc8ae",
+            "title": "",
+            "unit": {
+                "abbreviation": "lb",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.726674Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
+                "name": "pound",
+                "onHand": false,
+                "pluralAbbreviation": "lbs",
+                "pluralName": "pounds",
+                "updatedAt": "2024-05-02T12:28:24.776546Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 tbsp liquid smoke",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-05-02T12:29:37.226458Z",
+                "description": "",
+                "extras": {},
+                "id": "a30669dd-e47c-4a81-a487-429b02d21a29",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "liquid smoke",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-05-03T12:50:05.345712Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 tablespoon liquid smoke",
+            "quantity": 1.0,
+            "referenceId": "5d11bde6-030f-47e2-a750-f75355034d68",
+            "title": "",
+            "unit": {
+                "abbreviation": "tbsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:27:59.862809Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "5 shakes tabasco",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-05-02T12:30:23.020103Z",
+                "description": "",
+                "extras": {},
+                "id": "44fe0bd3-19a8-4d9a-9396-7b0ef176d6ea",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "tabasco",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-05-03T12:49:51.853518Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "5 shakes tabasco",
+            "quantity": 5.0,
+            "referenceId": "57421812-a22e-4853-81f1-5f51bdfe6e63",
+            "title": "",
+            "unit": {
+                "abbreviation": "",
+                "aliases": [],
+                "createdAt": "2024-05-02T12:29:54.600893Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "72b68582-3901-4f66-873f-0e2a29e0a41b",
+                "name": "shakes",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-02T12:29:54.600895Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 cup ketchup",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-30T20:00:00.240111Z",
+                "description": "",
+                "extras": {},
+                "id": "6a0fbf0a-d467-4b67-a42e-d9cdc019b2b5",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "ketchup",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T20:26:58.205397Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 cup ketchup",
+            "quantity": 1.0,
+            "referenceId": "1d2daed9-267b-4181-8329-1a9904ce52e3",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2084 cup honey",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:19.441833Z",
+                "description": "",
+                "extras": {},
+                "id": "f3c19faa-40fd-4a99-8452-b7228462cb53",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "honey",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:19:47.128984Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.25 cup honey",
+            "quantity": 0.25,
+            "referenceId": "84fed05a-bc5a-4f4b-9c81-5f5851c12e04",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 tbsp mustard",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-05-02T12:30:33.115546Z",
+                "description": "",
+                "extras": {},
+                "id": "ac1cb557-075a-414a-a34a-3820985a626a",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "mustard",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-05-03T12:49:43.498110Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "2 tablespoon mustard",
+            "quantity": 2.0,
+            "referenceId": "4374729d-67e9-4ea3-942b-2adbe333159d",
+            "title": "",
+            "unit": {
+                "abbreviation": "tbsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:27:59.862809Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 tbsp worcestershire sauce",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-05-02T12:30:38.094706Z",
+                "description": "",
+                "extras": {},
+                "id": "9d606d04-c80f-4538-acc0-e5c400de4bc5",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "worcestershire sauce",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-05-03T12:49:37.781674Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "2 tablespoon worcestershire sauce",
+            "quantity": 2.0,
+            "referenceId": "720185ec-49d3-4c4f-bd78-49aa477a2821",
+            "title": "",
+            "unit": {
+                "abbreviation": "tbsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:27:59.862809Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 tsp lemon juice",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T12:05:59.521458Z",
+                "description": "",
+                "extras": {},
+                "id": "19a33840-9cc5-4ce3-922d-f140d8be02bf",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "lemon juice",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T12:08:34.238564Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "2 teaspoon lemon juice",
+            "quantity": 2.0,
+            "referenceId": "5629ea86-fcb3-4ee7-9404-29b1f2826bae",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2084 tsp garlic",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:35.923453Z",
+                "description": "",
+                "extras": {},
+                "id": "fd860af3-2047-4ffc-be87-65cbeb97ce1e",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "garlic",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:14:08.683777Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.25 teaspoon garlic",
+            "quantity": 0.25,
+            "referenceId": "aa4b0752-2062-40f5-84d4-b33698cb9635",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 chipolte peppers in adobo",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-05-02T12:30:55.034901Z",
+                "description": "",
+                "extras": {},
+                "id": "cee0e410-a74c-4582-bf56-f746b2b4ca7e",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "chipolte peppers",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-05-03T12:49:31.108735Z"
+            },
+            "isFood": true,
+            "note": "in adobo",
+            "originalText": "2 chipolte peppers in adobo",
+            "quantity": 2.0,
+            "referenceId": "40387e24-6563-47f3-9a10-27ff97a32307",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 tsp chili powder",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-30T00:09:10.242308Z",
+                "description": "",
+                "extras": {},
+                "id": "9ee197ab-eda6-497f-aa70-b7cc53e4564a",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "chili powder",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:51:50.542512Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.5 teaspoon chili powder",
+            "quantity": 0.5,
+            "referenceId": "b92ee608-ad50-422c-a486-7b7911523100",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2088 tsp cayenne pepper",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:38.727699Z",
+                "description": "",
+                "extras": {},
+                "id": "587cccf7-b102-46d0-a598-acb38cb2de8c",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "cayenne pepper",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:08:25.782853Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.125 teaspoon cayenne pepper",
+            "quantity": 0.125,
+            "referenceId": "045225b3-12a3-4460-90c0-7f311e25a001",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "rice serve over",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:25.399883Z",
+                "description": "",
+                "extras": {},
+                "id": "85a8de4c-7718-4605-9853-9043520d7467",
+                "label": {
+                    "color": "#cd1652",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                    "name": "Pasta"
+                },
+                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "name": "rice",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:17:34.167267Z"
+            },
+            "isFood": true,
+            "note": "serve over",
+            "originalText": "0.75 cup serve over rice",
+            "quantity": 0.0,
+            "referenceId": "998b1964-6646-482a-86da-971070ad354c",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "72dfd8ac-7682-4921-890e-26b829816c3a",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "Place the chicken breasts into the bottom of a slow cooker.",
+            "title": ""
+        },
+        {
+            "id": "d638a157-4bb7-4c80-aed0-0367fd8e22e2",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "In a bowl, stir together the ketchup, mustard, lemon juice, garlic powder, maple syrup, Worcestershire sauce, chili powder, cayenne pepper, and hot sauce until the mixture is well blended.",
+            "title": ""
+        },
+        {
+            "id": "101c03bb-0afb-4a93-95e1-0dd972d04ff7",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "Pour the sauce over the chicken, set the cooker to Low, and cook for 6 hours. Shred the chicken with two forks, and cook for 30 more minutes. Serve the chicken and sauce spooned into the sandwich rolls.",
+            "title": ""
+        }
+    ],
+    "recipeYield": null,
+    "settings": {
+        "disableAmount": false,
+        "disableComments": false,
+        "landscapeView": false,
+        "locked": false,
+        "public": true,
+        "showAssets": false,
+        "showNutrition": false
+    },
+    "slug": "slow-cooker-bbq-chicken",
     "tags": [
         {
             "id": "e1c1c1a2-7783-4dc2-979e-a6f35e1c17e9",
@@ -26,584 +636,7 @@
         }
     ],
     "tools": [],
-    "rating": 2.0,
-    "orgURL": "http://allrecipes.com/recipe/slow-cooker-bbq-chicken/detail.aspx?src=VD_Summary",
-    "dateAdded": "2024-05-02",
-    "dateUpdated": "2024-05-02T12:32:10.848118",
-    "createdAt": "2024-05-02T01:43:03.746728",
-    "updateAt": "2024-05-25T11:58:20.953459",
-    "lastMade": null,
-    "recipeIngredient": [
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
-                "name": "pound",
-                "pluralName": "pounds",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "lb",
-                "pluralAbbreviation": "lbs",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:10.726674",
-                "updateAt": "2024-05-02T12:28:24.776546"
-            },
-            "food": {
-                "id": "e830c89b-eeb4-4a3d-b69e-b2f988e0682a",
-                "name": "chicken breasts",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
-                "aliases": [],
-                "label": {
-                    "name": "Meat",
-                    "color": "#be2f02",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "13258664-db75-4091-a629-d51f0a89797c"
-                },
-                "createdAt": "2024-04-29T12:56:02.667962",
-                "updateAt": "2024-04-30T01:54:13.862241"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 lb chicken breasts",
-            "title": "",
-            "originalText": "1 pound chicken breasts",
-            "referenceId": "2e0e2a09-213e-425f-b937-dbf6e88cc8ae"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
-                "name": "tablespoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tbsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.018253",
-                "updateAt": "2024-05-13T12:27:59.862809"
-            },
-            "food": {
-                "id": "a30669dd-e47c-4a81-a487-429b02d21a29",
-                "name": "liquid smoke",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-05-02T12:29:37.226458",
-                "updateAt": "2024-05-03T12:50:05.345712"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 tbsp liquid smoke",
-            "title": "",
-            "originalText": "1 tablespoon liquid smoke",
-            "referenceId": "5d11bde6-030f-47e2-a750-f75355034d68"
-        },
-        {
-            "quantity": 5.0,
-            "unit": {
-                "id": "72b68582-3901-4f66-873f-0e2a29e0a41b",
-                "name": "shakes",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "",
-                "pluralAbbreviation": "",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-05-02T12:29:54.600893",
-                "updateAt": "2024-05-02T12:29:54.600895"
-            },
-            "food": {
-                "id": "44fe0bd3-19a8-4d9a-9396-7b0ef176d6ea",
-                "name": "tabasco",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-05-02T12:30:23.020103",
-                "updateAt": "2024-05-03T12:49:51.853518"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "5 shakes tabasco",
-            "title": "",
-            "originalText": "5 shakes tabasco",
-            "referenceId": "57421812-a22e-4853-81f1-5f51bdfe6e63"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "6a0fbf0a-d467-4b67-a42e-d9cdc019b2b5",
-                "name": "ketchup",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-30T20:00:00.240111",
-                "updateAt": "2024-04-30T20:26:58.205397"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 cup ketchup",
-            "title": "",
-            "originalText": "1 cup ketchup",
-            "referenceId": "1d2daed9-267b-4181-8329-1a9904ce52e3"
-        },
-        {
-            "quantity": 0.25,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "f3c19faa-40fd-4a99-8452-b7228462cb53",
-                "name": "honey",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-26T19:32:19.441833",
-                "updateAt": "2024-04-27T03:19:47.128984"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2084 cup honey",
-            "title": "",
-            "originalText": "0.25 cup honey",
-            "referenceId": "84fed05a-bc5a-4f4b-9c81-5f5851c12e04"
-        },
-        {
-            "quantity": 2.0,
-            "unit": {
-                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
-                "name": "tablespoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tbsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.018253",
-                "updateAt": "2024-05-13T12:27:59.862809"
-            },
-            "food": {
-                "id": "ac1cb557-075a-414a-a34a-3820985a626a",
-                "name": "mustard",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-05-02T12:30:33.115546",
-                "updateAt": "2024-05-03T12:49:43.498110"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "2 tbsp mustard",
-            "title": "",
-            "originalText": "2 tablespoon mustard",
-            "referenceId": "4374729d-67e9-4ea3-942b-2adbe333159d"
-        },
-        {
-            "quantity": 2.0,
-            "unit": {
-                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
-                "name": "tablespoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tbsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.018253",
-                "updateAt": "2024-05-13T12:27:59.862809"
-            },
-            "food": {
-                "id": "9d606d04-c80f-4538-acc0-e5c400de4bc5",
-                "name": "worcestershire sauce",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-05-02T12:30:38.094706",
-                "updateAt": "2024-05-03T12:49:37.781674"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "2 tbsp worcestershire sauce",
-            "title": "",
-            "originalText": "2 tablespoon worcestershire sauce",
-            "referenceId": "720185ec-49d3-4c4f-bd78-49aa477a2821"
-        },
-        {
-            "quantity": 2.0,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "19a33840-9cc5-4ce3-922d-f140d8be02bf",
-                "name": "lemon juice",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-27T12:05:59.521458",
-                "updateAt": "2024-04-27T12:08:34.238564"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "2 tsp lemon juice",
-            "title": "",
-            "originalText": "2 teaspoon lemon juice",
-            "referenceId": "5629ea86-fcb3-4ee7-9404-29b1f2826bae"
-        },
-        {
-            "quantity": 0.25,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "fd860af3-2047-4ffc-be87-65cbeb97ce1e",
-                "name": "garlic",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:35.923453",
-                "updateAt": "2024-04-27T03:14:08.683777"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2084 tsp garlic",
-            "title": "",
-            "originalText": "0.25 teaspoon garlic",
-            "referenceId": "aa4b0752-2062-40f5-84d4-b33698cb9635"
-        },
-        {
-            "quantity": 2.0,
-            "unit": null,
-            "food": {
-                "id": "cee0e410-a74c-4582-bf56-f746b2b4ca7e",
-                "name": "chipolte peppers",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-05-02T12:30:55.034901",
-                "updateAt": "2024-05-03T12:49:31.108735"
-            },
-            "note": "in adobo",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "2 chipolte peppers in adobo",
-            "title": "",
-            "originalText": "2 chipolte peppers in adobo",
-            "referenceId": "40387e24-6563-47f3-9a10-27ff97a32307"
-        },
-        {
-            "quantity": 0.5,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "9ee197ab-eda6-497f-aa70-b7cc53e4564a",
-                "name": "chili powder",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-30T00:09:10.242308",
-                "updateAt": "2024-04-30T01:51:50.542512"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2082 tsp chili powder",
-            "title": "",
-            "originalText": "0.5 teaspoon chili powder",
-            "referenceId": "b92ee608-ad50-422c-a486-7b7911523100"
-        },
-        {
-            "quantity": 0.125,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "587cccf7-b102-46d0-a598-acb38cb2de8c",
-                "name": "cayenne pepper",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:38.727699",
-                "updateAt": "2024-04-27T03:08:25.782853"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2088 tsp cayenne pepper",
-            "title": "",
-            "originalText": "0.125 teaspoon cayenne pepper",
-            "referenceId": "045225b3-12a3-4460-90c0-7f311e25a001"
-        },
-        {
-            "quantity": 0.0,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "85a8de4c-7718-4605-9853-9043520d7467",
-                "name": "rice",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
-                "aliases": [],
-                "label": {
-                    "name": "Pasta",
-                    "color": "#cd1652",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8"
-                },
-                "createdAt": "2024-04-26T19:32:25.399883",
-                "updateAt": "2024-04-27T03:17:34.167267"
-            },
-            "note": "serve over",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "rice serve over",
-            "title": "",
-            "originalText": "0.75 cup serve over rice",
-            "referenceId": "998b1964-6646-482a-86da-971070ad354c"
-        }
-    ],
-    "recipeInstructions": [
-        {
-            "id": "72dfd8ac-7682-4921-890e-26b829816c3a",
-            "title": "",
-            "text": "Place the chicken breasts into the bottom of a slow cooker.",
-            "ingredientReferences": []
-        },
-        {
-            "id": "d638a157-4bb7-4c80-aed0-0367fd8e22e2",
-            "title": "",
-            "text": "In a bowl, stir together the ketchup, mustard, lemon juice, garlic powder, maple syrup, Worcestershire sauce, chili powder, cayenne pepper, and hot sauce until the mixture is well blended.",
-            "ingredientReferences": []
-        },
-        {
-            "id": "101c03bb-0afb-4a93-95e1-0dd972d04ff7",
-            "title": "",
-            "text": "Pour the sauce over the chicken, set the cooker to Low, and cook for 6 hours. Shred the chicken with two forks, and cook for 30 more minutes. Serve the chicken and sauce spooned into the sandwich rolls.",
-            "ingredientReferences": []
-        }
-    ],
-    "nutrition": {
-        "calories": null,
-        "fatContent": null,
-        "proteinContent": null,
-        "carbohydrateContent": null,
-        "fiberContent": null,
-        "sodiumContent": null,
-        "sugarContent": null
-    },
-    "settings": {
-        "public": true,
-        "showNutrition": false,
-        "showAssets": false,
-        "landscapeView": false,
-        "disableComments": false,
-        "disableAmount": false,
-        "locked": false
-    },
-    "assets": [],
-    "notes": [
-        {
-            "title": "",
-            "text": "This incorporates an attempt to avoid store bought BBQ, Probably get better results by just using a bottle of BBQ sauce."
-        },
-        {
-            "title": "",
-            "text": "Cooked on High for ~3 hours, then shredded."
-        }
-    ],
-    "extras": {},
-    "comments": []
+    "totalTime": null,
+    "updatedAt": "2024-05-25T11:58:20.953459Z",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31"
 }

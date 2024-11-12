@@ -1,16 +1,36 @@
 {
-    "id": "4e584c7c-1d2e-4000-a873-fa4e1f0bc47b",
-    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
-    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-    "name": "Lasagna",
-    "slug": "lasagna",
-    "image": null,
-    "recipeYield": "1 9x12 pan",
-    "totalTime": null,
-    "prepTime": "30 min",
+    "assets": [],
+    "comments": [],
     "cookTime": null,
-    "performTime": "1 hour",
+    "createdAt": "2024-05-02T01:49:49.912551Z",
+    "dateAdded": "2024-05-02",
+    "dateUpdated": "2024-05-02T12:26:24.708074Z",
     "description": "",
+    "extras": {},
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "householdId": "74cd302c-032c-4707-b612-ada7618e0847",
+    "id": "4e584c7c-1d2e-4000-a873-fa4e1f0bc47b",
+    "image": null,
+    "lastMade": null,
+    "name": "Lasagna",
+    "notes": [],
+    "nutrition": {
+        "calories": null,
+        "carbohydrateContent": null,
+        "cholesterolContent": null,
+        "fatContent": null,
+        "fiberContent": null,
+        "proteinContent": null,
+        "saturatedFatContent": null,
+        "sodiumContent": null,
+        "sugarContent": null,
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "orgURL": null,
+    "performTime": "1 hour",
+    "prepTime": "30 min",
+    "rating": 5.0,
     "recipeCategory": [
         {
             "id": "5b7f4cd2-5d0e-440e-8e88-64ad06d1aad1",
@@ -18,6 +38,512 @@
             "slug": "entree"
         }
     ],
+    "recipeIngredient": [
+        {
+            "disableAmount": false,
+            "display": "32 oz ricotta",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-05-02T12:20:38.835841Z",
+                "description": "",
+                "extras": {},
+                "id": "8854dfbd-6ef1-4675-a4ed-85ca1d268037",
+                "label": {
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                    "name": "Dairy Products"
+                },
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "name": "ricotta",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-05-03T12:50:25.869951Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "32 ounce ricotta",
+            "quantity": 32.0,
+            "referenceId": "2ff54638-210d-4ab9-9047-3d393ce509c6",
+            "title": "",
+            "unit": {
+                "abbreviation": "oz",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.919838Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "d2ec378b-608b-4e61-b0fe-ed15ed84302d",
+                "name": "ounce",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:27:05.285653Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 bag Grandpa's Meatballs",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-05-02T12:21:05.481080Z",
+                "description": "",
+                "extras": {},
+                "id": "d8a7c225-909e-4952-9e3e-039412ac522b",
+                "label": {
+                    "color": "#094c1b",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "82f698fa-6672-41b4-a771-b6b0870e3f46",
+                    "name": "Recipe"
+                },
+                "labelId": "82f698fa-6672-41b4-a771-b6b0870e3f46",
+                "name": "Grandpa's Meatballs",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-05-03T12:47:39.129137Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 recipe grandpa's meatballs",
+            "quantity": 1.0,
+            "referenceId": "58e1eed8-d114-4d3b-bc97-c8af5752b910",
+            "title": "",
+            "unit": {
+                "abbreviation": "",
+                "aliases": [],
+                "createdAt": "2024-04-27T02:34:36.952058Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "237f6be2-5e4b-4583-8e04-c9e298c3ac21",
+                "name": "bag",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": "bags",
+                "updatedAt": "2024-05-13T12:25:27.496645Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 links Italian Sausage 2-3 links / .5 lbs bulk",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-30T00:11:04.825124Z",
+                "description": "",
+                "extras": {},
+                "id": "5501b50d-863d-4d1d-b81e-a7ddb553945d",
+                "label": {
+                    "color": "#be2f02",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "13258664-db75-4091-a629-d51f0a89797c",
+                    "name": "Meat"
+                },
+                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
+                "name": "Italian Sausage",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:50:17.498418Z"
+            },
+            "isFood": true,
+            "note": "2-3 links / .5 lbs bulk",
+            "originalText": "2 hot italian sausage links",
+            "quantity": 2.0,
+            "referenceId": "6f54c84c-da37-49ab-9e95-0efa6ad4708e",
+            "title": "",
+            "unit": {
+                "abbreviation": "",
+                "aliases": [],
+                "createdAt": "2024-05-02T12:21:31.273610Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "61b251ff-5935-4f1f-adef-579f9f80aaea",
+                "name": "link",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": "links",
+                "updatedAt": "2024-05-13T12:24:17.940819Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 lb mozzarella cheese shredded",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-30T20:17:46.704275Z",
+                "description": "",
+                "extras": {},
+                "id": "9f1b5fed-64f7-497e-9e3b-64364d29e7c6",
+                "label": {
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                    "name": "Dairy Products"
+                },
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "name": "mozzarella cheese",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T20:26:10.797828Z"
+            },
+            "isFood": true,
+            "note": "shredded",
+            "originalText": "1 lbs shredded mozzarella",
+            "quantity": 1.0,
+            "referenceId": "f65566de-c157-4dc6-9c03-aeb2e37201bd",
+            "title": "",
+            "unit": {
+                "abbreviation": "lb",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.726674Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
+                "name": "pound",
+                "onHand": false,
+                "pluralAbbreviation": "lbs",
+                "pluralName": "pounds",
+                "updatedAt": "2024-05-02T12:28:24.776546Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 cups parmesan cheese",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-29T13:13:29.729126Z",
+                "description": "",
+                "extras": {},
+                "id": "9d0467ab-477b-4281-a39b-947c5ed0f6ed",
+                "label": {
+                    "color": "#cd1652",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                    "name": "Pasta"
+                },
+                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "name": "parmesan cheese",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:53:22.096219Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "2 cups parmesian",
+            "quantity": 2.0,
+            "referenceId": "8c113322-3f66-4e13-93f2-77b60c25f805",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 lb curly edged",
+            "food": null,
+            "isFood": true,
+            "note": "curly edged",
+            "originalText": "1 lbs lasagna noodles, curly edged",
+            "quantity": 1.0,
+            "referenceId": "c338be5f-0a14-4330-80d2-1a9501ca2fa6",
+            "title": "",
+            "unit": {
+                "abbreviation": "lb",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.726674Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
+                "name": "pound",
+                "onHand": false,
+                "pluralAbbreviation": "lbs",
+                "pluralName": "pounds",
+                "updatedAt": "2024-05-02T12:28:24.776546Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 tsp salt",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:32.495091Z",
+                "description": "",
+                "extras": {},
+                "id": "e83a890e-0d16-4075-88d3-863e53c8a2a4",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "salt",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:09:26.465777Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 teaspoon salt",
+            "quantity": 1.0,
+            "referenceId": "d0dc6202-71a1-4ee2-b1f4-72749c125aa8",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 tsp olive oil",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:30.465893Z",
+                "description": "",
+                "extras": {},
+                "id": "75f848c8-5343-4c80-a97c-74f48aa7b681",
+                "label": {
+                    "color": "#e89eb9",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "046d1084-5c4a-4f9f-8695-c38791043125",
+                    "name": "Oil"
+                },
+                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
+                "name": "olive oil",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:15:40.768294Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 teaspoon oil",
+            "quantity": 1.0,
+            "referenceId": "642fa840-66dc-4b46-adf5-5c824a81d299",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 egg",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-29T13:21:56.458709Z",
+                "description": "",
+                "extras": {},
+                "id": "ce51d81c-dbcb-477e-88fc-3359d4eb7fa5",
+                "label": {
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                    "name": "Dairy Products"
+                },
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "name": "egg",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:52:50.518341Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 egg",
+            "quantity": 1.0,
+            "referenceId": "c9a955bd-5478-40b8-99c6-73ca5ccf1a09",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "1 tbsp parsley",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:33.010244Z",
+                "description": "",
+                "extras": {},
+                "id": "ba9ff18f-168d-4935-9979-90869bf67de6",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "parsley",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:14:52.341690Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 tablespoon parsley",
+            "quantity": 1.0,
+            "referenceId": "cbc826ed-4b56-4516-925b-6bcf13f3f068",
+            "title": "",
+            "unit": {
+                "abbreviation": "tbsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:27:59.862809Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "45 oz tomato sauce big jar",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-30T12:14:03.830266Z",
+                "description": "",
+                "extras": {},
+                "id": "a24308d7-7f7e-4a36-b11f-be495896103d",
+                "label": {
+                    "color": "#cd1652",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                    "name": "Pasta"
+                },
+                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "name": "tomato sauce",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T20:29:18.664070Z"
+            },
+            "isFood": true,
+            "note": "big jar",
+            "originalText": "45 ounce jar of tomato sauce",
+            "quantity": 45.0,
+            "referenceId": "0d180bea-2ab0-48d7-91ea-82b073bfc9ca",
+            "title": "",
+            "unit": {
+                "abbreviation": "oz",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.919838Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "d2ec378b-608b-4e61-b0fe-ed15ed84302d",
+                "name": "ounce",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:27:05.285653Z",
+                "useAbbreviation": true
+            }
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "6e485154-fc24-44c5-a466-9af272be9da0",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "* Mix egg, ricotta and parsley in bowl  (use beater, wisk)\n\n",
+            "title": ""
+        },
+        {
+            "id": "32890cdf-580d-416d-a739-584b10a86cb8",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "* Cook lasagna noodles\n    * tsp salt\n    * tsp oil\n    * boil\n    * cook noodles until good (al dente)",
+            "title": ""
+        },
+        {
+            "id": "e56b897e-56db-4f43-9001-650d63eeb887",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "* mash meatballs with a bit sauce (this is addition to the 48 oz of pasta sauce",
+            "title": ""
+        },
+        {
+            "id": "2e997632-7cc3-4d54-8194-b6332c282888",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "Build Lasagna \n\n* thin layer of sauce (Bottom)\n* sprinkling/thin layer of mozzarella/Parmesan (optional)\n* layer of noodles (cut lengthwise if needed to fill in gaps)\n    * debate cross hatching\n* layer of sauce\n* layer of meat\n* layer of ricotta mix\n* fill in with mozzarella, Parmesan\n* Repeat noodle, sauce, cheese (thicker layer or sauce here)\n* noodle layer\n* sauce layer (light layer)\n* mozzarella/parm layer (Top)\n\nSauce layers are thin, mostly a painting on top of noodles (should be a full 48 oz in the layers)\n\nRicotta layer is several clumps everywhere\n",
+            "title": ""
+        },
+        {
+            "id": "695f4172-059e-4031-bc85-fb338748a0b4",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "cook at 350 for 1 hour, covered with foil for 30 minutes.  Do not smoosh foil down.\n* sauce bubbling around edges\n* cheese beginning to be golden",
+            "title": ""
+        },
+        {
+            "id": "0125bff0-b627-4401-a00f-fd17543ad035",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "eat the leftover ingredients.",
+            "title": ""
+        },
+        {
+            "id": "014cf0ac-bd3b-4cdb-b4e5-9cf2c5c507dd",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "let sit for 20 minutes (covered)",
+            "title": ""
+        }
+    ],
+    "recipeYield": "1 9x12 pan",
+    "settings": {
+        "disableAmount": false,
+        "disableComments": false,
+        "landscapeView": false,
+        "locked": false,
+        "public": true,
+        "showAssets": false,
+        "showNutrition": false
+    },
+    "slug": "lasagna",
     "tags": [
         {
             "id": "dc321406-a09c-48e1-8a52-97c1dafa5d00",
@@ -36,501 +562,7 @@
         }
     ],
     "tools": [],
-    "rating": 5.0,
-    "orgURL": null,
-    "dateAdded": "2024-05-02",
-    "dateUpdated": "2024-05-02T12:26:24.708074",
-    "createdAt": "2024-05-02T01:49:49.912551",
-    "updateAt": "2024-05-25T13:00:03.368301",
-    "lastMade": null,
-    "recipeIngredient": [
-        {
-            "quantity": 32.0,
-            "unit": {
-                "id": "d2ec378b-608b-4e61-b0fe-ed15ed84302d",
-                "name": "ounce",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "oz",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:10.919838",
-                "updateAt": "2024-05-13T12:27:05.285653"
-            },
-            "food": {
-                "id": "8854dfbd-6ef1-4675-a4ed-85ca1d268037",
-                "name": "ricotta",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
-                "aliases": [],
-                "label": {
-                    "name": "Dairy Products",
-                    "color": "#67616c",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f"
-                },
-                "createdAt": "2024-05-02T12:20:38.835841",
-                "updateAt": "2024-05-03T12:50:25.869951"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "32 oz ricotta",
-            "title": "",
-            "originalText": "32 ounce ricotta",
-            "referenceId": "2ff54638-210d-4ab9-9047-3d393ce509c6"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "237f6be2-5e4b-4583-8e04-c9e298c3ac21",
-                "name": "bag",
-                "pluralName": "bags",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "",
-                "pluralAbbreviation": "",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-27T02:34:36.952058",
-                "updateAt": "2024-05-13T12:25:27.496645"
-            },
-            "food": {
-                "id": "d8a7c225-909e-4952-9e3e-039412ac522b",
-                "name": "Grandpa's Meatballs",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "82f698fa-6672-41b4-a771-b6b0870e3f46",
-                "aliases": [],
-                "label": {
-                    "name": "Recipe",
-                    "color": "#094c1b",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "82f698fa-6672-41b4-a771-b6b0870e3f46"
-                },
-                "createdAt": "2024-05-02T12:21:05.481080",
-                "updateAt": "2024-05-03T12:47:39.129137"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 bag Grandpa's Meatballs",
-            "title": "",
-            "originalText": "1 recipe grandpa's meatballs",
-            "referenceId": "58e1eed8-d114-4d3b-bc97-c8af5752b910"
-        },
-        {
-            "quantity": 2.0,
-            "unit": {
-                "id": "61b251ff-5935-4f1f-adef-579f9f80aaea",
-                "name": "link",
-                "pluralName": "links",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "",
-                "pluralAbbreviation": "",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-05-02T12:21:31.273610",
-                "updateAt": "2024-05-13T12:24:17.940819"
-            },
-            "food": {
-                "id": "5501b50d-863d-4d1d-b81e-a7ddb553945d",
-                "name": "Italian Sausage",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
-                "aliases": [],
-                "label": {
-                    "name": "Meat",
-                    "color": "#be2f02",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "13258664-db75-4091-a629-d51f0a89797c"
-                },
-                "createdAt": "2024-04-30T00:11:04.825124",
-                "updateAt": "2024-04-30T01:50:17.498418"
-            },
-            "note": "2-3 links / .5 lbs bulk",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "2 links Italian Sausage 2-3 links / .5 lbs bulk",
-            "title": "",
-            "originalText": "2 hot italian sausage links",
-            "referenceId": "6f54c84c-da37-49ab-9e95-0efa6ad4708e"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
-                "name": "pound",
-                "pluralName": "pounds",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "lb",
-                "pluralAbbreviation": "lbs",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:10.726674",
-                "updateAt": "2024-05-02T12:28:24.776546"
-            },
-            "food": {
-                "id": "9f1b5fed-64f7-497e-9e3b-64364d29e7c6",
-                "name": "mozzarella cheese",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
-                "aliases": [],
-                "label": {
-                    "name": "Dairy Products",
-                    "color": "#67616c",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f"
-                },
-                "createdAt": "2024-04-30T20:17:46.704275",
-                "updateAt": "2024-04-30T20:26:10.797828"
-            },
-            "note": "shredded",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 lb mozzarella cheese shredded",
-            "title": "",
-            "originalText": "1 lbs shredded mozzarella",
-            "referenceId": "f65566de-c157-4dc6-9c03-aeb2e37201bd"
-        },
-        {
-            "quantity": 2.0,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "9d0467ab-477b-4281-a39b-947c5ed0f6ed",
-                "name": "parmesan cheese",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
-                "aliases": [],
-                "label": {
-                    "name": "Pasta",
-                    "color": "#cd1652",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8"
-                },
-                "createdAt": "2024-04-29T13:13:29.729126",
-                "updateAt": "2024-04-30T01:53:22.096219"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "2 cups parmesan cheese",
-            "title": "",
-            "originalText": "2 cups parmesian",
-            "referenceId": "8c113322-3f66-4e13-93f2-77b60c25f805"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
-                "name": "pound",
-                "pluralName": "pounds",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "lb",
-                "pluralAbbreviation": "lbs",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:10.726674",
-                "updateAt": "2024-05-02T12:28:24.776546"
-            },
-            "food": null,
-            "note": "curly edged",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 lb curly edged",
-            "title": "",
-            "originalText": "1 lbs lasagna noodles, curly edged",
-            "referenceId": "c338be5f-0a14-4330-80d2-1a9501ca2fa6"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "e83a890e-0d16-4075-88d3-863e53c8a2a4",
-                "name": "salt",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:32.495091",
-                "updateAt": "2024-04-27T03:09:26.465777"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 tsp salt",
-            "title": "",
-            "originalText": "1 teaspoon salt",
-            "referenceId": "d0dc6202-71a1-4ee2-b1f4-72749c125aa8"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "75f848c8-5343-4c80-a97c-74f48aa7b681",
-                "name": "olive oil",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
-                "aliases": [],
-                "label": {
-                    "name": "Oil",
-                    "color": "#e89eb9",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "046d1084-5c4a-4f9f-8695-c38791043125"
-                },
-                "createdAt": "2024-04-26T19:32:30.465893",
-                "updateAt": "2024-04-27T03:15:40.768294"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 tsp olive oil",
-            "title": "",
-            "originalText": "1 teaspoon oil",
-            "referenceId": "642fa840-66dc-4b46-adf5-5c824a81d299"
-        },
-        {
-            "quantity": 1.0,
-            "unit": null,
-            "food": {
-                "id": "ce51d81c-dbcb-477e-88fc-3359d4eb7fa5",
-                "name": "egg",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
-                "aliases": [],
-                "label": {
-                    "name": "Dairy Products",
-                    "color": "#67616c",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f"
-                },
-                "createdAt": "2024-04-29T13:21:56.458709",
-                "updateAt": "2024-04-30T01:52:50.518341"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 egg",
-            "title": "",
-            "originalText": "1 egg",
-            "referenceId": "c9a955bd-5478-40b8-99c6-73ca5ccf1a09"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
-                "name": "tablespoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tbsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.018253",
-                "updateAt": "2024-05-13T12:27:59.862809"
-            },
-            "food": {
-                "id": "ba9ff18f-168d-4935-9979-90869bf67de6",
-                "name": "parsley",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:33.010244",
-                "updateAt": "2024-04-27T03:14:52.341690"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 tbsp parsley",
-            "title": "",
-            "originalText": "1 tablespoon parsley",
-            "referenceId": "cbc826ed-4b56-4516-925b-6bcf13f3f068"
-        },
-        {
-            "quantity": 45.0,
-            "unit": {
-                "id": "d2ec378b-608b-4e61-b0fe-ed15ed84302d",
-                "name": "ounce",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "oz",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:10.919838",
-                "updateAt": "2024-05-13T12:27:05.285653"
-            },
-            "food": {
-                "id": "a24308d7-7f7e-4a36-b11f-be495896103d",
-                "name": "tomato sauce",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
-                "aliases": [],
-                "label": {
-                    "name": "Pasta",
-                    "color": "#cd1652",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8"
-                },
-                "createdAt": "2024-04-30T12:14:03.830266",
-                "updateAt": "2024-04-30T20:29:18.664070"
-            },
-            "note": "big jar",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "45 oz tomato sauce big jar",
-            "title": "",
-            "originalText": "45 ounce jar of tomato sauce",
-            "referenceId": "0d180bea-2ab0-48d7-91ea-82b073bfc9ca"
-        }
-    ],
-    "recipeInstructions": [
-        {
-            "id": "6e485154-fc24-44c5-a466-9af272be9da0",
-            "title": "",
-            "text": "* Mix egg, ricotta and parsley in bowl  (use beater, wisk)\n\n",
-            "ingredientReferences": []
-        },
-        {
-            "id": "32890cdf-580d-416d-a739-584b10a86cb8",
-            "title": "",
-            "text": "* Cook lasagna noodles\n    * tsp salt\n    * tsp oil\n    * boil\n    * cook noodles until good (al dente)",
-            "ingredientReferences": []
-        },
-        {
-            "id": "e56b897e-56db-4f43-9001-650d63eeb887",
-            "title": "",
-            "text": "* mash meatballs with a bit sauce (this is addition to the 48 oz of pasta sauce",
-            "ingredientReferences": []
-        },
-        {
-            "id": "2e997632-7cc3-4d54-8194-b6332c282888",
-            "title": "",
-            "text": "Build Lasagna \n\n* thin layer of sauce (Bottom)\n* sprinkling/thin layer of mozzarella/Parmesan (optional)\n* layer of noodles (cut lengthwise if needed to fill in gaps)\n    * debate cross hatching\n* layer of sauce\n* layer of meat\n* layer of ricotta mix\n* fill in with mozzarella, Parmesan\n* Repeat noodle, sauce, cheese (thicker layer or sauce here)\n* noodle layer\n* sauce layer (light layer)\n* mozzarella/parm layer (Top)\n\nSauce layers are thin, mostly a painting on top of noodles (should be a full 48 oz in the layers)\n\nRicotta layer is several clumps everywhere\n",
-            "ingredientReferences": []
-        },
-        {
-            "id": "695f4172-059e-4031-bc85-fb338748a0b4",
-            "title": "",
-            "text": "cook at 350 for 1 hour, covered with foil for 30 minutes.  Do not smoosh foil down.\n* sauce bubbling around edges\n* cheese beginning to be golden",
-            "ingredientReferences": []
-        },
-        {
-            "id": "0125bff0-b627-4401-a00f-fd17543ad035",
-            "title": "",
-            "text": "eat the leftover ingredients.",
-            "ingredientReferences": []
-        },
-        {
-            "id": "014cf0ac-bd3b-4cdb-b4e5-9cf2c5c507dd",
-            "title": "",
-            "text": "let sit for 20 minutes (covered)",
-            "ingredientReferences": []
-        }
-    ],
-    "nutrition": {
-        "calories": null,
-        "fatContent": null,
-        "proteinContent": null,
-        "carbohydrateContent": null,
-        "fiberContent": null,
-        "sodiumContent": null,
-        "sugarContent": null
-    },
-    "settings": {
-        "public": true,
-        "showNutrition": false,
-        "showAssets": false,
-        "landscapeView": false,
-        "disableComments": false,
-        "disableAmount": false,
-        "locked": false
-    },
-    "assets": [],
-    "notes": [],
-    "extras": {},
-    "comments": []
+    "totalTime": null,
+    "updatedAt": "2024-05-25T13:00:03.368301Z",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31"
 }

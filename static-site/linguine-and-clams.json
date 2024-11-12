@@ -1,16 +1,55 @@
 {
-    "id": "d07baf03-a5af-49c3-b5ed-c8c81da9c401",
-    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
-    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-    "name": "Linguine and Clams",
-    "slug": "linguine-and-clams",
-    "image": null,
-    "recipeYield": null,
-    "totalTime": null,
-    "prepTime": "5 min",
+    "assets": [],
+    "comments": [
+        {
+            "createdAt": "2024-05-09T17:31:39.297046Z",
+            "id": "3fe4204d-cb13-4373-a721-60e8025ebf23",
+            "recipeId": "d07baf03-a5af-49c3-b5ed-c8c81da9c401",
+            "text": "this is a comment",
+            "updatedAt": "2024-05-09T17:31:39.297048Z",
+            "user": {
+                "admin": true,
+                "id": "e1703969-a8bc-4ba4-97b8-878de4769c31",
+                "username": "tkuster"
+            },
+            "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31"
+        }
+    ],
     "cookTime": null,
-    "performTime": "15 min",
+    "createdAt": "2024-05-07T19:55:59.490060Z",
+    "dateAdded": "2024-05-07",
+    "dateUpdated": "2024-05-10T12:36:53.909784Z",
     "description": "",
+    "extras": {},
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "householdId": "74cd302c-032c-4707-b612-ada7618e0847",
+    "id": "d07baf03-a5af-49c3-b5ed-c8c81da9c401",
+    "image": null,
+    "lastMade": "2024-05-10T03:59:59Z",
+    "name": "Linguine and Clams",
+    "notes": [
+        {
+            "text": "5/2/23\n\nFirst attempt had too much vinegar and lemon juice.  Quantities have been adjusted.\n\nThings to try:\n* 1 tsp flour, 1tsp dried milk, 1/3 cup water at beginning to start with a light rue\n* Parm cheese as garnish\n",
+            "title": ""
+        }
+    ],
+    "nutrition": {
+        "calories": null,
+        "carbohydrateContent": null,
+        "cholesterolContent": null,
+        "fatContent": null,
+        "fiberContent": null,
+        "proteinContent": null,
+        "saturatedFatContent": null,
+        "sodiumContent": null,
+        "sugarContent": null,
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "orgURL": null,
+    "performTime": "15 min",
+    "prepTime": "5 min",
+    "rating": 4.0,
     "recipeCategory": [
         {
             "id": "5b7f4cd2-5d0e-440e-8e88-64ad06d1aad1",
@@ -18,6 +57,530 @@
             "slug": "entree"
         }
     ],
+    "recipeIngredient": [
+        {
+            "disableAmount": false,
+            "display": "2 lbs linguine",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T11:41:52.504824Z",
+                "description": "",
+                "extras": {},
+                "id": "9c1a49d9-f465-4547-aa56-d5743fb824f3",
+                "label": {
+                    "color": "#cd1652",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                    "name": "Pasta"
+                },
+                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "name": "linguine",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T11:46:44.450138Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "2 lbs linguine",
+            "quantity": 2.0,
+            "referenceId": "bea32821-bcbc-447d-9624-943e6ccd7a0e",
+            "title": "",
+            "unit": {
+                "abbreviation": "lb",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.726674Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
+                "name": "pound",
+                "onHand": false,
+                "pluralAbbreviation": "lbs",
+                "pluralName": "pounds",
+                "updatedAt": "2024-05-02T12:28:24.776546Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 cup olive oil",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:30.465893Z",
+                "description": "",
+                "extras": {},
+                "id": "75f848c8-5343-4c80-a97c-74f48aa7b681",
+                "label": {
+                    "color": "#e89eb9",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "046d1084-5c4a-4f9f-8695-c38791043125",
+                    "name": "Oil"
+                },
+                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
+                "name": "olive oil",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:15:40.768294Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 cup olive oil",
+            "quantity": 1.0,
+            "referenceId": "f1a2aa01-8524-4b66-b200-e0c04bb6f8f0",
+            "title": "Saute",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 onion",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:21.362752Z",
+                "description": "",
+                "extras": {},
+                "id": "1e397cd3-35eb-4c64-b8cf-b40dfc61cd0b",
+                "label": {
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726",
+                    "name": "Frozen Foods"
+                },
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "name": "onion",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:18:52.550301Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 onion",
+            "quantity": 1.0,
+            "referenceId": "7f5a38c3-6d12-4737-bb13-714e024ec7a1",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "12 cloves garlic",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:35.923453Z",
+                "description": "",
+                "extras": {},
+                "id": "fd860af3-2047-4ffc-be87-65cbeb97ce1e",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "garlic",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:14:08.683777Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "12 cloves garlic",
+            "quantity": 12.0,
+            "referenceId": "5a5fa98e-a0c3-4c21-b7bc-90c0baf6401b",
+            "title": "",
+            "unit": {
+                "abbreviation": "",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:12.511215Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "f860cec4-a431-41b7-8ddc-0035e4be52c2",
+                "name": "clove",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": "cloves",
+                "updatedAt": "2024-05-13T12:25:56.749590Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "4 tbsp unsalted butter",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-05-10T12:33:48.597754Z",
+                "description": "",
+                "extras": {},
+                "id": "dd4be6e5-6042-4a52-b449-13ac7646bfc6",
+                "label": {
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                    "name": "Dairy Products"
+                },
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "name": "unsalted butter",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:20:00.250099Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "4 tablespoon unsalted butter",
+            "quantity": 4.0,
+            "referenceId": "255cd0ba-4445-4b09-bc32-1d24d5463949",
+            "title": "Simmer",
+            "unit": {
+                "abbreviation": "tbsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:27:59.862809Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "16 oz clam juice",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-05-10T12:33:59.033515Z",
+                "description": "",
+                "extras": {},
+                "id": "3d43d633-c396-487a-8559-f8b872308ee9",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "clam juice",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:19:48.468966Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "16 ounce clam juice",
+            "quantity": 16.0,
+            "referenceId": "ceec9927-2167-402c-97bf-cf508f01361b",
+            "title": "",
+            "unit": {
+                "abbreviation": "oz",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.919838Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "d2ec378b-608b-4e61-b0fe-ed15ed84302d",
+                "name": "ounce",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:27:05.285653Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "lemon juice",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T12:05:59.521458Z",
+                "description": "",
+                "extras": {},
+                "id": "19a33840-9cc5-4ce3-922d-f140d8be02bf",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "lemon juice",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T12:08:34.238564Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.5 tablespoon lemon juice",
+            "quantity": 0.0,
+            "referenceId": "7b654cb0-aa00-49e5-afd0-e00cc957c4c6",
+            "title": "",
+            "unit": {
+                "abbreviation": "tbsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:27:59.862809Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2084 cup white wine vinegar",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-05-10T12:34:07.010187Z",
+                "description": "",
+                "extras": {},
+                "id": "2a4990c4-e9b8-400f-b2a2-3221b6f92ac8",
+                "label": {
+                    "color": "#e89eb9",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "046d1084-5c4a-4f9f-8695-c38791043125",
+                    "name": "Oil"
+                },
+                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
+                "name": "white wine vinegar",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:19:40.718304Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.25 cup white wine vinegar",
+            "quantity": 0.25,
+            "referenceId": "623f48a8-45d7-4a9c-8a10-b9f1cd2027e8",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 tbsp parsley",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:33.010244Z",
+                "description": "",
+                "extras": {},
+                "id": "ba9ff18f-168d-4935-9979-90869bf67de6",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "parsley",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:14:52.341690Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "2 tablespoon parsley",
+            "quantity": 2.0,
+            "referenceId": "87d6505a-c006-4023-b15a-2b1fd92cff06",
+            "title": "",
+            "unit": {
+                "abbreviation": "tbsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:27:59.862809Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 tsp basil",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:30.910641Z",
+                "description": "",
+                "extras": {},
+                "id": "84bd4e93-0857-4ba8-91ac-3b8eec13f415",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "basil",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:15:30.128287Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "2 teaspoon basil",
+            "quantity": 2.0,
+            "referenceId": "b05daae8-182c-4df9-867d-831f08acac30",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "3 tsp oregano",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:48.559994Z",
+                "description": "",
+                "extras": {},
+                "id": "26f561cf-9bea-435b-9348-8ddd9cf0590b",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "oregano",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:06:37.316798Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "3 teaspoon oregano",
+            "quantity": 3.0,
+            "referenceId": "56c658d0-e43c-4222-88ce-d92b379f19c8",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 package clams frozen (10.6 ounce",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-30T00:26:57.346756Z",
+                "description": "",
+                "extras": {},
+                "id": "009c3e24-66e3-4048-b244-fd4a34225363",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "clams",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:51:11.155043Z"
+            },
+            "isFood": true,
+            "note": "frozen (10.6 ounce",
+            "originalText": "1 package frozen clams (10.6 ounce)",
+            "quantity": 1.0,
+            "referenceId": "5624a715-6d76-43df-aaf6-92ac45ecc1d2",
+            "title": "At End",
+            "unit": {
+                "abbreviation": "",
+                "aliases": [],
+                "createdAt": "2024-05-10T12:34:24.610164Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "07528b2c-86a6-43a5-88f2-be28b25d5d29",
+                "name": "package",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-10T12:34:24.610169Z",
+                "useAbbreviation": false
+            }
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "044476e0-c32f-4dde-a390-78d0248ddd80",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "* Add Olive Oil, garlic and onion to sauce pan saute until soft\n* Start Linguine\n* Add remaining ingredients except for the clams themselves\n* Let simmer for 5 minutes\n* Add clams, just until warm (2 minutes)\n* Drain linguine and add to sauce, mix thoroughly.",
+            "title": ""
+        }
+    ],
+    "recipeYield": null,
+    "settings": {
+        "disableAmount": false,
+        "disableComments": false,
+        "landscapeView": false,
+        "locked": false,
+        "public": true,
+        "showAssets": false,
+        "showNutrition": false
+    },
+    "slug": "linguine-and-clams",
     "tags": [
         {
             "id": "381093a7-0e3f-4516-86bb-34d7afa25ef6",
@@ -36,541 +599,7 @@
         }
     ],
     "tools": [],
-    "rating": 4.0,
-    "orgURL": null,
-    "dateAdded": "2024-05-07",
-    "dateUpdated": "2024-05-10T12:36:53.909784",
-    "createdAt": "2024-05-07T19:55:59.490060",
-    "updateAt": "2024-05-10T12:36:53.912231",
-    "lastMade": "2024-05-10T03:59:59",
-    "recipeIngredient": [
-        {
-            "quantity": 2.0,
-            "unit": {
-                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
-                "name": "pound",
-                "pluralName": "pounds",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "lb",
-                "pluralAbbreviation": "lbs",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:10.726674",
-                "updateAt": "2024-05-02T12:28:24.776546"
-            },
-            "food": {
-                "id": "9c1a49d9-f465-4547-aa56-d5743fb824f3",
-                "name": "linguine",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
-                "aliases": [],
-                "label": {
-                    "name": "Pasta",
-                    "color": "#cd1652",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8"
-                },
-                "createdAt": "2024-04-27T11:41:52.504824",
-                "updateAt": "2024-04-27T11:46:44.450138"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "2 lbs linguine",
-            "title": "",
-            "originalText": "2 lbs linguine",
-            "referenceId": "bea32821-bcbc-447d-9624-943e6ccd7a0e"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "75f848c8-5343-4c80-a97c-74f48aa7b681",
-                "name": "olive oil",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
-                "aliases": [],
-                "label": {
-                    "name": "Oil",
-                    "color": "#e89eb9",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "046d1084-5c4a-4f9f-8695-c38791043125"
-                },
-                "createdAt": "2024-04-26T19:32:30.465893",
-                "updateAt": "2024-04-27T03:15:40.768294"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 cup olive oil",
-            "title": "Saute",
-            "originalText": "1 cup olive oil",
-            "referenceId": "f1a2aa01-8524-4b66-b200-e0c04bb6f8f0"
-        },
-        {
-            "quantity": 1.0,
-            "unit": null,
-            "food": {
-                "id": "1e397cd3-35eb-4c64-b8cf-b40dfc61cd0b",
-                "name": "onion",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
-                "aliases": [],
-                "label": {
-                    "name": "Frozen Foods",
-                    "color": "#216fb2",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "e4571c39-b7f7-4a4f-b701-283690066726"
-                },
-                "createdAt": "2024-04-26T19:32:21.362752",
-                "updateAt": "2024-04-27T03:18:52.550301"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 onion",
-            "title": "",
-            "originalText": "1 onion",
-            "referenceId": "7f5a38c3-6d12-4737-bb13-714e024ec7a1"
-        },
-        {
-            "quantity": 12.0,
-            "unit": {
-                "id": "f860cec4-a431-41b7-8ddc-0035e4be52c2",
-                "name": "clove",
-                "pluralName": "cloves",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "",
-                "pluralAbbreviation": "",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:12.511215",
-                "updateAt": "2024-05-13T12:25:56.749590"
-            },
-            "food": {
-                "id": "fd860af3-2047-4ffc-be87-65cbeb97ce1e",
-                "name": "garlic",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:35.923453",
-                "updateAt": "2024-04-27T03:14:08.683777"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "12 cloves garlic",
-            "title": "",
-            "originalText": "12 cloves garlic",
-            "referenceId": "5a5fa98e-a0c3-4c21-b7bc-90c0baf6401b"
-        },
-        {
-            "quantity": 4.0,
-            "unit": {
-                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
-                "name": "tablespoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tbsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.018253",
-                "updateAt": "2024-05-13T12:27:59.862809"
-            },
-            "food": {
-                "id": "dd4be6e5-6042-4a52-b449-13ac7646bfc6",
-                "name": "unsalted butter",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
-                "aliases": [],
-                "label": {
-                    "name": "Dairy Products",
-                    "color": "#67616c",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f"
-                },
-                "createdAt": "2024-05-10T12:33:48.597754",
-                "updateAt": "2024-05-13T12:20:00.250099"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "4 tbsp unsalted butter",
-            "title": "Simmer",
-            "originalText": "4 tablespoon unsalted butter",
-            "referenceId": "255cd0ba-4445-4b09-bc32-1d24d5463949"
-        },
-        {
-            "quantity": 16.0,
-            "unit": {
-                "id": "d2ec378b-608b-4e61-b0fe-ed15ed84302d",
-                "name": "ounce",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "oz",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:10.919838",
-                "updateAt": "2024-05-13T12:27:05.285653"
-            },
-            "food": {
-                "id": "3d43d633-c396-487a-8559-f8b872308ee9",
-                "name": "clam juice",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-05-10T12:33:59.033515",
-                "updateAt": "2024-05-13T12:19:48.468966"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "16 oz clam juice",
-            "title": "",
-            "originalText": "16 ounce clam juice",
-            "referenceId": "ceec9927-2167-402c-97bf-cf508f01361b"
-        },
-        {
-            "quantity": 0.0,
-            "unit": {
-                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
-                "name": "tablespoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tbsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.018253",
-                "updateAt": "2024-05-13T12:27:59.862809"
-            },
-            "food": {
-                "id": "19a33840-9cc5-4ce3-922d-f140d8be02bf",
-                "name": "lemon juice",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-27T12:05:59.521458",
-                "updateAt": "2024-04-27T12:08:34.238564"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "lemon juice",
-            "title": "",
-            "originalText": "0.5 tablespoon lemon juice",
-            "referenceId": "7b654cb0-aa00-49e5-afd0-e00cc957c4c6"
-        },
-        {
-            "quantity": 0.25,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "2a4990c4-e9b8-400f-b2a2-3221b6f92ac8",
-                "name": "white wine vinegar",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
-                "aliases": [],
-                "label": {
-                    "name": "Oil",
-                    "color": "#e89eb9",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "046d1084-5c4a-4f9f-8695-c38791043125"
-                },
-                "createdAt": "2024-05-10T12:34:07.010187",
-                "updateAt": "2024-05-13T12:19:40.718304"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2084 cup white wine vinegar",
-            "title": "",
-            "originalText": "0.25 cup white wine vinegar",
-            "referenceId": "623f48a8-45d7-4a9c-8a10-b9f1cd2027e8"
-        },
-        {
-            "quantity": 2.0,
-            "unit": {
-                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
-                "name": "tablespoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tbsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.018253",
-                "updateAt": "2024-05-13T12:27:59.862809"
-            },
-            "food": {
-                "id": "ba9ff18f-168d-4935-9979-90869bf67de6",
-                "name": "parsley",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:33.010244",
-                "updateAt": "2024-04-27T03:14:52.341690"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "2 tbsp parsley",
-            "title": "",
-            "originalText": "2 tablespoon parsley",
-            "referenceId": "87d6505a-c006-4023-b15a-2b1fd92cff06"
-        },
-        {
-            "quantity": 2.0,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "84bd4e93-0857-4ba8-91ac-3b8eec13f415",
-                "name": "basil",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:30.910641",
-                "updateAt": "2024-04-27T03:15:30.128287"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "2 tsp basil",
-            "title": "",
-            "originalText": "2 teaspoon basil",
-            "referenceId": "b05daae8-182c-4df9-867d-831f08acac30"
-        },
-        {
-            "quantity": 3.0,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "26f561cf-9bea-435b-9348-8ddd9cf0590b",
-                "name": "oregano",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:48.559994",
-                "updateAt": "2024-04-27T03:06:37.316798"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "3 tsp oregano",
-            "title": "",
-            "originalText": "3 teaspoon oregano",
-            "referenceId": "56c658d0-e43c-4222-88ce-d92b379f19c8"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "07528b2c-86a6-43a5-88f2-be28b25d5d29",
-                "name": "package",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "",
-                "pluralAbbreviation": "",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-05-10T12:34:24.610164",
-                "updateAt": "2024-05-10T12:34:24.610169"
-            },
-            "food": {
-                "id": "009c3e24-66e3-4048-b244-fd4a34225363",
-                "name": "clams",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-30T00:26:57.346756",
-                "updateAt": "2024-04-30T01:51:11.155043"
-            },
-            "note": "frozen (10.6 ounce",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 package clams frozen (10.6 ounce",
-            "title": "At End",
-            "originalText": "1 package frozen clams (10.6 ounce)",
-            "referenceId": "5624a715-6d76-43df-aaf6-92ac45ecc1d2"
-        }
-    ],
-    "recipeInstructions": [
-        {
-            "id": "044476e0-c32f-4dde-a390-78d0248ddd80",
-            "title": "",
-            "text": "* Add Olive Oil, garlic and onion to sauce pan saute until soft\n* Start Linguine\n* Add remaining ingredients except for the clams themselves\n* Let simmer for 5 minutes\n* Add clams, just until warm (2 minutes)\n* Drain linguine and add to sauce, mix thoroughly.",
-            "ingredientReferences": []
-        }
-    ],
-    "nutrition": {
-        "calories": null,
-        "fatContent": null,
-        "proteinContent": null,
-        "carbohydrateContent": null,
-        "fiberContent": null,
-        "sodiumContent": null,
-        "sugarContent": null
-    },
-    "settings": {
-        "public": true,
-        "showNutrition": false,
-        "showAssets": false,
-        "landscapeView": false,
-        "disableComments": false,
-        "disableAmount": false,
-        "locked": false
-    },
-    "assets": [],
-    "notes": [
-        {
-            "title": "",
-            "text": "5/2/23\n\nFirst attempt had too much vinegar and lemon juice.  Quantities have been adjusted.\n\nThings to try:\n* 1 tsp flour, 1tsp dried milk, 1/3 cup water at beginning to start with a light rue\n* Parm cheese as garnish\n"
-        }
-    ],
-    "extras": {},
-    "comments": [
-        {
-            "recipeId": "d07baf03-a5af-49c3-b5ed-c8c81da9c401",
-            "text": "this is a comment",
-            "id": "3fe4204d-cb13-4373-a721-60e8025ebf23",
-            "createdAt": "2024-05-09T17:31:39.297046",
-            "updateAt": "2024-05-09T17:31:39.297048",
-            "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
-            "user": {
-                "id": "e1703969-a8bc-4ba4-97b8-878de4769c31",
-                "username": "tkuster",
-                "admin": true
-            }
-        }
-    ]
+    "totalTime": null,
+    "updatedAt": "2024-05-10T12:36:53.912231Z",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31"
 }

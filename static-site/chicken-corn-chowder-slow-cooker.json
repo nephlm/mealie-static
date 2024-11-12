@@ -1,16 +1,45 @@
 {
-    "id": "15d1c335-e805-4391-9d15-19d158d98391",
-    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
-    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-    "name": "Chicken Corn Chowder (Slow Cooker)",
-    "slug": "chicken-corn-chowder-slow-cooker",
-    "image": null,
-    "recipeYield": "4",
-    "totalTime": null,
-    "prepTime": "20 min",
+    "assets": [],
+    "comments": [],
     "cookTime": null,
-    "performTime": "6 hours",
+    "createdAt": "2024-05-02T01:20:00.008351Z",
+    "dateAdded": "2024-05-02",
+    "dateUpdated": "2024-05-02T12:52:32.506559Z",
     "description": "",
+    "extras": {},
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "householdId": "74cd302c-032c-4707-b612-ada7618e0847",
+    "id": "15d1c335-e805-4391-9d15-19d158d98391",
+    "image": null,
+    "lastMade": null,
+    "name": "Chicken Corn Chowder (Slow Cooker)",
+    "notes": [
+        {
+            "text": "Carrots\nGreen beans\nBrocoli\n\n",
+            "title": "2017-01-08"
+        },
+        {
+            "text": ".75 tsp of adobo wasn't quite enough setting it to 1 tsp and see how that works\n",
+            "title": "2014-02-08"
+        }
+    ],
+    "nutrition": {
+        "calories": null,
+        "carbohydrateContent": null,
+        "cholesterolContent": null,
+        "fatContent": null,
+        "fiberContent": null,
+        "proteinContent": null,
+        "saturatedFatContent": null,
+        "sodiumContent": null,
+        "sugarContent": null,
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "orgURL": null,
+    "performTime": "6 hours",
+    "prepTime": "20 min",
+    "rating": 5.0,
     "recipeCategory": [
         {
             "id": "5b7f4cd2-5d0e-440e-8e88-64ad06d1aad1",
@@ -18,6 +47,924 @@
             "slug": "entree"
         }
     ],
+    "recipeIngredient": [
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2083 cup olive oil",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:30.465893Z",
+                "description": "",
+                "extras": {},
+                "id": "75f848c8-5343-4c80-a97c-74f48aa7b681",
+                "label": {
+                    "color": "#e89eb9",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "046d1084-5c4a-4f9f-8695-c38791043125",
+                    "name": "Oil"
+                },
+                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
+                "name": "olive oil",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:15:40.768294Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.3333333333333333 cup olive oil",
+            "quantity": 0.333,
+            "referenceId": "4bc8a53d-a243-487d-840c-86631b689195",
+            "title": "Roux",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2083 cup flour",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.611040Z",
+                "description": "",
+                "extras": {},
+                "id": "c19cfcd8-10d0-464b-9b65-e6c8d757db8f",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "flour",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:20:02.944168Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.3333333333333333 cup flour",
+            "quantity": 0.333,
+            "referenceId": "2cbe7cc8-3c3a-4b3d-8b4d-89ccbedbfe48",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 tbsp milk dried",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:20.019954Z",
+                "description": "",
+                "extras": {},
+                "id": "b7e8f8b8-19f9-4e20-9783-f90d8aa54bb8",
+                "label": {
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                    "name": "Dairy Products"
+                },
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "name": "milk",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:18:41.120456Z"
+            },
+            "isFood": true,
+            "note": "dried",
+            "originalText": "1 tablespoon dried milk",
+            "quantity": 1.0,
+            "referenceId": "fe66b676-72c0-4466-ad0b-84a270f52425",
+            "title": "",
+            "unit": {
+                "abbreviation": "tbsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:27:59.862809Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 tsp better than boullion",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T02:31:47.639314Z",
+                "description": "",
+                "extras": {},
+                "id": "900abf67-7a16-40fa-bcab-e6ea1d80b634",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "better than boullion",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:05:13.208553Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.25 teaspoon better than bouillon",
+            "quantity": 1.0,
+            "referenceId": "b2ba08c5-a702-4f7f-b91c-4a387503c892",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "6 \u00b9/\u2082 cups water divided",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T02:31:21.445759Z",
+                "description": "",
+                "extras": {},
+                "id": "d9a322c3-fd8e-4b39-809f-abcbd76b8062",
+                "label": null,
+                "labelId": null,
+                "name": "water",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:05:36.520887Z"
+            },
+            "isFood": true,
+            "note": "divided",
+            "originalText": "6.5 cups water, divided",
+            "quantity": 6.5,
+            "referenceId": "88eb496f-7ce5-4157-add8-b9fc66029a0a",
+            "title": "Main",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "6 chicken tenders diced",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-30T12:32:01.490110Z",
+                "description": "",
+                "extras": {},
+                "id": "1fd457bb-860e-437a-8b7d-28fc12711290",
+                "label": {
+                    "color": "#be2f02",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "13258664-db75-4091-a629-d51f0a89797c",
+                    "name": "Meat"
+                },
+                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
+                "name": "chicken tenders",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T20:28:42.301000Z"
+            },
+            "isFood": true,
+            "note": "diced",
+            "originalText": "6 chicken breast tenders, diced",
+            "quantity": 6.0,
+            "referenceId": "eab5d518-0a2e-44fe-b9ad-d487f46e27f5",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "3 potatoes medium",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:39.537591Z",
+                "description": "",
+                "extras": {},
+                "id": "37832f9d-9a7f-46ba-8008-318e4b203c17",
+                "label": {
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                    "name": "Produce"
+                },
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "name": "potatoes",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-26T19:51:52.650876Z"
+            },
+            "isFood": true,
+            "note": "medium",
+            "originalText": "3 medium white potatoes",
+            "quantity": 3.0,
+            "referenceId": "ef059c5d-5139-4a1e-898a-9c1493b6ace6",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "1 tsp better than boullion",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T02:31:47.639314Z",
+                "description": "",
+                "extras": {},
+                "id": "900abf67-7a16-40fa-bcab-e6ea1d80b634",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "better than boullion",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:05:13.208553Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.5 teaspoon better than bouillon",
+            "quantity": 1.0,
+            "referenceId": "47c97cd7-8a65-4e04-b950-0c43cb8fa224",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 tbsp dry milk",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-05-02T12:42:57.149667Z",
+                "description": "",
+                "extras": {},
+                "id": "2e71e098-7a63-4523-a9ac-ada90219ffe5",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "dry milk",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-05-03T12:48:14.861069Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "2 tablespoon dried milk",
+            "quantity": 2.0,
+            "referenceId": "c53de8bc-a111-4d90-ad45-a58345d9f85e",
+            "title": "",
+            "unit": {
+                "abbreviation": "tbsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:27:59.862809Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 can green chili peppers (4 ounce",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T02:33:23.266179Z",
+                "description": "",
+                "extras": {},
+                "id": "bab521c8-386b-4f30-a6de-a4f2874353c1",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "green chili peppers",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:05:03.254621Z"
+            },
+            "isFood": true,
+            "note": "(4 ounce",
+            "originalText": "1 can green chilies (4 ounce)",
+            "quantity": 1.0,
+            "referenceId": "8b731c3d-57eb-40a0-8c2e-6356ae2fd0fe",
+            "title": "",
+            "unit": {
+                "abbreviation": "",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:12.664803Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94661c62-5523-4f5c-aa77-b8a7536ef03b",
+                "name": "can",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": "cans",
+                "updatedAt": "2024-05-13T12:25:48.960493Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 tsp adobo",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T02:32:07.257395Z",
+                "description": "",
+                "extras": {},
+                "id": "4643f54f-dd32-473a-bd10-b100dfafceba",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "adobo",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:03:54.880978Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 teaspoon adobo",
+            "quantity": 1.0,
+            "referenceId": "231627d9-e351-40f8-b669-25c65473f680",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 tsp pepper",
+            "food": {
+                "aliases": [
+                    {
+                        "name": "black pepper"
+                    }
+                ],
+                "createdAt": "2024-04-26T19:32:43.184271Z",
+                "description": "",
+                "extras": {},
+                "id": "b23ef96b-f10d-48a0-87e6-63e1ff9b111e",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "pepper",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:08:33.535970Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.5 teaspoon black pepper",
+            "quantity": 0.5,
+            "referenceId": "65c84d1d-1e36-4958-90e8-acf508b36e1a",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 tsp cumin",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:22.629248Z",
+                "description": "",
+                "extras": {},
+                "id": "a7b69d57-bb2c-4d34-936c-c6ea7b5ec994",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "cumin",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:19:03.874657Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.5 teaspoon cumin",
+            "quantity": 0.5,
+            "referenceId": "3e55d644-1970-43da-be6d-77626e3d027b",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 tsp sage",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T02:32:56.236727Z",
+                "description": "",
+                "extras": {},
+                "id": "b7e58727-a301-4681-9512-6a36c7e00f23",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "sage",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:04:24.921090Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.5 teaspoon sage",
+            "quantity": 0.5,
+            "referenceId": "c5919dd4-5853-421e-b39a-ff57d55999a6",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 tsp thyme",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T02:33:03.731832Z",
+                "description": "",
+                "extras": {},
+                "id": "608f04ed-6723-4ca0-b3ee-8f39da829a55",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "thyme",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:04:18.346868Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.5 teaspoon thyme",
+            "quantity": 0.5,
+            "referenceId": "eb4f0a4d-0959-459a-8aac-b33d1487d294",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2084 tsp cayenne pepper",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:38.727699Z",
+                "description": "",
+                "extras": {},
+                "id": "587cccf7-b102-46d0-a598-acb38cb2de8c",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "cayenne pepper",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:08:25.782853Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.25 teaspoon cayenne pepper",
+            "quantity": 0.25,
+            "referenceId": "292e2e50-d3a3-4af2-a8d6-89761feaf4c3",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 cup green beans frozen",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-29T13:01:34.168445Z",
+                "description": "",
+                "extras": {},
+                "id": "a9321973-db85-48c9-9ffb-3703e57633a5",
+                "label": {
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726",
+                    "name": "Frozen Foods"
+                },
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "name": "green beans",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:53:52.446111Z"
+            },
+            "isFood": true,
+            "note": "frozen",
+            "originalText": "1 cup frozen green beans",
+            "quantity": 1.0,
+            "referenceId": "df2c9b12-5dbc-487b-b529-18275f30dc82",
+            "title": "At the End",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 cup corn frozen",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:27.197666Z",
+                "description": "",
+                "extras": {},
+                "id": "93823d8d-484a-4a6d-a490-a294850751d8",
+                "label": {
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726",
+                    "name": "Frozen Foods"
+                },
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "name": "corn",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:18:01.905846Z"
+            },
+            "isFood": true,
+            "note": "frozen",
+            "originalText": "1 cup frozen corn",
+            "quantity": 1.0,
+            "referenceId": "6e581b10-428e-45e9-863c-b20188b22b26",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 cup carrot",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:36.805146Z",
+                "description": "",
+                "extras": {},
+                "id": "a22ede96-a507-486e-89f5-fc2184062be4",
+                "label": {
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                    "name": "Produce"
+                },
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "name": "carrot",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:14:32.053074Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 cup carrots",
+            "quantity": 1.0,
+            "referenceId": "a12e52b3-8f3e-4477-b341-454d65fbfc3f",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 cup broccoli",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:43.717384Z",
+                "description": "",
+                "extras": {},
+                "id": "ee757c32-c3de-4812-8d65-fc8ebac34491",
+                "label": {
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726",
+                    "name": "Frozen Foods"
+                },
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "name": "broccoli",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:57:56.465688Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 cup broccoli",
+            "quantity": 1.0,
+            "referenceId": "b9631103-467e-4d92-8934-615d2bfbba6f",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "basmati rice",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-30T12:26:35.222517Z",
+                "description": "",
+                "extras": {},
+                "id": "e4b1aec5-079c-4af6-b03f-a7085cdabe00",
+                "label": {
+                    "color": "#cd1652",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                    "name": "Pasta"
+                },
+                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "name": "basmati rice",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T20:29:11.306008Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.75 cup basmati rice",
+            "quantity": 0.0,
+            "referenceId": "e4ef759a-1aff-47b2-9ea6-711b0c716dc5",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "shredded cheese",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-29T12:58:31.112043Z",
+                "description": "",
+                "extras": {},
+                "id": "ced992f1-2ee0-4994-bfbf-6e7ba071d279",
+                "label": {
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                    "name": "Dairy Products"
+                },
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "name": "shredded cheese",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:54:07.855215Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "garnish with cheese",
+            "quantity": 0.0,
+            "referenceId": "3dd599e9-7497-4a22-9453-ebc620d732e3",
+            "title": "Garnish",
+            "unit": null
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "31cf554b-7225-4b59-a358-e9aa10322483",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "Make the cream of:\n* in a sauce pan melt 4 tsp butter\n* add 1 tbsp at a time of flour an wisk together\n* remove from heat and add 2 cups water\n* wisk in 1 tbsp dried milk and 1/4 tsp better than bouillon \n* Put over low heat, wisk until it thickens.\n",
+            "title": ""
+        },
+        {
+            "id": "d5036d3f-01e6-4a87-91ff-dcf4e7530df9",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "In the slow cooker:\n* Add everything but the rice, corn and green beans.\n* Cook on high 6 hours\n* 1 hour before done add the rice, corn and green beans.\n* Garnish with cheese before serving.\n",
+            "title": ""
+        }
+    ],
+    "recipeYield": "4",
+    "settings": {
+        "disableAmount": false,
+        "disableComments": false,
+        "landscapeView": false,
+        "locked": false,
+        "public": true,
+        "showAssets": false,
+        "showNutrition": false
+    },
+    "slug": "chicken-corn-chowder-slow-cooker",
     "tags": [
         {
             "id": "e1c1c1a2-7783-4dc2-979e-a6f35e1c17e9",
@@ -26,907 +973,7 @@
         }
     ],
     "tools": [],
-    "rating": 5.0,
-    "orgURL": null,
-    "dateAdded": "2024-05-02",
-    "dateUpdated": "2024-05-02T12:52:32.506559",
-    "createdAt": "2024-05-02T01:20:00.008351",
-    "updateAt": "2024-05-02T12:52:32.512088",
-    "lastMade": null,
-    "recipeIngredient": [
-        {
-            "quantity": 0.333,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "75f848c8-5343-4c80-a97c-74f48aa7b681",
-                "name": "olive oil",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
-                "aliases": [],
-                "label": {
-                    "name": "Oil",
-                    "color": "#e89eb9",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "046d1084-5c4a-4f9f-8695-c38791043125"
-                },
-                "createdAt": "2024-04-26T19:32:30.465893",
-                "updateAt": "2024-04-27T03:15:40.768294"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2083 cup olive oil",
-            "title": "Roux",
-            "originalText": "0.3333333333333333 cup olive oil",
-            "referenceId": "4bc8a53d-a243-487d-840c-86631b689195"
-        },
-        {
-            "quantity": 0.333,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "c19cfcd8-10d0-464b-9b65-e6c8d757db8f",
-                "name": "flour",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-26T19:32:07.611040",
-                "updateAt": "2024-04-27T03:20:02.944168"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2083 cup flour",
-            "title": "",
-            "originalText": "0.3333333333333333 cup flour",
-            "referenceId": "2cbe7cc8-3c3a-4b3d-8b4d-89ccbedbfe48"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
-                "name": "tablespoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tbsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.018253",
-                "updateAt": "2024-05-13T12:27:59.862809"
-            },
-            "food": {
-                "id": "b7e8f8b8-19f9-4e20-9783-f90d8aa54bb8",
-                "name": "milk",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
-                "aliases": [],
-                "label": {
-                    "name": "Dairy Products",
-                    "color": "#67616c",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f"
-                },
-                "createdAt": "2024-04-26T19:32:20.019954",
-                "updateAt": "2024-04-27T03:18:41.120456"
-            },
-            "note": "dried",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 tbsp milk dried",
-            "title": "",
-            "originalText": "1 tablespoon dried milk",
-            "referenceId": "fe66b676-72c0-4466-ad0b-84a270f52425"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "900abf67-7a16-40fa-bcab-e6ea1d80b634",
-                "name": "better than boullion",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-27T02:31:47.639314",
-                "updateAt": "2024-04-27T03:05:13.208553"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 tsp better than boullion",
-            "title": "",
-            "originalText": "0.25 teaspoon better than bouillon",
-            "referenceId": "b2ba08c5-a702-4f7f-b91c-4a387503c892"
-        },
-        {
-            "quantity": 6.5,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "d9a322c3-fd8e-4b39-809f-abcbd76b8062",
-                "name": "water",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": null,
-                "aliases": [],
-                "label": null,
-                "createdAt": "2024-04-27T02:31:21.445759",
-                "updateAt": "2024-04-27T03:05:36.520887"
-            },
-            "note": "divided",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "6 \u00b9/\u2082 cups water divided",
-            "title": "Main",
-            "originalText": "6.5 cups water, divided",
-            "referenceId": "88eb496f-7ce5-4157-add8-b9fc66029a0a"
-        },
-        {
-            "quantity": 6.0,
-            "unit": null,
-            "food": {
-                "id": "1fd457bb-860e-437a-8b7d-28fc12711290",
-                "name": "chicken tenders",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
-                "aliases": [],
-                "label": {
-                    "name": "Meat",
-                    "color": "#be2f02",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "13258664-db75-4091-a629-d51f0a89797c"
-                },
-                "createdAt": "2024-04-30T12:32:01.490110",
-                "updateAt": "2024-04-30T20:28:42.301000"
-            },
-            "note": "diced",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "6 chicken tenders diced",
-            "title": "",
-            "originalText": "6 chicken breast tenders, diced",
-            "referenceId": "eab5d518-0a2e-44fe-b9ad-d487f46e27f5"
-        },
-        {
-            "quantity": 3.0,
-            "unit": null,
-            "food": {
-                "id": "37832f9d-9a7f-46ba-8008-318e4b203c17",
-                "name": "potatoes",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
-                "aliases": [],
-                "label": {
-                    "name": "Produce",
-                    "color": "#a7d766",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
-                },
-                "createdAt": "2024-04-26T19:32:39.537591",
-                "updateAt": "2024-04-26T19:51:52.650876"
-            },
-            "note": "medium",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "3 potatoes medium",
-            "title": "",
-            "originalText": "3 medium white potatoes",
-            "referenceId": "ef059c5d-5139-4a1e-898a-9c1493b6ace6"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "900abf67-7a16-40fa-bcab-e6ea1d80b634",
-                "name": "better than boullion",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-27T02:31:47.639314",
-                "updateAt": "2024-04-27T03:05:13.208553"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 tsp better than boullion",
-            "title": "",
-            "originalText": "0.5 teaspoon better than bouillon",
-            "referenceId": "47c97cd7-8a65-4e04-b950-0c43cb8fa224"
-        },
-        {
-            "quantity": 2.0,
-            "unit": {
-                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
-                "name": "tablespoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tbsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.018253",
-                "updateAt": "2024-05-13T12:27:59.862809"
-            },
-            "food": {
-                "id": "2e71e098-7a63-4523-a9ac-ada90219ffe5",
-                "name": "dry milk",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-05-02T12:42:57.149667",
-                "updateAt": "2024-05-03T12:48:14.861069"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "2 tbsp dry milk",
-            "title": "",
-            "originalText": "2 tablespoon dried milk",
-            "referenceId": "c53de8bc-a111-4d90-ad45-a58345d9f85e"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "94661c62-5523-4f5c-aa77-b8a7536ef03b",
-                "name": "can",
-                "pluralName": "cans",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "",
-                "pluralAbbreviation": "",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:12.664803",
-                "updateAt": "2024-05-13T12:25:48.960493"
-            },
-            "food": {
-                "id": "bab521c8-386b-4f30-a6de-a4f2874353c1",
-                "name": "green chili peppers",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-27T02:33:23.266179",
-                "updateAt": "2024-04-27T03:05:03.254621"
-            },
-            "note": "(4 ounce",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 can green chili peppers (4 ounce",
-            "title": "",
-            "originalText": "1 can green chilies (4 ounce)",
-            "referenceId": "8b731c3d-57eb-40a0-8c2e-6356ae2fd0fe"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "4643f54f-dd32-473a-bd10-b100dfafceba",
-                "name": "adobo",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-27T02:32:07.257395",
-                "updateAt": "2024-04-27T03:03:54.880978"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 tsp adobo",
-            "title": "",
-            "originalText": "1 teaspoon adobo",
-            "referenceId": "231627d9-e351-40f8-b669-25c65473f680"
-        },
-        {
-            "quantity": 0.5,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "b23ef96b-f10d-48a0-87e6-63e1ff9b111e",
-                "name": "pepper",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [
-                    {
-                        "name": "black pepper"
-                    }
-                ],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:43.184271",
-                "updateAt": "2024-04-27T03:08:33.535970"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2082 tsp pepper",
-            "title": "",
-            "originalText": "0.5 teaspoon black pepper",
-            "referenceId": "65c84d1d-1e36-4958-90e8-acf508b36e1a"
-        },
-        {
-            "quantity": 0.5,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "a7b69d57-bb2c-4d34-936c-c6ea7b5ec994",
-                "name": "cumin",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:22.629248",
-                "updateAt": "2024-04-27T03:19:03.874657"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2082 tsp cumin",
-            "title": "",
-            "originalText": "0.5 teaspoon cumin",
-            "referenceId": "3e55d644-1970-43da-be6d-77626e3d027b"
-        },
-        {
-            "quantity": 0.5,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "b7e58727-a301-4681-9512-6a36c7e00f23",
-                "name": "sage",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-27T02:32:56.236727",
-                "updateAt": "2024-04-27T03:04:24.921090"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2082 tsp sage",
-            "title": "",
-            "originalText": "0.5 teaspoon sage",
-            "referenceId": "c5919dd4-5853-421e-b39a-ff57d55999a6"
-        },
-        {
-            "quantity": 0.5,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "608f04ed-6723-4ca0-b3ee-8f39da829a55",
-                "name": "thyme",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-27T02:33:03.731832",
-                "updateAt": "2024-04-27T03:04:18.346868"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2082 tsp thyme",
-            "title": "",
-            "originalText": "0.5 teaspoon thyme",
-            "referenceId": "eb4f0a4d-0959-459a-8aac-b33d1487d294"
-        },
-        {
-            "quantity": 0.25,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "587cccf7-b102-46d0-a598-acb38cb2de8c",
-                "name": "cayenne pepper",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:38.727699",
-                "updateAt": "2024-04-27T03:08:25.782853"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2084 tsp cayenne pepper",
-            "title": "",
-            "originalText": "0.25 teaspoon cayenne pepper",
-            "referenceId": "292e2e50-d3a3-4af2-a8d6-89761feaf4c3"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "a9321973-db85-48c9-9ffb-3703e57633a5",
-                "name": "green beans",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
-                "aliases": [],
-                "label": {
-                    "name": "Frozen Foods",
-                    "color": "#216fb2",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "e4571c39-b7f7-4a4f-b701-283690066726"
-                },
-                "createdAt": "2024-04-29T13:01:34.168445",
-                "updateAt": "2024-04-30T01:53:52.446111"
-            },
-            "note": "frozen",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 cup green beans frozen",
-            "title": "At the End",
-            "originalText": "1 cup frozen green beans",
-            "referenceId": "df2c9b12-5dbc-487b-b529-18275f30dc82"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "93823d8d-484a-4a6d-a490-a294850751d8",
-                "name": "corn",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
-                "aliases": [],
-                "label": {
-                    "name": "Frozen Foods",
-                    "color": "#216fb2",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "e4571c39-b7f7-4a4f-b701-283690066726"
-                },
-                "createdAt": "2024-04-26T19:32:27.197666",
-                "updateAt": "2024-04-27T03:18:01.905846"
-            },
-            "note": "frozen",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 cup corn frozen",
-            "title": "",
-            "originalText": "1 cup frozen corn",
-            "referenceId": "6e581b10-428e-45e9-863c-b20188b22b26"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "a22ede96-a507-486e-89f5-fc2184062be4",
-                "name": "carrot",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
-                "aliases": [],
-                "label": {
-                    "name": "Produce",
-                    "color": "#a7d766",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
-                },
-                "createdAt": "2024-04-26T19:32:36.805146",
-                "updateAt": "2024-04-27T03:14:32.053074"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 cup carrot",
-            "title": "",
-            "originalText": "1 cup carrots",
-            "referenceId": "a12e52b3-8f3e-4477-b341-454d65fbfc3f"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "ee757c32-c3de-4812-8d65-fc8ebac34491",
-                "name": "broccoli",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
-                "aliases": [],
-                "label": {
-                    "name": "Frozen Foods",
-                    "color": "#216fb2",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "e4571c39-b7f7-4a4f-b701-283690066726"
-                },
-                "createdAt": "2024-04-26T19:32:43.717384",
-                "updateAt": "2024-04-30T01:57:56.465688"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 cup broccoli",
-            "title": "",
-            "originalText": "1 cup broccoli",
-            "referenceId": "b9631103-467e-4d92-8934-615d2bfbba6f"
-        },
-        {
-            "quantity": 0.0,
-            "unit": null,
-            "food": {
-                "id": "e4b1aec5-079c-4af6-b03f-a7085cdabe00",
-                "name": "basmati rice",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
-                "aliases": [],
-                "label": {
-                    "name": "Pasta",
-                    "color": "#cd1652",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8"
-                },
-                "createdAt": "2024-04-30T12:26:35.222517",
-                "updateAt": "2024-04-30T20:29:11.306008"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "basmati rice",
-            "title": "",
-            "originalText": "0.75 cup basmati rice",
-            "referenceId": "e4ef759a-1aff-47b2-9ea6-711b0c716dc5"
-        },
-        {
-            "quantity": 0.0,
-            "unit": null,
-            "food": {
-                "id": "ced992f1-2ee0-4994-bfbf-6e7ba071d279",
-                "name": "shredded cheese",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
-                "aliases": [],
-                "label": {
-                    "name": "Dairy Products",
-                    "color": "#67616c",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f"
-                },
-                "createdAt": "2024-04-29T12:58:31.112043",
-                "updateAt": "2024-04-30T01:54:07.855215"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "shredded cheese",
-            "title": "Garnish",
-            "originalText": "garnish with cheese",
-            "referenceId": "3dd599e9-7497-4a22-9453-ebc620d732e3"
-        }
-    ],
-    "recipeInstructions": [
-        {
-            "id": "31cf554b-7225-4b59-a358-e9aa10322483",
-            "title": "",
-            "text": "Make the cream of:\n* in a sauce pan melt 4 tsp butter\n* add 1 tbsp at a time of flour an wisk together\n* remove from heat and add 2 cups water\n* wisk in 1 tbsp dried milk and 1/4 tsp better than bouillon \n* Put over low heat, wisk until it thickens.\n",
-            "ingredientReferences": []
-        },
-        {
-            "id": "d5036d3f-01e6-4a87-91ff-dcf4e7530df9",
-            "title": "",
-            "text": "In the slow cooker:\n* Add everything but the rice, corn and green beans.\n* Cook on high 6 hours\n* 1 hour before done add the rice, corn and green beans.\n* Garnish with cheese before serving.\n",
-            "ingredientReferences": []
-        }
-    ],
-    "nutrition": {
-        "calories": null,
-        "fatContent": null,
-        "proteinContent": null,
-        "carbohydrateContent": null,
-        "fiberContent": null,
-        "sodiumContent": null,
-        "sugarContent": null
-    },
-    "settings": {
-        "public": true,
-        "showNutrition": false,
-        "showAssets": false,
-        "landscapeView": false,
-        "disableComments": false,
-        "disableAmount": false,
-        "locked": false
-    },
-    "assets": [],
-    "notes": [
-        {
-            "title": "2017-01-08",
-            "text": "Carrots\nGreen beans\nBrocoli\n\n"
-        },
-        {
-            "title": "2014-02-08",
-            "text": ".75 tsp of adobo wasn't quite enough setting it to 1 tsp and see how that works\n"
-        }
-    ],
-    "extras": {},
-    "comments": []
+    "totalTime": null,
+    "updatedAt": "2024-05-02T12:52:32.512088Z",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31"
 }

@@ -1,17 +1,678 @@
 {
-    "id": "70ebcb62-7cd2-455c-a165-58772b3b5bda",
-    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
-    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-    "name": "Chicken Corn Chowder",
-    "slug": "chicken-corn-chowder",
-    "image": null,
-    "recipeYield": "4",
-    "totalTime": null,
-    "prepTime": "20 min",
+    "assets": [],
+    "comments": [],
     "cookTime": null,
-    "performTime": "20 min",
+    "createdAt": "2024-04-29T01:57:03.526428Z",
+    "dateAdded": "2024-04-29",
+    "dateUpdated": "2024-04-29T13:06:13.036515Z",
     "description": "",
+    "extras": {},
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "householdId": "74cd302c-032c-4707-b612-ada7618e0847",
+    "id": "70ebcb62-7cd2-455c-a165-58772b3b5bda",
+    "image": null,
+    "lastMade": null,
+    "name": "Chicken Corn Chowder",
+    "notes": [
+        {
+            "text": "with 3 potatoes and cup of rice, it stops having any pretense of liquid after being refrigerated.\n\nProbably should add more broth, or cut down on the rice.\n\nShould probably slightly jack the spices with all the solids in there, not a lot, I sort of think going to 1/2 tsp of each might be too much, but don't be afraid to let the spices",
+            "title": ""
+        }
+    ],
+    "nutrition": {
+        "calories": null,
+        "carbohydrateContent": null,
+        "cholesterolContent": null,
+        "fatContent": null,
+        "fiberContent": null,
+        "proteinContent": null,
+        "saturatedFatContent": null,
+        "sodiumContent": null,
+        "sugarContent": null,
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "orgURL": "http://allrecipes.com/Recipe/Zesty-Corn-Chowder/Detail.aspx",
+    "performTime": "20 min",
+    "prepTime": "20 min",
+    "rating": 4.0,
     "recipeCategory": [],
+    "recipeIngredient": [
+        {
+            "disableAmount": false,
+            "display": "1 \u00b9/\u2082 cups milk",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:20.019954Z",
+                "description": "",
+                "extras": {},
+                "id": "b7e8f8b8-19f9-4e20-9783-f90d8aa54bb8",
+                "label": {
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                    "name": "Dairy Products"
+                },
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "name": "milk",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:18:41.120456Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1.5 cups milk",
+            "quantity": 1.5,
+            "referenceId": "5f6510ad-a20a-46c6-bb57-4db8609dbfd4",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 can cream of potato soup undiluted",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-29T12:54:03.642490Z",
+                "description": "",
+                "extras": {},
+                "id": "8b0d8dc8-42fc-4f86-bfe4-021b8c724287",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "cream of potato soup",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:54:37.043966Z"
+            },
+            "isFood": true,
+            "note": "undiluted",
+            "originalText": "1.0 can cream of potato soup (10.75 ounce, undiluted)",
+            "quantity": 1.0,
+            "referenceId": "8dee857e-8752-41ac-a445-26d42c09f5cb",
+            "title": "",
+            "unit": {
+                "abbreviation": "",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:12.664803Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94661c62-5523-4f5c-aa77-b8a7536ef03b",
+                "name": "can",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": "cans",
+                "updatedAt": "2024-05-13T12:25:48.960493Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "cream of chicken soup 10.75 ounce, undiluted",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-29T12:55:18.770874Z",
+                "description": "",
+                "extras": {},
+                "id": "359f8c09-4900-486a-9b36-bb00e171ddb7",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "cream of chicken soup",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:54:31.746858Z"
+            },
+            "isFood": true,
+            "note": "10.75 ounce, undiluted",
+            "originalText": "1.0 can cream of chicken soup (10.75 ounce, undiluted)",
+            "quantity": 0.0,
+            "referenceId": "8eaa349b-9c8e-4dfb-90ba-d45454ff3b77",
+            "title": "",
+            "unit": {
+                "abbreviation": "",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:12.664803Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94661c62-5523-4f5c-aa77-b8a7536ef03b",
+                "name": "can",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": "cans",
+                "updatedAt": "2024-05-13T12:25:48.960493Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 cup chicken broth",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-29T12:55:48.093285Z",
+                "description": "",
+                "extras": {},
+                "id": "c7a85ae8-3c6f-4bd1-9162-f425edd8c23a",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "chicken broth",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:54:19.435207Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1.0 cup chicken broth",
+            "quantity": 1.0,
+            "referenceId": "c7abd0ed-2f0f-41bf-9c76-3eafe5ed3ac7",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 chicken breasts boneless, cubed, cooked",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-29T12:56:02.667962Z",
+                "description": "",
+                "extras": {},
+                "id": "e830c89b-eeb4-4a3d-b69e-b2f988e0682a",
+                "label": {
+                    "color": "#be2f02",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "13258664-db75-4091-a629-d51f0a89797c",
+                    "name": "Meat"
+                },
+                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
+                "name": "chicken breasts",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:54:13.862241Z"
+            },
+            "isFood": true,
+            "note": "boneless, cubed, cooked",
+            "originalText": "2.0 chicken breasts, boneless, cubed, cooked",
+            "quantity": 2.0,
+            "referenceId": "a16075bf-a8b5-4fc1-9d3a-14cbe0f0b013",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "1 can corn mostly undrained, 15 oz",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:27.197666Z",
+                "description": "",
+                "extras": {},
+                "id": "93823d8d-484a-4a6d-a490-a294850751d8",
+                "label": {
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726",
+                    "name": "Frozen Foods"
+                },
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "name": "corn",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:18:01.905846Z"
+            },
+            "isFood": true,
+            "note": "mostly undrained, 15 oz",
+            "originalText": "1.0 can corn, mostly undrained (15 ounce)",
+            "quantity": 1.0,
+            "referenceId": "bb8e4513-c126-43b3-9b04-f7bc727c718a",
+            "title": "",
+            "unit": {
+                "abbreviation": "",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:12.664803Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94661c62-5523-4f5c-aa77-b8a7536ef03b",
+                "name": "can",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": "cans",
+                "updatedAt": "2024-05-13T12:25:48.960493Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 can green chili peppers 4 oz",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T02:33:23.266179Z",
+                "description": "",
+                "extras": {},
+                "id": "bab521c8-386b-4f30-a6de-a4f2874353c1",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "green chili peppers",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:05:03.254621Z"
+            },
+            "isFood": true,
+            "note": "4 oz",
+            "originalText": "1.0 can (4 ounce) chopped green chilies",
+            "quantity": 1.0,
+            "referenceId": "70074158-4370-416e-a95d-129278b64487",
+            "title": "",
+            "unit": {
+                "abbreviation": "",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:12.664803Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94661c62-5523-4f5c-aa77-b8a7536ef03b",
+                "name": "can",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": "cans",
+                "updatedAt": "2024-05-13T12:25:48.960493Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "shredded cheese garnish, cheddar, cheddarjack, whatever",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-29T12:58:31.112043Z",
+                "description": "",
+                "extras": {},
+                "id": "ced992f1-2ee0-4994-bfbf-6e7ba071d279",
+                "label": {
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                    "name": "Dairy Products"
+                },
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "name": "shredded cheese",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:54:07.855215Z"
+            },
+            "isFood": true,
+            "note": "garnish, cheddar, cheddarjack, whatever",
+            "originalText": "garnish cheese (cheddar, cheddarjack, whatever)",
+            "quantity": 0.0,
+            "referenceId": "33e51612-1d56-44b4-8575-744302602b60",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "crackers crushed",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-29T13:00:11.819005Z",
+                "description": "",
+                "extras": {},
+                "id": "044374f0-82c5-4023-be65-4429380e4ef6",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "crackers",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:54:01.481576Z"
+            },
+            "isFood": true,
+            "note": "crushed",
+            "originalText": "garnish crushed crackers",
+            "quantity": 0.0,
+            "referenceId": "342f187c-98ff-4d17-a947-20b3217f0c68",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2084 tsp cayenne pepper",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:38.727699Z",
+                "description": "",
+                "extras": {},
+                "id": "587cccf7-b102-46d0-a598-acb38cb2de8c",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "cayenne pepper",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:08:25.782853Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.25 teaspoon cayenne pepper",
+            "quantity": 0.25,
+            "referenceId": "f340eb75-e4de-48c8-b0c0-971b8daa8695",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2084 tsp cumin",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:22.629248Z",
+                "description": "",
+                "extras": {},
+                "id": "a7b69d57-bb2c-4d34-936c-c6ea7b5ec994",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "cumin",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:19:03.874657Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.25 teaspoon cumin",
+            "quantity": 0.25,
+            "referenceId": "bce9b0ce-bcfb-4182-9b20-9b0872207009",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2084 tsp pepper",
+            "food": {
+                "aliases": [
+                    {
+                        "name": "black pepper"
+                    }
+                ],
+                "createdAt": "2024-04-26T19:32:43.184271Z",
+                "description": "",
+                "extras": {},
+                "id": "b23ef96b-f10d-48a0-87e6-63e1ff9b111e",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "pepper",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:08:33.535970Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.25 teaspoon black pepper",
+            "quantity": 0.25,
+            "referenceId": "b69e1b37-c5c2-433f-b8c7-e3a6489f4490",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 potatoes cut into small pieces, boiled",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:39.537591Z",
+                "description": "",
+                "extras": {},
+                "id": "37832f9d-9a7f-46ba-8008-318e4b203c17",
+                "label": {
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                    "name": "Produce"
+                },
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "name": "potatoes",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-26T19:51:52.650876Z"
+            },
+            "isFood": true,
+            "note": "cut into small pieces, boiled",
+            "originalText": "2.0 potatoes, cut into small pieces, boiled",
+            "quantity": 2.0,
+            "referenceId": "f35c0882-2e82-45ae-ac56-10af4e75781c",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "1 cup green beans cut into 1 inch pieces",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-29T13:01:34.168445Z",
+                "description": "",
+                "extras": {},
+                "id": "a9321973-db85-48c9-9ffb-3703e57633a5",
+                "label": {
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726",
+                    "name": "Frozen Foods"
+                },
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "name": "green beans",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:53:52.446111Z"
+            },
+            "isFood": true,
+            "note": "cut into 1 inch pieces",
+            "originalText": "handful of green beans, cut into 1 inch pieces",
+            "quantity": 1.0,
+            "referenceId": "5c3fe510-9f06-4280-8797-f1369edf2f53",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 cup rice cooked as normal",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:25.399883Z",
+                "description": "",
+                "extras": {},
+                "id": "85a8de4c-7718-4605-9853-9043520d7467",
+                "label": {
+                    "color": "#cd1652",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                    "name": "Pasta"
+                },
+                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "name": "rice",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:17:34.167267Z"
+            },
+            "isFood": true,
+            "note": "cooked as normal",
+            "originalText": "1.0 cup rice, cooked as normal",
+            "quantity": 1.0,
+            "referenceId": "0c6b15ea-6a11-4287-b1e4-82d2debbe2ed",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "848b8d57-2553-4159-997d-71c2bbc2290d",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "Start the rice cooking.  Peel, cut and cook the potatoes.  Cut chicken into pieces to cook over a low heat with olive oil.",
+            "title": ""
+        },
+        {
+            "id": "15d6d769-3785-449c-9f71-9defb79476c0",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "In a 3-qt. saucepan, combine milk, soups and broth; blend well. Add all remaining ingredients except cheese and crackers.",
+            "title": ""
+        },
+        {
+            "id": "8acf7290-ea9d-4e9a-bc63-c0048cd4809e",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "Stir and let simmer until thick.",
+            "title": ""
+        },
+        {
+            "id": "de855e53-735d-4cfc-977f-ec0f9827ced6",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "Serve in bowl, Add cheese and crushed crackers to top.",
+            "title": ""
+        }
+    ],
+    "recipeYield": "4",
+    "settings": {
+        "disableAmount": false,
+        "disableComments": false,
+        "landscapeView": false,
+        "locked": false,
+        "public": true,
+        "showAssets": false,
+        "showNutrition": false
+    },
+    "slug": "chicken-corn-chowder",
     "tags": [
         {
             "id": "e1c1c1a2-7783-4dc2-979e-a6f35e1c17e9",
@@ -20,633 +681,7 @@
         }
     ],
     "tools": [],
-    "rating": 4.0,
-    "orgURL": "http://allrecipes.com/Recipe/Zesty-Corn-Chowder/Detail.aspx",
-    "dateAdded": "2024-04-29",
-    "dateUpdated": "2024-04-29T13:06:13.036515",
-    "createdAt": "2024-04-29T01:57:03.526428",
-    "updateAt": "2024-04-29T13:02:41.363282",
-    "lastMade": null,
-    "recipeIngredient": [
-        {
-            "quantity": 1.5,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "b7e8f8b8-19f9-4e20-9783-f90d8aa54bb8",
-                "name": "milk",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
-                "aliases": [],
-                "label": {
-                    "name": "Dairy Products",
-                    "color": "#67616c",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f"
-                },
-                "createdAt": "2024-04-26T19:32:20.019954",
-                "updateAt": "2024-04-27T03:18:41.120456"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 \u00b9/\u2082 cups milk",
-            "title": "",
-            "originalText": "1.5 cups milk",
-            "referenceId": "5f6510ad-a20a-46c6-bb57-4db8609dbfd4"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "94661c62-5523-4f5c-aa77-b8a7536ef03b",
-                "name": "can",
-                "pluralName": "cans",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "",
-                "pluralAbbreviation": "",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:12.664803",
-                "updateAt": "2024-05-13T12:25:48.960493"
-            },
-            "food": {
-                "id": "8b0d8dc8-42fc-4f86-bfe4-021b8c724287",
-                "name": "cream of potato soup",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-29T12:54:03.642490",
-                "updateAt": "2024-04-30T01:54:37.043966"
-            },
-            "note": "undiluted",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 can cream of potato soup undiluted",
-            "title": "",
-            "originalText": "1.0 can cream of potato soup (10.75 ounce, undiluted)",
-            "referenceId": "8dee857e-8752-41ac-a445-26d42c09f5cb"
-        },
-        {
-            "quantity": 0.0,
-            "unit": {
-                "id": "94661c62-5523-4f5c-aa77-b8a7536ef03b",
-                "name": "can",
-                "pluralName": "cans",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "",
-                "pluralAbbreviation": "",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:12.664803",
-                "updateAt": "2024-05-13T12:25:48.960493"
-            },
-            "food": {
-                "id": "359f8c09-4900-486a-9b36-bb00e171ddb7",
-                "name": "cream of chicken soup",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-29T12:55:18.770874",
-                "updateAt": "2024-04-30T01:54:31.746858"
-            },
-            "note": "10.75 ounce, undiluted",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "cream of chicken soup 10.75 ounce, undiluted",
-            "title": "",
-            "originalText": "1.0 can cream of chicken soup (10.75 ounce, undiluted)",
-            "referenceId": "8eaa349b-9c8e-4dfb-90ba-d45454ff3b77"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "c7a85ae8-3c6f-4bd1-9162-f425edd8c23a",
-                "name": "chicken broth",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-29T12:55:48.093285",
-                "updateAt": "2024-04-30T01:54:19.435207"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 cup chicken broth",
-            "title": "",
-            "originalText": "1.0 cup chicken broth",
-            "referenceId": "c7abd0ed-2f0f-41bf-9c76-3eafe5ed3ac7"
-        },
-        {
-            "quantity": 2.0,
-            "unit": null,
-            "food": {
-                "id": "e830c89b-eeb4-4a3d-b69e-b2f988e0682a",
-                "name": "chicken breasts",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
-                "aliases": [],
-                "label": {
-                    "name": "Meat",
-                    "color": "#be2f02",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "13258664-db75-4091-a629-d51f0a89797c"
-                },
-                "createdAt": "2024-04-29T12:56:02.667962",
-                "updateAt": "2024-04-30T01:54:13.862241"
-            },
-            "note": "boneless, cubed, cooked",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "2 chicken breasts boneless, cubed, cooked",
-            "title": "",
-            "originalText": "2.0 chicken breasts, boneless, cubed, cooked",
-            "referenceId": "a16075bf-a8b5-4fc1-9d3a-14cbe0f0b013"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "94661c62-5523-4f5c-aa77-b8a7536ef03b",
-                "name": "can",
-                "pluralName": "cans",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "",
-                "pluralAbbreviation": "",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:12.664803",
-                "updateAt": "2024-05-13T12:25:48.960493"
-            },
-            "food": {
-                "id": "93823d8d-484a-4a6d-a490-a294850751d8",
-                "name": "corn",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
-                "aliases": [],
-                "label": {
-                    "name": "Frozen Foods",
-                    "color": "#216fb2",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "e4571c39-b7f7-4a4f-b701-283690066726"
-                },
-                "createdAt": "2024-04-26T19:32:27.197666",
-                "updateAt": "2024-04-27T03:18:01.905846"
-            },
-            "note": "mostly undrained, 15 oz",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 can corn mostly undrained, 15 oz",
-            "title": "",
-            "originalText": "1.0 can corn, mostly undrained (15 ounce)",
-            "referenceId": "bb8e4513-c126-43b3-9b04-f7bc727c718a"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "94661c62-5523-4f5c-aa77-b8a7536ef03b",
-                "name": "can",
-                "pluralName": "cans",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "",
-                "pluralAbbreviation": "",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:12.664803",
-                "updateAt": "2024-05-13T12:25:48.960493"
-            },
-            "food": {
-                "id": "bab521c8-386b-4f30-a6de-a4f2874353c1",
-                "name": "green chili peppers",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-27T02:33:23.266179",
-                "updateAt": "2024-04-27T03:05:03.254621"
-            },
-            "note": "4 oz",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 can green chili peppers 4 oz",
-            "title": "",
-            "originalText": "1.0 can (4 ounce) chopped green chilies",
-            "referenceId": "70074158-4370-416e-a95d-129278b64487"
-        },
-        {
-            "quantity": 0.0,
-            "unit": null,
-            "food": {
-                "id": "ced992f1-2ee0-4994-bfbf-6e7ba071d279",
-                "name": "shredded cheese",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
-                "aliases": [],
-                "label": {
-                    "name": "Dairy Products",
-                    "color": "#67616c",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f"
-                },
-                "createdAt": "2024-04-29T12:58:31.112043",
-                "updateAt": "2024-04-30T01:54:07.855215"
-            },
-            "note": "garnish, cheddar, cheddarjack, whatever",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "shredded cheese garnish, cheddar, cheddarjack, whatever",
-            "title": "",
-            "originalText": "garnish cheese (cheddar, cheddarjack, whatever)",
-            "referenceId": "33e51612-1d56-44b4-8575-744302602b60"
-        },
-        {
-            "quantity": 0.0,
-            "unit": null,
-            "food": {
-                "id": "044374f0-82c5-4023-be65-4429380e4ef6",
-                "name": "crackers",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-29T13:00:11.819005",
-                "updateAt": "2024-04-30T01:54:01.481576"
-            },
-            "note": "crushed",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "crackers crushed",
-            "title": "",
-            "originalText": "garnish crushed crackers",
-            "referenceId": "342f187c-98ff-4d17-a947-20b3217f0c68"
-        },
-        {
-            "quantity": 0.25,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "587cccf7-b102-46d0-a598-acb38cb2de8c",
-                "name": "cayenne pepper",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:38.727699",
-                "updateAt": "2024-04-27T03:08:25.782853"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2084 tsp cayenne pepper",
-            "title": "",
-            "originalText": "0.25 teaspoon cayenne pepper",
-            "referenceId": "f340eb75-e4de-48c8-b0c0-971b8daa8695"
-        },
-        {
-            "quantity": 0.25,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "a7b69d57-bb2c-4d34-936c-c6ea7b5ec994",
-                "name": "cumin",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:22.629248",
-                "updateAt": "2024-04-27T03:19:03.874657"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2084 tsp cumin",
-            "title": "",
-            "originalText": "0.25 teaspoon cumin",
-            "referenceId": "bce9b0ce-bcfb-4182-9b20-9b0872207009"
-        },
-        {
-            "quantity": 0.25,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "b23ef96b-f10d-48a0-87e6-63e1ff9b111e",
-                "name": "pepper",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [
-                    {
-                        "name": "black pepper"
-                    }
-                ],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:43.184271",
-                "updateAt": "2024-04-27T03:08:33.535970"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2084 tsp pepper",
-            "title": "",
-            "originalText": "0.25 teaspoon black pepper",
-            "referenceId": "b69e1b37-c5c2-433f-b8c7-e3a6489f4490"
-        },
-        {
-            "quantity": 2.0,
-            "unit": null,
-            "food": {
-                "id": "37832f9d-9a7f-46ba-8008-318e4b203c17",
-                "name": "potatoes",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
-                "aliases": [],
-                "label": {
-                    "name": "Produce",
-                    "color": "#a7d766",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
-                },
-                "createdAt": "2024-04-26T19:32:39.537591",
-                "updateAt": "2024-04-26T19:51:52.650876"
-            },
-            "note": "cut into small pieces, boiled",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "2 potatoes cut into small pieces, boiled",
-            "title": "",
-            "originalText": "2.0 potatoes, cut into small pieces, boiled",
-            "referenceId": "f35c0882-2e82-45ae-ac56-10af4e75781c"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "a9321973-db85-48c9-9ffb-3703e57633a5",
-                "name": "green beans",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
-                "aliases": [],
-                "label": {
-                    "name": "Frozen Foods",
-                    "color": "#216fb2",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "e4571c39-b7f7-4a4f-b701-283690066726"
-                },
-                "createdAt": "2024-04-29T13:01:34.168445",
-                "updateAt": "2024-04-30T01:53:52.446111"
-            },
-            "note": "cut into 1 inch pieces",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 cup green beans cut into 1 inch pieces",
-            "title": "",
-            "originalText": "handful of green beans, cut into 1 inch pieces",
-            "referenceId": "5c3fe510-9f06-4280-8797-f1369edf2f53"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "85a8de4c-7718-4605-9853-9043520d7467",
-                "name": "rice",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
-                "aliases": [],
-                "label": {
-                    "name": "Pasta",
-                    "color": "#cd1652",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8"
-                },
-                "createdAt": "2024-04-26T19:32:25.399883",
-                "updateAt": "2024-04-27T03:17:34.167267"
-            },
-            "note": "cooked as normal",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 cup rice cooked as normal",
-            "title": "",
-            "originalText": "1.0 cup rice, cooked as normal",
-            "referenceId": "0c6b15ea-6a11-4287-b1e4-82d2debbe2ed"
-        }
-    ],
-    "recipeInstructions": [
-        {
-            "id": "848b8d57-2553-4159-997d-71c2bbc2290d",
-            "title": "",
-            "text": "Start the rice cooking.  Peel, cut and cook the potatoes.  Cut chicken into pieces to cook over a low heat with olive oil.",
-            "ingredientReferences": []
-        },
-        {
-            "id": "15d6d769-3785-449c-9f71-9defb79476c0",
-            "title": "",
-            "text": "In a 3-qt. saucepan, combine milk, soups and broth; blend well. Add all remaining ingredients except cheese and crackers.",
-            "ingredientReferences": []
-        },
-        {
-            "id": "8acf7290-ea9d-4e9a-bc63-c0048cd4809e",
-            "title": "",
-            "text": "Stir and let simmer until thick.",
-            "ingredientReferences": []
-        },
-        {
-            "id": "de855e53-735d-4cfc-977f-ec0f9827ced6",
-            "title": "",
-            "text": "Serve in bowl, Add cheese and crushed crackers to top.",
-            "ingredientReferences": []
-        }
-    ],
-    "nutrition": {
-        "calories": null,
-        "fatContent": null,
-        "proteinContent": null,
-        "carbohydrateContent": null,
-        "fiberContent": null,
-        "sodiumContent": null,
-        "sugarContent": null
-    },
-    "settings": {
-        "public": true,
-        "showNutrition": false,
-        "showAssets": false,
-        "landscapeView": false,
-        "disableComments": false,
-        "disableAmount": false,
-        "locked": false
-    },
-    "assets": [],
-    "notes": [
-        {
-            "title": "",
-            "text": "with 3 potatoes and cup of rice, it stops having any pretense of liquid after being refrigerated.\n\nProbably should add more broth, or cut down on the rice.\n\nShould probably slightly jack the spices with all the solids in there, not a lot, I sort of think going to 1/2 tsp of each might be too much, but don't be afraid to let the spices"
-        }
-    ],
-    "extras": {},
-    "comments": []
+    "totalTime": null,
+    "updatedAt": "2024-04-29T13:02:41.363282Z",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31"
 }

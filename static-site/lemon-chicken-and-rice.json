@@ -1,16 +1,36 @@
 {
-    "id": "a101e52b-6031-47cf-bc87-f46bf7534250",
-    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
-    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-    "name": "Lemon Chicken and Rice",
-    "slug": "lemon-chicken-and-rice",
-    "image": null,
-    "recipeYield": "4 servings",
-    "totalTime": null,
-    "prepTime": "5 min",
+    "assets": [],
+    "comments": [],
     "cookTime": null,
-    "performTime": "25 min",
+    "createdAt": "2024-04-29T18:17:13.549008Z",
+    "dateAdded": "2024-04-29",
+    "dateUpdated": "2024-06-09T12:13:07.690110Z",
     "description": "",
+    "extras": {},
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "householdId": "74cd302c-032c-4707-b612-ada7618e0847",
+    "id": "a101e52b-6031-47cf-bc87-f46bf7534250",
+    "image": null,
+    "lastMade": null,
+    "name": "Lemon Chicken and Rice",
+    "notes": [],
+    "nutrition": {
+        "calories": null,
+        "carbohydrateContent": null,
+        "cholesterolContent": null,
+        "fatContent": null,
+        "fiberContent": null,
+        "proteinContent": null,
+        "saturatedFatContent": null,
+        "sodiumContent": null,
+        "sugarContent": null,
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "orgURL": null,
+    "performTime": "25 min",
+    "prepTime": "5 min",
+    "rating": 4.0,
     "recipeCategory": [
         {
             "id": "5b7f4cd2-5d0e-440e-8e88-64ad06d1aad1",
@@ -18,6 +38,824 @@
             "slug": "entree"
         }
     ],
+    "recipeIngredient": [
+        {
+            "disableAmount": false,
+            "display": "2 tbsp soy sauce 2 tbsp soy sauce",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T11:43:48.390392Z",
+                "description": "",
+                "extras": {},
+                "id": "5fdcd369-8502-4e38-94b4-8363a8d6f638",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "soy sauce",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T11:49:13.222641Z"
+            },
+            "isFood": true,
+            "note": "2 tbsp soy sauce",
+            "originalText": null,
+            "quantity": 2.0,
+            "referenceId": "a0451913-0094-47b7-81c5-d7500ad3b6fa",
+            "title": "Marinade",
+            "unit": {
+                "abbreviation": "tbsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:27:59.862809Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "3 tbsp olive oil 3 tbsp olive oil",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:30.465893Z",
+                "description": "",
+                "extras": {},
+                "id": "75f848c8-5343-4c80-a97c-74f48aa7b681",
+                "label": {
+                    "color": "#e89eb9",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "046d1084-5c4a-4f9f-8695-c38791043125",
+                    "name": "Oil"
+                },
+                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
+                "name": "olive oil",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:15:40.768294Z"
+            },
+            "isFood": true,
+            "note": "3 tbsp olive oil",
+            "originalText": null,
+            "quantity": 3.0,
+            "referenceId": "58f28226-5b43-4bc2-850c-5d716a428c3e",
+            "title": "",
+            "unit": {
+                "abbreviation": "tbsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:27:59.862809Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 tbsp honey 1 tbsp honey",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:19.441833Z",
+                "description": "",
+                "extras": {},
+                "id": "f3c19faa-40fd-4a99-8452-b7228462cb53",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "honey",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:19:47.128984Z"
+            },
+            "isFood": true,
+            "note": "1 tbsp honey",
+            "originalText": null,
+            "quantity": 1.0,
+            "referenceId": "13d333cd-cc1b-4c18-89be-aefc3e095af3",
+            "title": "",
+            "unit": {
+                "abbreviation": "tbsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:27:59.862809Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 tbsp lemon juice 1/2 tbsp lemon juice",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T12:05:59.521458Z",
+                "description": "",
+                "extras": {},
+                "id": "19a33840-9cc5-4ce3-922d-f140d8be02bf",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "lemon juice",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T12:08:34.238564Z"
+            },
+            "isFood": true,
+            "note": "1/2 tbsp lemon juice",
+            "originalText": null,
+            "quantity": 0.5,
+            "referenceId": "ada16c50-050c-4792-8ff0-4e939f7c36e6",
+            "title": "",
+            "unit": {
+                "abbreviation": "tbsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:27:59.862809Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 clove garlic 1 clove garlic",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:35.923453Z",
+                "description": "",
+                "extras": {},
+                "id": "fd860af3-2047-4ffc-be87-65cbeb97ce1e",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "garlic",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:14:08.683777Z"
+            },
+            "isFood": true,
+            "note": "1 clove garlic",
+            "originalText": null,
+            "quantity": 1.0,
+            "referenceId": "7e017720-d2ec-4d29-a5e1-635d963e26ca",
+            "title": "",
+            "unit": {
+                "abbreviation": "",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:12.511215Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "f860cec4-a431-41b7-8ddc-0035e4be52c2",
+                "name": "clove",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": "cloves",
+                "updatedAt": "2024-05-13T12:25:56.749590Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "3 tsp lemon zest 3 tsp lemon zest",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T12:06:04.859390Z",
+                "description": "",
+                "extras": {},
+                "id": "55540145-4bf6-40cc-a6d0-113e287ceba0",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "lemon zest",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T12:08:22.454253Z"
+            },
+            "isFood": true,
+            "note": "3 tsp lemon zest",
+            "originalText": null,
+            "quantity": 3.0,
+            "referenceId": "d351bb20-da8b-4d60-a348-f199bca50b60",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 tsp dill 1/2 tsp dill",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T12:06:12.375336Z",
+                "description": "",
+                "extras": {},
+                "id": "aef0b329-df37-4d91-878b-f8514562b350",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "dill",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T12:08:02.036033Z"
+            },
+            "isFood": true,
+            "note": "1/2 tsp dill",
+            "originalText": null,
+            "quantity": 0.5,
+            "referenceId": "84e26591-780c-41ec-b4c5-b5476ed26622",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 measures rice",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:25.399883Z",
+                "description": "",
+                "extras": {},
+                "id": "85a8de4c-7718-4605-9853-9043520d7467",
+                "label": {
+                    "color": "#cd1652",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                    "name": "Pasta"
+                },
+                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "name": "rice",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:17:34.167267Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "2.0 measures rice",
+            "quantity": 2.0,
+            "referenceId": "25a2e72f-297c-419f-8f51-b387558640b9",
+            "title": "Rice",
+            "unit": {
+                "abbreviation": "",
+                "aliases": [],
+                "createdAt": "2024-04-30T00:17:23.440330Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "5d5c2a4c-808a-41f7-a938-4a06e6debc4a",
+                "name": "measure",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": "measures",
+                "updatedAt": "2024-05-13T12:25:04.339964Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 tbsp olive oil",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:30.465893Z",
+                "description": "",
+                "extras": {},
+                "id": "75f848c8-5343-4c80-a97c-74f48aa7b681",
+                "label": {
+                    "color": "#e89eb9",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "046d1084-5c4a-4f9f-8695-c38791043125",
+                    "name": "Oil"
+                },
+                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
+                "name": "olive oil",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:15:40.768294Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "2.0 tablespoon butter",
+            "quantity": 2.0,
+            "referenceId": "393d3040-359b-4270-b52d-4ac5fb1d76bd",
+            "title": "",
+            "unit": {
+                "abbreviation": "tbsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:27:59.862809Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 cloves garlic",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:35.923453Z",
+                "description": "",
+                "extras": {},
+                "id": "fd860af3-2047-4ffc-be87-65cbeb97ce1e",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "garlic",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:14:08.683777Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "2.0 cloves garlic",
+            "quantity": 2.0,
+            "referenceId": "513b7bfe-1138-42ec-aa8f-c9baf26c244d",
+            "title": "",
+            "unit": {
+                "abbreviation": "",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:12.511215Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "f860cec4-a431-41b7-8ddc-0035e4be52c2",
+                "name": "clove",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": "cloves",
+                "updatedAt": "2024-05-13T12:25:56.749590Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 tbsp lemon juice",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T12:05:59.521458Z",
+                "description": "",
+                "extras": {},
+                "id": "19a33840-9cc5-4ce3-922d-f140d8be02bf",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "lemon juice",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T12:08:34.238564Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "3.0 tablespoon lemon juice",
+            "quantity": 0.5,
+            "referenceId": "4dcc8c41-acdb-4470-b57a-c99fd5cd3252",
+            "title": "",
+            "unit": {
+                "abbreviation": "tbsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:27:59.862809Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 tsp dill",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T12:06:12.375336Z",
+                "description": "",
+                "extras": {},
+                "id": "aef0b329-df37-4d91-878b-f8514562b350",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "dill",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T12:08:02.036033Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.5 teaspoon thyme",
+            "quantity": 0.5,
+            "referenceId": "58e91f2d-1371-4d71-95dd-aed608188933",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 tsp lemon zest",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T12:06:04.859390Z",
+                "description": "",
+                "extras": {},
+                "id": "55540145-4bf6-40cc-a6d0-113e287ceba0",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "lemon zest",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T12:08:22.454253Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": null,
+            "quantity": 1.0,
+            "referenceId": "198d0f0e-ebed-40d3-857b-5c5fc07bd957",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "chicken broth",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-29T12:55:48.093285Z",
+                "description": "",
+                "extras": {},
+                "id": "c7a85ae8-3c6f-4bd1-9162-f425edd8c23a",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "chicken broth",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:54:19.435207Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "none chicken broth",
+            "quantity": 0.0,
+            "referenceId": "4d990831-bf17-41ba-b8e4-f981816a225c",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 tsp adobo",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T02:32:07.257395Z",
+                "description": "",
+                "extras": {},
+                "id": "4643f54f-dd32-473a-bd10-b100dfafceba",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "adobo",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:03:54.880978Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.5 teaspoon adobo",
+            "quantity": 0.5,
+            "referenceId": "7ccedae6-b2c5-466a-89c5-b3d101d3d0ee",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 cups mixed vegitables",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T12:06:42.306265Z",
+                "description": "",
+                "extras": {},
+                "id": "71d194f8-658b-4a77-af46-3e3c8029b457",
+                "label": {
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726",
+                    "name": "Frozen Foods"
+                },
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "name": "mixed vegitables",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T12:09:45.504568Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": null,
+            "quantity": 2.0,
+            "referenceId": "0d5934f7-8339-4f51-9140-50fffe4314d0",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "5 chicken cutlets",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-29T13:08:13.454052Z",
+                "description": "",
+                "extras": {},
+                "id": "de0c5a25-9036-4f00-9a78-f6b9486b58c6",
+                "label": {
+                    "color": "#be2f02",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "13258664-db75-4091-a629-d51f0a89797c",
+                    "name": "Meat"
+                },
+                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
+                "name": "chicken cutlets",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:53:44.829105Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "5.0 chicken cutlets",
+            "quantity": 5.0,
+            "referenceId": "aab80835-535c-4b2b-b255-07c9f462f5f2",
+            "title": "Cook",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 onion",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:21.362752Z",
+                "description": "",
+                "extras": {},
+                "id": "1e397cd3-35eb-4c64-b8cf-b40dfc61cd0b",
+                "label": {
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726",
+                    "name": "Frozen Foods"
+                },
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "name": "onion",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:18:52.550301Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": null,
+            "quantity": 0.5,
+            "referenceId": "7b939278-c794-4ae6-8063-10dbd3f16615",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "2 cups chicken broth",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-29T12:55:48.093285Z",
+                "description": "",
+                "extras": {},
+                "id": "c7a85ae8-3c6f-4bd1-9162-f425edd8c23a",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "chicken broth",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:54:19.435207Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": null,
+            "quantity": 2.0,
+            "referenceId": "5429c963-13fd-4858-bf33-f230ae78c225",
+            "title": "End",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "57ca7b4e-4cbe-4f2f-8a03-dda9ec15d430",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "Marinade:\n\nAdd Marinade to pan.  Cut chicken into cubes, add to marinade and mix everything so the chicken is coated.  Refrigerate for an hour or more.  ",
+            "title": ""
+        },
+        {
+            "id": "1529ad44-c86d-4d27-b670-8042bbb22536",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "Rice:\n* The rice a made in a rice cooker.\n    * Add two measures of rice\n    * Use chicken broth instead of water\n    * Add frozen mixed vegetables to the the rice cooker.\n    * Let cook\n\nI prep the rice cooker at the same time I do the marinade, and let the vegetables defrost in the rice cooker while the chicken is marinading. \n",
+            "title": ""
+        },
+        {
+            "id": "ae1e7483-cdd7-4f6c-bca1-be652ad162ae",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "We want to cook the chicken with the onion, but that might require giving the onion some cooking time on it's own to avoid over cooking the chicken.  Unfortunately that means contaminating another dish with raw chicken probably.\n\nProvisional Procedure:\n* Move chicken to a  bowl and add onion to pan.  \n* Cook onion on med to med-low until starting to soften.\n* Add chicken back, turn heat up so the outside of the chicken gets a little brown without drying out. \n",
+            "title": ""
+        },
+        {
+            "id": "4e82917b-757e-4ae2-a219-4e85d57c8804",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "Combine:\n* when chicken and rice are done\n* add rice to pan\n* add chicken broth to pan.  Since the chicken broth isn't warm, continue to warm for a few minutes to get everything nice and warm.\n* Let sit 5 minutes so the liquid is absorbed by the rice. \n \nServe!",
+            "title": ""
+        }
+    ],
+    "recipeYield": "4 servings",
+    "settings": {
+        "disableAmount": false,
+        "disableComments": false,
+        "landscapeView": false,
+        "locked": false,
+        "public": true,
+        "showAssets": false,
+        "showNutrition": false
+    },
+    "slug": "lemon-chicken-and-rice",
     "tags": [
         {
             "id": "e1c1c1a2-7783-4dc2-979e-a6f35e1c17e9",
@@ -26,801 +864,7 @@
         }
     ],
     "tools": [],
-    "rating": 4.0,
-    "orgURL": null,
-    "dateAdded": "2024-04-29",
-    "dateUpdated": "2024-06-09T12:13:07.690110",
-    "createdAt": "2024-04-29T18:17:13.549008",
-    "updateAt": "2024-05-25T11:59:14.553791",
-    "lastMade": null,
-    "recipeIngredient": [
-        {
-            "quantity": 2.0,
-            "unit": {
-                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
-                "name": "tablespoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tbsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.018253",
-                "updateAt": "2024-05-13T12:27:59.862809"
-            },
-            "food": {
-                "id": "5fdcd369-8502-4e38-94b4-8363a8d6f638",
-                "name": "soy sauce",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-27T11:43:48.390392",
-                "updateAt": "2024-04-27T11:49:13.222641"
-            },
-            "note": "2 tbsp soy sauce",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "2 tbsp soy sauce 2 tbsp soy sauce",
-            "title": "Marinade",
-            "originalText": null,
-            "referenceId": "a0451913-0094-47b7-81c5-d7500ad3b6fa"
-        },
-        {
-            "quantity": 3.0,
-            "unit": {
-                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
-                "name": "tablespoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tbsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.018253",
-                "updateAt": "2024-05-13T12:27:59.862809"
-            },
-            "food": {
-                "id": "75f848c8-5343-4c80-a97c-74f48aa7b681",
-                "name": "olive oil",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
-                "aliases": [],
-                "label": {
-                    "name": "Oil",
-                    "color": "#e89eb9",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "046d1084-5c4a-4f9f-8695-c38791043125"
-                },
-                "createdAt": "2024-04-26T19:32:30.465893",
-                "updateAt": "2024-04-27T03:15:40.768294"
-            },
-            "note": "3 tbsp olive oil",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "3 tbsp olive oil 3 tbsp olive oil",
-            "title": "",
-            "originalText": null,
-            "referenceId": "58f28226-5b43-4bc2-850c-5d716a428c3e"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
-                "name": "tablespoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tbsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.018253",
-                "updateAt": "2024-05-13T12:27:59.862809"
-            },
-            "food": {
-                "id": "f3c19faa-40fd-4a99-8452-b7228462cb53",
-                "name": "honey",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-26T19:32:19.441833",
-                "updateAt": "2024-04-27T03:19:47.128984"
-            },
-            "note": "1 tbsp honey",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 tbsp honey 1 tbsp honey",
-            "title": "",
-            "originalText": null,
-            "referenceId": "13d333cd-cc1b-4c18-89be-aefc3e095af3"
-        },
-        {
-            "quantity": 0.5,
-            "unit": {
-                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
-                "name": "tablespoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tbsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.018253",
-                "updateAt": "2024-05-13T12:27:59.862809"
-            },
-            "food": {
-                "id": "19a33840-9cc5-4ce3-922d-f140d8be02bf",
-                "name": "lemon juice",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-27T12:05:59.521458",
-                "updateAt": "2024-04-27T12:08:34.238564"
-            },
-            "note": "1/2 tbsp lemon juice",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2082 tbsp lemon juice 1/2 tbsp lemon juice",
-            "title": "",
-            "originalText": null,
-            "referenceId": "ada16c50-050c-4792-8ff0-4e939f7c36e6"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "f860cec4-a431-41b7-8ddc-0035e4be52c2",
-                "name": "clove",
-                "pluralName": "cloves",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "",
-                "pluralAbbreviation": "",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:12.511215",
-                "updateAt": "2024-05-13T12:25:56.749590"
-            },
-            "food": {
-                "id": "fd860af3-2047-4ffc-be87-65cbeb97ce1e",
-                "name": "garlic",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:35.923453",
-                "updateAt": "2024-04-27T03:14:08.683777"
-            },
-            "note": "1 clove garlic",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 clove garlic 1 clove garlic",
-            "title": "",
-            "originalText": null,
-            "referenceId": "7e017720-d2ec-4d29-a5e1-635d963e26ca"
-        },
-        {
-            "quantity": 3.0,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "55540145-4bf6-40cc-a6d0-113e287ceba0",
-                "name": "lemon zest",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-27T12:06:04.859390",
-                "updateAt": "2024-04-27T12:08:22.454253"
-            },
-            "note": "3 tsp lemon zest",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "3 tsp lemon zest 3 tsp lemon zest",
-            "title": "",
-            "originalText": null,
-            "referenceId": "d351bb20-da8b-4d60-a348-f199bca50b60"
-        },
-        {
-            "quantity": 0.5,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "aef0b329-df37-4d91-878b-f8514562b350",
-                "name": "dill",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-27T12:06:12.375336",
-                "updateAt": "2024-04-27T12:08:02.036033"
-            },
-            "note": "1/2 tsp dill",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2082 tsp dill 1/2 tsp dill",
-            "title": "",
-            "originalText": null,
-            "referenceId": "84e26591-780c-41ec-b4c5-b5476ed26622"
-        },
-        {
-            "quantity": 2.0,
-            "unit": {
-                "id": "5d5c2a4c-808a-41f7-a938-4a06e6debc4a",
-                "name": "measure",
-                "pluralName": "measures",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "",
-                "pluralAbbreviation": "",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-30T00:17:23.440330",
-                "updateAt": "2024-05-13T12:25:04.339964"
-            },
-            "food": {
-                "id": "85a8de4c-7718-4605-9853-9043520d7467",
-                "name": "rice",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
-                "aliases": [],
-                "label": {
-                    "name": "Pasta",
-                    "color": "#cd1652",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8"
-                },
-                "createdAt": "2024-04-26T19:32:25.399883",
-                "updateAt": "2024-04-27T03:17:34.167267"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "2 measures rice",
-            "title": "Rice",
-            "originalText": "2.0 measures rice",
-            "referenceId": "25a2e72f-297c-419f-8f51-b387558640b9"
-        },
-        {
-            "quantity": 2.0,
-            "unit": {
-                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
-                "name": "tablespoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tbsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.018253",
-                "updateAt": "2024-05-13T12:27:59.862809"
-            },
-            "food": {
-                "id": "75f848c8-5343-4c80-a97c-74f48aa7b681",
-                "name": "olive oil",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
-                "aliases": [],
-                "label": {
-                    "name": "Oil",
-                    "color": "#e89eb9",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "046d1084-5c4a-4f9f-8695-c38791043125"
-                },
-                "createdAt": "2024-04-26T19:32:30.465893",
-                "updateAt": "2024-04-27T03:15:40.768294"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "2 tbsp olive oil",
-            "title": "",
-            "originalText": "2.0 tablespoon butter",
-            "referenceId": "393d3040-359b-4270-b52d-4ac5fb1d76bd"
-        },
-        {
-            "quantity": 2.0,
-            "unit": {
-                "id": "f860cec4-a431-41b7-8ddc-0035e4be52c2",
-                "name": "clove",
-                "pluralName": "cloves",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "",
-                "pluralAbbreviation": "",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:12.511215",
-                "updateAt": "2024-05-13T12:25:56.749590"
-            },
-            "food": {
-                "id": "fd860af3-2047-4ffc-be87-65cbeb97ce1e",
-                "name": "garlic",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:35.923453",
-                "updateAt": "2024-04-27T03:14:08.683777"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "2 cloves garlic",
-            "title": "",
-            "originalText": "2.0 cloves garlic",
-            "referenceId": "513b7bfe-1138-42ec-aa8f-c9baf26c244d"
-        },
-        {
-            "quantity": 0.5,
-            "unit": {
-                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
-                "name": "tablespoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tbsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.018253",
-                "updateAt": "2024-05-13T12:27:59.862809"
-            },
-            "food": {
-                "id": "19a33840-9cc5-4ce3-922d-f140d8be02bf",
-                "name": "lemon juice",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-27T12:05:59.521458",
-                "updateAt": "2024-04-27T12:08:34.238564"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2082 tbsp lemon juice",
-            "title": "",
-            "originalText": "3.0 tablespoon lemon juice",
-            "referenceId": "4dcc8c41-acdb-4470-b57a-c99fd5cd3252"
-        },
-        {
-            "quantity": 0.5,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "aef0b329-df37-4d91-878b-f8514562b350",
-                "name": "dill",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-27T12:06:12.375336",
-                "updateAt": "2024-04-27T12:08:02.036033"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2082 tsp dill",
-            "title": "",
-            "originalText": "0.5 teaspoon thyme",
-            "referenceId": "58e91f2d-1371-4d71-95dd-aed608188933"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "55540145-4bf6-40cc-a6d0-113e287ceba0",
-                "name": "lemon zest",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-27T12:06:04.859390",
-                "updateAt": "2024-04-27T12:08:22.454253"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 tsp lemon zest",
-            "title": "",
-            "originalText": null,
-            "referenceId": "198d0f0e-ebed-40d3-857b-5c5fc07bd957"
-        },
-        {
-            "quantity": 0.0,
-            "unit": null,
-            "food": {
-                "id": "c7a85ae8-3c6f-4bd1-9162-f425edd8c23a",
-                "name": "chicken broth",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-29T12:55:48.093285",
-                "updateAt": "2024-04-30T01:54:19.435207"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "chicken broth",
-            "title": "",
-            "originalText": "none chicken broth",
-            "referenceId": "4d990831-bf17-41ba-b8e4-f981816a225c"
-        },
-        {
-            "quantity": 0.5,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "4643f54f-dd32-473a-bd10-b100dfafceba",
-                "name": "adobo",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-27T02:32:07.257395",
-                "updateAt": "2024-04-27T03:03:54.880978"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2082 tsp adobo",
-            "title": "",
-            "originalText": "0.5 teaspoon adobo",
-            "referenceId": "7ccedae6-b2c5-466a-89c5-b3d101d3d0ee"
-        },
-        {
-            "quantity": 2.0,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "71d194f8-658b-4a77-af46-3e3c8029b457",
-                "name": "mixed vegitables",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
-                "aliases": [],
-                "label": {
-                    "name": "Frozen Foods",
-                    "color": "#216fb2",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "e4571c39-b7f7-4a4f-b701-283690066726"
-                },
-                "createdAt": "2024-04-27T12:06:42.306265",
-                "updateAt": "2024-04-27T12:09:45.504568"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "2 cups mixed vegitables",
-            "title": "",
-            "originalText": null,
-            "referenceId": "0d5934f7-8339-4f51-9140-50fffe4314d0"
-        },
-        {
-            "quantity": 5.0,
-            "unit": null,
-            "food": {
-                "id": "de0c5a25-9036-4f00-9a78-f6b9486b58c6",
-                "name": "chicken cutlets",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
-                "aliases": [],
-                "label": {
-                    "name": "Meat",
-                    "color": "#be2f02",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "13258664-db75-4091-a629-d51f0a89797c"
-                },
-                "createdAt": "2024-04-29T13:08:13.454052",
-                "updateAt": "2024-04-30T01:53:44.829105"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "5 chicken cutlets",
-            "title": "Cook",
-            "originalText": "5.0 chicken cutlets",
-            "referenceId": "aab80835-535c-4b2b-b255-07c9f462f5f2"
-        },
-        {
-            "quantity": 0.5,
-            "unit": null,
-            "food": {
-                "id": "1e397cd3-35eb-4c64-b8cf-b40dfc61cd0b",
-                "name": "onion",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
-                "aliases": [],
-                "label": {
-                    "name": "Frozen Foods",
-                    "color": "#216fb2",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "e4571c39-b7f7-4a4f-b701-283690066726"
-                },
-                "createdAt": "2024-04-26T19:32:21.362752",
-                "updateAt": "2024-04-27T03:18:52.550301"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "0.5 onion",
-            "title": "",
-            "originalText": null,
-            "referenceId": "7b939278-c794-4ae6-8063-10dbd3f16615"
-        },
-        {
-            "quantity": 2.0,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "c7a85ae8-3c6f-4bd1-9162-f425edd8c23a",
-                "name": "chicken broth",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-29T12:55:48.093285",
-                "updateAt": "2024-04-30T01:54:19.435207"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "2 cups chicken broth",
-            "title": "End",
-            "originalText": null,
-            "referenceId": "5429c963-13fd-4858-bf33-f230ae78c225"
-        }
-    ],
-    "recipeInstructions": [
-        {
-            "id": "57ca7b4e-4cbe-4f2f-8a03-dda9ec15d430",
-            "title": "",
-            "text": "Marinade:\n\nAdd Marinade to pan.  Cut chicken into cubes, add to marinade and mix everything so the chicken is coated.  Refrigerate for an hour or more.  ",
-            "ingredientReferences": []
-        },
-        {
-            "id": "1529ad44-c86d-4d27-b670-8042bbb22536",
-            "title": "",
-            "text": "Rice:\n* The rice a made in a rice cooker.\n    * Add two measures of rice\n    * Use chicken broth instead of water\n    * Add frozen mixed vegetables to the the rice cooker.\n    * Let cook\n\nI prep the rice cooker at the same time I do the marinade, and let the vegetables defrost in the rice cooker while the chicken is marinading. \n",
-            "ingredientReferences": []
-        },
-        {
-            "id": "ae1e7483-cdd7-4f6c-bca1-be652ad162ae",
-            "title": "",
-            "text": "We want to cook the chicken with the onion, but that might require giving the onion some cooking time on it's own to avoid over cooking the chicken.  Unfortunately that means contaminating another dish with raw chicken probably.\n\nProvisional Procedure:\n* Move chicken to a  bowl and add onion to pan.  \n* Cook onion on med to med-low until starting to soften.\n* Add chicken back, turn heat up so the outside of the chicken gets a little brown without drying out. \n",
-            "ingredientReferences": []
-        },
-        {
-            "id": "4e82917b-757e-4ae2-a219-4e85d57c8804",
-            "title": "",
-            "text": "Combine:\n* when chicken and rice are done\n* add rice to pan\n* add chicken broth to pan.  Since the chicken broth isn't warm, continue to warm for a few minutes to get everything nice and warm.\n* Let sit 5 minutes so the liquid is absorbed by the rice. \n \nServe!",
-            "ingredientReferences": []
-        }
-    ],
-    "nutrition": {
-        "calories": null,
-        "fatContent": null,
-        "proteinContent": null,
-        "carbohydrateContent": null,
-        "fiberContent": null,
-        "sodiumContent": null,
-        "sugarContent": null
-    },
-    "settings": {
-        "public": true,
-        "showNutrition": false,
-        "showAssets": false,
-        "landscapeView": false,
-        "disableComments": false,
-        "disableAmount": false,
-        "locked": false
-    },
-    "assets": [],
-    "notes": [],
-    "extras": {},
-    "comments": []
+    "totalTime": null,
+    "updatedAt": "2024-05-25T11:59:14.553791Z",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31"
 }

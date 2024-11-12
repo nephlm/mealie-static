@@ -1,16 +1,45 @@
 {
-    "id": "3de7bc9e-b752-470c-ba6b-9dc2c1ea5430",
-    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
-    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-    "name": "Ranchy Tilapia",
-    "slug": "ranchy-tilapia",
-    "image": null,
-    "recipeYield": null,
-    "totalTime": null,
-    "prepTime": "10 min",
+    "assets": [],
+    "comments": [],
     "cookTime": null,
-    "performTime": "15 min",
+    "createdAt": "2024-05-01T18:53:06.829051Z",
+    "dateAdded": "2024-05-01",
+    "dateUpdated": "2024-05-02T12:56:19.239240Z",
     "description": "",
+    "extras": {},
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "householdId": "74cd302c-032c-4707-b612-ada7618e0847",
+    "id": "3de7bc9e-b752-470c-ba6b-9dc2c1ea5430",
+    "image": null,
+    "lastMade": null,
+    "name": "Ranchy Tilapia",
+    "notes": [
+        {
+            "text": "Need 3.5x the listed ranch mix?\n\nOriginal recipe:\n3/4 tsp black pepper\n1 tsp seasoned salt instead of adobo\nNo dill\n\nBased on comments made the above adjustments\n\n2014-03-07\nFor ranchy Talapia only used 1/2 tsp adobo to get somewhere around 1mg of sodium/calorie\n",
+            "title": "Ranch Mix comments"
+        },
+        {
+            "text": "Total: \n\nCalories: 831\nCarbs: 43g\nFat: 32g\nProtein: 93g\nSodium: 1447 (1/2 tsp adobo)\nSugar: 5g\n\nWith six fillets Each Fillet:\n\nCalories: 139\nCarbs: 7g\nFat: 5g\nProtein: 16g\nSodium: 241mg \nSugar: 1",
+            "title": ""
+        }
+    ],
+    "nutrition": {
+        "calories": null,
+        "carbohydrateContent": null,
+        "cholesterolContent": null,
+        "fatContent": null,
+        "fiberContent": null,
+        "proteinContent": null,
+        "saturatedFatContent": null,
+        "sodiumContent": null,
+        "sugarContent": null,
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "orgURL": "http://allrecipes.com/Recipe/Simple-Ranchy-Breaded-Fish-Fillets/?prop31=3",
+    "performTime": "15 min",
+    "prepTime": "10 min",
+    "rating": 5.0,
     "recipeCategory": [
         {
             "id": "5b7f4cd2-5d0e-440e-8e88-64ad06d1aad1",
@@ -18,6 +47,497 @@
             "slug": "entree"
         }
     ],
+    "recipeIngredient": [
+        {
+            "disableAmount": false,
+            "display": "1 tsp parsley dried",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:33.010244Z",
+                "description": "",
+                "extras": {},
+                "id": "ba9ff18f-168d-4935-9979-90869bf67de6",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "parsley",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:14:52.341690Z"
+            },
+            "isFood": true,
+            "note": "dried",
+            "originalText": "1.0 teaspoon dried parsley",
+            "quantity": 1.0,
+            "referenceId": "500e4d4b-8f82-4ec4-a0a3-fdbd8ebdd39c",
+            "title": "Ranch Mix",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2084 tsp pepper",
+            "food": {
+                "aliases": [
+                    {
+                        "name": "black pepper"
+                    }
+                ],
+                "createdAt": "2024-04-26T19:32:43.184271Z",
+                "description": "",
+                "extras": {},
+                "id": "b23ef96b-f10d-48a0-87e6-63e1ff9b111e",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "pepper",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:08:33.535970Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.25 teaspoon black pepper",
+            "quantity": 0.25,
+            "referenceId": "fb394fc6-aed5-4dc9-860c-fb1f10b13ae9",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 tsp adobo",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T02:32:07.257395Z",
+                "description": "",
+                "extras": {},
+                "id": "4643f54f-dd32-473a-bd10-b100dfafceba",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "adobo",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:03:54.880978Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.5 teaspoon adobo",
+            "quantity": 0.5,
+            "referenceId": "9933933e-38a7-4758-b4cc-8354f601681b",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 tsp garlic powder",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-29T13:14:44.383401Z",
+                "description": "",
+                "extras": {},
+                "id": "93fff357-8629-408a-a3da-f9c324cad9c4",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "garlic powder",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:53:00.284312Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.5 teaspoon garlic powder",
+            "quantity": 0.5,
+            "referenceId": "a2f0d12f-7f8d-44be-8674-4826e83af246",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2084 tsp onion powder",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-29T13:14:34.621701Z",
+                "description": "",
+                "extras": {},
+                "id": "de09ad78-8460-446f-88c8-abb398544766",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "onion powder",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:53:08.588780Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.25 teaspoon onion powder",
+            "quantity": 0.25,
+            "referenceId": "acbff8c2-d6b6-4bbf-b9c6-8113ef99aa82",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2088 tsp thyme dried",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T02:33:03.731832Z",
+                "description": "",
+                "extras": {},
+                "id": "608f04ed-6723-4ca0-b3ee-8f39da829a55",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "thyme",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:04:18.346868Z"
+            },
+            "isFood": true,
+            "note": "dried",
+            "originalText": "0.125 teaspoon dried thyme",
+            "quantity": 0.125,
+            "referenceId": "1e88aa17-b81e-4e01-8ab2-8d9376cea7e7",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2088 tsp dill",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T12:06:12.375336Z",
+                "description": "",
+                "extras": {},
+                "id": "aef0b329-df37-4d91-878b-f8514562b350",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "dill",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T12:08:02.036033Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.125 teaspoon dill",
+            "quantity": 0.125,
+            "referenceId": "6c5f5cba-6d23-4932-9e09-e3dc958ed302",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 lb tilapia",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-30T00:14:59.426191Z",
+                "description": "",
+                "extras": {},
+                "id": "246cea5b-0316-41a7-8c55-358d6201b99a",
+                "label": {
+                    "color": "#be2f02",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "13258664-db75-4091-a629-d51f0a89797c",
+                    "name": "Meat"
+                },
+                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
+                "name": "tilapia",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:50:50.741220Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 pound tilapia fillets",
+            "quantity": 1.0,
+            "referenceId": "eba64754-3976-41d6-af16-38cef3320e89",
+            "title": "Fish",
+            "unit": {
+                "abbreviation": "lb",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.726674Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
+                "name": "pound",
+                "onHand": false,
+                "pluralAbbreviation": "lbs",
+                "pluralName": "pounds",
+                "updatedAt": "2024-05-02T12:28:24.776546Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 tbsp olive oil",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:30.465893Z",
+                "description": "",
+                "extras": {},
+                "id": "75f848c8-5343-4c80-a97c-74f48aa7b681",
+                "label": {
+                    "color": "#e89eb9",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "046d1084-5c4a-4f9f-8695-c38791043125",
+                    "name": "Oil"
+                },
+                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
+                "name": "olive oil",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:15:40.768294Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "2 tablespoon olive oil",
+            "quantity": 2.0,
+            "referenceId": "80bcd471-05c4-4feb-9ada-263d7e5d74e1",
+            "title": "",
+            "unit": {
+                "abbreviation": "tbsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:27:59.862809Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 cup Italian Bread Crumbs , italian style",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-30T12:13:05.364195Z",
+                "description": "",
+                "extras": {},
+                "id": "5aea46b8-c539-458a-834a-ab0857bb35d7",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "Italian Bread Crumbs",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T20:24:58.889995Z"
+            },
+            "isFood": true,
+            "note": ", italian style",
+            "originalText": "0.5 cup bread crumbs, italian style",
+            "quantity": 0.5,
+            "referenceId": "52e442b5-9370-4baa-bbd3-9f364c60baca",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "1dac194e-0108-423c-bfb4-047576f62d87",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "Defrost fish",
+            "title": ""
+        },
+        {
+            "id": "676936cd-496e-42ad-836c-529058893ee9",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "Pre heat oven to 350, prepare baking tray with tin foil and olive oil spray",
+            "title": ""
+        },
+        {
+            "id": "c86e3591-eb3e-49b5-a0c2-9d8c5ebe2a87",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "Mix bread crumbs and ranch mix in a plate or bowl (Reduce the adobo in ranch dressing by half, the bread crumbs will pick up the slack)",
+            "title": ""
+        },
+        {
+            "id": "88eda156-bdcb-487e-8275-5b3d07db0f8c",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "Brush both sides of fish with olive oil",
+            "title": ""
+        },
+        {
+            "id": "7b6d69a4-853a-47e2-bd77-62e3954a4a3f",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "Dredge through breadcrumb/ranch mixture and lay out on tray.  Might fit on one, I went with two.",
+            "title": ""
+        },
+        {
+            "id": "1d553333-97b7-4ee9-ac81-70354143e4f4",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "Bake for 10-15 minutes.  (check temp, fifteen was plenty for me)",
+            "title": ""
+        }
+    ],
+    "recipeYield": null,
+    "settings": {
+        "disableAmount": false,
+        "disableComments": false,
+        "landscapeView": false,
+        "locked": false,
+        "public": true,
+        "showAssets": false,
+        "showNutrition": false
+    },
+    "slug": "ranchy-tilapia",
     "tags": [
         {
             "id": "381093a7-0e3f-4516-86bb-34d7afa25ef6",
@@ -31,496 +551,7 @@
         }
     ],
     "tools": [],
-    "rating": 5.0,
-    "orgURL": "http://allrecipes.com/Recipe/Simple-Ranchy-Breaded-Fish-Fillets/?prop31=3",
-    "dateAdded": "2024-05-01",
-    "dateUpdated": "2024-05-02T12:56:19.239240",
-    "createdAt": "2024-05-01T18:53:06.829051",
-    "updateAt": "2024-05-02T12:56:19.241539",
-    "lastMade": null,
-    "recipeIngredient": [
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "ba9ff18f-168d-4935-9979-90869bf67de6",
-                "name": "parsley",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:33.010244",
-                "updateAt": "2024-04-27T03:14:52.341690"
-            },
-            "note": "dried",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 tsp parsley dried",
-            "title": "Ranch Mix",
-            "originalText": "1.0 teaspoon dried parsley",
-            "referenceId": "500e4d4b-8f82-4ec4-a0a3-fdbd8ebdd39c"
-        },
-        {
-            "quantity": 0.25,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "b23ef96b-f10d-48a0-87e6-63e1ff9b111e",
-                "name": "pepper",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [
-                    {
-                        "name": "black pepper"
-                    }
-                ],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:43.184271",
-                "updateAt": "2024-04-27T03:08:33.535970"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2084 tsp pepper",
-            "title": "",
-            "originalText": "0.25 teaspoon black pepper",
-            "referenceId": "fb394fc6-aed5-4dc9-860c-fb1f10b13ae9"
-        },
-        {
-            "quantity": 0.5,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "4643f54f-dd32-473a-bd10-b100dfafceba",
-                "name": "adobo",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-27T02:32:07.257395",
-                "updateAt": "2024-04-27T03:03:54.880978"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2082 tsp adobo",
-            "title": "",
-            "originalText": "0.5 teaspoon adobo",
-            "referenceId": "9933933e-38a7-4758-b4cc-8354f601681b"
-        },
-        {
-            "quantity": 0.5,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "93fff357-8629-408a-a3da-f9c324cad9c4",
-                "name": "garlic powder",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-29T13:14:44.383401",
-                "updateAt": "2024-04-30T01:53:00.284312"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2082 tsp garlic powder",
-            "title": "",
-            "originalText": "0.5 teaspoon garlic powder",
-            "referenceId": "a2f0d12f-7f8d-44be-8674-4826e83af246"
-        },
-        {
-            "quantity": 0.25,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "de09ad78-8460-446f-88c8-abb398544766",
-                "name": "onion powder",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-29T13:14:34.621701",
-                "updateAt": "2024-04-30T01:53:08.588780"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2084 tsp onion powder",
-            "title": "",
-            "originalText": "0.25 teaspoon onion powder",
-            "referenceId": "acbff8c2-d6b6-4bbf-b9c6-8113ef99aa82"
-        },
-        {
-            "quantity": 0.125,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "608f04ed-6723-4ca0-b3ee-8f39da829a55",
-                "name": "thyme",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-27T02:33:03.731832",
-                "updateAt": "2024-04-27T03:04:18.346868"
-            },
-            "note": "dried",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2088 tsp thyme dried",
-            "title": "",
-            "originalText": "0.125 teaspoon dried thyme",
-            "referenceId": "1e88aa17-b81e-4e01-8ab2-8d9376cea7e7"
-        },
-        {
-            "quantity": 0.125,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "aef0b329-df37-4d91-878b-f8514562b350",
-                "name": "dill",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-27T12:06:12.375336",
-                "updateAt": "2024-04-27T12:08:02.036033"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2088 tsp dill",
-            "title": "",
-            "originalText": "0.125 teaspoon dill",
-            "referenceId": "6c5f5cba-6d23-4932-9e09-e3dc958ed302"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
-                "name": "pound",
-                "pluralName": "pounds",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "lb",
-                "pluralAbbreviation": "lbs",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:10.726674",
-                "updateAt": "2024-05-02T12:28:24.776546"
-            },
-            "food": {
-                "id": "246cea5b-0316-41a7-8c55-358d6201b99a",
-                "name": "tilapia",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
-                "aliases": [],
-                "label": {
-                    "name": "Meat",
-                    "color": "#be2f02",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "13258664-db75-4091-a629-d51f0a89797c"
-                },
-                "createdAt": "2024-04-30T00:14:59.426191",
-                "updateAt": "2024-04-30T01:50:50.741220"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 lb tilapia",
-            "title": "Fish",
-            "originalText": "1 pound tilapia fillets",
-            "referenceId": "eba64754-3976-41d6-af16-38cef3320e89"
-        },
-        {
-            "quantity": 2.0,
-            "unit": {
-                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
-                "name": "tablespoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tbsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.018253",
-                "updateAt": "2024-05-13T12:27:59.862809"
-            },
-            "food": {
-                "id": "75f848c8-5343-4c80-a97c-74f48aa7b681",
-                "name": "olive oil",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
-                "aliases": [],
-                "label": {
-                    "name": "Oil",
-                    "color": "#e89eb9",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "046d1084-5c4a-4f9f-8695-c38791043125"
-                },
-                "createdAt": "2024-04-26T19:32:30.465893",
-                "updateAt": "2024-04-27T03:15:40.768294"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "2 tbsp olive oil",
-            "title": "",
-            "originalText": "2 tablespoon olive oil",
-            "referenceId": "80bcd471-05c4-4feb-9ada-263d7e5d74e1"
-        },
-        {
-            "quantity": 0.5,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "5aea46b8-c539-458a-834a-ab0857bb35d7",
-                "name": "Italian Bread Crumbs",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-30T12:13:05.364195",
-                "updateAt": "2024-04-30T20:24:58.889995"
-            },
-            "note": ", italian style",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2082 cup Italian Bread Crumbs , italian style",
-            "title": "",
-            "originalText": "0.5 cup bread crumbs, italian style",
-            "referenceId": "52e442b5-9370-4baa-bbd3-9f364c60baca"
-        }
-    ],
-    "recipeInstructions": [
-        {
-            "id": "1dac194e-0108-423c-bfb4-047576f62d87",
-            "title": "",
-            "text": "Defrost fish",
-            "ingredientReferences": []
-        },
-        {
-            "id": "676936cd-496e-42ad-836c-529058893ee9",
-            "title": "",
-            "text": "Pre heat oven to 350, prepare baking tray with tin foil and olive oil spray",
-            "ingredientReferences": []
-        },
-        {
-            "id": "c86e3591-eb3e-49b5-a0c2-9d8c5ebe2a87",
-            "title": "",
-            "text": "Mix bread crumbs and ranch mix in a plate or bowl (Reduce the adobo in ranch dressing by half, the bread crumbs will pick up the slack)",
-            "ingredientReferences": []
-        },
-        {
-            "id": "88eda156-bdcb-487e-8275-5b3d07db0f8c",
-            "title": "",
-            "text": "Brush both sides of fish with olive oil",
-            "ingredientReferences": []
-        },
-        {
-            "id": "7b6d69a4-853a-47e2-bd77-62e3954a4a3f",
-            "title": "",
-            "text": "Dredge through breadcrumb/ranch mixture and lay out on tray.  Might fit on one, I went with two.",
-            "ingredientReferences": []
-        },
-        {
-            "id": "1d553333-97b7-4ee9-ac81-70354143e4f4",
-            "title": "",
-            "text": "Bake for 10-15 minutes.  (check temp, fifteen was plenty for me)",
-            "ingredientReferences": []
-        }
-    ],
-    "nutrition": {
-        "calories": null,
-        "fatContent": null,
-        "proteinContent": null,
-        "carbohydrateContent": null,
-        "fiberContent": null,
-        "sodiumContent": null,
-        "sugarContent": null
-    },
-    "settings": {
-        "public": true,
-        "showNutrition": false,
-        "showAssets": false,
-        "landscapeView": false,
-        "disableComments": false,
-        "disableAmount": false,
-        "locked": false
-    },
-    "assets": [],
-    "notes": [
-        {
-            "title": "Ranch Mix comments",
-            "text": "Need 3.5x the listed ranch mix?\n\nOriginal recipe:\n3/4 tsp black pepper\n1 tsp seasoned salt instead of adobo\nNo dill\n\nBased on comments made the above adjustments\n\n2014-03-07\nFor ranchy Talapia only used 1/2 tsp adobo to get somewhere around 1mg of sodium/calorie\n"
-        },
-        {
-            "title": "",
-            "text": "Total: \n\nCalories: 831\nCarbs: 43g\nFat: 32g\nProtein: 93g\nSodium: 1447 (1/2 tsp adobo)\nSugar: 5g\n\nWith six fillets Each Fillet:\n\nCalories: 139\nCarbs: 7g\nFat: 5g\nProtein: 16g\nSodium: 241mg \nSugar: 1"
-        }
-    ],
-    "extras": {},
-    "comments": []
+    "totalTime": null,
+    "updatedAt": "2024-05-02T12:56:19.241539Z",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31"
 }

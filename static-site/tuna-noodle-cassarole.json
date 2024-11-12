@@ -1,16 +1,41 @@
 {
-    "id": "2126f0f9-5f8e-452f-bbeb-7c2af67ab4cd",
-    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
-    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-    "name": "Tuna Noodle Cassarole",
-    "slug": "tuna-noodle-cassarole",
-    "image": null,
-    "recipeYield": "1 9x13 pan",
-    "totalTime": null,
-    "prepTime": "15 min",
+    "assets": [],
+    "comments": [],
     "cookTime": null,
-    "performTime": "20 min",
+    "createdAt": "2024-04-30T01:04:07.046110Z",
+    "dateAdded": "2024-04-30",
+    "dateUpdated": "2024-05-25T12:06:30.406365Z",
     "description": "Original recipe that came from mom. ",
+    "extras": {},
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "householdId": "74cd302c-032c-4707-b612-ada7618e0847",
+    "id": "2126f0f9-5f8e-452f-bbeb-7c2af67ab4cd",
+    "image": null,
+    "lastMade": null,
+    "name": "Tuna Noodle Cassarole",
+    "notes": [
+        {
+            "text": "Deprecated.  Not the recipe I actually use for tuna noodle casserole.",
+            "title": ""
+        }
+    ],
+    "nutrition": {
+        "calories": null,
+        "carbohydrateContent": null,
+        "cholesterolContent": null,
+        "fatContent": null,
+        "fiberContent": null,
+        "proteinContent": null,
+        "saturatedFatContent": null,
+        "sodiumContent": null,
+        "sugarContent": null,
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "orgURL": null,
+    "performTime": "20 min",
+    "prepTime": "15 min",
+    "rating": null,
     "recipeCategory": [
         {
             "id": "5b7f4cd2-5d0e-440e-8e88-64ad06d1aad1",
@@ -18,6 +43,421 @@
             "slug": "entree"
         }
     ],
+    "recipeIngredient": [
+        {
+            "disableAmount": false,
+            "display": "1 onion large",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:21.362752Z",
+                "description": "",
+                "extras": {},
+                "id": "1e397cd3-35eb-4c64-b8cf-b40dfc61cd0b",
+                "label": {
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726",
+                    "name": "Frozen Foods"
+                },
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "name": "onion",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:18:52.550301Z"
+            },
+            "isFood": true,
+            "note": "large",
+            "originalText": "1.0 large onion",
+            "quantity": 1.0,
+            "referenceId": "d324aec2-2d9a-4e81-9a51-103638784701",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "1 stalk celery",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:50.103022Z",
+                "description": "",
+                "extras": {},
+                "id": "93acbbe9-3ea9-4f6e-aae1-06c116126b32",
+                "label": {
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                    "name": "Produce"
+                },
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "name": "celery",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:07:16.816049Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "none celery",
+            "quantity": 1.0,
+            "referenceId": "75ffa94d-ceb0-4902-844b-5424c80a2bcb",
+            "title": "",
+            "unit": {
+                "abbreviation": "",
+                "aliases": [],
+                "createdAt": "2024-04-30T12:37:03.209347Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "8f99b5e2-62a5-4526-9720-de9f18b010fb",
+                "name": "stalk",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": "stalks",
+                "updatedAt": "2024-05-13T12:24:55.520467Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 cans cream of celery soup or cream of anything",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-30T12:44:33.086294Z",
+                "description": "",
+                "extras": {},
+                "id": "e29cff2c-b68e-44f3-bd68-5d224ff65dba",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "cream of celery soup",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T20:27:25.346229Z"
+            },
+            "isFood": true,
+            "note": "or cream of anything",
+            "originalText": "2.0 cans cream of celery (or anything)",
+            "quantity": 2.0,
+            "referenceId": "d2808dee-3d74-4786-9bd3-416ff6f7c51b",
+            "title": "",
+            "unit": {
+                "abbreviation": "",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:12.664803Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94661c62-5523-4f5c-aa77-b8a7536ef03b",
+                "name": "can",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": "cans",
+                "updatedAt": "2024-05-13T12:25:48.960493Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 cans tuna",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:45.018803Z",
+                "description": "",
+                "extras": {},
+                "id": "d65275b8-b3e6-45ee-9794-c7914f2fa6f3",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "tuna",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:12:24.883804Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "2.0 cans tuna",
+            "quantity": 2.0,
+            "referenceId": "587072e3-eecd-48ff-8647-13f89404da10",
+            "title": "",
+            "unit": {
+                "abbreviation": "",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:12.664803Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94661c62-5523-4f5c-aa77-b8a7536ef03b",
+                "name": "can",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": "cans",
+                "updatedAt": "2024-05-13T12:25:48.960493Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 cup milk",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:20.019954Z",
+                "description": "",
+                "extras": {},
+                "id": "b7e8f8b8-19f9-4e20-9783-f90d8aa54bb8",
+                "label": {
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                    "name": "Dairy Products"
+                },
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "name": "milk",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:18:41.120456Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1.0 cup milk",
+            "quantity": 1.0,
+            "referenceId": "a41138a8-8c15-48e7-9d08-3052960f9053",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 bag egg noodles cooked",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-30T12:44:58.411624Z",
+                "description": "",
+                "extras": {},
+                "id": "f5a2c4a8-4044-4966-9925-e5c8fd597581",
+                "label": {
+                    "color": "#cd1652",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                    "name": "Pasta"
+                },
+                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "name": "egg noodles",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T20:27:10.313071Z"
+            },
+            "isFood": true,
+            "note": "cooked",
+            "originalText": "12.0 ounce egg noodles (cooked)",
+            "quantity": 1.0,
+            "referenceId": "b86fc954-0d67-435d-aa67-1d91ea86102d",
+            "title": "",
+            "unit": {
+                "abbreviation": "",
+                "aliases": [],
+                "createdAt": "2024-04-27T02:34:36.952058Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "237f6be2-5e4b-4583-8e04-c9e298c3ac21",
+                "name": "bag",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": "bags",
+                "updatedAt": "2024-05-13T12:25:27.496645Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "parsley",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:33.010244Z",
+                "description": "",
+                "extras": {},
+                "id": "ba9ff18f-168d-4935-9979-90869bf67de6",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "parsley",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:14:52.341690Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "none parsley",
+            "quantity": 0.0,
+            "referenceId": "ab94eb37-3759-4490-a8bd-bf9e1b33b8ce",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "salt",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:32.495091Z",
+                "description": "",
+                "extras": {},
+                "id": "e83a890e-0d16-4075-88d3-863e53c8a2a4",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "salt",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:09:26.465777Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "none salt",
+            "quantity": 0.0,
+            "referenceId": "3ae7f5c4-8942-43e1-a000-6d7caf4c050c",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "pepper",
+            "food": {
+                "aliases": [
+                    {
+                        "name": "black pepper"
+                    }
+                ],
+                "createdAt": "2024-04-26T19:32:43.184271Z",
+                "description": "",
+                "extras": {},
+                "id": "b23ef96b-f10d-48a0-87e6-63e1ff9b111e",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "pepper",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:08:33.535970Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "none pepper",
+            "quantity": 0.0,
+            "referenceId": "be8d10ff-cc51-4ac7-8318-461c808a8ca3",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "Italian Bread Crumbs",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-30T12:13:05.364195Z",
+                "description": "",
+                "extras": {},
+                "id": "5aea46b8-c539-458a-834a-ab0857bb35d7",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "Italian Bread Crumbs",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T20:24:58.889995Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "none bread crumbs",
+            "quantity": 0.0,
+            "referenceId": "66ffad31-7fda-4dc6-8288-1dc69163d94a",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "parmesan cheese",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-29T13:13:29.729126Z",
+                "description": "",
+                "extras": {},
+                "id": "9d0467ab-477b-4281-a39b-947c5ed0f6ed",
+                "label": {
+                    "color": "#cd1652",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                    "name": "Pasta"
+                },
+                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "name": "parmesan cheese",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:53:22.096219Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "none parmesan",
+            "quantity": 0.0,
+            "referenceId": "1c7dd2ae-21c6-4460-b05a-a60b386cc0fb",
+            "title": "",
+            "unit": null
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "2631f690-3f53-4f3c-873b-9cd8b3f4891b",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "* Preheat oven to 375\n* Brown onion and celery\n* add soup, milk, tuna, noodles, parsley, salt and pepper.  (Noodles should not be too well done)\n* Mix thoroughly.  \n* pour into greased 9x13 pan\n* cover in bread crumbs/Parmesan.\n* bake for 20min at 375",
+            "title": ""
+        }
+    ],
+    "recipeYield": "1 9x13 pan",
+    "settings": {
+        "disableAmount": false,
+        "disableComments": false,
+        "landscapeView": false,
+        "locked": false,
+        "public": true,
+        "showAssets": false,
+        "showNutrition": false
+    },
+    "slug": "tuna-noodle-cassarole",
     "tags": [
         {
             "id": "06c33f52-bf37-4044-ad83-bc071e6c090e",
@@ -36,425 +476,7 @@
         }
     ],
     "tools": [],
-    "rating": null,
-    "orgURL": null,
-    "dateAdded": "2024-04-30",
-    "dateUpdated": "2024-05-25T12:06:30.406365",
-    "createdAt": "2024-04-30T01:04:07.046110",
-    "updateAt": "2024-05-25T12:06:30.410122",
-    "lastMade": null,
-    "recipeIngredient": [
-        {
-            "quantity": 1.0,
-            "unit": null,
-            "food": {
-                "id": "1e397cd3-35eb-4c64-b8cf-b40dfc61cd0b",
-                "name": "onion",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
-                "aliases": [],
-                "label": {
-                    "name": "Frozen Foods",
-                    "color": "#216fb2",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "e4571c39-b7f7-4a4f-b701-283690066726"
-                },
-                "createdAt": "2024-04-26T19:32:21.362752",
-                "updateAt": "2024-04-27T03:18:52.550301"
-            },
-            "note": "large",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 onion large",
-            "title": "",
-            "originalText": "1.0 large onion",
-            "referenceId": "d324aec2-2d9a-4e81-9a51-103638784701"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "8f99b5e2-62a5-4526-9720-de9f18b010fb",
-                "name": "stalk",
-                "pluralName": "stalks",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "",
-                "pluralAbbreviation": "",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-30T12:37:03.209347",
-                "updateAt": "2024-05-13T12:24:55.520467"
-            },
-            "food": {
-                "id": "93acbbe9-3ea9-4f6e-aae1-06c116126b32",
-                "name": "celery",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
-                "aliases": [],
-                "label": {
-                    "name": "Produce",
-                    "color": "#a7d766",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
-                },
-                "createdAt": "2024-04-26T19:32:50.103022",
-                "updateAt": "2024-04-27T03:07:16.816049"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 stalk celery",
-            "title": "",
-            "originalText": "none celery",
-            "referenceId": "75ffa94d-ceb0-4902-844b-5424c80a2bcb"
-        },
-        {
-            "quantity": 2.0,
-            "unit": {
-                "id": "94661c62-5523-4f5c-aa77-b8a7536ef03b",
-                "name": "can",
-                "pluralName": "cans",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "",
-                "pluralAbbreviation": "",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:12.664803",
-                "updateAt": "2024-05-13T12:25:48.960493"
-            },
-            "food": {
-                "id": "e29cff2c-b68e-44f3-bd68-5d224ff65dba",
-                "name": "cream of celery soup",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-30T12:44:33.086294",
-                "updateAt": "2024-04-30T20:27:25.346229"
-            },
-            "note": "or cream of anything",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "2 cans cream of celery soup or cream of anything",
-            "title": "",
-            "originalText": "2.0 cans cream of celery (or anything)",
-            "referenceId": "d2808dee-3d74-4786-9bd3-416ff6f7c51b"
-        },
-        {
-            "quantity": 2.0,
-            "unit": {
-                "id": "94661c62-5523-4f5c-aa77-b8a7536ef03b",
-                "name": "can",
-                "pluralName": "cans",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "",
-                "pluralAbbreviation": "",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:12.664803",
-                "updateAt": "2024-05-13T12:25:48.960493"
-            },
-            "food": {
-                "id": "d65275b8-b3e6-45ee-9794-c7914f2fa6f3",
-                "name": "tuna",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-26T19:32:45.018803",
-                "updateAt": "2024-04-27T03:12:24.883804"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "2 cans tuna",
-            "title": "",
-            "originalText": "2.0 cans tuna",
-            "referenceId": "587072e3-eecd-48ff-8647-13f89404da10"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "b7e8f8b8-19f9-4e20-9783-f90d8aa54bb8",
-                "name": "milk",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
-                "aliases": [],
-                "label": {
-                    "name": "Dairy Products",
-                    "color": "#67616c",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f"
-                },
-                "createdAt": "2024-04-26T19:32:20.019954",
-                "updateAt": "2024-04-27T03:18:41.120456"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 cup milk",
-            "title": "",
-            "originalText": "1.0 cup milk",
-            "referenceId": "a41138a8-8c15-48e7-9d08-3052960f9053"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "237f6be2-5e4b-4583-8e04-c9e298c3ac21",
-                "name": "bag",
-                "pluralName": "bags",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "",
-                "pluralAbbreviation": "",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-27T02:34:36.952058",
-                "updateAt": "2024-05-13T12:25:27.496645"
-            },
-            "food": {
-                "id": "f5a2c4a8-4044-4966-9925-e5c8fd597581",
-                "name": "egg noodles",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
-                "aliases": [],
-                "label": {
-                    "name": "Pasta",
-                    "color": "#cd1652",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8"
-                },
-                "createdAt": "2024-04-30T12:44:58.411624",
-                "updateAt": "2024-04-30T20:27:10.313071"
-            },
-            "note": "cooked",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 bag egg noodles cooked",
-            "title": "",
-            "originalText": "12.0 ounce egg noodles (cooked)",
-            "referenceId": "b86fc954-0d67-435d-aa67-1d91ea86102d"
-        },
-        {
-            "quantity": 0.0,
-            "unit": null,
-            "food": {
-                "id": "ba9ff18f-168d-4935-9979-90869bf67de6",
-                "name": "parsley",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:33.010244",
-                "updateAt": "2024-04-27T03:14:52.341690"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "parsley",
-            "title": "",
-            "originalText": "none parsley",
-            "referenceId": "ab94eb37-3759-4490-a8bd-bf9e1b33b8ce"
-        },
-        {
-            "quantity": 0.0,
-            "unit": null,
-            "food": {
-                "id": "e83a890e-0d16-4075-88d3-863e53c8a2a4",
-                "name": "salt",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:32.495091",
-                "updateAt": "2024-04-27T03:09:26.465777"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "salt",
-            "title": "",
-            "originalText": "none salt",
-            "referenceId": "3ae7f5c4-8942-43e1-a000-6d7caf4c050c"
-        },
-        {
-            "quantity": 0.0,
-            "unit": null,
-            "food": {
-                "id": "b23ef96b-f10d-48a0-87e6-63e1ff9b111e",
-                "name": "pepper",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [
-                    {
-                        "name": "black pepper"
-                    }
-                ],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:43.184271",
-                "updateAt": "2024-04-27T03:08:33.535970"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "pepper",
-            "title": "",
-            "originalText": "none pepper",
-            "referenceId": "be8d10ff-cc51-4ac7-8318-461c808a8ca3"
-        },
-        {
-            "quantity": 0.0,
-            "unit": null,
-            "food": {
-                "id": "5aea46b8-c539-458a-834a-ab0857bb35d7",
-                "name": "Italian Bread Crumbs",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-30T12:13:05.364195",
-                "updateAt": "2024-04-30T20:24:58.889995"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "Italian Bread Crumbs",
-            "title": "",
-            "originalText": "none bread crumbs",
-            "referenceId": "66ffad31-7fda-4dc6-8288-1dc69163d94a"
-        },
-        {
-            "quantity": 0.0,
-            "unit": null,
-            "food": {
-                "id": "9d0467ab-477b-4281-a39b-947c5ed0f6ed",
-                "name": "parmesan cheese",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
-                "aliases": [],
-                "label": {
-                    "name": "Pasta",
-                    "color": "#cd1652",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8"
-                },
-                "createdAt": "2024-04-29T13:13:29.729126",
-                "updateAt": "2024-04-30T01:53:22.096219"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "parmesan cheese",
-            "title": "",
-            "originalText": "none parmesan",
-            "referenceId": "1c7dd2ae-21c6-4460-b05a-a60b386cc0fb"
-        }
-    ],
-    "recipeInstructions": [
-        {
-            "id": "2631f690-3f53-4f3c-873b-9cd8b3f4891b",
-            "title": "",
-            "text": "* Preheat oven to 375\n* Brown onion and celery\n* add soup, milk, tuna, noodles, parsley, salt and pepper.  (Noodles should not be too well done)\n* Mix thoroughly.  \n* pour into greased 9x13 pan\n* cover in bread crumbs/Parmesan.\n* bake for 20min at 375",
-            "ingredientReferences": []
-        }
-    ],
-    "nutrition": {
-        "calories": null,
-        "fatContent": null,
-        "proteinContent": null,
-        "carbohydrateContent": null,
-        "fiberContent": null,
-        "sodiumContent": null,
-        "sugarContent": null
-    },
-    "settings": {
-        "public": true,
-        "showNutrition": false,
-        "showAssets": false,
-        "landscapeView": false,
-        "disableComments": false,
-        "disableAmount": false,
-        "locked": false
-    },
-    "assets": [],
-    "notes": [
-        {
-            "title": "",
-            "text": "Deprecated.  Not the recipe I actually use for tuna noodle casserole."
-        }
-    ],
-    "extras": {},
-    "comments": []
+    "totalTime": null,
+    "updatedAt": "2024-05-25T12:06:30.410122Z",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31"
 }

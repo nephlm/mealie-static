@@ -1,17 +1,358 @@
 {
-    "id": "95a8a9be-e4e2-49b9-900c-5a77d523f930",
-    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
-    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-    "name": "Chicken and Rice",
-    "slug": "chicken-and-rice",
-    "image": null,
-    "recipeYield": null,
-    "totalTime": null,
-    "prepTime": null,
+    "assets": [],
+    "comments": [],
     "cookTime": null,
-    "performTime": null,
+    "createdAt": "2024-04-29T01:52:37.252542Z",
+    "dateAdded": "2024-04-29",
+    "dateUpdated": "2024-04-29T13:09:28.606993Z",
     "description": "",
+    "extras": {},
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "householdId": "74cd302c-032c-4707-b612-ada7618e0847",
+    "id": "95a8a9be-e4e2-49b9-900c-5a77d523f930",
+    "image": null,
+    "lastMade": null,
+    "name": "Chicken and Rice",
+    "notes": [],
+    "nutrition": {
+        "calories": null,
+        "carbohydrateContent": null,
+        "cholesterolContent": null,
+        "fatContent": null,
+        "fiberContent": null,
+        "proteinContent": null,
+        "saturatedFatContent": null,
+        "sodiumContent": null,
+        "sugarContent": null,
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "orgURL": null,
+    "performTime": null,
+    "prepTime": null,
+    "rating": 3.0,
     "recipeCategory": [],
+    "recipeIngredient": [
+        {
+            "disableAmount": false,
+            "display": "1 cup rice",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:25.399883Z",
+                "description": "",
+                "extras": {},
+                "id": "85a8de4c-7718-4605-9853-9043520d7467",
+                "label": {
+                    "color": "#cd1652",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                    "name": "Pasta"
+                },
+                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "name": "rice",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:17:34.167267Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1.0 cup rice (measure)",
+            "quantity": 1.0,
+            "referenceId": "a88c5e9b-ff08-43a7-b1fd-32fe4dad98e9",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 chicken cutlets",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-29T13:08:13.454052Z",
+                "description": "",
+                "extras": {},
+                "id": "de0c5a25-9036-4f00-9a78-f6b9486b58c6",
+                "label": {
+                    "color": "#be2f02",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "13258664-db75-4091-a629-d51f0a89797c",
+                    "name": "Meat"
+                },
+                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
+                "name": "chicken cutlets",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:53:44.829105Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "2.0 chicken cutlets",
+            "quantity": 2.0,
+            "referenceId": "07ca0c80-5355-4402-b8d4-4511a982f752",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 clove garlic",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:35.923453Z",
+                "description": "",
+                "extras": {},
+                "id": "fd860af3-2047-4ffc-be87-65cbeb97ce1e",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "garlic",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:14:08.683777Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.5 clove garlic",
+            "quantity": 0.5,
+            "referenceId": "89aed8e8-fe44-4d39-9f8b-d06497881bca",
+            "title": "",
+            "unit": {
+                "abbreviation": "",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:12.511215Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "f860cec4-a431-41b7-8ddc-0035e4be52c2",
+                "name": "clove",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": "cloves",
+                "updatedAt": "2024-05-13T12:25:56.749590Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "chicken broth",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-29T12:55:48.093285Z",
+                "description": "",
+                "extras": {},
+                "id": "c7a85ae8-3c6f-4bd1-9162-f425edd8c23a",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "chicken broth",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:54:19.435207Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "chicken broth",
+            "quantity": 0.0,
+            "referenceId": "5e31e147-c118-46c0-b105-78fe71fe140d",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "onion dried chopped",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:21.362752Z",
+                "description": "",
+                "extras": {},
+                "id": "1e397cd3-35eb-4c64-b8cf-b40dfc61cd0b",
+                "label": {
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726",
+                    "name": "Frozen Foods"
+                },
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "name": "onion",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:18:52.550301Z"
+            },
+            "isFood": true,
+            "note": "dried chopped",
+            "originalText": "dried chopped onions",
+            "quantity": 0.0,
+            "referenceId": "04e64b41-8567-4945-99ac-94f6c1697fb2",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "pepper",
+            "food": {
+                "aliases": [
+                    {
+                        "name": "black pepper"
+                    }
+                ],
+                "createdAt": "2024-04-26T19:32:43.184271Z",
+                "description": "",
+                "extras": {},
+                "id": "b23ef96b-f10d-48a0-87e6-63e1ff9b111e",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "pepper",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:08:33.535970Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "black pepper",
+            "quantity": 0.0,
+            "referenceId": "c08f6700-c5fe-4042-a6c9-83cccb0de05f",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "cumin",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:22.629248Z",
+                "description": "",
+                "extras": {},
+                "id": "a7b69d57-bb2c-4d34-936c-c6ea7b5ec994",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "cumin",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:19:03.874657Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "cumin",
+            "quantity": 0.0,
+            "referenceId": "09cd7644-c322-4867-9cbc-677d6922f20e",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "adobo",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T02:32:07.257395Z",
+                "description": "",
+                "extras": {},
+                "id": "4643f54f-dd32-473a-bd10-b100dfafceba",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "adobo",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:03:54.880978Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "adobo",
+            "quantity": 0.0,
+            "referenceId": "6a0ca9ba-bece-49f8-a9e5-cff6536e4e60",
+            "title": "",
+            "unit": null
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "5dcdce07-c839-4e48-a335-ab890a9ae970",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "Add peper, cumin, dill weed, onion and adobo to rice more less in equal proportions.  Add a quarter clove of chopped garlic.  Cook in rice cooker, using chicken broth instead of water.",
+            "title": ""
+        },
+        {
+            "id": "795fe7e8-5212-48ec-8119-e9f5c43280a4",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "Defrost chicken and cut chicken to small chunks.",
+            "title": ""
+        },
+        {
+            "id": "15b99825-aa73-4433-8a26-eb3a1c58e04d",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "Wait about 10 minutes while rice is cooking.",
+            "title": ""
+        },
+        {
+            "id": "9614baf7-cefe-4efd-95f4-ef1759df6fae",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "In Medium pan add teaspoon olive oil.  Add a 1/4 clove garlic and dried onion.  Bring heat up to medium low and let it go a minute or so, pushing the onions and garlic around.  Add enough chicken broth to cover bottom of pan.",
+            "title": ""
+        },
+        {
+            "id": "d5e0f3f7-b5c1-4d60-ac57-6d4350795df8",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "Add chicken, pepper, cumin, dill weed and adobo.  set temperature to low and cook chicken, add more broth if needed.  The chicken pieces should be small so this shouldn't take all that long even on low.",
+            "title": ""
+        },
+        {
+            "id": "7bf1aef4-10e1-4592-ae2a-dc42e25ceb19",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "Combine rice and chicken and serve.",
+            "title": ""
+        }
+    ],
+    "recipeYield": null,
+    "settings": {
+        "disableAmount": false,
+        "disableComments": false,
+        "landscapeView": false,
+        "locked": false,
+        "public": true,
+        "showAssets": false,
+        "showNutrition": false
+    },
+    "slug": "chicken-and-rice",
     "tags": [
         {
             "id": "06c33f52-bf37-4044-ad83-bc071e6c090e",
@@ -25,327 +366,7 @@
         }
     ],
     "tools": [],
-    "rating": 3.0,
-    "orgURL": null,
-    "dateAdded": "2024-04-29",
-    "dateUpdated": "2024-04-29T13:09:28.606993",
-    "createdAt": "2024-04-29T01:52:37.252542",
-    "updateAt": "2024-04-29T13:09:28.608924",
-    "lastMade": null,
-    "recipeIngredient": [
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "85a8de4c-7718-4605-9853-9043520d7467",
-                "name": "rice",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
-                "aliases": [],
-                "label": {
-                    "name": "Pasta",
-                    "color": "#cd1652",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8"
-                },
-                "createdAt": "2024-04-26T19:32:25.399883",
-                "updateAt": "2024-04-27T03:17:34.167267"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 cup rice",
-            "title": "",
-            "originalText": "1.0 cup rice (measure)",
-            "referenceId": "a88c5e9b-ff08-43a7-b1fd-32fe4dad98e9"
-        },
-        {
-            "quantity": 2.0,
-            "unit": null,
-            "food": {
-                "id": "de0c5a25-9036-4f00-9a78-f6b9486b58c6",
-                "name": "chicken cutlets",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
-                "aliases": [],
-                "label": {
-                    "name": "Meat",
-                    "color": "#be2f02",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "13258664-db75-4091-a629-d51f0a89797c"
-                },
-                "createdAt": "2024-04-29T13:08:13.454052",
-                "updateAt": "2024-04-30T01:53:44.829105"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "2 chicken cutlets",
-            "title": "",
-            "originalText": "2.0 chicken cutlets",
-            "referenceId": "07ca0c80-5355-4402-b8d4-4511a982f752"
-        },
-        {
-            "quantity": 0.5,
-            "unit": {
-                "id": "f860cec4-a431-41b7-8ddc-0035e4be52c2",
-                "name": "clove",
-                "pluralName": "cloves",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "",
-                "pluralAbbreviation": "",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:12.511215",
-                "updateAt": "2024-05-13T12:25:56.749590"
-            },
-            "food": {
-                "id": "fd860af3-2047-4ffc-be87-65cbeb97ce1e",
-                "name": "garlic",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:35.923453",
-                "updateAt": "2024-04-27T03:14:08.683777"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2082 clove garlic",
-            "title": "",
-            "originalText": "0.5 clove garlic",
-            "referenceId": "89aed8e8-fe44-4d39-9f8b-d06497881bca"
-        },
-        {
-            "quantity": 0.0,
-            "unit": null,
-            "food": {
-                "id": "c7a85ae8-3c6f-4bd1-9162-f425edd8c23a",
-                "name": "chicken broth",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-29T12:55:48.093285",
-                "updateAt": "2024-04-30T01:54:19.435207"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "chicken broth",
-            "title": "",
-            "originalText": "chicken broth",
-            "referenceId": "5e31e147-c118-46c0-b105-78fe71fe140d"
-        },
-        {
-            "quantity": 0.0,
-            "unit": null,
-            "food": {
-                "id": "1e397cd3-35eb-4c64-b8cf-b40dfc61cd0b",
-                "name": "onion",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
-                "aliases": [],
-                "label": {
-                    "name": "Frozen Foods",
-                    "color": "#216fb2",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "e4571c39-b7f7-4a4f-b701-283690066726"
-                },
-                "createdAt": "2024-04-26T19:32:21.362752",
-                "updateAt": "2024-04-27T03:18:52.550301"
-            },
-            "note": "dried chopped",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "onion dried chopped",
-            "title": "",
-            "originalText": "dried chopped onions",
-            "referenceId": "04e64b41-8567-4945-99ac-94f6c1697fb2"
-        },
-        {
-            "quantity": 0.0,
-            "unit": null,
-            "food": {
-                "id": "b23ef96b-f10d-48a0-87e6-63e1ff9b111e",
-                "name": "pepper",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [
-                    {
-                        "name": "black pepper"
-                    }
-                ],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:43.184271",
-                "updateAt": "2024-04-27T03:08:33.535970"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "pepper",
-            "title": "",
-            "originalText": "black pepper",
-            "referenceId": "c08f6700-c5fe-4042-a6c9-83cccb0de05f"
-        },
-        {
-            "quantity": 0.0,
-            "unit": null,
-            "food": {
-                "id": "a7b69d57-bb2c-4d34-936c-c6ea7b5ec994",
-                "name": "cumin",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:22.629248",
-                "updateAt": "2024-04-27T03:19:03.874657"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "cumin",
-            "title": "",
-            "originalText": "cumin",
-            "referenceId": "09cd7644-c322-4867-9cbc-677d6922f20e"
-        },
-        {
-            "quantity": 0.0,
-            "unit": null,
-            "food": {
-                "id": "4643f54f-dd32-473a-bd10-b100dfafceba",
-                "name": "adobo",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-27T02:32:07.257395",
-                "updateAt": "2024-04-27T03:03:54.880978"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "adobo",
-            "title": "",
-            "originalText": "adobo",
-            "referenceId": "6a0ca9ba-bece-49f8-a9e5-cff6536e4e60"
-        }
-    ],
-    "recipeInstructions": [
-        {
-            "id": "5dcdce07-c839-4e48-a335-ab890a9ae970",
-            "title": "",
-            "text": "Add peper, cumin, dill weed, onion and adobo to rice more less in equal proportions.  Add a quarter clove of chopped garlic.  Cook in rice cooker, using chicken broth instead of water.",
-            "ingredientReferences": []
-        },
-        {
-            "id": "795fe7e8-5212-48ec-8119-e9f5c43280a4",
-            "title": "",
-            "text": "Defrost chicken and cut chicken to small chunks.",
-            "ingredientReferences": []
-        },
-        {
-            "id": "15b99825-aa73-4433-8a26-eb3a1c58e04d",
-            "title": "",
-            "text": "Wait about 10 minutes while rice is cooking.",
-            "ingredientReferences": []
-        },
-        {
-            "id": "9614baf7-cefe-4efd-95f4-ef1759df6fae",
-            "title": "",
-            "text": "In Medium pan add teaspoon olive oil.  Add a 1/4 clove garlic and dried onion.  Bring heat up to medium low and let it go a minute or so, pushing the onions and garlic around.  Add enough chicken broth to cover bottom of pan.",
-            "ingredientReferences": []
-        },
-        {
-            "id": "d5e0f3f7-b5c1-4d60-ac57-6d4350795df8",
-            "title": "",
-            "text": "Add chicken, pepper, cumin, dill weed and adobo.  set temperature to low and cook chicken, add more broth if needed.  The chicken pieces should be small so this shouldn't take all that long even on low.",
-            "ingredientReferences": []
-        },
-        {
-            "id": "7bf1aef4-10e1-4592-ae2a-dc42e25ceb19",
-            "title": "",
-            "text": "Combine rice and chicken and serve.",
-            "ingredientReferences": []
-        }
-    ],
-    "nutrition": {
-        "calories": null,
-        "fatContent": null,
-        "proteinContent": null,
-        "carbohydrateContent": null,
-        "fiberContent": null,
-        "sodiumContent": null,
-        "sugarContent": null
-    },
-    "settings": {
-        "public": true,
-        "showNutrition": false,
-        "showAssets": false,
-        "landscapeView": false,
-        "disableComments": false,
-        "disableAmount": false,
-        "locked": false
-    },
-    "assets": [],
-    "notes": [],
-    "extras": {},
-    "comments": []
+    "totalTime": null,
+    "updatedAt": "2024-04-29T13:09:28.608924Z",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31"
 }

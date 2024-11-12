@@ -1,16 +1,41 @@
 {
-    "id": "b7f8b8de-bd06-483d-b40f-2c9665cc1a7d",
-    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
-    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-    "name": "Todd's Pasta Salad",
-    "slug": "todd-s-pasta-salad",
-    "image": null,
-    "recipeYield": "4",
-    "totalTime": null,
-    "prepTime": "20 min",
+    "assets": [],
+    "comments": [],
     "cookTime": null,
-    "performTime": "10 min",
+    "createdAt": "2024-04-29T18:28:17.800867Z",
+    "dateAdded": "2024-04-29",
+    "dateUpdated": "2024-06-29T19:05:21.124189Z",
     "description": "",
+    "extras": {},
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "householdId": "74cd302c-032c-4707-b612-ada7618e0847",
+    "id": "b7f8b8de-bd06-483d-b40f-2c9665cc1a7d",
+    "image": null,
+    "lastMade": null,
+    "name": "Todd's Pasta Salad",
+    "notes": [
+        {
+            "text": "tuna is 2 cans the exact amount is fairly irrelevant\n",
+            "title": ""
+        }
+    ],
+    "nutrition": {
+        "calories": null,
+        "carbohydrateContent": null,
+        "cholesterolContent": null,
+        "fatContent": null,
+        "fiberContent": null,
+        "proteinContent": null,
+        "saturatedFatContent": null,
+        "sodiumContent": null,
+        "sugarContent": null,
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "orgURL": null,
+    "performTime": "10 min",
+    "prepTime": "20 min",
+    "rating": 5.0,
     "recipeCategory": [
         {
             "id": "5b7f4cd2-5d0e-440e-8e88-64ad06d1aad1",
@@ -18,6 +43,438 @@
             "slug": "entree"
         }
     ],
+    "recipeIngredient": [
+        {
+            "disableAmount": false,
+            "display": "2 cucumber",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:17.899950Z",
+                "description": "",
+                "extras": {},
+                "id": "4b1a5dc8-edfb-4882-aae4-819bc1122cb3",
+                "label": {
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                    "name": "Produce"
+                },
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "name": "cucumber",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T02:04:46.686427Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "2.0 cucumbers",
+            "quantity": 2.0,
+            "referenceId": "76af8133-905c-4cd4-bf89-651b98025bcd",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "1 lb rotini",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-29T23:55:54.464617Z",
+                "description": "",
+                "extras": {},
+                "id": "51d22f51-f8c5-4818-abb3-ab3f5e8c85fb",
+                "label": {
+                    "color": "#cd1652",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                    "name": "Pasta"
+                },
+                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "name": "rotini",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:52:34.559394Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1.0 pound rotini",
+            "quantity": 1.0,
+            "referenceId": "acaeade7-fd65-4d14-a662-924b14d7c6a9",
+            "title": "",
+            "unit": {
+                "abbreviation": "lb",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.726674Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
+                "name": "pound",
+                "onHand": false,
+                "pluralAbbreviation": "lbs",
+                "pluralName": "pounds",
+                "updatedAt": "2024-05-02T12:28:24.776546Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 red pepper",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-29T23:56:11.556967Z",
+                "description": "",
+                "extras": {},
+                "id": "5fc2dc18-46db-4b96-9680-6484a76b9093",
+                "label": {
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                    "name": "Produce"
+                },
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "name": "red pepper",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T00:03:47.195518Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1.0 red pepper",
+            "quantity": 1.0,
+            "referenceId": "30197b5d-7eb5-44f8-b629-8d7139e2f924",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "1 green pepper",
+            "food": {
+                "aliases": [
+                    {
+                        "name": "bell pepper"
+                    }
+                ],
+                "createdAt": "2024-04-29T23:56:36.557950Z",
+                "description": "",
+                "extras": {},
+                "id": "cf2605fc-610b-4130-a1c1-9fb980efba6f",
+                "label": {
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                    "name": "Produce"
+                },
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "name": "green pepper",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T00:03:04.509990Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1.0 green pepper",
+            "quantity": 1.0,
+            "referenceId": "de9757ed-058a-4a3b-8ff2-73051d754568",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "2 tomato  plumb / vine",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:18.483079Z",
+                "description": "",
+                "extras": {},
+                "id": "69622eea-3935-4d27-91a8-d1f30ac20746",
+                "label": {
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                    "name": "Produce"
+                },
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "name": "tomato ",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:19:35.365817Z"
+            },
+            "isFood": true,
+            "note": "plumb / vine",
+            "originalText": "2.0 plumb tomatoes",
+            "quantity": 2.0,
+            "referenceId": "f74f3826-6a44-42d1-897b-04523cf99887",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "1 tsp thyme",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T02:33:03.731832Z",
+                "description": "",
+                "extras": {},
+                "id": "608f04ed-6723-4ca0-b3ee-8f39da829a55",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "thyme",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:04:18.346868Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1.0 teaspoon thyme",
+            "quantity": 1.0,
+            "referenceId": "dc98b880-22a8-42ff-9215-55a73d66d329",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 tsp pepper",
+            "food": {
+                "aliases": [
+                    {
+                        "name": "black pepper"
+                    }
+                ],
+                "createdAt": "2024-04-26T19:32:43.184271Z",
+                "description": "",
+                "extras": {},
+                "id": "b23ef96b-f10d-48a0-87e6-63e1ff9b111e",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "pepper",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:08:33.535970Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "none pinch pepper",
+            "quantity": 0.5,
+            "referenceId": "e72f182b-69be-45f7-9ffd-809c25502e01",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 tsp adobo",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T02:32:07.257395Z",
+                "description": "",
+                "extras": {},
+                "id": "4643f54f-dd32-473a-bd10-b100dfafceba",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "adobo",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:03:54.880978Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "none pinch salt",
+            "quantity": 0.5,
+            "referenceId": "2b9048f9-bc33-4518-b062-2243e09673b4",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 cup mayonnaise",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-29T23:58:35.640623Z",
+                "description": "",
+                "extras": {},
+                "id": "a2383fd8-3439-403c-af2d-854f78b89575",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "mayonnaise",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:52:06.235648Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1.0 cup mayonnaise",
+            "quantity": 1.0,
+            "referenceId": "54f49f70-0738-4de7-a27e-cc706db76b86",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 cans tuna chunk in water 5oz each",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:45.018803Z",
+                "description": "",
+                "extras": {},
+                "id": "d65275b8-b3e6-45ee-9794-c7914f2fa6f3",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "tuna",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:12:24.883804Z"
+            },
+            "isFood": true,
+            "note": "chunk in water 5oz each",
+            "originalText": "10.0 ounce chunk tuna in water",
+            "quantity": 2.0,
+            "referenceId": "02d9e7c5-7f65-4052-b4c4-15ead67c7f8c",
+            "title": "",
+            "unit": {
+                "abbreviation": "",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:12.664803Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94661c62-5523-4f5c-aa77-b8a7536ef03b",
+                "name": "can",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": "cans",
+                "updatedAt": "2024-05-13T12:25:48.960493Z",
+                "useAbbreviation": false
+            }
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "b09d496b-caec-4f07-a34a-1dadcedc678b",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "Make Rotini (spiral pasta) as usual.  Add half the mayo, coat the pasta and refrigerate.",
+            "title": ""
+        },
+        {
+            "id": "1685d57d-8557-4ae4-abae-08736b8b81f7",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "cut the cucumbers in the quarters the long way and then slice",
+            "title": ""
+        },
+        {
+            "id": "179fc256-dff5-4244-bf91-6c3fcb170f33",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "cut the rest of the vegetables so no piece is larger than the cucumber pieces.",
+            "title": ""
+        },
+        {
+            "id": "8b4305c8-5dbd-45a4-848d-8811fa052e6e",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "Add all the vegetables to the pasta, add the rest of the tuna, mayo and the spices.",
+            "title": ""
+        },
+        {
+            "id": "f981031a-02f8-4c71-9f8f-d1e0a55ccca5",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "Mix thoroughly. Serve refrigerated.",
+            "title": ""
+        }
+    ],
+    "recipeYield": "4",
+    "settings": {
+        "disableAmount": false,
+        "disableComments": false,
+        "landscapeView": false,
+        "locked": false,
+        "public": true,
+        "showAssets": false,
+        "showNutrition": false
+    },
+    "slug": "todd-s-pasta-salad",
     "tags": [
         {
             "id": "e1c1c1a2-7783-4dc2-979e-a6f35e1c17e9",
@@ -26,438 +483,7 @@
         }
     ],
     "tools": [],
-    "rating": 5.0,
-    "orgURL": null,
-    "dateAdded": "2024-04-29",
-    "dateUpdated": "2024-06-29T19:05:21.124189",
-    "createdAt": "2024-04-29T18:28:17.800867",
-    "updateAt": "2024-05-25T11:59:10.276200",
-    "lastMade": null,
-    "recipeIngredient": [
-        {
-            "quantity": 2.0,
-            "unit": null,
-            "food": {
-                "id": "4b1a5dc8-edfb-4882-aae4-819bc1122cb3",
-                "name": "cucumber",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
-                "aliases": [],
-                "label": {
-                    "name": "Produce",
-                    "color": "#a7d766",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
-                },
-                "createdAt": "2024-04-26T19:32:17.899950",
-                "updateAt": "2024-04-30T02:04:46.686427"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "2 cucumber",
-            "title": "",
-            "originalText": "2.0 cucumbers",
-            "referenceId": "76af8133-905c-4cd4-bf89-651b98025bcd"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
-                "name": "pound",
-                "pluralName": "pounds",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "lb",
-                "pluralAbbreviation": "lbs",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:10.726674",
-                "updateAt": "2024-05-02T12:28:24.776546"
-            },
-            "food": {
-                "id": "51d22f51-f8c5-4818-abb3-ab3f5e8c85fb",
-                "name": "rotini",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
-                "aliases": [],
-                "label": {
-                    "name": "Pasta",
-                    "color": "#cd1652",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8"
-                },
-                "createdAt": "2024-04-29T23:55:54.464617",
-                "updateAt": "2024-04-30T01:52:34.559394"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 lb rotini",
-            "title": "",
-            "originalText": "1.0 pound rotini",
-            "referenceId": "acaeade7-fd65-4d14-a662-924b14d7c6a9"
-        },
-        {
-            "quantity": 1.0,
-            "unit": null,
-            "food": {
-                "id": "5fc2dc18-46db-4b96-9680-6484a76b9093",
-                "name": "red pepper",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
-                "aliases": [],
-                "label": {
-                    "name": "Produce",
-                    "color": "#a7d766",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
-                },
-                "createdAt": "2024-04-29T23:56:11.556967",
-                "updateAt": "2024-04-30T00:03:47.195518"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 red pepper",
-            "title": "",
-            "originalText": "1.0 red pepper",
-            "referenceId": "30197b5d-7eb5-44f8-b629-8d7139e2f924"
-        },
-        {
-            "quantity": 1.0,
-            "unit": null,
-            "food": {
-                "id": "cf2605fc-610b-4130-a1c1-9fb980efba6f",
-                "name": "green pepper",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
-                "aliases": [
-                    {
-                        "name": "bell pepper"
-                    }
-                ],
-                "label": {
-                    "name": "Produce",
-                    "color": "#a7d766",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
-                },
-                "createdAt": "2024-04-29T23:56:36.557950",
-                "updateAt": "2024-04-30T00:03:04.509990"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 green pepper",
-            "title": "",
-            "originalText": "1.0 green pepper",
-            "referenceId": "de9757ed-058a-4a3b-8ff2-73051d754568"
-        },
-        {
-            "quantity": 2.0,
-            "unit": null,
-            "food": {
-                "id": "69622eea-3935-4d27-91a8-d1f30ac20746",
-                "name": "tomato ",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
-                "aliases": [],
-                "label": {
-                    "name": "Produce",
-                    "color": "#a7d766",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
-                },
-                "createdAt": "2024-04-26T19:32:18.483079",
-                "updateAt": "2024-04-27T03:19:35.365817"
-            },
-            "note": "plumb / vine",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "2 tomato  plumb / vine",
-            "title": "",
-            "originalText": "2.0 plumb tomatoes",
-            "referenceId": "f74f3826-6a44-42d1-897b-04523cf99887"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "608f04ed-6723-4ca0-b3ee-8f39da829a55",
-                "name": "thyme",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-27T02:33:03.731832",
-                "updateAt": "2024-04-27T03:04:18.346868"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 tsp thyme",
-            "title": "",
-            "originalText": "1.0 teaspoon thyme",
-            "referenceId": "dc98b880-22a8-42ff-9215-55a73d66d329"
-        },
-        {
-            "quantity": 0.5,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "b23ef96b-f10d-48a0-87e6-63e1ff9b111e",
-                "name": "pepper",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [
-                    {
-                        "name": "black pepper"
-                    }
-                ],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:43.184271",
-                "updateAt": "2024-04-27T03:08:33.535970"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2082 tsp pepper",
-            "title": "",
-            "originalText": "none pinch pepper",
-            "referenceId": "e72f182b-69be-45f7-9ffd-809c25502e01"
-        },
-        {
-            "quantity": 0.5,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "4643f54f-dd32-473a-bd10-b100dfafceba",
-                "name": "adobo",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-27T02:32:07.257395",
-                "updateAt": "2024-04-27T03:03:54.880978"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2082 tsp adobo",
-            "title": "",
-            "originalText": "none pinch salt",
-            "referenceId": "2b9048f9-bc33-4518-b062-2243e09673b4"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "a2383fd8-3439-403c-af2d-854f78b89575",
-                "name": "mayonnaise",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-29T23:58:35.640623",
-                "updateAt": "2024-04-30T01:52:06.235648"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 cup mayonnaise",
-            "title": "",
-            "originalText": "1.0 cup mayonnaise",
-            "referenceId": "54f49f70-0738-4de7-a27e-cc706db76b86"
-        },
-        {
-            "quantity": 2.0,
-            "unit": {
-                "id": "94661c62-5523-4f5c-aa77-b8a7536ef03b",
-                "name": "can",
-                "pluralName": "cans",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "",
-                "pluralAbbreviation": "",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:12.664803",
-                "updateAt": "2024-05-13T12:25:48.960493"
-            },
-            "food": {
-                "id": "d65275b8-b3e6-45ee-9794-c7914f2fa6f3",
-                "name": "tuna",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-26T19:32:45.018803",
-                "updateAt": "2024-04-27T03:12:24.883804"
-            },
-            "note": "chunk in water 5oz each",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "2 cans tuna chunk in water 5oz each",
-            "title": "",
-            "originalText": "10.0 ounce chunk tuna in water",
-            "referenceId": "02d9e7c5-7f65-4052-b4c4-15ead67c7f8c"
-        }
-    ],
-    "recipeInstructions": [
-        {
-            "id": "b09d496b-caec-4f07-a34a-1dadcedc678b",
-            "title": "",
-            "text": "Make Rotini (spiral pasta) as usual.  Add half the mayo, coat the pasta and refrigerate.",
-            "ingredientReferences": []
-        },
-        {
-            "id": "1685d57d-8557-4ae4-abae-08736b8b81f7",
-            "title": "",
-            "text": "cut the cucumbers in the quarters the long way and then slice",
-            "ingredientReferences": []
-        },
-        {
-            "id": "179fc256-dff5-4244-bf91-6c3fcb170f33",
-            "title": "",
-            "text": "cut the rest of the vegetables so no piece is larger than the cucumber pieces.",
-            "ingredientReferences": []
-        },
-        {
-            "id": "8b4305c8-5dbd-45a4-848d-8811fa052e6e",
-            "title": "",
-            "text": "Add all the vegetables to the pasta, add the rest of the tuna, mayo and the spices.",
-            "ingredientReferences": []
-        },
-        {
-            "id": "f981031a-02f8-4c71-9f8f-d1e0a55ccca5",
-            "title": "",
-            "text": "Mix thoroughly. Serve refrigerated.",
-            "ingredientReferences": []
-        }
-    ],
-    "nutrition": {
-        "calories": null,
-        "fatContent": null,
-        "proteinContent": null,
-        "carbohydrateContent": null,
-        "fiberContent": null,
-        "sodiumContent": null,
-        "sugarContent": null
-    },
-    "settings": {
-        "public": true,
-        "showNutrition": false,
-        "showAssets": false,
-        "landscapeView": false,
-        "disableComments": false,
-        "disableAmount": false,
-        "locked": false
-    },
-    "assets": [],
-    "notes": [
-        {
-            "title": "",
-            "text": "tuna is 2 cans the exact amount is fairly irrelevant\n"
-        }
-    ],
-    "extras": {},
-    "comments": []
+    "totalTime": null,
+    "updatedAt": "2024-05-25T11:59:10.276200Z",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31"
 }

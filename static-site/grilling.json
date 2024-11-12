@@ -1,16 +1,36 @@
 {
-    "id": "7b1e557b-b69b-4c2d-9323-63821fefae2f",
-    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
-    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-    "name": "Grilling",
-    "slug": "grilling",
-    "image": null,
-    "recipeYield": "6",
-    "totalTime": "",
-    "prepTime": "15 min",
+    "assets": [],
+    "comments": [],
     "cookTime": null,
-    "performTime": "30 min",
+    "createdAt": "2024-04-26T19:41:50.632191Z",
+    "dateAdded": "2024-04-26",
+    "dateUpdated": "2024-09-14T12:15:34.252133Z",
     "description": "",
+    "extras": {},
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "householdId": "74cd302c-032c-4707-b612-ada7618e0847",
+    "id": "7b1e557b-b69b-4c2d-9323-63821fefae2f",
+    "image": null,
+    "lastMade": null,
+    "name": "Grilling",
+    "notes": [],
+    "nutrition": {
+        "calories": null,
+        "carbohydrateContent": null,
+        "cholesterolContent": null,
+        "fatContent": null,
+        "fiberContent": null,
+        "proteinContent": null,
+        "saturatedFatContent": null,
+        "sodiumContent": null,
+        "sugarContent": null,
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "orgURL": null,
+    "performTime": "30 min",
+    "prepTime": "15 min",
+    "rating": 5.0,
     "recipeCategory": [
         {
             "id": "5b7f4cd2-5d0e-440e-8e88-64ad06d1aad1",
@@ -23,412 +43,413 @@
             "slug": "shopping"
         }
     ],
-    "tags": [],
-    "tools": [
-        {
-            "id": "db4db060-c23b-4a1f-9c64-bc99c123f0ff",
-            "name": "Grill",
-            "slug": "grill",
-            "onHand": false
-        }
-    ],
-    "rating": 5.0,
-    "orgURL": null,
-    "dateAdded": "2024-04-26",
-    "dateUpdated": "2024-09-14T12:15:34.252133",
-    "createdAt": "2024-04-26T19:41:50.632191",
-    "updateAt": "2024-09-14T12:15:34.253924",
-    "lastMade": null,
     "recipeIngredient": [
         {
-            "quantity": 3.0,
-            "unit": {
-                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
-                "name": "pound",
-                "pluralName": "pounds",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "lb",
-                "pluralAbbreviation": "lbs",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:10.726674",
-                "updateAt": "2024-05-02T12:28:24.776546"
-            },
-            "food": {
-                "id": "692064f2-ac98-45bf-aa3c-d474b869e79d",
-                "name": "ground beef",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
-                "aliases": [],
-                "label": {
-                    "name": "Meat",
-                    "color": "#be2f02",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "13258664-db75-4091-a629-d51f0a89797c"
-                },
-                "createdAt": "2024-04-26T19:43:28.852645",
-                "updateAt": "2024-04-26T19:47:54.745662"
-            },
-            "note": "",
-            "isFood": true,
             "disableAmount": false,
             "display": "3 lbs ground beef",
-            "title": "Base",
-            "originalText": null,
-            "referenceId": "b6c3f4b4-d7cb-4f00-9ae0-07407705d26f"
-        },
-        {
-            "quantity": 8.0,
-            "unit": null,
             "food": {
-                "id": "49bdc6d2-b24c-4a0c-925b-080516c7433f",
-                "name": "Hot Dog",
-                "pluralName": "Hot Dogs",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:43:28.852645Z",
                 "description": "",
                 "extras": {},
-                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
-                "aliases": [],
+                "id": "692064f2-ac98-45bf-aa3c-d474b869e79d",
                 "label": {
-                    "name": "Meat",
                     "color": "#be2f02",
                     "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "13258664-db75-4091-a629-d51f0a89797c"
+                    "id": "13258664-db75-4091-a629-d51f0a89797c",
+                    "name": "Meat"
                 },
-                "createdAt": "2024-04-26T19:44:04.004552",
-                "updateAt": "2024-04-26T19:48:24.405304"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "8 Hot Dogs",
-            "title": "",
-            "originalText": null,
-            "referenceId": "53873ea4-2dd2-431c-971b-1b132be98e69"
-        },
-        {
-            "quantity": 8.0,
-            "unit": null,
-            "food": {
-                "id": "d8246277-2104-4ba0-b599-314061281343",
-                "name": "Hamburger Buns",
+                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
+                "name": "ground beef",
+                "onHand": false,
                 "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "be29b677-1d21-4f67-8954-0357c7300d50",
-                "aliases": [],
-                "label": {
-                    "name": "Breads",
-                    "color": "#d7771e",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "be29b677-1d21-4f67-8954-0357c7300d50"
-                },
-                "createdAt": "2024-04-26T19:44:41.560301",
-                "updateAt": "2024-04-26T19:49:22.467543"
+                "updatedAt": "2024-04-26T19:47:54.745662Z"
             },
-            "note": "",
             "isFood": true,
-            "disableAmount": false,
-            "display": "8 Hamburger Buns",
-            "title": "",
-            "originalText": null,
-            "referenceId": "9677e8a9-046a-4786-b15e-30b42463ae84"
-        },
-        {
-            "quantity": 8.0,
-            "unit": null,
-            "food": {
-                "id": "48006cd5-be78-4ee9-bfa8-74947c676d42",
-                "name": "Hot Dog buns",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "be29b677-1d21-4f67-8954-0357c7300d50",
-                "aliases": [],
-                "label": {
-                    "name": "Breads",
-                    "color": "#d7771e",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "be29b677-1d21-4f67-8954-0357c7300d50"
-                },
-                "createdAt": "2024-04-26T19:45:11.431627",
-                "updateAt": "2024-04-26T19:48:57.914666"
-            },
             "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "8 Hot Dog buns",
-            "title": "",
             "originalText": null,
-            "referenceId": "243dc28b-3fcd-42a0-9ac0-91b7ef97ffbd"
-        },
-        {
-            "quantity": 8.0,
+            "quantity": 3.0,
+            "referenceId": "b6c3f4b4-d7cb-4f00-9ae0-07407705d26f",
+            "title": "Base",
             "unit": {
-                "id": "2dd32cde-24c5-4a3a-8732-606b68ac73ac",
-                "name": "slice",
-                "pluralName": "slices",
+                "abbreviation": "lb",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.726674Z",
                 "description": "",
                 "extras": {},
                 "fraction": true,
-                "abbreviation": "",
-                "pluralAbbreviation": "",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:53:08.920331",
-                "updateAt": "2024-05-13T12:25:38.033788"
-            },
-            "food": {
-                "id": "cda8485d-c439-40df-8a19-3a97c4511ab7",
-                "name": "cheese",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
-                "aliases": [],
-                "label": {
-                    "name": "Dairy Products",
-                    "color": "#67616c",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f"
-                },
-                "createdAt": "2024-04-26T19:32:26.395935",
-                "updateAt": "2024-04-27T03:17:53.832874"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "8 slices cheese",
-            "title": "",
-            "originalText": null,
-            "referenceId": "9908b742-276d-4565-85b8-3e110d876c79"
-        },
-        {
-            "quantity": 1.0,
-            "unit": null,
-            "food": {
-                "id": "69622eea-3935-4d27-91a8-d1f30ac20746",
-                "name": "tomato ",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
-                "aliases": [],
-                "label": {
-                    "name": "Produce",
-                    "color": "#a7d766",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
-                },
-                "createdAt": "2024-04-26T19:32:18.483079",
-                "updateAt": "2024-04-27T03:19:35.365817"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 tomato",
-            "title": "",
-            "originalText": null,
-            "referenceId": "3a835aed-cdfe-4b68-8cb6-d9799bd5f2ef"
-        },
-        {
-            "quantity": 1.0,
-            "unit": null,
-            "food": {
-                "id": "cfc31e6a-3fe2-436d-a211-198c2ee97931",
-                "name": "lettuce",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
-                "aliases": [],
-                "label": {
-                    "name": "Produce",
-                    "color": "#a7d766",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
-                },
-                "createdAt": "2024-04-26T19:32:40.324142",
-                "updateAt": "2024-04-27T03:45:53.249418"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 lettuce",
-            "title": "",
-            "originalText": null,
-            "referenceId": "b04ede8f-ca2c-4510-9bcc-4f2fe63c8c61"
-        },
-        {
-            "quantity": 1.0,
-            "unit": null,
-            "food": {
-                "id": "1e397cd3-35eb-4c64-b8cf-b40dfc61cd0b",
-                "name": "onion",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
-                "aliases": [],
-                "label": {
-                    "name": "Frozen Foods",
-                    "color": "#216fb2",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "e4571c39-b7f7-4a4f-b701-283690066726"
-                },
-                "createdAt": "2024-04-26T19:32:21.362752",
-                "updateAt": "2024-04-27T03:18:52.550301"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 onion",
-            "title": "Extra Goodness",
-            "originalText": null,
-            "referenceId": "2a2775f1-9bea-4ff7-953d-4a251884219a"
-        },
-        {
-            "quantity": 2.0,
-            "unit": null,
-            "food": {
-                "id": "ce51d81c-dbcb-477e-88fc-3359d4eb7fa5",
-                "name": "egg",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
-                "aliases": [],
-                "label": {
-                    "name": "Dairy Products",
-                    "color": "#67616c",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f"
-                },
-                "createdAt": "2024-04-29T13:21:56.458709",
-                "updateAt": "2024-04-30T01:52:50.518341"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "2 egg",
-            "title": "",
-            "originalText": null,
-            "referenceId": "7092681f-b38a-450e-b283-9cd3f6c53ed9"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "5aea46b8-c539-458a-834a-ab0857bb35d7",
-                "name": "Italian Bread Crumbs",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-30T12:13:05.364195",
-                "updateAt": "2024-04-30T20:24:58.889995"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 cup Italian Bread Crumbs",
-            "title": "",
-            "originalText": null,
-            "referenceId": "8496a92d-89ca-409f-aea4-36e150797ffb"
-        },
-        {
-            "quantity": 5.0,
-            "unit": {
                 "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
                 "name": "pound",
+                "onHand": false,
+                "pluralAbbreviation": "lbs",
                 "pluralName": "pounds",
+                "updatedAt": "2024-05-02T12:28:24.776546Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "8 Hot Dogs",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:44:04.004552Z",
+                "description": "",
+                "extras": {},
+                "id": "49bdc6d2-b24c-4a0c-925b-080516c7433f",
+                "label": {
+                    "color": "#be2f02",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "13258664-db75-4091-a629-d51f0a89797c",
+                    "name": "Meat"
+                },
+                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
+                "name": "Hot Dog",
+                "onHand": false,
+                "pluralName": "Hot Dogs",
+                "updatedAt": "2024-04-26T19:48:24.405304Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": null,
+            "quantity": 8.0,
+            "referenceId": "53873ea4-2dd2-431c-971b-1b132be98e69",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "8 Hamburger Buns",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:44:41.560301Z",
+                "description": "",
+                "extras": {},
+                "id": "d8246277-2104-4ba0-b599-314061281343",
+                "label": {
+                    "color": "#d7771e",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "be29b677-1d21-4f67-8954-0357c7300d50",
+                    "name": "Breads"
+                },
+                "labelId": "be29b677-1d21-4f67-8954-0357c7300d50",
+                "name": "Hamburger Buns",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-26T19:49:22.467543Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": null,
+            "quantity": 8.0,
+            "referenceId": "9677e8a9-046a-4786-b15e-30b42463ae84",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "8 Hot Dog buns",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:45:11.431627Z",
+                "description": "",
+                "extras": {},
+                "id": "48006cd5-be78-4ee9-bfa8-74947c676d42",
+                "label": {
+                    "color": "#d7771e",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "be29b677-1d21-4f67-8954-0357c7300d50",
+                    "name": "Breads"
+                },
+                "labelId": "be29b677-1d21-4f67-8954-0357c7300d50",
+                "name": "Hot Dog buns",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-26T19:48:57.914666Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": null,
+            "quantity": 8.0,
+            "referenceId": "243dc28b-3fcd-42a0-9ac0-91b7ef97ffbd",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "8 slices cheese",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:26.395935Z",
+                "description": "",
+                "extras": {},
+                "id": "cda8485d-c439-40df-8a19-3a97c4511ab7",
+                "label": {
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                    "name": "Dairy Products"
+                },
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "name": "cheese",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:17:53.832874Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": null,
+            "quantity": 8.0,
+            "referenceId": "9908b742-276d-4565-85b8-3e110d876c79",
+            "title": "",
+            "unit": {
+                "abbreviation": "",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:53:08.920331Z",
                 "description": "",
                 "extras": {},
                 "fraction": true,
-                "abbreviation": "lb",
-                "pluralAbbreviation": "lbs",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:10.726674",
-                "updateAt": "2024-05-02T12:28:24.776546"
-            },
+                "id": "2dd32cde-24c5-4a3a-8732-606b68ac73ac",
+                "name": "slice",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": "slices",
+                "updatedAt": "2024-05-13T12:25:38.033788Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 tomato",
             "food": {
-                "id": "37832f9d-9a7f-46ba-8008-318e4b203c17",
-                "name": "potatoes",
-                "pluralName": null,
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:18.483079Z",
                 "description": "",
                 "extras": {},
-                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
-                "aliases": [],
+                "id": "69622eea-3935-4d27-91a8-d1f30ac20746",
                 "label": {
-                    "name": "Produce",
                     "color": "#a7d766",
                     "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                    "name": "Produce"
                 },
-                "createdAt": "2024-04-26T19:32:39.537591",
-                "updateAt": "2024-04-26T19:51:52.650876"
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "name": "tomato ",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:19:35.365817Z"
             },
-            "note": "",
             "isFood": true,
+            "note": "",
+            "originalText": null,
+            "quantity": 1.0,
+            "referenceId": "3a835aed-cdfe-4b68-8cb6-d9799bd5f2ef",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "1 lettuce",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:40.324142Z",
+                "description": "",
+                "extras": {},
+                "id": "cfc31e6a-3fe2-436d-a211-198c2ee97931",
+                "label": {
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                    "name": "Produce"
+                },
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "name": "lettuce",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:45:53.249418Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": null,
+            "quantity": 1.0,
+            "referenceId": "b04ede8f-ca2c-4510-9bcc-4f2fe63c8c61",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "1 onion",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:21.362752Z",
+                "description": "",
+                "extras": {},
+                "id": "1e397cd3-35eb-4c64-b8cf-b40dfc61cd0b",
+                "label": {
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726",
+                    "name": "Frozen Foods"
+                },
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "name": "onion",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:18:52.550301Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": null,
+            "quantity": 1.0,
+            "referenceId": "2a2775f1-9bea-4ff7-953d-4a251884219a",
+            "title": "Extra Goodness",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "2 egg",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-29T13:21:56.458709Z",
+                "description": "",
+                "extras": {},
+                "id": "ce51d81c-dbcb-477e-88fc-3359d4eb7fa5",
+                "label": {
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                    "name": "Dairy Products"
+                },
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "name": "egg",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:52:50.518341Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": null,
+            "quantity": 2.0,
+            "referenceId": "7092681f-b38a-450e-b283-9cd3f6c53ed9",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "1 cup Italian Bread Crumbs",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-30T12:13:05.364195Z",
+                "description": "",
+                "extras": {},
+                "id": "5aea46b8-c539-458a-834a-ab0857bb35d7",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "Italian Bread Crumbs",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T20:24:58.889995Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": null,
+            "quantity": 1.0,
+            "referenceId": "8496a92d-89ca-409f-aea4-36e150797ffb",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
             "disableAmount": false,
             "display": "5 lbs potatoes",
-            "title": "Side",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:39.537591Z",
+                "description": "",
+                "extras": {},
+                "id": "37832f9d-9a7f-46ba-8008-318e4b203c17",
+                "label": {
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                    "name": "Produce"
+                },
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "name": "potatoes",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-26T19:51:52.650876Z"
+            },
+            "isFood": true,
+            "note": "",
             "originalText": null,
-            "referenceId": "352374b9-7b9d-43f6-9887-5af047833d15"
+            "quantity": 5.0,
+            "referenceId": "352374b9-7b9d-43f6-9887-5af047833d15",
+            "title": "Side",
+            "unit": {
+                "abbreviation": "lb",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.726674Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
+                "name": "pound",
+                "onHand": false,
+                "pluralAbbreviation": "lbs",
+                "pluralName": "pounds",
+                "updatedAt": "2024-05-02T12:28:24.776546Z",
+                "useAbbreviation": true
+            }
         }
     ],
     "recipeInstructions": [
         {
             "id": "ae29124b-0178-4cb1-b81f-d5c9be44505d",
-            "title": "",
+            "ingredientReferences": [],
+            "summary": null,
             "text": "Recipe steps as well as other fields in the recipe page support markdown syntax.\n\n**Add a link**\n\n[My Link](https://demo.mealie.io)\n\n",
-            "ingredientReferences": []
+            "title": ""
         }
     ],
-    "nutrition": {
-        "calories": null,
-        "fatContent": null,
-        "proteinContent": null,
-        "carbohydrateContent": null,
-        "fiberContent": null,
-        "sodiumContent": null,
-        "sugarContent": null
-    },
+    "recipeYield": "6",
     "settings": {
-        "public": true,
-        "showNutrition": false,
-        "showAssets": false,
-        "landscapeView": false,
-        "disableComments": false,
         "disableAmount": false,
-        "locked": false
+        "disableComments": false,
+        "landscapeView": false,
+        "locked": false,
+        "public": true,
+        "showAssets": false,
+        "showNutrition": false
     },
-    "assets": [],
-    "notes": [],
-    "extras": {},
-    "comments": []
+    "slug": "grilling",
+    "tags": [],
+    "tools": [
+        {
+            "id": "db4db060-c23b-4a1f-9c64-bc99c123f0ff",
+            "name": "Grill",
+            "onHand": false,
+            "slug": "grill"
+        }
+    ],
+    "totalTime": "",
+    "updatedAt": "2024-09-14T12:15:34.253924Z",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31"
 }

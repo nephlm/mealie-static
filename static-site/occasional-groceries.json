@@ -1,16 +1,36 @@
 {
-    "id": "dee6b1a0-ec06-498e-b287-c789341c0e05",
-    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
-    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-    "name": "Occasional Groceries",
-    "slug": "occasional-groceries",
-    "image": null,
-    "recipeYield": null,
-    "totalTime": null,
-    "prepTime": null,
+    "assets": [],
+    "comments": [],
     "cookTime": null,
-    "performTime": null,
+    "createdAt": "2024-04-27T12:25:57.099176Z",
+    "dateAdded": "2024-04-27",
+    "dateUpdated": "2024-04-29T02:17:04.688305Z",
     "description": "",
+    "extras": {},
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "householdId": "74cd302c-032c-4707-b612-ada7618e0847",
+    "id": "dee6b1a0-ec06-498e-b287-c789341c0e05",
+    "image": null,
+    "lastMade": null,
+    "name": "Occasional Groceries",
+    "notes": [],
+    "nutrition": {
+        "calories": null,
+        "carbohydrateContent": null,
+        "cholesterolContent": null,
+        "fatContent": null,
+        "fiberContent": null,
+        "proteinContent": null,
+        "saturatedFatContent": null,
+        "sodiumContent": null,
+        "sugarContent": null,
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "orgURL": null,
+    "performTime": null,
+    "prepTime": null,
+    "rating": 5.0,
     "recipeCategory": [
         {
             "id": "528184fc-6756-4323-a0c3-ece1c3a4dc9e",
@@ -18,6 +38,318 @@
             "slug": "shopping"
         }
     ],
+    "recipeIngredient": [
+        {
+            "disableAmount": false,
+            "display": "1 croutons",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T12:27:48.651524Z",
+                "description": "",
+                "extras": {},
+                "id": "8c36eb30-421f-4bce-8c15-515053a32c47",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "croutons",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T12:29:50.877239Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "croutons",
+            "quantity": 1.0,
+            "referenceId": "5aaf3698-ed60-4355-8f9a-8953fa842982",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "1 pickles",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T12:27:52.977982Z",
+                "description": "",
+                "extras": {},
+                "id": "daa73cf2-7063-448a-a16a-f900a12d9856",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "pickles",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T12:30:33.097609Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "pickles",
+            "quantity": 1.0,
+            "referenceId": "5602d396-d8f6-4905-b105-f9b09237dedf",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "1 cheese slices",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T12:28:06.296241Z",
+                "description": "",
+                "extras": {},
+                "id": "fec0e0cf-138c-4548-ab61-e098b4ae21eb",
+                "label": {
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                    "name": "Dairy Products"
+                },
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "name": "cheese slices",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T12:30:49.757572Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "cheese slices",
+            "quantity": 1.0,
+            "referenceId": "21d75eee-ef19-4863-a0ea-5a8527f018c9",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "1 ranch dressing",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T12:28:20.632918Z",
+                "description": "",
+                "extras": {},
+                "id": "869c0cc2-0785-416c-bf9b-804759981caf",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "ranch dressing",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T12:31:24.536251Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "ranch dressing",
+            "quantity": 1.0,
+            "referenceId": "6ecc1692-cfc7-43da-8b87-278ee773c03a",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "1 caesar dressing",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T12:28:23.524930Z",
+                "description": "",
+                "extras": {},
+                "id": "83498658-85d5-46d8-a0fb-2cff8f378699",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "caesar dressing",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T12:31:19.138157Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "caesar dressing",
+            "quantity": 1.0,
+            "referenceId": "c70bcfa7-180c-4f33-82dd-52c80702beba",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "1 goldfish",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T12:28:26.381843Z",
+                "description": "",
+                "extras": {},
+                "id": "5d3f61f6-fd77-47a7-8742-57894c85a640",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "goldfish",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T12:31:39.888480Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "goldfish",
+            "quantity": 1.0,
+            "referenceId": "1c23afff-4333-46b5-9086-6df16547e508",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "1 chunky soup",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T12:28:31.202713Z",
+                "description": "",
+                "extras": {},
+                "id": "d58e3dc3-08f4-478e-aa8d-c5a003932737",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "chunky soup",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T12:31:54.285762Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "chunky soup",
+            "quantity": 1.0,
+            "referenceId": "d02f8a31-e49f-4881-a815-f6da49999a29",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "1 macaroni and cheese",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T12:28:33.474943Z",
+                "description": "",
+                "extras": {},
+                "id": "24cfaa3d-9eab-4035-8ada-4a562769fb44",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "macaroni and cheese",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T12:30:58.072822Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "macaroni and cheese",
+            "quantity": 1.0,
+            "referenceId": "3ffb9515-0598-416d-8a38-994c41711ef6",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "1 celery",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:50.103022Z",
+                "description": "",
+                "extras": {},
+                "id": "93acbbe9-3ea9-4f6e-aae1-06c116126b32",
+                "label": {
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                    "name": "Produce"
+                },
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "name": "celery",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:07:16.816049Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "celery",
+            "quantity": 1.0,
+            "referenceId": "ccb9ceda-b9cc-4d7b-99d3-3721898f52c2",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "1 cheerios",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T12:28:40.282111Z",
+                "description": "",
+                "extras": {},
+                "id": "c51beb32-de4d-4852-a165-f8dcc011671b",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "cheerios",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T12:32:13.016948Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "cheerios",
+            "quantity": 1.0,
+            "referenceId": "6c07e3ff-5f0a-4124-b3fe-447d032d17e6",
+            "title": "",
+            "unit": null
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "4c49d268-d1c7-40f3-b1e1-6156ec335278",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "Recipe steps as well as other fields in the recipe page support markdown syntax.\n\n**Add a link**\n\n[My Link](https://demo.mealie.io)\n\n",
+            "title": ""
+        }
+    ],
+    "recipeYield": null,
+    "settings": {
+        "disableAmount": false,
+        "disableComments": false,
+        "landscapeView": false,
+        "locked": false,
+        "public": true,
+        "showAssets": false,
+        "showNutrition": false
+    },
+    "slug": "occasional-groceries",
     "tags": [
         {
             "id": "e1c1c1a2-7783-4dc2-979e-a6f35e1c17e9",
@@ -26,323 +358,7 @@
         }
     ],
     "tools": [],
-    "rating": 5.0,
-    "orgURL": null,
-    "dateAdded": "2024-04-27",
-    "dateUpdated": "2024-04-29T02:17:04.688305",
-    "createdAt": "2024-04-27T12:25:57.099176",
-    "updateAt": "2024-07-03T12:40:26.479849",
-    "lastMade": null,
-    "recipeIngredient": [
-        {
-            "quantity": 1.0,
-            "unit": null,
-            "food": {
-                "id": "8c36eb30-421f-4bce-8c15-515053a32c47",
-                "name": "croutons",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-27T12:27:48.651524",
-                "updateAt": "2024-04-27T12:29:50.877239"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 croutons",
-            "title": "",
-            "originalText": "croutons",
-            "referenceId": "5aaf3698-ed60-4355-8f9a-8953fa842982"
-        },
-        {
-            "quantity": 1.0,
-            "unit": null,
-            "food": {
-                "id": "daa73cf2-7063-448a-a16a-f900a12d9856",
-                "name": "pickles",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-27T12:27:52.977982",
-                "updateAt": "2024-04-27T12:30:33.097609"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 pickles",
-            "title": "",
-            "originalText": "pickles",
-            "referenceId": "5602d396-d8f6-4905-b105-f9b09237dedf"
-        },
-        {
-            "quantity": 1.0,
-            "unit": null,
-            "food": {
-                "id": "fec0e0cf-138c-4548-ab61-e098b4ae21eb",
-                "name": "cheese slices",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
-                "aliases": [],
-                "label": {
-                    "name": "Dairy Products",
-                    "color": "#67616c",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f"
-                },
-                "createdAt": "2024-04-27T12:28:06.296241",
-                "updateAt": "2024-04-27T12:30:49.757572"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 cheese slices",
-            "title": "",
-            "originalText": "cheese slices",
-            "referenceId": "21d75eee-ef19-4863-a0ea-5a8527f018c9"
-        },
-        {
-            "quantity": 1.0,
-            "unit": null,
-            "food": {
-                "id": "869c0cc2-0785-416c-bf9b-804759981caf",
-                "name": "ranch dressing",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-27T12:28:20.632918",
-                "updateAt": "2024-04-27T12:31:24.536251"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 ranch dressing",
-            "title": "",
-            "originalText": "ranch dressing",
-            "referenceId": "6ecc1692-cfc7-43da-8b87-278ee773c03a"
-        },
-        {
-            "quantity": 1.0,
-            "unit": null,
-            "food": {
-                "id": "83498658-85d5-46d8-a0fb-2cff8f378699",
-                "name": "caesar dressing",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-27T12:28:23.524930",
-                "updateAt": "2024-04-27T12:31:19.138157"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 caesar dressing",
-            "title": "",
-            "originalText": "caesar dressing",
-            "referenceId": "c70bcfa7-180c-4f33-82dd-52c80702beba"
-        },
-        {
-            "quantity": 1.0,
-            "unit": null,
-            "food": {
-                "id": "5d3f61f6-fd77-47a7-8742-57894c85a640",
-                "name": "goldfish",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-27T12:28:26.381843",
-                "updateAt": "2024-04-27T12:31:39.888480"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 goldfish",
-            "title": "",
-            "originalText": "goldfish",
-            "referenceId": "1c23afff-4333-46b5-9086-6df16547e508"
-        },
-        {
-            "quantity": 1.0,
-            "unit": null,
-            "food": {
-                "id": "d58e3dc3-08f4-478e-aa8d-c5a003932737",
-                "name": "chunky soup",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-27T12:28:31.202713",
-                "updateAt": "2024-04-27T12:31:54.285762"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 chunky soup",
-            "title": "",
-            "originalText": "chunky soup",
-            "referenceId": "d02f8a31-e49f-4881-a815-f6da49999a29"
-        },
-        {
-            "quantity": 1.0,
-            "unit": null,
-            "food": {
-                "id": "24cfaa3d-9eab-4035-8ada-4a562769fb44",
-                "name": "macaroni and cheese",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-27T12:28:33.474943",
-                "updateAt": "2024-04-27T12:30:58.072822"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 macaroni and cheese",
-            "title": "",
-            "originalText": "macaroni and cheese",
-            "referenceId": "3ffb9515-0598-416d-8a38-994c41711ef6"
-        },
-        {
-            "quantity": 1.0,
-            "unit": null,
-            "food": {
-                "id": "93acbbe9-3ea9-4f6e-aae1-06c116126b32",
-                "name": "celery",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
-                "aliases": [],
-                "label": {
-                    "name": "Produce",
-                    "color": "#a7d766",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560"
-                },
-                "createdAt": "2024-04-26T19:32:50.103022",
-                "updateAt": "2024-04-27T03:07:16.816049"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 celery",
-            "title": "",
-            "originalText": "celery",
-            "referenceId": "ccb9ceda-b9cc-4d7b-99d3-3721898f52c2"
-        },
-        {
-            "quantity": 1.0,
-            "unit": null,
-            "food": {
-                "id": "c51beb32-de4d-4852-a165-f8dcc011671b",
-                "name": "cheerios",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-27T12:28:40.282111",
-                "updateAt": "2024-04-27T12:32:13.016948"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 cheerios",
-            "title": "",
-            "originalText": "cheerios",
-            "referenceId": "6c07e3ff-5f0a-4124-b3fe-447d032d17e6"
-        }
-    ],
-    "recipeInstructions": [
-        {
-            "id": "4c49d268-d1c7-40f3-b1e1-6156ec335278",
-            "title": "",
-            "text": "Recipe steps as well as other fields in the recipe page support markdown syntax.\n\n**Add a link**\n\n[My Link](https://demo.mealie.io)\n\n",
-            "ingredientReferences": []
-        }
-    ],
-    "nutrition": {
-        "calories": null,
-        "fatContent": null,
-        "proteinContent": null,
-        "carbohydrateContent": null,
-        "fiberContent": null,
-        "sodiumContent": null,
-        "sugarContent": null
-    },
-    "settings": {
-        "public": true,
-        "showNutrition": false,
-        "showAssets": false,
-        "landscapeView": false,
-        "disableComments": false,
-        "disableAmount": false,
-        "locked": false
-    },
-    "assets": [],
-    "notes": [],
-    "extras": {},
-    "comments": []
+    "totalTime": null,
+    "updatedAt": "2024-07-03T12:40:26.479849Z",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31"
 }

@@ -1,16 +1,45 @@
 {
-    "id": "2c4dacdb-b9e8-4fec-b013-990d97cd9184",
-    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
-    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-    "name": "Mac and Cheese",
-    "slug": "mac-and-cheese",
-    "image": null,
-    "recipeYield": "6",
-    "totalTime": null,
-    "prepTime": null,
+    "assets": [],
+    "comments": [],
     "cookTime": null,
-    "performTime": null,
+    "createdAt": "2024-05-07T19:31:15.758097Z",
+    "dateAdded": "2024-05-07",
+    "dateUpdated": "2024-05-10T12:46:23.693000Z",
     "description": "",
+    "extras": {},
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "householdId": "74cd302c-032c-4707-b612-ada7618e0847",
+    "id": "2c4dacdb-b9e8-4fec-b013-990d97cd9184",
+    "image": null,
+    "lastMade": null,
+    "name": "Mac and Cheese",
+    "notes": [
+        {
+            "text": "Likely needs a higher sauce to noodle ratio, which mostly means more cheese and water.",
+            "title": ""
+        },
+        {
+            "text": "2 lbs cauliflower\n1 lbs broccoli\n+ 1/2 cup of cheddar\n\nCut into small chunks and microwaved.  took a while probably 10+ minutes.  Make sure this is mostly or completely done before starting cheese. Drain the liquid that came for the frozen veg.  Mix in cheese.  Yum.",
+            "title": "Noodle free version:"
+        }
+    ],
+    "nutrition": {
+        "calories": null,
+        "carbohydrateContent": null,
+        "cholesterolContent": null,
+        "fatContent": null,
+        "fiberContent": null,
+        "proteinContent": null,
+        "saturatedFatContent": null,
+        "sodiumContent": null,
+        "sugarContent": null,
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "orgURL": null,
+    "performTime": null,
+    "prepTime": null,
+    "rating": 4.0,
     "recipeCategory": [
         {
             "id": "5b7f4cd2-5d0e-440e-8e88-64ad06d1aad1",
@@ -18,6 +47,695 @@
             "slug": "entree"
         }
     ],
+    "recipeIngredient": [
+        {
+            "disableAmount": false,
+            "display": "2 cups broccoli",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:43.717384Z",
+                "description": "",
+                "extras": {},
+                "id": "ee757c32-c3de-4812-8d65-fc8ebac34491",
+                "label": {
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726",
+                    "name": "Frozen Foods"
+                },
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "name": "broccoli",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:57:56.465688Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "2 cup broccoli",
+            "quantity": 2.0,
+            "referenceId": "407cba5d-5deb-4af2-8d31-d58b7858146b",
+            "title": "Broccoli",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 lb elbow macaroni",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-30T20:16:56.688546Z",
+                "description": "",
+                "extras": {},
+                "id": "4e2f0a84-56ae-437b-9742-d8bda929b605",
+                "label": {
+                    "color": "#cd1652",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                    "name": "Pasta"
+                },
+                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "name": "elbow macaroni",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T20:26:17.676084Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 lbs elbows",
+            "quantity": 1.0,
+            "referenceId": "6b7bb0af-69e4-4f91-a459-aad41cbfa29e",
+            "title": "Pasta",
+            "unit": {
+                "abbreviation": "lb",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.726674Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
+                "name": "pound",
+                "onHand": false,
+                "pluralAbbreviation": "lbs",
+                "pluralName": "pounds",
+                "updatedAt": "2024-05-02T12:28:24.776546Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 tbsp olive oil",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:30.465893Z",
+                "description": "",
+                "extras": {},
+                "id": "75f848c8-5343-4c80-a97c-74f48aa7b681",
+                "label": {
+                    "color": "#e89eb9",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "046d1084-5c4a-4f9f-8695-c38791043125",
+                    "name": "Oil"
+                },
+                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
+                "name": "olive oil",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:15:40.768294Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "2 tablespoon olive oil",
+            "quantity": 2.0,
+            "referenceId": "06948387-5a0f-4df7-89b0-342778fde405",
+            "title": "Roux",
+            "unit": {
+                "abbreviation": "tbsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:27:59.862809Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 tbsp flour",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.611040Z",
+                "description": "",
+                "extras": {},
+                "id": "c19cfcd8-10d0-464b-9b65-e6c8d757db8f",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "flour",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:20:02.944168Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "2 tablespoon flour",
+            "quantity": 2.0,
+            "referenceId": "d8aa5c3a-dafb-4c38-ada8-7b4e3975c719",
+            "title": "",
+            "unit": {
+                "abbreviation": "tbsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:27:59.862809Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 cloves garlic",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:35.923453Z",
+                "description": "",
+                "extras": {},
+                "id": "fd860af3-2047-4ffc-be87-65cbeb97ce1e",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "garlic",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:14:08.683777Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "2 clove garlic",
+            "quantity": 2.0,
+            "referenceId": "687c12f0-4017-493a-a1e6-007cc1f6bc65",
+            "title": "",
+            "unit": {
+                "abbreviation": "",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:12.511215Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "f860cec4-a431-41b7-8ddc-0035e4be52c2",
+                "name": "clove",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": "cloves",
+                "updatedAt": "2024-05-13T12:25:56.749590Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 cup water",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T02:31:21.445759Z",
+                "description": "",
+                "extras": {},
+                "id": "d9a322c3-fd8e-4b39-809f-abcbd76b8062",
+                "label": null,
+                "labelId": null,
+                "name": "water",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:05:36.520887Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 cup water",
+            "quantity": 1.0,
+            "referenceId": "e8f4bca0-d1a7-4277-abf6-c97b1d52f061",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 tbsp milk dried",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:20.019954Z",
+                "description": "",
+                "extras": {},
+                "id": "b7e8f8b8-19f9-4e20-9783-f90d8aa54bb8",
+                "label": {
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                    "name": "Dairy Products"
+                },
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "name": "milk",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:18:41.120456Z"
+            },
+            "isFood": true,
+            "note": "dried",
+            "originalText": "1 tablespoon dried milk",
+            "quantity": 1.0,
+            "referenceId": "5e9fd017-e5f6-4054-ad31-84cfd739c7e6",
+            "title": "",
+            "unit": {
+                "abbreviation": "tbsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:27:59.862809Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 tsp onion powder",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-29T13:14:34.621701Z",
+                "description": "",
+                "extras": {},
+                "id": "de09ad78-8460-446f-88c8-abb398544766",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "onion powder",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:53:08.588780Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 teaspoon onion powder",
+            "quantity": 1.0,
+            "referenceId": "d8e538e6-95f6-43ec-b04f-147ee8c41940",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 tsp salt",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:32.495091Z",
+                "description": "",
+                "extras": {},
+                "id": "e83a890e-0d16-4075-88d3-863e53c8a2a4",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "salt",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:09:26.465777Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.5 teaspoon salt",
+            "quantity": 0.5,
+            "referenceId": "de9944e5-1208-424d-a056-938300cdf360",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2084 tsp cayenne pepper",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:38.727699Z",
+                "description": "",
+                "extras": {},
+                "id": "587cccf7-b102-46d0-a598-acb38cb2de8c",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "cayenne pepper",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:08:25.782853Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.25 teaspoon cayenne pepper",
+            "quantity": 0.25,
+            "referenceId": "fc3f0bf9-867a-4f59-82ca-030fc87087b4",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b3/\u2084 tsp pepper",
+            "food": {
+                "aliases": [
+                    {
+                        "name": "black pepper"
+                    }
+                ],
+                "createdAt": "2024-04-26T19:32:43.184271Z",
+                "description": "",
+                "extras": {},
+                "id": "b23ef96b-f10d-48a0-87e6-63e1ff9b111e",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "pepper",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:08:33.535970Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.75 teaspoon pepper",
+            "quantity": 0.75,
+            "referenceId": "129c8285-fd1b-4b60-8a30-55dafd4652bd",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 cup 6 cheese italian blend",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-05-10T12:43:47.931501Z",
+                "description": "",
+                "extras": {},
+                "id": "19951e14-7743-4f0c-8f95-6d833b9ea074",
+                "label": {
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                    "name": "Dairy Products"
+                },
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "name": "6 cheese italian blend",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:19:15.978640Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 cup 6 cheese italian blend",
+            "quantity": 1.0,
+            "referenceId": "852c7896-aaf9-4edf-8c60-ac73e56b243d",
+            "title": "Cheese",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 cup cheddar cheese sharp",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-05-10T12:43:50.383553Z",
+                "description": "",
+                "extras": {},
+                "id": "bb37ca03-bf6a-4039-a4c0-ca6cdfc07c54",
+                "label": {
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                    "name": "Dairy Products"
+                },
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "name": "cheddar cheese",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:19:08.775668Z"
+            },
+            "isFood": true,
+            "note": "sharp",
+            "originalText": "0.5 cup sharp cheddar cheese",
+            "quantity": 0.5,
+            "referenceId": "11099749-fdb5-49fb-9cda-b0e5536a0be2",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 cup 4 cheese mexican blend",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-05-10T12:44:06.626108Z",
+                "description": "",
+                "extras": {},
+                "id": "4b941644-0c23-4fcf-a755-02c52d10d745",
+                "label": {
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                    "name": "Dairy Products"
+                },
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "name": "4 cheese mexican blend",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:19:01.188409Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 cup 4 cheese mexican blend",
+            "quantity": 1.0,
+            "referenceId": "afc5e110-507a-4a41-803f-aeba3f106fc5",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 cup water",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T02:31:21.445759Z",
+                "description": "",
+                "extras": {},
+                "id": "d9a322c3-fd8e-4b39-809f-abcbd76b8062",
+                "label": null,
+                "labelId": null,
+                "name": "water",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:05:36.520887Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 cup water",
+            "quantity": 1.0,
+            "referenceId": "d098100d-44b1-461b-9e5b-fb42a1c5f68d",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "4f318b9d-2e05-469d-87f5-d3f23a9217fa",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "Start pasta boiling.  Once water is boiling should be about 8 minutes (+1 minute to dente value on box)",
+            "title": ""
+        },
+        {
+            "id": "f0c67e8d-0078-4e19-ad51-8a7cbfef5fa3",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "Steam chopped broccoli in microwave (bowl with a little water covered with a plate).  If frozen run for about 3 minutes and check every 30 seconds until done.  Don't over cook.",
+            "title": ""
+        },
+        {
+            "id": "f8c663ab-4387-431e-af5c-a2bc9bbaccac",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "Put the garlic  and olive oil in the roux pot.  And toast  garlic.  Add flour and other spices.  when it starts to darken add 1 cup water.  Mix until thick.",
+            "title": ""
+        },
+        {
+            "id": "aecfe367-8f90-4d34-9894-a8fdbb2790ad",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "Add cheese and an additional cup of water.  Keep blended.",
+            "title": ""
+        },
+        {
+            "id": "ba747d5f-18d6-4997-8f20-175d10b557f7",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "When pasta is done, drain and mix with sauce.  When coated, eat.",
+            "title": ""
+        }
+    ],
+    "recipeYield": "6",
+    "settings": {
+        "disableAmount": false,
+        "disableComments": false,
+        "landscapeView": false,
+        "locked": false,
+        "public": true,
+        "showAssets": false,
+        "showNutrition": false
+    },
+    "slug": "mac-and-cheese",
     "tags": [
         {
             "id": "e1c1c1a2-7783-4dc2-979e-a6f35e1c17e9",
@@ -31,685 +749,7 @@
         }
     ],
     "tools": [],
-    "rating": 4.0,
-    "orgURL": null,
-    "dateAdded": "2024-05-07",
-    "dateUpdated": "2024-05-10T12:46:23.693000",
-    "createdAt": "2024-05-07T19:31:15.758097",
-    "updateAt": "2024-05-25T11:57:49.196323",
-    "lastMade": null,
-    "recipeIngredient": [
-        {
-            "quantity": 2.0,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "ee757c32-c3de-4812-8d65-fc8ebac34491",
-                "name": "broccoli",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
-                "aliases": [],
-                "label": {
-                    "name": "Frozen Foods",
-                    "color": "#216fb2",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "e4571c39-b7f7-4a4f-b701-283690066726"
-                },
-                "createdAt": "2024-04-26T19:32:43.717384",
-                "updateAt": "2024-04-30T01:57:56.465688"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "2 cups broccoli",
-            "title": "Broccoli",
-            "originalText": "2 cup broccoli",
-            "referenceId": "407cba5d-5deb-4af2-8d31-d58b7858146b"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
-                "name": "pound",
-                "pluralName": "pounds",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "lb",
-                "pluralAbbreviation": "lbs",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:10.726674",
-                "updateAt": "2024-05-02T12:28:24.776546"
-            },
-            "food": {
-                "id": "4e2f0a84-56ae-437b-9742-d8bda929b605",
-                "name": "elbow macaroni",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
-                "aliases": [],
-                "label": {
-                    "name": "Pasta",
-                    "color": "#cd1652",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8"
-                },
-                "createdAt": "2024-04-30T20:16:56.688546",
-                "updateAt": "2024-04-30T20:26:17.676084"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 lb elbow macaroni",
-            "title": "Pasta",
-            "originalText": "1 lbs elbows",
-            "referenceId": "6b7bb0af-69e4-4f91-a459-aad41cbfa29e"
-        },
-        {
-            "quantity": 2.0,
-            "unit": {
-                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
-                "name": "tablespoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tbsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.018253",
-                "updateAt": "2024-05-13T12:27:59.862809"
-            },
-            "food": {
-                "id": "75f848c8-5343-4c80-a97c-74f48aa7b681",
-                "name": "olive oil",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
-                "aliases": [],
-                "label": {
-                    "name": "Oil",
-                    "color": "#e89eb9",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "046d1084-5c4a-4f9f-8695-c38791043125"
-                },
-                "createdAt": "2024-04-26T19:32:30.465893",
-                "updateAt": "2024-04-27T03:15:40.768294"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "2 tbsp olive oil",
-            "title": "Roux",
-            "originalText": "2 tablespoon olive oil",
-            "referenceId": "06948387-5a0f-4df7-89b0-342778fde405"
-        },
-        {
-            "quantity": 2.0,
-            "unit": {
-                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
-                "name": "tablespoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tbsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.018253",
-                "updateAt": "2024-05-13T12:27:59.862809"
-            },
-            "food": {
-                "id": "c19cfcd8-10d0-464b-9b65-e6c8d757db8f",
-                "name": "flour",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-26T19:32:07.611040",
-                "updateAt": "2024-04-27T03:20:02.944168"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "2 tbsp flour",
-            "title": "",
-            "originalText": "2 tablespoon flour",
-            "referenceId": "d8aa5c3a-dafb-4c38-ada8-7b4e3975c719"
-        },
-        {
-            "quantity": 2.0,
-            "unit": {
-                "id": "f860cec4-a431-41b7-8ddc-0035e4be52c2",
-                "name": "clove",
-                "pluralName": "cloves",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "",
-                "pluralAbbreviation": "",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:12.511215",
-                "updateAt": "2024-05-13T12:25:56.749590"
-            },
-            "food": {
-                "id": "fd860af3-2047-4ffc-be87-65cbeb97ce1e",
-                "name": "garlic",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:35.923453",
-                "updateAt": "2024-04-27T03:14:08.683777"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "2 cloves garlic",
-            "title": "",
-            "originalText": "2 clove garlic",
-            "referenceId": "687c12f0-4017-493a-a1e6-007cc1f6bc65"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "d9a322c3-fd8e-4b39-809f-abcbd76b8062",
-                "name": "water",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": null,
-                "aliases": [],
-                "label": null,
-                "createdAt": "2024-04-27T02:31:21.445759",
-                "updateAt": "2024-04-27T03:05:36.520887"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 cup water",
-            "title": "",
-            "originalText": "1 cup water",
-            "referenceId": "e8f4bca0-d1a7-4277-abf6-c97b1d52f061"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
-                "name": "tablespoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tbsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.018253",
-                "updateAt": "2024-05-13T12:27:59.862809"
-            },
-            "food": {
-                "id": "b7e8f8b8-19f9-4e20-9783-f90d8aa54bb8",
-                "name": "milk",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
-                "aliases": [],
-                "label": {
-                    "name": "Dairy Products",
-                    "color": "#67616c",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f"
-                },
-                "createdAt": "2024-04-26T19:32:20.019954",
-                "updateAt": "2024-04-27T03:18:41.120456"
-            },
-            "note": "dried",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 tbsp milk dried",
-            "title": "",
-            "originalText": "1 tablespoon dried milk",
-            "referenceId": "5e9fd017-e5f6-4054-ad31-84cfd739c7e6"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "de09ad78-8460-446f-88c8-abb398544766",
-                "name": "onion powder",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-29T13:14:34.621701",
-                "updateAt": "2024-04-30T01:53:08.588780"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 tsp onion powder",
-            "title": "",
-            "originalText": "1 teaspoon onion powder",
-            "referenceId": "d8e538e6-95f6-43ec-b04f-147ee8c41940"
-        },
-        {
-            "quantity": 0.5,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "e83a890e-0d16-4075-88d3-863e53c8a2a4",
-                "name": "salt",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:32.495091",
-                "updateAt": "2024-04-27T03:09:26.465777"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2082 tsp salt",
-            "title": "",
-            "originalText": "0.5 teaspoon salt",
-            "referenceId": "de9944e5-1208-424d-a056-938300cdf360"
-        },
-        {
-            "quantity": 0.25,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "587cccf7-b102-46d0-a598-acb38cb2de8c",
-                "name": "cayenne pepper",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:38.727699",
-                "updateAt": "2024-04-27T03:08:25.782853"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2084 tsp cayenne pepper",
-            "title": "",
-            "originalText": "0.25 teaspoon cayenne pepper",
-            "referenceId": "fc3f0bf9-867a-4f59-82ca-030fc87087b4"
-        },
-        {
-            "quantity": 0.75,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "b23ef96b-f10d-48a0-87e6-63e1ff9b111e",
-                "name": "pepper",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [
-                    {
-                        "name": "black pepper"
-                    }
-                ],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:43.184271",
-                "updateAt": "2024-04-27T03:08:33.535970"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b3/\u2084 tsp pepper",
-            "title": "",
-            "originalText": "0.75 teaspoon pepper",
-            "referenceId": "129c8285-fd1b-4b60-8a30-55dafd4652bd"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "19951e14-7743-4f0c-8f95-6d833b9ea074",
-                "name": "6 cheese italian blend",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
-                "aliases": [],
-                "label": {
-                    "name": "Dairy Products",
-                    "color": "#67616c",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f"
-                },
-                "createdAt": "2024-05-10T12:43:47.931501",
-                "updateAt": "2024-05-13T12:19:15.978640"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 cup 6 cheese italian blend",
-            "title": "Cheese",
-            "originalText": "1 cup 6 cheese italian blend",
-            "referenceId": "852c7896-aaf9-4edf-8c60-ac73e56b243d"
-        },
-        {
-            "quantity": 0.5,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "bb37ca03-bf6a-4039-a4c0-ca6cdfc07c54",
-                "name": "cheddar cheese",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
-                "aliases": [],
-                "label": {
-                    "name": "Dairy Products",
-                    "color": "#67616c",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f"
-                },
-                "createdAt": "2024-05-10T12:43:50.383553",
-                "updateAt": "2024-05-13T12:19:08.775668"
-            },
-            "note": "sharp",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2082 cup cheddar cheese sharp",
-            "title": "",
-            "originalText": "0.5 cup sharp cheddar cheese",
-            "referenceId": "11099749-fdb5-49fb-9cda-b0e5536a0be2"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "4b941644-0c23-4fcf-a755-02c52d10d745",
-                "name": "4 cheese mexican blend",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
-                "aliases": [],
-                "label": {
-                    "name": "Dairy Products",
-                    "color": "#67616c",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f"
-                },
-                "createdAt": "2024-05-10T12:44:06.626108",
-                "updateAt": "2024-05-13T12:19:01.188409"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 cup 4 cheese mexican blend",
-            "title": "",
-            "originalText": "1 cup 4 cheese mexican blend",
-            "referenceId": "afc5e110-507a-4a41-803f-aeba3f106fc5"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "d9a322c3-fd8e-4b39-809f-abcbd76b8062",
-                "name": "water",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": null,
-                "aliases": [],
-                "label": null,
-                "createdAt": "2024-04-27T02:31:21.445759",
-                "updateAt": "2024-04-27T03:05:36.520887"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 cup water",
-            "title": "",
-            "originalText": "1 cup water",
-            "referenceId": "d098100d-44b1-461b-9e5b-fb42a1c5f68d"
-        }
-    ],
-    "recipeInstructions": [
-        {
-            "id": "4f318b9d-2e05-469d-87f5-d3f23a9217fa",
-            "title": "",
-            "text": "Start pasta boiling.  Once water is boiling should be about 8 minutes (+1 minute to dente value on box)",
-            "ingredientReferences": []
-        },
-        {
-            "id": "f0c67e8d-0078-4e19-ad51-8a7cbfef5fa3",
-            "title": "",
-            "text": "Steam chopped broccoli in microwave (bowl with a little water covered with a plate).  If frozen run for about 3 minutes and check every 30 seconds until done.  Don't over cook.",
-            "ingredientReferences": []
-        },
-        {
-            "id": "f8c663ab-4387-431e-af5c-a2bc9bbaccac",
-            "title": "",
-            "text": "Put the garlic  and olive oil in the roux pot.  And toast  garlic.  Add flour and other spices.  when it starts to darken add 1 cup water.  Mix until thick.",
-            "ingredientReferences": []
-        },
-        {
-            "id": "aecfe367-8f90-4d34-9894-a8fdbb2790ad",
-            "title": "",
-            "text": "Add cheese and an additional cup of water.  Keep blended.",
-            "ingredientReferences": []
-        },
-        {
-            "id": "ba747d5f-18d6-4997-8f20-175d10b557f7",
-            "title": "",
-            "text": "When pasta is done, drain and mix with sauce.  When coated, eat.",
-            "ingredientReferences": []
-        }
-    ],
-    "nutrition": {
-        "calories": null,
-        "fatContent": null,
-        "proteinContent": null,
-        "carbohydrateContent": null,
-        "fiberContent": null,
-        "sodiumContent": null,
-        "sugarContent": null
-    },
-    "settings": {
-        "public": true,
-        "showNutrition": false,
-        "showAssets": false,
-        "landscapeView": false,
-        "disableComments": false,
-        "disableAmount": false,
-        "locked": false
-    },
-    "assets": [],
-    "notes": [
-        {
-            "title": "",
-            "text": "Likely needs a higher sauce to noodle ratio, which mostly means more cheese and water."
-        },
-        {
-            "title": "Noodle free version:",
-            "text": "2 lbs cauliflower\n1 lbs broccoli\n+ 1/2 cup of cheddar\n\nCut into small chunks and microwaved.  took a while probably 10+ minutes.  Make sure this is mostly or completely done before starting cheese. Drain the liquid that came for the frozen veg.  Mix in cheese.  Yum."
-        }
-    ],
-    "extras": {},
-    "comments": []
+    "totalTime": null,
+    "updatedAt": "2024-05-25T11:57:49.196323Z",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31"
 }

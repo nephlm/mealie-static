@@ -1,16 +1,41 @@
 {
-    "id": "5652be7f-06bd-446b-8eb1-fa55a8b3e706",
-    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
-    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-    "name": "BBQ Meatballs",
-    "slug": "bbq-meatballs",
-    "image": null,
-    "recipeYield": null,
-    "totalTime": null,
-    "prepTime": "5 min",
+    "assets": [],
+    "comments": [],
     "cookTime": null,
-    "performTime": "4 hours",
+    "createdAt": "2024-05-02T01:28:45.901361Z",
+    "dateAdded": "2024-05-02",
+    "dateUpdated": "2024-05-02T12:41:33.193921Z",
     "description": "",
+    "extras": {},
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "householdId": "74cd302c-032c-4707-b612-ada7618e0847",
+    "id": "5652be7f-06bd-446b-8eb1-fa55a8b3e706",
+    "image": null,
+    "lastMade": null,
+    "name": "BBQ Meatballs",
+    "notes": [
+        {
+            "text": "Used sweet baby rays honey bbq sauce.  Multiple kind of bbq sauce is probably better.  \n\nI used the 1/2 oz meatballs.\n",
+            "title": ""
+        }
+    ],
+    "nutrition": {
+        "calories": null,
+        "carbohydrateContent": null,
+        "cholesterolContent": null,
+        "fatContent": null,
+        "fiberContent": null,
+        "proteinContent": null,
+        "saturatedFatContent": null,
+        "sodiumContent": null,
+        "sugarContent": null,
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "orgURL": null,
+    "performTime": "4 hours",
+    "prepTime": "5 min",
+    "rating": 5.0,
     "recipeCategory": [
         {
             "id": "5b7f4cd2-5d0e-440e-8e88-64ad06d1aad1",
@@ -18,6 +43,200 @@
             "slug": "entree"
         }
     ],
+    "recipeIngredient": [
+        {
+            "disableAmount": false,
+            "display": "16 oz frozen meatballs",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-05-02T12:40:12.393804Z",
+                "description": "",
+                "extras": {},
+                "id": "3205f4bb-2cc0-45bd-924b-93c9faa6539c",
+                "label": {
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726",
+                    "name": "Frozen Foods"
+                },
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "name": "frozen meatballs",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-05-03T12:48:32.981882Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "16 ounce frozen meatballs",
+            "quantity": 16.0,
+            "referenceId": "6ec2c026-2cb1-4bff-b1cb-7fe5afbe94bc",
+            "title": "",
+            "unit": {
+                "abbreviation": "oz",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.919838Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "d2ec378b-608b-4e61-b0fe-ed15ed84302d",
+                "name": "ounce",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:27:05.285653Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "18 oz barbecue sauce",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-05-02T12:40:14.350229Z",
+                "description": "",
+                "extras": {},
+                "id": "8a2c0e35-5c9b-4764-9eba-1f6c32fee313",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "barbecue sauce",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-05-03T12:48:25.430455Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "18 ounce barbecue sauce",
+            "quantity": 18.0,
+            "referenceId": "d8141dbb-31a8-41d0-8cd0-361de8e2516e",
+            "title": "",
+            "unit": {
+                "abbreviation": "oz",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.919838Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "d2ec378b-608b-4e61-b0fe-ed15ed84302d",
+                "name": "ounce",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:27:05.285653Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2084 cup ketchup",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-30T20:00:00.240111Z",
+                "description": "",
+                "extras": {},
+                "id": "6a0fbf0a-d467-4b67-a42e-d9cdc019b2b5",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "ketchup",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T20:26:58.205397Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.25 cup ketchup",
+            "quantity": 0.25,
+            "referenceId": "b03df3e1-ae59-4c9a-9ab2-124a2857d1d3",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 tbsp honey",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:19.441833Z",
+                "description": "",
+                "extras": {},
+                "id": "f3c19faa-40fd-4a99-8452-b7228462cb53",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "honey",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:19:47.128984Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "2 tablespoon honey",
+            "quantity": 2.0,
+            "referenceId": "6247246f-9146-4924-9b49-cbe3830f0247",
+            "title": "",
+            "unit": {
+                "abbreviation": "tbsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:27:59.862809Z",
+                "useAbbreviation": true
+            }
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "61effb8f-5fd1-442c-a810-c193898dcb12",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "Put everything in slow cooker.  Cook for 4 hours stirring occasionally.",
+            "title": ""
+        }
+    ],
+    "recipeYield": null,
+    "settings": {
+        "disableAmount": false,
+        "disableComments": false,
+        "landscapeView": false,
+        "locked": false,
+        "public": true,
+        "showAssets": false,
+        "showNutrition": false
+    },
+    "slug": "bbq-meatballs",
     "tags": [
         {
             "id": "e1c1c1a2-7783-4dc2-979e-a6f35e1c17e9",
@@ -26,212 +245,7 @@
         }
     ],
     "tools": [],
-    "rating": 5.0,
-    "orgURL": null,
-    "dateAdded": "2024-05-02",
-    "dateUpdated": "2024-05-02T12:41:33.193921",
-    "createdAt": "2024-05-02T01:28:45.901361",
-    "updateAt": "2024-05-02T12:41:33.196417",
-    "lastMade": null,
-    "recipeIngredient": [
-        {
-            "quantity": 16.0,
-            "unit": {
-                "id": "d2ec378b-608b-4e61-b0fe-ed15ed84302d",
-                "name": "ounce",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "oz",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:10.919838",
-                "updateAt": "2024-05-13T12:27:05.285653"
-            },
-            "food": {
-                "id": "3205f4bb-2cc0-45bd-924b-93c9faa6539c",
-                "name": "frozen meatballs",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
-                "aliases": [],
-                "label": {
-                    "name": "Frozen Foods",
-                    "color": "#216fb2",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "e4571c39-b7f7-4a4f-b701-283690066726"
-                },
-                "createdAt": "2024-05-02T12:40:12.393804",
-                "updateAt": "2024-05-03T12:48:32.981882"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "16 oz frozen meatballs",
-            "title": "",
-            "originalText": "16 ounce frozen meatballs",
-            "referenceId": "6ec2c026-2cb1-4bff-b1cb-7fe5afbe94bc"
-        },
-        {
-            "quantity": 18.0,
-            "unit": {
-                "id": "d2ec378b-608b-4e61-b0fe-ed15ed84302d",
-                "name": "ounce",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "oz",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:10.919838",
-                "updateAt": "2024-05-13T12:27:05.285653"
-            },
-            "food": {
-                "id": "8a2c0e35-5c9b-4764-9eba-1f6c32fee313",
-                "name": "barbecue sauce",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-05-02T12:40:14.350229",
-                "updateAt": "2024-05-03T12:48:25.430455"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "18 oz barbecue sauce",
-            "title": "",
-            "originalText": "18 ounce barbecue sauce",
-            "referenceId": "d8141dbb-31a8-41d0-8cd0-361de8e2516e"
-        },
-        {
-            "quantity": 0.25,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "6a0fbf0a-d467-4b67-a42e-d9cdc019b2b5",
-                "name": "ketchup",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-30T20:00:00.240111",
-                "updateAt": "2024-04-30T20:26:58.205397"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2084 cup ketchup",
-            "title": "",
-            "originalText": "0.25 cup ketchup",
-            "referenceId": "b03df3e1-ae59-4c9a-9ab2-124a2857d1d3"
-        },
-        {
-            "quantity": 2.0,
-            "unit": {
-                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
-                "name": "tablespoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tbsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.018253",
-                "updateAt": "2024-05-13T12:27:59.862809"
-            },
-            "food": {
-                "id": "f3c19faa-40fd-4a99-8452-b7228462cb53",
-                "name": "honey",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-26T19:32:19.441833",
-                "updateAt": "2024-04-27T03:19:47.128984"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "2 tbsp honey",
-            "title": "",
-            "originalText": "2 tablespoon honey",
-            "referenceId": "6247246f-9146-4924-9b49-cbe3830f0247"
-        }
-    ],
-    "recipeInstructions": [
-        {
-            "id": "61effb8f-5fd1-442c-a810-c193898dcb12",
-            "title": "",
-            "text": "Put everything in slow cooker.  Cook for 4 hours stirring occasionally.",
-            "ingredientReferences": []
-        }
-    ],
-    "nutrition": {
-        "calories": null,
-        "fatContent": null,
-        "proteinContent": null,
-        "carbohydrateContent": null,
-        "fiberContent": null,
-        "sodiumContent": null,
-        "sugarContent": null
-    },
-    "settings": {
-        "public": true,
-        "showNutrition": false,
-        "showAssets": false,
-        "landscapeView": false,
-        "disableComments": false,
-        "disableAmount": false,
-        "locked": false
-    },
-    "assets": [],
-    "notes": [
-        {
-            "title": "",
-            "text": "Used sweet baby rays honey bbq sauce.  Multiple kind of bbq sauce is probably better.  \n\nI used the 1/2 oz meatballs.\n"
-        }
-    ],
-    "extras": {},
-    "comments": []
+    "totalTime": null,
+    "updatedAt": "2024-05-02T12:41:33.196417Z",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31"
 }

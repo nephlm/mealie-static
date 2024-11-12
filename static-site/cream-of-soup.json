@@ -1,16 +1,41 @@
 {
-    "id": "e72a32e3-5b06-413a-b168-fa7edf13816f",
-    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31",
-    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-    "name": "Cream of Soup",
-    "slug": "cream-of-soup",
-    "image": null,
-    "recipeYield": null,
-    "totalTime": null,
-    "prepTime": null,
+    "assets": [],
+    "comments": [],
     "cookTime": null,
-    "performTime": null,
+    "createdAt": "2024-04-30T01:39:22.728833Z",
+    "dateAdded": "2024-04-30",
+    "dateUpdated": "2024-04-30T12:30:28.840533Z",
     "description": "This is basically a few variants on a roux to be used as a sub in for various cream of X soups.",
+    "extras": {},
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "householdId": "74cd302c-032c-4707-b612-ada7618e0847",
+    "id": "e72a32e3-5b06-413a-b168-fa7edf13816f",
+    "image": null,
+    "lastMade": null,
+    "name": "Cream of Soup",
+    "notes": [
+        {
+            "text": "Pretty much any fat can be used in the place of olive oil. ",
+            "title": ""
+        }
+    ],
+    "nutrition": {
+        "calories": null,
+        "carbohydrateContent": null,
+        "cholesterolContent": null,
+        "fatContent": null,
+        "fiberContent": null,
+        "proteinContent": null,
+        "saturatedFatContent": null,
+        "sodiumContent": null,
+        "sugarContent": null,
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "orgURL": null,
+    "performTime": null,
+    "prepTime": null,
+    "rating": null,
     "recipeCategory": [
         {
             "id": "a56787ef-8315-4823-93e5-76c39308da3c",
@@ -18,6 +43,340 @@
             "slug": "ingrediant"
         }
     ],
+    "recipeIngredient": [
+        {
+            "disableAmount": false,
+            "display": "2 tbsp flour",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.611040Z",
+                "description": "",
+                "extras": {},
+                "id": "c19cfcd8-10d0-464b-9b65-e6c8d757db8f",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "flour",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:20:02.944168Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "2.0 tablespoon flour",
+            "quantity": 2.0,
+            "referenceId": "d2243a8b-8aa5-44a7-a640-c03898e00af3",
+            "title": "",
+            "unit": {
+                "abbreviation": "tbsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:27:59.862809Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 tbsp olive oil",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:30.465893Z",
+                "description": "",
+                "extras": {},
+                "id": "75f848c8-5343-4c80-a97c-74f48aa7b681",
+                "label": {
+                    "color": "#e89eb9",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "046d1084-5c4a-4f9f-8695-c38791043125",
+                    "name": "Oil"
+                },
+                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
+                "name": "olive oil",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:15:40.768294Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "2.0 tablespoon olive oil",
+            "quantity": 2.0,
+            "referenceId": "ff11ca69-fa39-4335-be75-ce0f19e901d6",
+            "title": "",
+            "unit": {
+                "abbreviation": "tbsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:27:59.862809Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 cup liquid",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-30T12:29:10.894091Z",
+                "description": "",
+                "extras": {},
+                "id": "b45e5075-396e-459f-822d-7dc379f7040e",
+                "label": {
+                    "color": "#E0E0E0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "c952206c-6772-4f43-a09c-b2a584fb9ea2",
+                    "name": "Other"
+                },
+                "labelId": "c952206c-6772-4f43-a09c-b2a584fb9ea2",
+                "name": "liquid",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T20:29:04.490566Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1.0 cup liquid",
+            "quantity": 1.0,
+            "referenceId": "af59d389-753c-465c-8648-303a802b7db8",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2084 tsp salt",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:32.495091Z",
+                "description": "",
+                "extras": {},
+                "id": "e83a890e-0d16-4075-88d3-863e53c8a2a4",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "salt",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:09:26.465777Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.25 teaspoon salt",
+            "quantity": 0.25,
+            "referenceId": "6e98625e-18bb-4ac4-a14b-0fff86e5470f",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2084 tsp pepper",
+            "food": {
+                "aliases": [
+                    {
+                        "name": "black pepper"
+                    }
+                ],
+                "createdAt": "2024-04-26T19:32:43.184271Z",
+                "description": "",
+                "extras": {},
+                "id": "b23ef96b-f10d-48a0-87e6-63e1ff9b111e",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "pepper",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:08:33.535970Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "0.25 teaspoon pepper",
+            "quantity": 0.25,
+            "referenceId": "f3342d17-ad39-4a66-9c6e-36cdb993be5d",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 tbsp onion flakes dried",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-30T12:29:36.244671Z",
+                "description": "",
+                "extras": {},
+                "id": "184cba8e-8802-48f2-b1e3-87f0042b7540",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "onion flakes",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T20:28:55.806703Z"
+            },
+            "isFood": true,
+            "note": "dried",
+            "originalText": "2.0 tablespoon dried onion flakes",
+            "quantity": 2.0,
+            "referenceId": "6137f02e-72fa-4ce3-b127-0c095f4cbd51",
+            "title": "",
+            "unit": {
+                "abbreviation": "tbsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:27:59.862809Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 tsp garlic minced",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:35.923453Z",
+                "description": "",
+                "extras": {},
+                "id": "fd860af3-2047-4ffc-be87-65cbeb97ce1e",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "garlic",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:14:08.683777Z"
+            },
+            "isFood": true,
+            "note": "minced",
+            "originalText": "0.5 teaspoon minced garlic",
+            "quantity": 0.5,
+            "referenceId": "e985ba0b-893e-4a66-9efc-684d7d82cda6",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "aa458571-f926-4fbf-9b94-2d58f0b1436e",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "Melt the butter in a small sauce pan over medium-low heat. When melted, whisk in the flour and continue whisking until smooth and bubbly. Remove from the heat and slowly whisk in the chicken broth and milk. Return to the heat and bring to a gentle boil, whisking constantly, until the soup thickens. Add salt and pepper to taste.",
+            "title": ""
+        },
+        {
+            "id": "6866ef02-e108-4bfa-aeb0-d0c92925346c",
+            "ingredientReferences": [],
+            "summary": null,
+            "text": "Variations:\n\nCream of Chicken: Use half milk, half chicken broth for the liquid.  1/4 tsp sage, thyme, onion powder, garlic powder and a pinch of adobo.\n\nTomato Soup: Use tomato juice for the liquid. Add dashes of garlic, onion powder, basil and oregano.\n\n Chicken Soup: Use chicken broth for half the liquid. Add 1/4 t. poultry seasoning or sage.\n\nCelery Soup: Dice one stalk celery and saute in butter once melted, before adding flour.  Use milk as liquid.\n\nMushroom/celery/chive soup: Saute 1/4 C chopped mushrooms, celery or chives and 1 T minced onion in butter before adding flour. Use milk as liquid.",
+            "title": ""
+        }
+    ],
+    "recipeYield": null,
+    "settings": {
+        "disableAmount": false,
+        "disableComments": false,
+        "landscapeView": false,
+        "locked": false,
+        "public": true,
+        "showAssets": false,
+        "showNutrition": false
+    },
+    "slug": "cream-of-soup",
     "tags": [
         {
             "id": "e1c1c1a2-7783-4dc2-979e-a6f35e1c17e9",
@@ -26,345 +385,7 @@
         }
     ],
     "tools": [],
-    "rating": null,
-    "orgURL": null,
-    "dateAdded": "2024-04-30",
-    "dateUpdated": "2024-04-30T12:30:28.840533",
-    "createdAt": "2024-04-30T01:39:22.728833",
-    "updateAt": "2024-04-30T12:30:28.842361",
-    "lastMade": null,
-    "recipeIngredient": [
-        {
-            "quantity": 2.0,
-            "unit": {
-                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
-                "name": "tablespoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tbsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.018253",
-                "updateAt": "2024-05-13T12:27:59.862809"
-            },
-            "food": {
-                "id": "c19cfcd8-10d0-464b-9b65-e6c8d757db8f",
-                "name": "flour",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
-                "aliases": [],
-                "label": {
-                    "name": "Cans and Jars",
-                    "color": "#5c57b0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467"
-                },
-                "createdAt": "2024-04-26T19:32:07.611040",
-                "updateAt": "2024-04-27T03:20:02.944168"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "2 tbsp flour",
-            "title": "",
-            "originalText": "2.0 tablespoon flour",
-            "referenceId": "d2243a8b-8aa5-44a7-a640-c03898e00af3"
-        },
-        {
-            "quantity": 2.0,
-            "unit": {
-                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
-                "name": "tablespoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tbsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.018253",
-                "updateAt": "2024-05-13T12:27:59.862809"
-            },
-            "food": {
-                "id": "75f848c8-5343-4c80-a97c-74f48aa7b681",
-                "name": "olive oil",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
-                "aliases": [],
-                "label": {
-                    "name": "Oil",
-                    "color": "#e89eb9",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "046d1084-5c4a-4f9f-8695-c38791043125"
-                },
-                "createdAt": "2024-04-26T19:32:30.465893",
-                "updateAt": "2024-04-27T03:15:40.768294"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "2 tbsp olive oil",
-            "title": "",
-            "originalText": "2.0 tablespoon olive oil",
-            "referenceId": "ff11ca69-fa39-4335-be75-ce0f19e901d6"
-        },
-        {
-            "quantity": 1.0,
-            "unit": {
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "pluralName": "cups",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "cup",
-                "pluralAbbreviation": "c",
-                "useAbbreviation": false,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520",
-                "updateAt": "2024-05-13T12:21:47.446380"
-            },
-            "food": {
-                "id": "b45e5075-396e-459f-822d-7dc379f7040e",
-                "name": "liquid",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "c952206c-6772-4f43-a09c-b2a584fb9ea2",
-                "aliases": [],
-                "label": {
-                    "name": "Other",
-                    "color": "#E0E0E0",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "c952206c-6772-4f43-a09c-b2a584fb9ea2"
-                },
-                "createdAt": "2024-04-30T12:29:10.894091",
-                "updateAt": "2024-04-30T20:29:04.490566"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "1 cup liquid",
-            "title": "",
-            "originalText": "1.0 cup liquid",
-            "referenceId": "af59d389-753c-465c-8648-303a802b7db8"
-        },
-        {
-            "quantity": 0.25,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "e83a890e-0d16-4075-88d3-863e53c8a2a4",
-                "name": "salt",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:32.495091",
-                "updateAt": "2024-04-27T03:09:26.465777"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2084 tsp salt",
-            "title": "",
-            "originalText": "0.25 teaspoon salt",
-            "referenceId": "6e98625e-18bb-4ac4-a14b-0fff86e5470f"
-        },
-        {
-            "quantity": 0.25,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "b23ef96b-f10d-48a0-87e6-63e1ff9b111e",
-                "name": "pepper",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [
-                    {
-                        "name": "black pepper"
-                    }
-                ],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:43.184271",
-                "updateAt": "2024-04-27T03:08:33.535970"
-            },
-            "note": "",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2084 tsp pepper",
-            "title": "",
-            "originalText": "0.25 teaspoon pepper",
-            "referenceId": "f3342d17-ad39-4a66-9c6e-36cdb993be5d"
-        },
-        {
-            "quantity": 2.0,
-            "unit": {
-                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
-                "name": "tablespoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tbsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.018253",
-                "updateAt": "2024-05-13T12:27:59.862809"
-            },
-            "food": {
-                "id": "184cba8e-8802-48f2-b1e3-87f0042b7540",
-                "name": "onion flakes",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-30T12:29:36.244671",
-                "updateAt": "2024-04-30T20:28:55.806703"
-            },
-            "note": "dried",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "2 tbsp onion flakes dried",
-            "title": "",
-            "originalText": "2.0 tablespoon dried onion flakes",
-            "referenceId": "6137f02e-72fa-4ce3-b127-0c095f4cbd51"
-        },
-        {
-            "quantity": 0.5,
-            "unit": {
-                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
-                "name": "teaspoon",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "abbreviation": "tsp",
-                "pluralAbbreviation": "",
-                "useAbbreviation": true,
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:07.477458",
-                "updateAt": "2024-05-13T12:28:06.444827"
-            },
-            "food": {
-                "id": "fd860af3-2047-4ffc-be87-65cbeb97ce1e",
-                "name": "garlic",
-                "pluralName": null,
-                "description": "",
-                "extras": {},
-                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
-                "aliases": [],
-                "label": {
-                    "name": "Spices",
-                    "color": "#d09477",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed"
-                },
-                "createdAt": "2024-04-26T19:32:35.923453",
-                "updateAt": "2024-04-27T03:14:08.683777"
-            },
-            "note": "minced",
-            "isFood": true,
-            "disableAmount": false,
-            "display": "\u00b9/\u2082 tsp garlic minced",
-            "title": "",
-            "originalText": "0.5 teaspoon minced garlic",
-            "referenceId": "e985ba0b-893e-4a66-9efc-684d7d82cda6"
-        }
-    ],
-    "recipeInstructions": [
-        {
-            "id": "aa458571-f926-4fbf-9b94-2d58f0b1436e",
-            "title": "",
-            "text": "Melt the butter in a small sauce pan over medium-low heat. When melted, whisk in the flour and continue whisking until smooth and bubbly. Remove from the heat and slowly whisk in the chicken broth and milk. Return to the heat and bring to a gentle boil, whisking constantly, until the soup thickens. Add salt and pepper to taste.",
-            "ingredientReferences": []
-        },
-        {
-            "id": "6866ef02-e108-4bfa-aeb0-d0c92925346c",
-            "title": "",
-            "text": "Variations:\n\nCream of Chicken: Use half milk, half chicken broth for the liquid.  1/4 tsp sage, thyme, onion powder, garlic powder and a pinch of adobo.\n\nTomato Soup: Use tomato juice for the liquid. Add dashes of garlic, onion powder, basil and oregano.\n\n Chicken Soup: Use chicken broth for half the liquid. Add 1/4 t. poultry seasoning or sage.\n\nCelery Soup: Dice one stalk celery and saute in butter once melted, before adding flour.  Use milk as liquid.\n\nMushroom/celery/chive soup: Saute 1/4 C chopped mushrooms, celery or chives and 1 T minced onion in butter before adding flour. Use milk as liquid.",
-            "ingredientReferences": []
-        }
-    ],
-    "nutrition": {
-        "calories": null,
-        "fatContent": null,
-        "proteinContent": null,
-        "carbohydrateContent": null,
-        "fiberContent": null,
-        "sodiumContent": null,
-        "sugarContent": null
-    },
-    "settings": {
-        "public": true,
-        "showNutrition": false,
-        "showAssets": false,
-        "landscapeView": false,
-        "disableComments": false,
-        "disableAmount": false,
-        "locked": false
-    },
-    "assets": [],
-    "notes": [
-        {
-            "title": "",
-            "text": "Pretty much any fat can be used in the place of olive oil. "
-        }
-    ],
-    "extras": {},
-    "comments": []
+    "totalTime": null,
+    "updatedAt": "2024-04-30T12:30:28.842361Z",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31"
 }
