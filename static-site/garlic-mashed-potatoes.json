@@ -1,0 +1,325 @@
+{
+    "assets": [],
+    "comments": [],
+    "cookTime": null,
+    "createdAt": "2024-11-30T20:33:11.448955Z",
+    "dateAdded": "2024-11-30",
+    "dateUpdated": "2024-12-01T18:45:42.409670Z",
+    "description": "",
+    "extras": {},
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "householdId": "74cd302c-032c-4707-b612-ada7618e0847",
+    "id": "60fafb73-503f-4da6-93c4-bb1bf35ec674",
+    "image": null,
+    "lastMade": null,
+    "name": "Garlic Mashed Potatoes",
+    "notes": [
+        {
+            "text": "Just about everyone says add sour cream, but we as a family have never done that.  Of course we never used to add garlic either, so....  Something to think about for the future.",
+            "title": "Sour Cream"
+        }
+    ],
+    "nutrition": {
+        "calories": null,
+        "carbohydrateContent": null,
+        "cholesterolContent": null,
+        "fatContent": null,
+        "fiberContent": null,
+        "proteinContent": null,
+        "saturatedFatContent": null,
+        "sodiumContent": null,
+        "sugarContent": null,
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "orgURL": null,
+    "performTime": "20 minutes",
+    "prepTime": "15 minutes",
+    "rating": null,
+    "recipeCategory": [
+        {
+            "id": "5f7be602-5b98-4454-af0e-bc55a5b77108",
+            "name": "Side Dish",
+            "slug": "side-dish"
+        }
+    ],
+    "recipeIngredient": [
+        {
+            "disableAmount": false,
+            "display": "5 lbs potatoes Red, unpeeled",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:39.537591Z",
+                "description": "",
+                "extras": {},
+                "id": "37832f9d-9a7f-46ba-8008-318e4b203c17",
+                "label": {
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                    "name": "Produce"
+                },
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "name": "potatoes",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-26T19:51:52.650876Z"
+            },
+            "isFood": true,
+            "note": "Red, unpeeled",
+            "originalText": "5 lbs red potatoes",
+            "quantity": 5.0,
+            "referenceId": "cbaa6e8b-49b7-46bc-a3a0-7f7daa0b47ba",
+            "title": "",
+            "unit": {
+                "abbreviation": "lb",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.726674Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
+                "name": "pound",
+                "onHand": false,
+                "pluralAbbreviation": "lbs",
+                "pluralName": "pounds",
+                "updatedAt": "2024-05-02T12:28:24.776546Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 stick butter At least.  Salted or unsalted",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:50.494673Z",
+                "description": "",
+                "extras": {},
+                "id": "27fcdf3d-7471-4ea7-9056-1a4342841761",
+                "label": {
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                    "name": "Dairy Products"
+                },
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "name": "butter",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:06:51.864313Z"
+            },
+            "isFood": true,
+            "note": "At least.  Salted or unsalted",
+            "originalText": "1 stick butter",
+            "quantity": 2.0,
+            "referenceId": "b4fa3fc8-2383-42aa-ab16-0fc3010b67f5",
+            "title": "",
+            "unit": {
+                "abbreviation": "",
+                "aliases": [],
+                "createdAt": "2024-11-30T20:36:48.074528Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "96e64faf-e36a-45bb-a8d3-72f1c0905f87",
+                "name": "stick",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-11-30T20:36:48.074531Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "3 cloves garlic",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:35.923453Z",
+                "description": "",
+                "extras": {},
+                "id": "fd860af3-2047-4ffc-be87-65cbeb97ce1e",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "garlic",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:14:08.683777Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "3 cloves garlic",
+            "quantity": 3.0,
+            "referenceId": "63dc8635-53f7-4cad-9b89-7280511e355f",
+            "title": "",
+            "unit": {
+                "abbreviation": "",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:12.511215Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "f860cec4-a431-41b7-8ddc-0035e4be52c2",
+                "name": "clove",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": "cloves",
+                "updatedAt": "2024-05-13T12:25:56.749590Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u2075/\u2088 cup milk 2%, warmed, add to desired consistency, 5/8ths cup",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:20.019954Z",
+                "description": "",
+                "extras": {},
+                "id": "b7e8f8b8-19f9-4e20-9783-f90d8aa54bb8",
+                "label": {
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                    "name": "Dairy Products"
+                },
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "name": "milk",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:18:41.120456Z"
+            },
+            "isFood": true,
+            "note": "2%, warmed, add to desired consistency, 5/8ths cup",
+            "originalText": "milk",
+            "quantity": 0.625,
+            "referenceId": "656174a1-d6c4-46b8-ad4d-ddcc9b65d9c1",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 tsp salt Add to taste, depending on butter it may be more or less",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:32.495091Z",
+                "description": "",
+                "extras": {},
+                "id": "e83a890e-0d16-4075-88d3-863e53c8a2a4",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "salt",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:09:26.465777Z"
+            },
+            "isFood": true,
+            "note": "Add to taste, depending on butter it may be more or less",
+            "originalText": "salt",
+            "quantity": 1.0,
+            "referenceId": "43e4134e-226a-4bbf-a408-9a65792098d4",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "d9ab55ba-b2ba-4909-8163-fa26fcd0ee46",
+            "ingredientReferences": [],
+            "summary": "",
+            "text": "Cut potatoes into smaller pieces, want them small enough so they cook evenly.\n\n(Can be done the night before, submerge potato in water.  Adding some better than bullion and a few cloves of garlic can probably only help)\n\nBoil until super soft.\n",
+            "title": ""
+        },
+        {
+            "id": "190fb0bf-56aa-41fc-be5c-d7ed4bbdba43",
+            "ingredientReferences": [],
+            "summary": "",
+            "text": "* Add Butter and let melt.  \n* Add a bit of milk (Some people say the milk should be warmed, just so its no longer cold.  Maybe 30 seconds in the microwave.)\n* Add garlic and a little salt\n* Start Mashing\n\nAdd more milk and butter and salt as needed\n\nMash, mash and mash until smooth, no need to over mash",
+            "title": ""
+        },
+        {
+            "id": "3cb6d21e-fdb4-443f-94c0-926360f5b227",
+            "ingredientReferences": [],
+            "summary": "",
+            "text": "If being brought somewhere or needs to be kept warm, transfer to crock pot and keep on warm for many hours.  \nMay need a bit more milk mixed in if left warming for a long time. ",
+            "title": ""
+        }
+    ],
+    "recipeYield": "10",
+    "settings": {
+        "disableAmount": false,
+        "disableComments": false,
+        "landscapeView": false,
+        "locked": false,
+        "public": true,
+        "showAssets": false,
+        "showNutrition": false
+    },
+    "slug": "garlic-mashed-potatoes",
+    "tags": [
+        {
+            "id": "06c33f52-bf37-4044-ad83-bc071e6c090e",
+            "name": "Imprecise",
+            "slug": "imprecise"
+        },
+        {
+            "id": "dc321406-a09c-48e1-8a52-97c1dafa5d00",
+            "name": "Family",
+            "slug": "family"
+        },
+        {
+            "id": "e1c1c1a2-7783-4dc2-979e-a6f35e1c17e9",
+            "name": "Needs Pic",
+            "slug": "needs-pic"
+        }
+    ],
+    "tools": [
+        {
+            "id": "04ff8a94-6272-4ed7-9bc3-4a37d69841e9",
+            "name": "Potato Masher",
+            "onHand": true,
+            "slug": "potato-masher"
+        }
+    ],
+    "totalTime": "35 minutes",
+    "updatedAt": "2024-12-01T18:45:42.412665Z",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31"
+}

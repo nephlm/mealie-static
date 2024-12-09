@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Garlic Mashed Potatoes</title>
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
+
+        <style>
+            no-bullet {
+                list-style-type: none;
+                margin-left: 1.5rem;
+            }
+        </style>
+    </head>
+    <body>
+        <section class="hero is-small is-primary">
+
+            <div class="hero-head">
+                <div class="columns ml-2 mr-2">
+                    <div class="column">
+                        <a  href="index.html">
+                            Home
+                        </a>
+                        
+                        <a class="ml-6" href= "garlic-mashed-potatoes.json">JSON</a>
+
+                    </div>
+                    <div class="column has-text-right">
+                        <span class="tag is-rounded is-primary is-light is-size-7 ml-1"> Side Dish</span>
+                        <span class="tag is-rounded is-primary is-light is-size-7 "> Imprecise</span><span class="tag is-rounded is-primary is-light is-size-7 ml-1"> Family</span><span class="tag is-rounded is-primary is-light is-size-7 ml-1"> Needs Pic</span>
+                        <span class="tag is-rounded is-primary is-light is-size-7">☆☆☆☆☆</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="hero-body">
+                <p class="title">Garlic Mashed Potatoes</p>
+                <p class="subtitle is-6"></p>
+            </div>
+        </section>
+
+        <section>
+            <div class="columns">
+
+                <div class="column is-one-third p-5 m-3">
+                    <h2 class="title is-3">Ingredients</h2>
+
+                    <div class="box">
+                        <ul class="no-bullet">
+
+
+                        
+                        
+                        <li class="no-bullet">
+                            5 lbs potatoes 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                Red, unpeeled
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            2 stick butter 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                At least.  Salted or unsalted
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            3 cloves garlic
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ⁵/₈ cup milk 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                2%, warmed, add to desired consistency, 5/8ths cup
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 tsp salt 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                Add to taste, depending on butter it may be more or less
+                            </li>
+                        
+                        
+                    </ul>
+                    </div>
+                </div>
+
+                <div class="column p-5 m-3" id="instructions">
+
+                    <h2 class="title is-3">Instructions</h2>
+                    
+                        <script>
+                            var parsed = marked.parse(`Cut potatoes into smaller pieces, want them small enough so they cook evenly.
+
+(Can be done the night before, submerge potato in water.  Adding some better than bullion and a few cloves of garlic can probably only help)
+
+Boil until super soft.
+`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`* Add Butter and let melt.  
+* Add a bit of milk (Some people say the milk should be warmed, just so its no longer cold.  Maybe 30 seconds in the microwave.)
+* Add garlic and a little salt
+* Start Mashing
+
+Add more milk and butter and salt as needed
+
+Mash, mash and mash until smooth, no need to over mash`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`If being brought somewhere or needs to be kept warm, transfer to crock pot and keep on warm for many hours.  
+May need a bit more milk mixed in if left warming for a long time. `, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="p-5 m-3">
+
+
+                <h2 class="title is-3">Notes</h2>
+                
+                <div class="box">
+
+                    <h3 class="subtitle is-6 has-text-weight-medium">
+                        Sour Cream:
+                    </h3>
+                </div>
+                <script>
+                    var parsed = marked.parse(`Just about everyone says add sour cream, but we as a family have never done that.  Of course we never used to add garlic either, so....  Something to think about for the future.`, {breaks: true})
+                    $('.box:last').append('<div class="content">' + parsed + '</div>')
+                    </script>
+            
+        </div>
+        </section>
+
+    </body>
+</html>
