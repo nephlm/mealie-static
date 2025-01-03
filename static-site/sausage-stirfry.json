@@ -4,7 +4,7 @@
     "cookTime": null,
     "createdAt": "2024-04-30T00:45:11.489386Z",
     "dateAdded": "2024-04-30",
-    "dateUpdated": "2024-06-06T17:58:40.249273Z",
+    "dateUpdated": "2025-01-03T03:00:44.460269Z",
     "description": "",
     "extras": {},
     "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
@@ -338,6 +338,44 @@
                 "pluralName": null,
                 "updatedAt": "2024-05-13T12:28:06.444827Z",
                 "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b3/\u2084 cup water",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T02:31:21.445759Z",
+                "description": "",
+                "extras": {},
+                "id": "d9a322c3-fd8e-4b39-809f-abcbd76b8062",
+                "label": null,
+                "labelId": null,
+                "name": "water",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:05:36.520887Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": null,
+            "quantity": 0.75,
+            "referenceId": "16a7aece-1a7f-4fdc-92f9-3132ebb56055",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
             }
         },
         {
@@ -716,35 +754,35 @@
     ],
     "recipeInstructions": [
         {
-            "id": "9ae34bf2-1a79-496e-980e-ff89a008758e",
+            "id": "e24ae7a0-edd9-4634-88f3-c2152c59c27f",
             "ingredientReferences": [],
             "summary": null,
             "text": "Mix the sauce together in any container large enough to hold it. ",
             "title": ""
         },
         {
-            "id": "e09b8e3c-9646-419a-aeab-6c9be22a1fe1",
+            "id": "5ea1f55f-5467-40e3-8e63-6814f3abc59d",
             "ingredientReferences": [],
             "summary": null,
             "text": "Cook rice in rice cooker.  Add butter and 2 tbs of stirfry sauce, cook in chicken broth.",
             "title": ""
         },
         {
-            "id": "9eee2abc-d3c2-4cf9-a431-bd8c9abee507",
+            "id": "c3a41bcf-4fb0-464d-a061-8366712f9358",
             "ingredientReferences": [],
             "summary": null,
             "text": "Brown sausage.  Set aside sausage and broth.\n",
             "title": ""
         },
         {
-            "id": "0d47ca5f-d456-4171-bdef-51a3482bfba2",
+            "id": "6aae9a08-282a-42c1-8476-5e019a5c52dd",
             "ingredientReferences": [],
             "summary": null,
             "text": "In the same pan cook Asian stifry.  When almost done add sausage/broth and remainder of sauce.",
             "title": ""
         },
         {
-            "id": "127371d5-a943-4c94-ae26-8291a3772b9e",
+            "id": "f638a7ae-78d3-434c-82a9-98a787493387",
             "ingredientReferences": [],
             "summary": null,
             "text": "When done add rice and mix.",
@@ -776,6 +814,6 @@
     ],
     "tools": [],
     "totalTime": null,
-    "updatedAt": "2024-06-06T17:58:40.253180Z",
+    "updatedAt": "2025-01-03T03:00:44.464359Z",
     "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31"
 }

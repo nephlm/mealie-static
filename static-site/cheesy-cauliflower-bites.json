@@ -4,7 +4,7 @@
     "cookTime": null,
     "createdAt": "2024-09-14T11:37:41.154895Z",
     "dateAdded": "2024-09-14",
-    "dateUpdated": "2024-09-14T12:05:58.349078Z",
+    "dateUpdated": "2024-12-24T02:50:46.556345Z",
     "description": "",
     "extras": {},
     "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
@@ -84,7 +84,7 @@
         },
         {
             "disableAmount": false,
-            "display": "1 \u00b9/\u2084 cups shredded cheese (sharp cheddar)",
+            "display": "1 \u00b9/\u2082 cups shredded cheese (cheddar italian mix)",
             "food": {
                 "aliases": [],
                 "createdAt": "2024-04-29T12:58:31.112043Z",
@@ -104,9 +104,9 @@
                 "updatedAt": "2024-04-30T01:54:07.855215Z"
             },
             "isFood": true,
-            "note": "(sharp cheddar)",
+            "note": "(cheddar italian mix)",
             "originalText": "1.25 cups shredded cheese (sharp cheddar)",
-            "quantity": 1.25,
+            "quantity": 1.5,
             "referenceId": "2d66ae42-e21c-429c-91a2-b40b22f31cf3",
             "title": "",
             "unit": {
@@ -462,45 +462,45 @@
     ],
     "recipeInstructions": [
         {
-            "id": "6418dadf-0e97-47d5-820d-753a9fc1475e",
+            "id": "5c6739f8-6707-4c5e-8d5c-efbbb7222e44",
             "ingredientReferences": [],
             "summary": null,
-            "text": "Pre-heat oven to 350 degrees.",
+            "text": "Pre-heat oven to 400 degrees.",
             "title": ""
         },
         {
-            "id": "859c17cf-cff8-4630-bc8a-592de2a6b68e",
+            "id": "85aeb357-d9aa-40b4-bca1-4df13365e7e6",
             "ingredientReferences": [],
             "summary": null,
             "text": "Microwave Cauliflower for 6 minutes. (Drain if needed.)",
             "title": ""
         },
         {
-            "id": "d4e1ce7b-cf41-460c-8a7e-cd475ec5f1e3",
+            "id": "4f18730b-6dd2-4293-89b6-3c2d67591d53",
             "ingredientReferences": [],
             "summary": null,
             "text": "Mix everything else in a large bowl and mix it all together. (Adjust bread crumbs if needed for consistency.)",
             "title": ""
         },
         {
-            "id": "f2ee4ea6-4dd9-45ef-b1fe-256b92562ed5",
+            "id": "afce4479-68fc-4ea0-ad53-ec9ce29ae8c3",
             "ingredientReferences": [],
             "summary": null,
             "text": "Form mixture into round balls (1.5 inch-ish), and place them on cookie tray lined with aluminum foil and sprayed with olive oil.",
             "title": ""
         },
         {
-            "id": "b50479e7-2759-4c4a-8bd3-f33756de4119",
+            "id": "bbd3e63b-4913-4508-9159-7851fe7f12a8",
             "ingredientReferences": [],
             "summary": null,
             "text": "(optional) Sprinkle additional cheese on top.",
             "title": ""
         },
         {
-            "id": "1872a4ed-9520-4cd0-a591-d7186a8b44f4",
+            "id": "d6e3575c-27c2-4129-943e-b38f506edd72",
             "ingredientReferences": [],
             "summary": null,
-            "text": "Bake for 20 minutes, should be golden brown.",
+            "text": "Bake for 15 minutes, should be golden brown.  Flip half way through.",
             "title": ""
         }
     ],
@@ -524,6 +524,6 @@
     ],
     "tools": [],
     "totalTime": "35 minutes",
-    "updatedAt": "2024-09-14T12:05:58.351699Z",
+    "updatedAt": "2024-12-24T02:50:46.559475Z",
     "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31"
 }
