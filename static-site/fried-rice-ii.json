@@ -1,0 +1,669 @@
+{
+    "assets": [],
+    "comments": [],
+    "cookTime": null,
+    "createdAt": "2025-01-07T01:44:46.500563Z",
+    "dateAdded": "2025-01-07",
+    "dateUpdated": "2025-01-07T02:07:45.245726Z",
+    "description": "",
+    "extras": {},
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "householdId": "74cd302c-032c-4707-b612-ada7618e0847",
+    "id": "b1abe626-cd6d-40a0-90df-4d5b7bc1ce56",
+    "image": null,
+    "lastMade": null,
+    "name": "Fried Rice II",
+    "notes": [],
+    "nutrition": {
+        "calories": null,
+        "carbohydrateContent": null,
+        "cholesterolContent": null,
+        "fatContent": null,
+        "fiberContent": null,
+        "proteinContent": null,
+        "saturatedFatContent": null,
+        "sodiumContent": null,
+        "sugarContent": null,
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "orgURL": null,
+    "performTime": null,
+    "prepTime": null,
+    "rating": null,
+    "recipeCategory": [
+        {
+            "id": "5b7f4cd2-5d0e-440e-8e88-64ad06d1aad1",
+            "name": "entree",
+            "slug": "entree"
+        }
+    ],
+    "recipeIngredient": [
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2084 cup soy sauce",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T11:43:48.390392Z",
+                "description": "",
+                "extras": {},
+                "id": "5fdcd369-8502-4e38-94b4-8363a8d6f638",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "soy sauce",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T11:49:13.222641Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1/4 cup soy sauce",
+            "quantity": 0.25,
+            "referenceId": "b7d8744d-efeb-4086-ae1a-5a7ca3a24e1f",
+            "title": "Sauce",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 cup water",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T02:31:21.445759Z",
+                "description": "",
+                "extras": {},
+                "id": "d9a322c3-fd8e-4b39-809f-abcbd76b8062",
+                "label": null,
+                "labelId": null,
+                "name": "water",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:05:36.520887Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": null,
+            "quantity": 0.5,
+            "referenceId": "5558c74a-3720-4a7b-9536-ba2dbccd96b6",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 tsp rice vinegar",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T11:44:21.418417Z",
+                "description": "",
+                "extras": {},
+                "id": "e08f9f2a-7b87-4e76-be95-c89c6de39cf3",
+                "label": {
+                    "color": "#e89eb9",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "046d1084-5c4a-4f9f-8695-c38791043125",
+                    "name": "Oil"
+                },
+                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
+                "name": "rice vinegar",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T11:48:34.291410Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "2 teaspoon rice vinegar",
+            "quantity": 2.0,
+            "referenceId": "673af3d5-d4b9-4ea0-bd93-6ae4c653ec05",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 tsp sesame oil",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T11:42:33.580856Z",
+                "description": "",
+                "extras": {},
+                "id": "77102815-22c9-4798-bb19-91176cf6f32e",
+                "label": {
+                    "color": "#e89eb9",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "046d1084-5c4a-4f9f-8695-c38791043125",
+                    "name": "Oil"
+                },
+                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
+                "name": "sesame oil",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T11:47:07.291341Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "2 teaspoon sesame oil",
+            "quantity": 2.0,
+            "referenceId": "92dc1bda-c628-45d4-af0d-ec23f43a8365",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 tsp honey",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:19.441833Z",
+                "description": "",
+                "extras": {},
+                "id": "f3c19faa-40fd-4a99-8452-b7228462cb53",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "honey",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:19:47.128984Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 teaspoon honey",
+            "quantity": 1.0,
+            "referenceId": "3a1300d6-fbe8-414d-9c24-9062b54574d3",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 tsp better than boullion",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T02:31:47.639314Z",
+                "description": "",
+                "extras": {},
+                "id": "900abf67-7a16-40fa-bcab-e6ea1d80b634",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "better than boullion",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:05:13.208553Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "better than bullion",
+            "quantity": 1.0,
+            "referenceId": "3e22391b-c707-421e-8d55-46e36ed10594",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 tsp red pepper flakes",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T11:44:32.724777Z",
+                "description": "",
+                "extras": {},
+                "id": "e2cbe589-c39c-4ef5-bbb3-068cd3a887c8",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "red pepper flakes",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T11:49:59.129682Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1/2 teaspoon red pepper flakes",
+            "quantity": 0.5,
+            "referenceId": "4b4feb14-7737-444a-83cc-d95384885441",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 cups rice",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:25.399883Z",
+                "description": "",
+                "extras": {},
+                "id": "85a8de4c-7718-4605-9853-9043520d7467",
+                "label": {
+                    "color": "#cd1652",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                    "name": "Pasta"
+                },
+                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "name": "rice",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:17:34.167267Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "2 cups rice",
+            "quantity": 2.0,
+            "referenceId": "265bcd17-3568-484f-a6d9-1f9020ba8031",
+            "title": "Rice",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 cups mixed vegitables",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T12:06:42.306265Z",
+                "description": "",
+                "extras": {},
+                "id": "71d194f8-658b-4a77-af46-3e3c8029b457",
+                "label": {
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726",
+                    "name": "Frozen Foods"
+                },
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "name": "mixed vegitables",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T12:09:45.504568Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "2 cups mixed vegetables",
+            "quantity": 2.0,
+            "referenceId": "287ef50e-bd29-4ded-9645-8dcc6d432d2f",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 tbsp olive oil",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:30.465893Z",
+                "description": "",
+                "extras": {},
+                "id": "75f848c8-5343-4c80-a97c-74f48aa7b681",
+                "label": {
+                    "color": "#e89eb9",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "046d1084-5c4a-4f9f-8695-c38791043125",
+                    "name": "Oil"
+                },
+                "labelId": "046d1084-5c4a-4f9f-8695-c38791043125",
+                "name": "olive oil",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:15:40.768294Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 tablespoon olive oil",
+            "quantity": 1.0,
+            "referenceId": "d674a075-f674-4d72-a882-e11a2cf322da",
+            "title": "",
+            "unit": {
+                "abbreviation": "tbsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:27:59.862809Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 onion",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:21.362752Z",
+                "description": "",
+                "extras": {},
+                "id": "1e397cd3-35eb-4c64-b8cf-b40dfc61cd0b",
+                "label": {
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726",
+                    "name": "Frozen Foods"
+                },
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "name": "onion",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:18:52.550301Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 onion",
+            "quantity": 1.0,
+            "referenceId": "50c0b788-d571-4565-a541-aa56a2f2f679",
+            "title": "Onion",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "2 tsp garlic",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:35.923453Z",
+                "description": "",
+                "extras": {},
+                "id": "fd860af3-2047-4ffc-be87-65cbeb97ce1e",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "garlic",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:14:08.683777Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "2 teaspoon garlic",
+            "quantity": 2.0,
+            "referenceId": "dbc6bbf3-5113-410b-a43d-aa349d0ad29e",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 tsp ginger",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:23.096088Z",
+                "description": "",
+                "extras": {},
+                "id": "4d54230a-792c-4afe-b667-d5a6a1cc1d59",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "ginger",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:18:21.284110Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 teaspoon ginger",
+            "quantity": 1.0,
+            "referenceId": "68c94ef0-f64f-4dad-83ef-072f6a8dc955",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "4 egg",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-29T13:21:56.458709Z",
+                "description": "",
+                "extras": {},
+                "id": "ce51d81c-dbcb-477e-88fc-3359d4eb7fa5",
+                "label": {
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                    "name": "Dairy Products"
+                },
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "name": "egg",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:52:50.518341Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "4 eggs",
+            "quantity": 4.0,
+            "referenceId": "9be416b4-e118-4dd8-b14c-205b8c5f1b60",
+            "title": "",
+            "unit": null
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "47257218-ff0c-4c74-b41c-0da74180b967",
+            "ingredientReferences": [],
+            "summary": "",
+            "text": "Mix the Sauce together in a container.\n",
+            "title": ""
+        },
+        {
+            "id": "72102a37-21a5-41c1-806c-85472e5cebb2",
+            "ingredientReferences": [],
+            "summary": "",
+            "text": "Cook rice in rice cooker.  \n* Cook in chicken broth\n* add veggies to cooker\n* add olive oil and a bit of the sauce",
+            "title": ""
+        },
+        {
+            "id": "e95d7631-368e-4038-9114-5d7c9726efd1",
+            "ingredientReferences": [],
+            "summary": "",
+            "text": "Cook onion and garlic in wok over super low heat while the rice is cooking.",
+            "title": ""
+        },
+        {
+            "id": "3b6797ef-48c8-4fb5-a52d-0e26256bc78e",
+            "ingredientReferences": [],
+            "summary": "",
+            "text": "Mix eggs.\n\nWhen rice is ready, add ginger to wok.\npush onion aside and dump egg in wok mix around until it starts solidifying.\ndump rice into wok, mix.\n\nMake sure the egg and onion are well mixed with the rice. \ncontinue cooking until desired level of fried.  ",
+            "title": ""
+        }
+    ],
+    "recipeYield": "5",
+    "settings": {
+        "disableAmount": false,
+        "disableComments": false,
+        "landscapeView": false,
+        "locked": false,
+        "public": true,
+        "showAssets": false,
+        "showNutrition": false
+    },
+    "slug": "fried-rice-ii",
+    "tags": [
+        {
+            "id": "7554d359-722a-48f8-b465-23091d967ffc",
+            "name": "Asian",
+            "slug": "asian"
+        },
+        {
+            "id": "e1c1c1a2-7783-4dc2-979e-a6f35e1c17e9",
+            "name": "Needs Pic",
+            "slug": "needs-pic"
+        }
+    ],
+    "tools": [],
+    "totalTime": "40 min",
+    "updatedAt": "2025-01-07T02:07:45.249143Z",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31"
+}
