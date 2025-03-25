@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Shrimp Scampi</title>
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
+
+        <style>
+            no-bullet {
+                list-style-type: none;
+                margin-left: 1.5rem;
+            }
+        </style>
+    </head>
+    <body>
+        <section class="hero is-small is-primary">
+
+            <div class="hero-head">
+                <div class="columns ml-2 mr-2">
+                    <div class="column">
+                        <a  href="index.html">
+                            Home
+                        </a>
+                        
+                        <a class="ml-6" href= "shrimp-scampi.json">JSON</a>
+
+                    </div>
+                    <div class="column has-text-right">
+                        <span class="tag is-rounded is-primary is-light is-size-7 ml-1"> entree</span>
+                        <span class="tag is-rounded is-primary is-light is-size-7 "> Seafood</span><span class="tag is-rounded is-primary is-light is-size-7 ml-1"> Family</span><span class="tag is-rounded is-primary is-light is-size-7 ml-1"> Needs Pic</span>
+                        <span class="tag is-rounded is-primary is-light is-size-7">☆☆☆☆☆</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="hero-body">
+                <p class="title">Shrimp Scampi</p>
+                <p class="subtitle is-6"></p>
+            </div>
+        </section>
+
+        <section>
+            <div class="columns">
+
+                <div class="column is-one-third p-5 m-3">
+                    <h2 class="title is-3">Ingredients</h2>
+
+                    <div class="box">
+                        <ul class="no-bullet">
+
+
+                        
+                        
+                        
+                    </ul>
+                        <p class="subtitle is-6 has-text-weight-medium">
+                            Rice
+                        </p>
+                        <ul class="no-bullet">
+                        
+                        <li class="no-bullet">
+                            1 bag riced cauliflower
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 cup basmati rice
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ³/₄ tbsp lemon juice
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 tsp better than boullion
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ³/₄ tbsp parsley
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            2 cloves garlic
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ¹/₂ tsp lemon zest
+                        </li>
+                        
+                        
+                        
+                        
+                    </div>
+                    <div class="box">
+                        
+                    </ul>
+                        <p class="subtitle is-6 has-text-weight-medium">
+                            Shrimp
+                        </p>
+                        <ul class="no-bullet">
+                        
+                        <li class="no-bullet">
+                            4 tbsp butter
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            2 tbsp olive oil
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            3 cloves garlic
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ¹/₄ cup water
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 tsp better than boullion
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ¹/₂ tsp red pepper flakes 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                optional)
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ¹/₄ cup parsley
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            2 tbsp lemon juice
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 tsp lemon zest
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 lb shrimp 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                cooked
+                            </li>
+                        
+                        
+                    </ul>
+                    </div>
+                </div>
+
+                <div class="column p-5 m-3" id="instructions">
+
+                    <h2 class="title is-3">Instructions</h2>
+                    
+                        <script>
+                            var parsed = marked.parse(`Add rice, cauliflower spices in rice cooker with water and set to cook.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`In a pan add olive oil and garlic until the garlic is ready.  
+Add everything else but the shrimp and let simmer.
+In the last minute add the shrimp until they are warm.
+Add rice and mix.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="p-5 m-3">
+
+
+                <h2 class="title is-3">Notes</h2>
+                
+        </div>
+        </section>
+
+    </body>
+</html>
