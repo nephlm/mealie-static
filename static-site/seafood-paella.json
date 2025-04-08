@@ -402,16 +402,16 @@
                 "extras": {},
                 "id": "69622eea-3935-4d27-91a8-d1f30ac20746",
                 "label": {
-                    "color": "#a7d766",
+                    "color": "#5c57b0",
                     "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
-                    "name": "Produce"
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
                 },
-                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
                 "name": "tomato ",
                 "onHand": false,
                 "pluralName": null,
-                "updatedAt": "2024-04-27T03:19:35.365817Z"
+                "updatedAt": "2025-04-08T18:43:34.153982Z"
             },
             "isFood": true,
             "note": "diced, salt free",
