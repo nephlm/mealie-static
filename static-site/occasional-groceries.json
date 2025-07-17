@@ -4,7 +4,7 @@
     "cookTime": null,
     "createdAt": "2024-04-27T12:25:57.099176Z",
     "dateAdded": "2024-04-27",
-    "dateUpdated": "2024-04-29T02:17:04.688305Z",
+    "dateUpdated": "2025-07-17T18:16:21.398582Z",
     "description": "",
     "extras": {},
     "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
@@ -328,11 +328,40 @@
             "referenceId": "6c07e3ff-5f0a-4124-b3fe-447d032d17e6",
             "title": "",
             "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "1 Paper Towels",
+            "food": {
+                "aliases": [],
+                "createdAt": "2025-07-17T18:16:03.392667Z",
+                "description": "",
+                "extras": {},
+                "id": "e57d98ec-7e26-48d1-8106-f22eeaf5e48b",
+                "label": {
+                    "color": "#E0E0E0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "624a4d42-4db3-40be-baae-42e1c86d0b3c",
+                    "name": "Household"
+                },
+                "labelId": "624a4d42-4db3-40be-baae-42e1c86d0b3c",
+                "name": "Paper Towels",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2025-07-17T18:17:09.949744Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": null,
+            "quantity": 1.0,
+            "referenceId": "cf15560b-e3b4-41c2-b398-63c77b178a99",
+            "title": "",
+            "unit": null
         }
     ],
     "recipeInstructions": [
         {
-            "id": "4c49d268-d1c7-40f3-b1e1-6156ec335278",
+            "id": "562764a0-91d6-4b99-aad2-cf4dcf250f4b",
             "ingredientReferences": [],
             "summary": null,
             "text": "Recipe steps as well as other fields in the recipe page support markdown syntax.\n\n**Add a link**\n\n[My Link](https://demo.mealie.io)\n\n",
@@ -359,6 +388,6 @@
     ],
     "tools": [],
     "totalTime": null,
-    "updatedAt": "2024-07-03T12:40:26.479849Z",
+    "updatedAt": "2025-07-17T18:16:21.401339Z",
     "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31"
 }
