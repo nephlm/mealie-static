@@ -4,7 +4,7 @@
     "cookTime": null,
     "createdAt": "2024-04-29T18:04:59.598794Z",
     "dateAdded": "2024-04-29",
-    "dateUpdated": "2024-05-15T19:37:43.317746Z",
+    "dateUpdated": "2025-08-12T17:32:47.559723Z",
     "description": "",
     "extras": {},
     "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
@@ -724,6 +724,64 @@
         },
         {
             "disableAmount": false,
+            "display": "1 liquid smoke a few shakes, maybe 1/4 tsp",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-05-02T12:29:37.226458Z",
+                "description": "",
+                "extras": {},
+                "id": "a30669dd-e47c-4a81-a487-429b02d21a29",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "liquid smoke",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-05-03T12:50:05.345712Z"
+            },
+            "isFood": true,
+            "note": "a few shakes, maybe 1/4 tsp",
+            "originalText": null,
+            "quantity": 1.0,
+            "referenceId": "7e6d518c-f22f-4cd7-add6-9c16b6a1cd7a",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "1 chipolte peppers 2 canned peppers in adobo sauce",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-05-02T12:30:55.034901Z",
+                "description": "",
+                "extras": {},
+                "id": "cee0e410-a74c-4582-bf56-f746b2b4ca7e",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "chipolte peppers",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-05-03T12:49:31.108735Z"
+            },
+            "isFood": true,
+            "note": "2 canned peppers in adobo sauce",
+            "originalText": null,
+            "quantity": 1.0,
+            "referenceId": "cfa7c1d3-9a92-48de-b43d-4497bc2b5f45",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
             "display": "1 cup rice",
             "food": {
                 "aliases": [],
@@ -811,42 +869,42 @@
     ],
     "recipeInstructions": [
         {
-            "id": "ec3e9734-c5f6-4d5c-bece-2e8a6c5d123f",
+            "id": "69ffa58f-f983-4b66-abac-13fbd19a6a97",
             "ingredientReferences": [],
             "summary": null,
             "text": "Mix all the spices together except the garlic.",
             "title": ""
         },
         {
-            "id": "dc06ebc3-ca55-4591-aba1-d8073e684bc6",
+            "id": "b0f59435-a356-4deb-a602-c95a0cc700aa",
             "ingredientReferences": [],
             "summary": null,
             "text": "Get the sausages to the same temperature as the ground beef.  Remove casings, or even better use uncased sausage.",
             "title": ""
         },
         {
-            "id": "30f0b289-9949-4e84-954b-d3f5b067aee1",
+            "id": "39c780a3-8c33-466a-b08d-8b6f74ff6373",
             "ingredientReferences": [],
             "summary": null,
             "text": "Brown ground beef with sausages, onions, garlic, small amount of spice mix.",
             "title": ""
         },
         {
-            "id": "855d3ede-9759-41c6-8289-d8eba6f8a1fa",
+            "id": "71e71a5f-f91a-4131-a3ee-8371a1fc7e1c",
             "ingredientReferences": [],
             "summary": null,
             "text": "Add everything (including rest of spice mix) except rice to slow cooker, cook on low for 3-4 hours.",
             "title": ""
         },
         {
-            "id": "76f50e09-e7d1-4578-943a-de4d706a7062",
+            "id": "fca87d14-586c-485d-b2bf-074ad5aedb0d",
             "ingredientReferences": [],
             "summary": null,
             "text": "Add rice cook until rice is done.",
             "title": ""
         },
         {
-            "id": "eda96ad6-c395-4048-ade4-b63ea4b3148b",
+            "id": "948bcb1b-e347-41c7-8002-24b5f06c183f",
             "ingredientReferences": [],
             "summary": null,
             "text": "Top with shredded cheese.",
@@ -867,6 +925,6 @@
     "tags": [],
     "tools": [],
     "totalTime": null,
-    "updatedAt": "2024-04-30T00:13:39.441936Z",
+    "updatedAt": "2025-08-12T17:32:47.562769Z",
     "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31"
 }

@@ -4,7 +4,7 @@
     "cookTime": null,
     "createdAt": "2024-04-27T12:25:57.099176Z",
     "dateAdded": "2024-04-27",
-    "dateUpdated": "2025-07-17T18:16:21.398582Z",
+    "dateUpdated": "2025-08-12T17:39:29.879831Z",
     "description": "",
     "extras": {},
     "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
@@ -357,11 +357,40 @@
             "referenceId": "cf15560b-e3b4-41c2-b398-63c77b178a99",
             "title": "",
             "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "1 canned fruit",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-05-11T14:23:39.921765Z",
+                "description": "",
+                "extras": {},
+                "id": "b158db59-ade9-4534-861a-679266aaeee8",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "canned fruit",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-06-06T18:07:01.955180Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": null,
+            "quantity": 1.0,
+            "referenceId": "09166191-687c-46e2-8565-9882e1c9eb3f",
+            "title": "",
+            "unit": null
         }
     ],
     "recipeInstructions": [
         {
-            "id": "562764a0-91d6-4b99-aad2-cf4dcf250f4b",
+            "id": "881b04d6-7f59-4a7c-b821-d3a79524e3f5",
             "ingredientReferences": [],
             "summary": null,
             "text": "Recipe steps as well as other fields in the recipe page support markdown syntax.\n\n**Add a link**\n\n[My Link](https://demo.mealie.io)\n\n",
@@ -388,6 +417,6 @@
     ],
     "tools": [],
     "totalTime": null,
-    "updatedAt": "2025-07-17T18:16:21.401339Z",
+    "updatedAt": "2025-08-12T17:39:29.882726Z",
     "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31"
 }
