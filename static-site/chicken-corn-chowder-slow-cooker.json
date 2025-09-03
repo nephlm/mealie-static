@@ -4,7 +4,7 @@
     "cookTime": null,
     "createdAt": "2024-05-02T01:20:00.008351Z",
     "dateAdded": "2024-05-02",
-    "dateUpdated": "2024-05-02T12:52:32.506559Z",
+    "dateUpdated": "2025-08-22T21:00:59.597445Z",
     "description": "",
     "extras": {},
     "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
@@ -37,7 +37,7 @@
         "unsaturatedFatContent": null
     },
     "orgURL": null,
-    "performTime": "6 hours",
+    "performTime": "5 hours",
     "prepTime": "20 min",
     "rating": 5.0,
     "recipeCategory": [
@@ -136,24 +136,62 @@
         },
         {
             "disableAmount": false,
-            "display": "1 tbsp milk dried",
+            "display": "2 cups water",
             "food": {
                 "aliases": [],
-                "createdAt": "2024-04-26T19:32:20.019954Z",
+                "createdAt": "2024-04-27T02:31:21.445759Z",
                 "description": "",
                 "extras": {},
-                "id": "b7e8f8b8-19f9-4e20-9783-f90d8aa54bb8",
-                "label": {
-                    "color": "#67616c",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
-                    "name": "Dairy Products"
-                },
-                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
-                "name": "milk",
+                "id": "d9a322c3-fd8e-4b39-809f-abcbd76b8062",
+                "label": null,
+                "labelId": null,
+                "name": "water",
                 "onHand": false,
                 "pluralName": null,
-                "updatedAt": "2024-04-27T03:18:41.120456Z"
+                "updatedAt": "2024-04-27T03:05:36.520887Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": null,
+            "quantity": 2.0,
+            "referenceId": "1612063d-182b-4139-9ef2-698871cb0f32",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 tbsp dry milk dried",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-05-02T12:42:57.149667Z",
+                "description": "",
+                "extras": {},
+                "id": "2e71e098-7a63-4523-a9ac-ada90219ffe5",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "dry milk",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-05-03T12:48:14.861069Z"
             },
             "isFood": true,
             "note": "dried",
@@ -222,7 +260,7 @@
         },
         {
             "disableAmount": false,
-            "display": "6 \u00b9/\u2082 cups water divided",
+            "display": "4 \u00b9/\u2082 cups water",
             "food": {
                 "aliases": [],
                 "createdAt": "2024-04-27T02:31:21.445759Z",
@@ -237,9 +275,9 @@
                 "updatedAt": "2024-04-27T03:05:36.520887Z"
             },
             "isFood": true,
-            "note": "divided",
+            "note": "",
             "originalText": "6.5 cups water, divided",
-            "quantity": 6.5,
+            "quantity": 4.5,
             "referenceId": "88eb496f-7ce5-4157-add8-b9fc66029a0a",
             "title": "Main",
             "unit": {
@@ -260,7 +298,7 @@
         },
         {
             "disableAmount": false,
-            "display": "6 chicken tenders diced",
+            "display": "6 chicken tenders",
             "food": {
                 "aliases": [],
                 "createdAt": "2024-04-30T12:32:01.490110Z",
@@ -280,7 +318,7 @@
                 "updatedAt": "2024-04-30T20:28:42.301000Z"
             },
             "isFood": true,
-            "note": "diced",
+            "note": "",
             "originalText": "6 chicken breast tenders, diced",
             "quantity": 6.0,
             "referenceId": "eab5d518-0a2e-44fe-b9ad-d487f46e27f5",
@@ -318,7 +356,7 @@
         },
         {
             "disableAmount": false,
-            "display": "1 tsp better than boullion",
+            "display": "2 tsp better than boullion",
             "food": {
                 "aliases": [],
                 "createdAt": "2024-04-27T02:31:47.639314Z",
@@ -340,7 +378,7 @@
             "isFood": true,
             "note": "",
             "originalText": "0.5 teaspoon better than bouillon",
-            "quantity": 1.0,
+            "quantity": 2.0,
             "referenceId": "47c97cd7-8a65-4e04-b950-0c43cb8fa224",
             "title": "",
             "unit": {
@@ -709,92 +747,6 @@
         },
         {
             "disableAmount": false,
-            "display": "1 cup green beans frozen",
-            "food": {
-                "aliases": [],
-                "createdAt": "2024-04-29T13:01:34.168445Z",
-                "description": "",
-                "extras": {},
-                "id": "a9321973-db85-48c9-9ffb-3703e57633a5",
-                "label": {
-                    "color": "#216fb2",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "e4571c39-b7f7-4a4f-b701-283690066726",
-                    "name": "Frozen Foods"
-                },
-                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
-                "name": "green beans",
-                "onHand": false,
-                "pluralName": null,
-                "updatedAt": "2024-04-30T01:53:52.446111Z"
-            },
-            "isFood": true,
-            "note": "frozen",
-            "originalText": "1 cup frozen green beans",
-            "quantity": 1.0,
-            "referenceId": "df2c9b12-5dbc-487b-b529-18275f30dc82",
-            "title": "At the End",
-            "unit": {
-                "abbreviation": "cup",
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520Z",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "onHand": false,
-                "pluralAbbreviation": "c",
-                "pluralName": "cups",
-                "updatedAt": "2024-05-13T12:21:47.446380Z",
-                "useAbbreviation": false
-            }
-        },
-        {
-            "disableAmount": false,
-            "display": "1 cup corn frozen",
-            "food": {
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:27.197666Z",
-                "description": "",
-                "extras": {},
-                "id": "93823d8d-484a-4a6d-a490-a294850751d8",
-                "label": {
-                    "color": "#216fb2",
-                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
-                    "id": "e4571c39-b7f7-4a4f-b701-283690066726",
-                    "name": "Frozen Foods"
-                },
-                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
-                "name": "corn",
-                "onHand": false,
-                "pluralName": null,
-                "updatedAt": "2024-04-27T03:18:01.905846Z"
-            },
-            "isFood": true,
-            "note": "frozen",
-            "originalText": "1 cup frozen corn",
-            "quantity": 1.0,
-            "referenceId": "6e581b10-428e-45e9-863c-b20188b22b26",
-            "title": "",
-            "unit": {
-                "abbreviation": "cup",
-                "aliases": [],
-                "createdAt": "2024-04-26T19:32:09.503520Z",
-                "description": "",
-                "extras": {},
-                "fraction": true,
-                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
-                "name": "cup",
-                "onHand": false,
-                "pluralAbbreviation": "c",
-                "pluralName": "cups",
-                "updatedAt": "2024-05-13T12:21:47.446380Z",
-                "useAbbreviation": false
-            }
-        },
-        {
-            "disableAmount": false,
             "display": "1 cup carrot",
             "food": {
                 "aliases": [],
@@ -881,7 +833,136 @@
         },
         {
             "disableAmount": false,
-            "display": "basmati rice",
+            "display": "1 cup riced cauliflower",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-05-25T14:05:53.019456Z",
+                "description": "",
+                "extras": {},
+                "id": "fc7039a9-7529-415e-bc39-7f3f3f11c0ae",
+                "label": {
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726",
+                    "name": "Frozen Foods"
+                },
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "name": "riced cauliflower",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-06-06T18:06:34.685551Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": null,
+            "quantity": 1.0,
+            "referenceId": "5b8dfe8b-da24-4897-b06c-e3a5d65fd9f5",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 cup green beans frozen",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-29T13:01:34.168445Z",
+                "description": "",
+                "extras": {},
+                "id": "a9321973-db85-48c9-9ffb-3703e57633a5",
+                "label": {
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726",
+                    "name": "Frozen Foods"
+                },
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "name": "green beans",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:53:52.446111Z"
+            },
+            "isFood": true,
+            "note": "frozen",
+            "originalText": "1 cup frozen green beans",
+            "quantity": 1.0,
+            "referenceId": "df2c9b12-5dbc-487b-b529-18275f30dc82",
+            "title": "At the End",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 cup corn frozen",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:27.197666Z",
+                "description": "",
+                "extras": {},
+                "id": "93823d8d-484a-4a6d-a490-a294850751d8",
+                "label": {
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726",
+                    "name": "Frozen Foods"
+                },
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "name": "corn",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:18:01.905846Z"
+            },
+            "isFood": true,
+            "note": "frozen",
+            "originalText": "1 cup frozen corn",
+            "quantity": 1.0,
+            "referenceId": "6e581b10-428e-45e9-863c-b20188b22b26",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 measure basmati rice About 2/3 cup dry",
             "food": {
                 "aliases": [],
                 "createdAt": "2024-04-30T12:26:35.222517Z",
@@ -901,12 +982,26 @@
                 "updatedAt": "2024-04-30T20:29:11.306008Z"
             },
             "isFood": true,
-            "note": "",
+            "note": "About 2/3 cup dry",
             "originalText": "0.75 cup basmati rice",
-            "quantity": 0.0,
+            "quantity": 1.0,
             "referenceId": "e4ef759a-1aff-47b2-9ea6-711b0c716dc5",
             "title": "",
-            "unit": null
+            "unit": {
+                "abbreviation": "",
+                "aliases": [],
+                "createdAt": "2024-04-30T00:17:23.440330Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "5d5c2a4c-808a-41f7-a938-4a06e6debc4a",
+                "name": "measure",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": "measures",
+                "updatedAt": "2024-05-13T12:25:04.339964Z",
+                "useAbbreviation": false
+            }
         },
         {
             "disableAmount": false,
@@ -940,17 +1035,17 @@
     ],
     "recipeInstructions": [
         {
-            "id": "31cf554b-7225-4b59-a358-e9aa10322483",
+            "id": "3a06ef82-b4c6-46a9-8bdb-1bcfe4fc1368",
             "ingredientReferences": [],
             "summary": null,
-            "text": "Make the cream of:\n* in a sauce pan melt 4 tsp butter\n* add 1 tbsp at a time of flour an wisk together\n* remove from heat and add 2 cups water\n* wisk in 1 tbsp dried milk and 1/4 tsp better than bouillon \n* Put over low heat, wisk until it thickens.\n",
+            "text": "Make the Roux\n* in a sauce pan add oil\n* add 1 tbsp at a time of flour an wisk together until viscous enough to only slowly fill in voids caused by stirring.\n* Prepare 2 cups water, 1 tbsp dried milk and 1 tsp better than bouillon \n* When roux starts taking on a toasted color, add liquid.\n* Put over low heat, wisk until it thickens.\n* Add to slow cooker",
             "title": ""
         },
         {
-            "id": "d5036d3f-01e6-4a87-91ff-dcf4e7530df9",
+            "id": "269213c2-936e-4a98-813a-7f1a8305aa96",
             "ingredientReferences": [],
             "summary": null,
-            "text": "In the slow cooker:\n* Add everything but the rice, corn and green beans.\n* Cook on high 6 hours\n* 1 hour before done add the rice, corn and green beans.\n* Garnish with cheese before serving.\n",
+            "text": "In the slow cooker:\n* Add everything but the rice, corn and green beans.\n* Cook on low 5 hours\n* 1 hour before done add the rice, corn and green beans and shred/cut chicken as desired.\n* Garnish with cheese before serving.\n",
             "title": ""
         }
     ],
@@ -974,6 +1069,6 @@
     ],
     "tools": [],
     "totalTime": null,
-    "updatedAt": "2024-05-02T12:52:32.512088Z",
+    "updatedAt": "2025-08-22T21:00:59.601871Z",
     "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31"
 }
