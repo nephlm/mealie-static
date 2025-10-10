@@ -4,7 +4,7 @@
     "cookTime": null,
     "createdAt": "2024-04-27T11:36:26.472253Z",
     "dateAdded": "2024-04-27",
-    "dateUpdated": "2024-05-03T12:45:32.819011Z",
+    "dateUpdated": "2025-10-02T20:52:03.755204Z",
     "description": "",
     "extras": {},
     "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
@@ -519,21 +519,21 @@
     ],
     "recipeInstructions": [
         {
-            "id": "c59d3b34-3518-4953-a448-8291d302d596",
+            "id": "59ba249c-6476-4df0-96e7-4634bc561ed6",
             "ingredientReferences": [],
             "summary": null,
             "text": "Cook pasta in a large pot of boiling water until done. Drain.\n\n",
             "title": ""
         },
         {
-            "id": "8bbbaf43-cca0-4995-80cb-a991707182c3",
+            "id": "101388cd-6139-491a-a9e5-6d3dcff2be1d",
             "ingredientReferences": [],
             "summary": null,
-            "text": "Meanwhile, combine oil, peanuts and onions in a small skillet. Saute over low heat until tender. Add ginger; cook and stir for 1 to 2 minutes. Mix in peanut butter, soy sauce, water, vinegar, sugar, and red pepper flakes. Mix thoroughly until peanut butter in melted and it's thick.  Remove from heat.",
+            "text": "Meanwhile, combine oil, peanuts and onions in a small skillet. Saute over low heat until tender. Add ginger; cook and stir for 1 to 2 minutes. Mix in peanut butter, soy sauce, water, vinegar, sugar, and red pepper flakes. Mix thoroughly until peanut butter in melted and it's thick.  Remove from heat.\n\n1 cup of water is a good starting point, but it's a lie.   I add more water to keep the saucy/creamy consistency as it thickens.   It's probably closer to 2 cups by the end. ",
             "title": ""
         },
         {
-            "id": "20881ffa-572c-4eb0-8df3-468cb346f6f9",
+            "id": "a6b11114-2fee-443c-87c0-ee0ea513d024",
             "ingredientReferences": [],
             "summary": null,
             "text": "Toss noodles with sauce, and serve.",
@@ -560,6 +560,6 @@
     ],
     "tools": [],
     "totalTime": null,
-    "updatedAt": "2024-05-25T12:07:35.321835Z",
+    "updatedAt": "2025-10-02T20:52:03.758776Z",
     "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31"
 }
