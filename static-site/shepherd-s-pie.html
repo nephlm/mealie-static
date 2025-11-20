@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Shepherd's Pie</title>
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
+
+        <style>
+            no-bullet {
+                list-style-type: none;
+                margin-left: 1.5rem;
+            }
+        </style>
+    </head>
+    <body>
+        <section class="hero is-small is-primary">
+
+            <div class="hero-head">
+                <div class="columns ml-2 mr-2">
+                    <div class="column">
+                        <a  href="index.html">
+                            Home
+                        </a>
+                        
+                        <a class="ml-6" href= "shepherd-s-pie.json">JSON</a>
+
+                    </div>
+                    <div class="column has-text-right">
+                        <span class="tag is-rounded is-primary is-light is-size-7 ml-1"> entree</span>
+                        <span class="tag is-rounded is-primary is-light is-size-7 "> Family</span><span class="tag is-rounded is-primary is-light is-size-7 ml-1"> Needs Pic</span>
+                        <span class="tag is-rounded is-primary is-light is-size-7">☆☆☆☆☆</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="hero-body">
+                <p class="title">Shepherd's Pie</p>
+                <p class="subtitle is-6"></p>
+            </div>
+        </section>
+
+        <section>
+            <div class="columns">
+
+                <div class="column is-one-third p-5 m-3">
+                    <h2 class="title is-3">Ingredients</h2>
+
+                    <div class="box">
+                        <ul class="no-bullet">
+
+
+                        
+                        
+                        <li class="no-bullet">
+                            4 cups potatoes 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                mashed
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 bag onion 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                frozen onion
+                            </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            2 cloves garlic
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 lb ground beef
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            2 tsp parsley
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 tsp rosemary
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 tsp thyme
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ¹/₂ tsp salt
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ¹/₂ tsp pepper
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 tbsp worcestershire sauce
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            2 tbsp tomato paste
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            2 cups gravy
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            2 cups mixed vegitables 
+                        </li>
+                        
+                            <li class="ml-4 is-italic is-size-7 has-text-grey">
+                                Frozen, carrots/peas/corn
+                            </li>
+                        
+                        
+                    </ul>
+                    </div>
+                </div>
+
+                <div class="column p-5 m-3" id="instructions">
+
+                    <h2 class="title is-3">Instructions</h2>
+                    
+                        <script>
+                            var parsed = marked.parse(`Pre-heat oven to 400 degrees.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`Brown Garlic, Onion and Ground Beef`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`Add Worcestershire sauce and garlic, stir well.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`Add everything else and simmer for 5 minutes.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`Pour meat into prepped 9x11 baking pan.  Add mashed potatoes on top.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                        <script>
+                            var parsed = marked.parse(`Bake 30 minutes, let cool.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="p-5 m-3">
+
+
+                <h2 class="title is-3">Notes</h2>
+                
+        </div>
+        </section>
+
+    </body>
+</html>

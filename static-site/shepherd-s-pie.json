@@ -1,0 +1,672 @@
+{
+    "assets": [],
+    "comments": [],
+    "cookTime": null,
+    "createdAt": "2025-11-20T19:37:50.800271Z",
+    "dateAdded": "2025-11-20",
+    "dateUpdated": "2025-11-20T20:07:28.728203Z",
+    "description": "",
+    "extras": {},
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "householdId": "74cd302c-032c-4707-b612-ada7618e0847",
+    "id": "7127f1d7-584c-4789-9754-32a064517e5b",
+    "image": null,
+    "lastMade": null,
+    "name": "Shepherd's Pie",
+    "notes": [],
+    "nutrition": {
+        "calories": null,
+        "carbohydrateContent": null,
+        "cholesterolContent": null,
+        "fatContent": null,
+        "fiberContent": null,
+        "proteinContent": null,
+        "saturatedFatContent": null,
+        "sodiumContent": null,
+        "sugarContent": null,
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "orgURL": null,
+    "performTime": null,
+    "prepTime": null,
+    "rating": null,
+    "recipeCategory": [
+        {
+            "id": "5b7f4cd2-5d0e-440e-8e88-64ad06d1aad1",
+            "name": "entree",
+            "slug": "entree"
+        }
+    ],
+    "recipeIngredient": [
+        {
+            "disableAmount": false,
+            "display": "4 cups potatoes mashed",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:39.537591Z",
+                "description": "",
+                "extras": {},
+                "id": "37832f9d-9a7f-46ba-8008-318e4b203c17",
+                "label": {
+                    "color": "#a7d766",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                    "name": "Produce"
+                },
+                "labelId": "e5ad61bd-8357-4ca3-bd44-a0bbf83bd560",
+                "name": "potatoes",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-26T19:51:52.650876Z"
+            },
+            "isFood": true,
+            "note": "mashed",
+            "originalText": "4 cups mashed potatoes",
+            "quantity": 4.0,
+            "referenceId": "c8bdea32-c033-4c81-aaf7-15b296766e1b",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 bag onion frozen onion",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:21.362752Z",
+                "description": "",
+                "extras": {},
+                "id": "1e397cd3-35eb-4c64-b8cf-b40dfc61cd0b",
+                "label": {
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726",
+                    "name": "Frozen Foods"
+                },
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "name": "onion",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:18:52.550301Z"
+            },
+            "isFood": true,
+            "note": "frozen onion",
+            "originalText": "frozen onion",
+            "quantity": 1.0,
+            "referenceId": "08c5e374-0fd5-4660-a3bb-22278e3c8eb3",
+            "title": "",
+            "unit": {
+                "abbreviation": "",
+                "aliases": [],
+                "createdAt": "2024-04-27T02:34:36.952058Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "237f6be2-5e4b-4583-8e04-c9e298c3ac21",
+                "name": "bag",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": "bags",
+                "updatedAt": "2024-05-13T12:25:27.496645Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 cloves garlic",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:35.923453Z",
+                "description": "",
+                "extras": {},
+                "id": "fd860af3-2047-4ffc-be87-65cbeb97ce1e",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "garlic",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:14:08.683777Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "2 cloves garlic",
+            "quantity": 2.0,
+            "referenceId": "5797cfae-9a4e-40de-8550-df8993cb87e9",
+            "title": "",
+            "unit": {
+                "abbreviation": "",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:12.511215Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "f860cec4-a431-41b7-8ddc-0035e4be52c2",
+                "name": "clove",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": "cloves",
+                "updatedAt": "2024-05-13T12:25:56.749590Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 lb ground beef",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:43:28.852645Z",
+                "description": "",
+                "extras": {},
+                "id": "692064f2-ac98-45bf-aa3c-d474b869e79d",
+                "label": {
+                    "color": "#be2f02",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "13258664-db75-4091-a629-d51f0a89797c",
+                    "name": "Meat"
+                },
+                "labelId": "13258664-db75-4091-a629-d51f0a89797c",
+                "name": "ground beef",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-26T19:47:54.745662Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 lbs ground beef",
+            "quantity": 1.0,
+            "referenceId": "86b4c9bd-5344-4c59-a716-8e6a74dcf21c",
+            "title": "",
+            "unit": {
+                "abbreviation": "lb",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.726674Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "99f4d2e1-d11e-4746-a48b-9a96d8452450",
+                "name": "pound",
+                "onHand": false,
+                "pluralAbbreviation": "lbs",
+                "pluralName": "pounds",
+                "updatedAt": "2024-05-02T12:28:24.776546Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 tsp parsley",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:33.010244Z",
+                "description": "",
+                "extras": {},
+                "id": "ba9ff18f-168d-4935-9979-90869bf67de6",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "parsley",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:14:52.341690Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "2 teaspoon parsley",
+            "quantity": 2.0,
+            "referenceId": "c22f903c-e6bb-4cbe-abeb-9e7a0964434b",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 tsp rosemary",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-05-10T12:30:59.908382Z",
+                "description": "",
+                "extras": {},
+                "id": "a4ddd513-ed4a-48fc-986b-b9c7c0a68fb0",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "rosemary",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:20:06.432042Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 teaspoon rosemary",
+            "quantity": 1.0,
+            "referenceId": "ed882a33-6d4a-427e-9690-ac36eaf23435",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 tsp thyme",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T02:33:03.731832Z",
+                "description": "",
+                "extras": {},
+                "id": "608f04ed-6723-4ca0-b3ee-8f39da829a55",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "thyme",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:04:18.346868Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 teaspoon thyme",
+            "quantity": 1.0,
+            "referenceId": "e98c19e2-0354-4ed4-be60-51d5620f6fab",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 tsp salt",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:32.495091Z",
+                "description": "",
+                "extras": {},
+                "id": "e83a890e-0d16-4075-88d3-863e53c8a2a4",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "salt",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:09:26.465777Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1/2 teaspoon salt",
+            "quantity": 0.5,
+            "referenceId": "5e9a5ea9-2045-4d8f-b01a-f6762c3ce9a0",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 tsp pepper",
+            "food": {
+                "aliases": [
+                    {
+                        "name": "black pepper"
+                    }
+                ],
+                "createdAt": "2024-04-26T19:32:43.184271Z",
+                "description": "",
+                "extras": {},
+                "id": "b23ef96b-f10d-48a0-87e6-63e1ff9b111e",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "pepper",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:08:33.535970Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1/2 teaspoon pepper",
+            "quantity": 0.5,
+            "referenceId": "f27a9694-a5dc-4405-9309-c0529df0ca92",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 tbsp worcestershire sauce",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-05-02T12:30:38.094706Z",
+                "description": "",
+                "extras": {},
+                "id": "9d606d04-c80f-4538-acc0-e5c400de4bc5",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "worcestershire sauce",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-05-03T12:49:37.781674Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 tablespoon worcestershire sauce",
+            "quantity": 1.0,
+            "referenceId": "d04d2824-c4bf-4cfd-bc1c-de031d62aa53",
+            "title": "",
+            "unit": {
+                "abbreviation": "tbsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:27:59.862809Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 tbsp tomato paste",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-05-10T12:47:50.293628Z",
+                "description": "",
+                "extras": {},
+                "id": "902c7f3d-1b33-404b-814a-31d00a97d51c",
+                "label": {
+                    "color": "#cd1652",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                    "name": "Pasta"
+                },
+                "labelId": "0ec141d5-dd36-48e7-afc1-5fb405fb3fe8",
+                "name": "tomato paste",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:18:50.399158Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "2 tablespoon tomato paste",
+            "quantity": 2.0,
+            "referenceId": "18ea4fc4-25c7-4fde-8ca2-8f8e354437dc",
+            "title": "",
+            "unit": {
+                "abbreviation": "tbsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.018253Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "94dc32da-9a91-47bd-a1c3-8f89f16d91f0",
+                "name": "tablespoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:27:59.862809Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 cups gravy",
+            "food": {
+                "aliases": [],
+                "createdAt": "2025-11-20T19:53:52.822940Z",
+                "description": "",
+                "extras": {},
+                "id": "114e35cb-8685-4378-a106-34a555f2eefb",
+                "label": null,
+                "labelId": null,
+                "name": "gravy",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2025-11-20T19:53:52.822943Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "2 cups gravy",
+            "quantity": 2.0,
+            "referenceId": "3f2e3af2-d3a2-4350-b940-f756b29242d5",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 cups mixed vegitables Frozen, carrots/peas/corn",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-27T12:06:42.306265Z",
+                "description": "",
+                "extras": {},
+                "id": "71d194f8-658b-4a77-af46-3e3c8029b457",
+                "label": {
+                    "color": "#216fb2",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "e4571c39-b7f7-4a4f-b701-283690066726",
+                    "name": "Frozen Foods"
+                },
+                "labelId": "e4571c39-b7f7-4a4f-b701-283690066726",
+                "name": "mixed vegitables",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T12:09:45.504568Z"
+            },
+            "isFood": true,
+            "note": "Frozen, carrots/peas/corn",
+            "originalText": "2 cups mixed vegetables",
+            "quantity": 2.0,
+            "referenceId": "ac4480b3-fe6a-47a3-b0ba-0bbee02896fa",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "68817c1e-aff7-4491-bf26-9e3624d2b8a8",
+            "ingredientReferences": [],
+            "summary": "",
+            "text": "Pre-heat oven to 400 degrees.",
+            "title": ""
+        },
+        {
+            "id": "5e8b694a-3750-4b3e-b0e7-48baf668feb3",
+            "ingredientReferences": [],
+            "summary": "",
+            "text": "Brown Garlic, Onion and Ground Beef",
+            "title": ""
+        },
+        {
+            "id": "aea96b83-bdfb-4917-9f58-53acac5a4c83",
+            "ingredientReferences": [],
+            "summary": "",
+            "text": "Add Worcestershire sauce and garlic, stir well.",
+            "title": ""
+        },
+        {
+            "id": "216374bf-db9f-49e8-8ad7-97b28dd67172",
+            "ingredientReferences": [],
+            "summary": "",
+            "text": "Add everything else and simmer for 5 minutes.",
+            "title": ""
+        },
+        {
+            "id": "81db3ec6-8ce8-43a7-b901-ddb3f935a1b2",
+            "ingredientReferences": [],
+            "summary": "",
+            "text": "Pour meat into prepped 9x11 baking pan.  Add mashed potatoes on top.",
+            "title": ""
+        },
+        {
+            "id": "e37340d9-4673-44b0-ac0c-3fa018e96547",
+            "ingredientReferences": [],
+            "summary": "",
+            "text": "Bake 30 minutes, let cool.",
+            "title": ""
+        }
+    ],
+    "recipeYield": null,
+    "settings": {
+        "disableAmount": false,
+        "disableComments": false,
+        "landscapeView": false,
+        "locked": false,
+        "public": true,
+        "showAssets": false,
+        "showNutrition": false
+    },
+    "slug": "shepherd-s-pie",
+    "tags": [
+        {
+            "id": "dc321406-a09c-48e1-8a52-97c1dafa5d00",
+            "name": "Family",
+            "slug": "family"
+        },
+        {
+            "id": "e1c1c1a2-7783-4dc2-979e-a6f35e1c17e9",
+            "name": "Needs Pic",
+            "slug": "needs-pic"
+        }
+    ],
+    "tools": [],
+    "totalTime": null,
+    "updatedAt": "2025-11-20T20:07:28.731497Z",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31"
+}
