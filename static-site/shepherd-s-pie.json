@@ -4,7 +4,7 @@
     "cookTime": null,
     "createdAt": "2025-11-20T19:37:50.800271Z",
     "dateAdded": "2025-11-20",
-    "dateUpdated": "2025-11-20T20:07:28.728203Z",
+    "dateUpdated": "2025-11-24T02:11:23.461828Z",
     "description": "",
     "extras": {},
     "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
@@ -41,7 +41,7 @@
     "recipeIngredient": [
         {
             "disableAmount": false,
-            "display": "4 cups potatoes mashed",
+            "display": "8 cups potatoes mashed",
             "food": {
                 "aliases": [],
                 "createdAt": "2024-04-26T19:32:39.537591Z",
@@ -63,7 +63,7 @@
             "isFood": true,
             "note": "mashed",
             "originalText": "4 cups mashed potatoes",
-            "quantity": 4.0,
+            "quantity": 8.0,
             "referenceId": "c8bdea32-c033-4c81-aaf7-15b296766e1b",
             "title": "",
             "unit": {
@@ -600,42 +600,42 @@
     ],
     "recipeInstructions": [
         {
-            "id": "68817c1e-aff7-4491-bf26-9e3624d2b8a8",
+            "id": "b0c0ede3-cfc0-458d-9ba9-3586d3d561c6",
             "ingredientReferences": [],
             "summary": "",
             "text": "Pre-heat oven to 400 degrees.",
             "title": ""
         },
         {
-            "id": "5e8b694a-3750-4b3e-b0e7-48baf668feb3",
+            "id": "22c153e1-7931-4180-a069-6b10006d5797",
             "ingredientReferences": [],
             "summary": "",
             "text": "Brown Garlic, Onion and Ground Beef",
             "title": ""
         },
         {
-            "id": "aea96b83-bdfb-4917-9f58-53acac5a4c83",
+            "id": "70f91feb-7fbe-468d-a76f-e29ad92e7d69",
             "ingredientReferences": [],
             "summary": "",
             "text": "Add Worcestershire sauce and garlic, stir well.",
             "title": ""
         },
         {
-            "id": "216374bf-db9f-49e8-8ad7-97b28dd67172",
+            "id": "676ae89c-945b-4b5c-a77f-da70561e6034",
             "ingredientReferences": [],
             "summary": "",
             "text": "Add everything else and simmer for 5 minutes.",
             "title": ""
         },
         {
-            "id": "81db3ec6-8ce8-43a7-b901-ddb3f935a1b2",
+            "id": "b442b9d9-6ad9-4e5f-b92b-fbeca058d91e",
             "ingredientReferences": [],
             "summary": "",
             "text": "Pour meat into prepped 9x11 baking pan.  Add mashed potatoes on top.",
             "title": ""
         },
         {
-            "id": "e37340d9-4673-44b0-ac0c-3fa018e96547",
+            "id": "22bace92-a45a-4fb5-883b-e1f651352d51",
             "ingredientReferences": [],
             "summary": "",
             "text": "Bake 30 minutes, let cool.",
@@ -667,6 +667,6 @@
     ],
     "tools": [],
     "totalTime": null,
-    "updatedAt": "2025-11-20T20:07:28.731497Z",
+    "updatedAt": "2025-11-24T02:11:23.467602Z",
     "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31"
 }
