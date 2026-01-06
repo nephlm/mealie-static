@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Chocolate Chip Cookies</title>
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
+
+        <style>
+            no-bullet {
+                list-style-type: none;
+                margin-left: 1.5rem;
+            }
+        </style>
+    </head>
+    <body>
+        <section class="hero is-small is-primary">
+
+            <div class="hero-head">
+                <div class="columns ml-2 mr-2">
+                    <div class="column">
+                        <a  href="index.html">
+                            Home
+                        </a>
+                        
+                        <a class="ml-6" href= "chocolate-chip-cookies.json">JSON</a>
+
+                    </div>
+                    <div class="column has-text-right">
+                        <span class="tag is-rounded is-primary is-light is-size-7 ml-1"> Dessert</span>
+                        <span class="tag is-rounded is-primary is-light is-size-7 "> Family</span>
+                        <span class="tag is-rounded is-primary is-light is-size-7">☆☆☆☆☆</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="hero-body">
+                <p class="title">Chocolate Chip Cookies</p>
+                <p class="subtitle is-6"></p>
+            </div>
+        </section>
+
+        <section>
+            <div class="columns">
+
+                <div class="column is-one-third p-5 m-3">
+                    <h2 class="title is-3">Ingredients</h2>
+
+                    <div class="box">
+                        <ul class="no-bullet">
+
+
+                        
+                        
+                        <li class="no-bullet">
+                            1 cup brown sugar
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 cup sugar
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            2 egg
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            ¹/₂ tsp salt
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 tsp vanilla extract
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 tsp baking soda
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 ¹/₂ cups oatmeal
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 tsp baking powder
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            2 ¹/₂ cups flour
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            1 cup butter
+                        </li>
+                        
+                        
+                        
+                        <li class="no-bullet">
+                            12 oz chocolate chips
+                        </li>
+                        
+                        
+                    </ul>
+                    </div>
+                </div>
+
+                <div class="column p-5 m-3" id="instructions">
+
+                    <h2 class="title is-3">Instructions</h2>
+                    
+                        <script>
+                            var parsed = marked.parse(`Bake at 400 degrees for 6-8 minutes.`, {breaks: true})
+                            $('#instructions').append('<div class="box content">' + parsed + '</div>')
+                            </script>
+                    
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="p-5 m-3">
+
+
+                <h2 class="title is-3">Notes</h2>
+                
+                <div class="box">
+
+                    
+                </div>
+                <script>
+                    var parsed = marked.parse(`I believe there to be a large amount of lore not captured by the recipe, but we have at least that. 
+
+* All ingredients are combined with a mixer, don't know if speed matters.
+* Obviously 6-8 minutes corresponds to a cookie of a certain size, there is no particular hint for what size that is. `, {breaks: true})
+                    $('.box:last').append('<div class="content">' + parsed + '</div>')
+                    </script>
+            
+        </div>
+        </section>
+
+    </body>
+</html>

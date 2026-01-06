@@ -1,0 +1,528 @@
+{
+    "assets": [],
+    "comments": [],
+    "cookTime": null,
+    "createdAt": "2025-12-28T04:17:22.679328Z",
+    "dateAdded": "2025-12-28",
+    "dateUpdated": "2025-12-28T04:32:11.759779Z",
+    "description": "",
+    "extras": {},
+    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+    "householdId": "74cd302c-032c-4707-b612-ada7618e0847",
+    "id": "9441775f-5fd9-4986-8ef6-fb36ba6cfe53",
+    "image": "37",
+    "lastMade": null,
+    "name": "Chocolate Chip Cookies",
+    "notes": [
+        {
+            "text": "I believe there to be a large amount of lore not captured by the recipe, but we have at least that. \n\n* All ingredients are combined with a mixer, don't know if speed matters.\n* Obviously 6-8 minutes corresponds to a cookie of a certain size, there is no particular hint for what size that is. ",
+            "title": ""
+        }
+    ],
+    "nutrition": {
+        "calories": null,
+        "carbohydrateContent": null,
+        "cholesterolContent": null,
+        "fatContent": null,
+        "fiberContent": null,
+        "proteinContent": null,
+        "saturatedFatContent": null,
+        "sodiumContent": null,
+        "sugarContent": null,
+        "transFatContent": null,
+        "unsaturatedFatContent": null
+    },
+    "orgURL": null,
+    "performTime": null,
+    "prepTime": null,
+    "rating": null,
+    "recipeCategory": [
+        {
+            "id": "6dbe3510-09a9-4b90-8bc8-39f185b8c8b6",
+            "name": "Dessert",
+            "slug": "dessert"
+        }
+    ],
+    "recipeIngredient": [
+        {
+            "disableAmount": false,
+            "display": "1 cup brown sugar",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:52.031829Z",
+                "description": "",
+                "extras": {},
+                "id": "cfe5cec3-42b0-4abc-a1c3-62c6a2b999e3",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "brown sugar",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:56:46.636065Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 cup brown sugar",
+            "quantity": 1.0,
+            "referenceId": "9088b8f5-08b7-452c-96ac-4123912f65fd",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 cup sugar",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:50.312461Z",
+                "description": "",
+                "extras": {},
+                "id": "04dc4b83-a9fa-4b96-996d-cf052f3d73f2",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "sugar",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:57:03.018980Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 cup sugar",
+            "quantity": 1.0,
+            "referenceId": "67a6ec38-84ba-4df2-abfa-6430049121f0",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 egg",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-29T13:21:56.458709Z",
+                "description": "",
+                "extras": {},
+                "id": "ce51d81c-dbcb-477e-88fc-3359d4eb7fa5",
+                "label": {
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                    "name": "Dairy Products"
+                },
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "name": "egg",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:52:50.518341Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "2 eggs",
+            "quantity": 2.0,
+            "referenceId": "d3fca21d-595f-4150-8e79-08b8a04097b7",
+            "title": "",
+            "unit": null
+        },
+        {
+            "disableAmount": false,
+            "display": "\u00b9/\u2082 tsp salt",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:32.495091Z",
+                "description": "",
+                "extras": {},
+                "id": "e83a890e-0d16-4075-88d3-863e53c8a2a4",
+                "label": {
+                    "color": "#d09477",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                    "name": "Spices"
+                },
+                "labelId": "d2d79c9a-5634-44e9-aa02-5f7defce64ed",
+                "name": "salt",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:09:26.465777Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1/2 teaspoon salt",
+            "quantity": 0.5,
+            "referenceId": "e26ecdc8-ab09-49d7-9d60-8df4d5723a2a",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 tsp vanilla extract",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-05-10T12:38:24.030113Z",
+                "description": "",
+                "extras": {},
+                "id": "71c3b57b-5d33-4546-bba5-b04db25fda39",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "vanilla extract",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:19:24.243936Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 teaspoon vanilla extract",
+            "quantity": 1.0,
+            "referenceId": "661412e4-9690-46fd-86d6-678adc56d5ad",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 tsp baking soda",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:48.755340Z",
+                "description": "",
+                "extras": {},
+                "id": "fe9ec97e-c1bf-482c-bd21-9cc62800d7cc",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "baking soda",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:57:16.848724Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 teaspoon baking soda",
+            "quantity": 1.0,
+            "referenceId": "a3ba6fd8-4cf9-47db-b295-03ee0bdc358b",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 \u00b9/\u2082 cups oatmeal",
+            "food": {
+                "aliases": [],
+                "createdAt": "2025-12-28T04:21:10.968164Z",
+                "description": "",
+                "extras": {},
+                "id": "ac485b80-6ddd-4cc6-8a51-f5fdb72ffe53",
+                "label": null,
+                "labelId": null,
+                "name": "oatmeal",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2025-12-28T04:21:10.968166Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1.5 cups oatmeal",
+            "quantity": 1.5,
+            "referenceId": "7d65049b-09bd-4b45-b080-a28ff7a6d9b9",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 tsp baking powder",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:50.730053Z",
+                "description": "",
+                "extras": {},
+                "id": "f1b8e62c-fa75-40de-a71b-b16f19a69c21",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "baking powder",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-30T01:56:32.977574Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 teaspoon baking powder",
+            "quantity": 1.0,
+            "referenceId": "964e7833-53b0-44a7-9ab2-f564ac1bd7c8",
+            "title": "",
+            "unit": {
+                "abbreviation": "tsp",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.477458Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "748a94f3-7745-4819-9f5a-18d456138a8f",
+                "name": "teaspoon",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:28:06.444827Z",
+                "useAbbreviation": true
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "2 \u00b9/\u2082 cups flour",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:07.611040Z",
+                "description": "",
+                "extras": {},
+                "id": "c19cfcd8-10d0-464b-9b65-e6c8d757db8f",
+                "label": {
+                    "color": "#5c57b0",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                    "name": "Cans and Jars"
+                },
+                "labelId": "a4d1d7d5-d2c2-4c03-8eec-f43d20b27467",
+                "name": "flour",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:20:02.944168Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "2.5 cups flour",
+            "quantity": 2.5,
+            "referenceId": "3894b480-c24b-442e-a0d5-22269b308a6a",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "1 cup butter",
+            "food": {
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:50.494673Z",
+                "description": "",
+                "extras": {},
+                "id": "27fcdf3d-7471-4ea7-9056-1a4342841761",
+                "label": {
+                    "color": "#67616c",
+                    "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
+                    "id": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                    "name": "Dairy Products"
+                },
+                "labelId": "40cac9b5-9b0e-423a-82ee-cea73c6cc33f",
+                "name": "butter",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2024-04-27T03:06:51.864313Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "1 cup butter",
+            "quantity": 1.0,
+            "referenceId": "82fd5a65-ecbb-4cf5-a905-454c40d62c0a",
+            "title": "",
+            "unit": {
+                "abbreviation": "cup",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:09.503520Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "c20dacfb-dabd-4010-a758-487fb359e81f",
+                "name": "cup",
+                "onHand": false,
+                "pluralAbbreviation": "c",
+                "pluralName": "cups",
+                "updatedAt": "2024-05-13T12:21:47.446380Z",
+                "useAbbreviation": false
+            }
+        },
+        {
+            "disableAmount": false,
+            "display": "12 oz chocolate chips",
+            "food": {
+                "aliases": [],
+                "createdAt": "2025-12-28T04:21:32.343882Z",
+                "description": "",
+                "extras": {},
+                "id": "f0b005bb-932a-4564-b854-6ee284b19472",
+                "label": null,
+                "labelId": null,
+                "name": "chocolate chips",
+                "onHand": false,
+                "pluralName": null,
+                "updatedAt": "2025-12-28T04:21:32.343885Z"
+            },
+            "isFood": true,
+            "note": "",
+            "originalText": "12 ounce bag chocolate chips",
+            "quantity": 12.0,
+            "referenceId": "d472e964-1961-4072-80bb-a9322fd49369",
+            "title": "",
+            "unit": {
+                "abbreviation": "oz",
+                "aliases": [],
+                "createdAt": "2024-04-26T19:32:10.919838Z",
+                "description": "",
+                "extras": {},
+                "fraction": true,
+                "id": "d2ec378b-608b-4e61-b0fe-ed15ed84302d",
+                "name": "ounce",
+                "onHand": false,
+                "pluralAbbreviation": "",
+                "pluralName": null,
+                "updatedAt": "2024-05-13T12:27:05.285653Z",
+                "useAbbreviation": true
+            }
+        }
+    ],
+    "recipeInstructions": [
+        {
+            "id": "3ab4c080-ec9a-4eaf-b5c9-b04d96a6acb4",
+            "ingredientReferences": [],
+            "summary": "",
+            "text": "Bake at 400 degrees for 6-8 minutes.",
+            "title": ""
+        }
+    ],
+    "recipeYield": null,
+    "settings": {
+        "disableAmount": false,
+        "disableComments": false,
+        "landscapeView": false,
+        "locked": false,
+        "public": true,
+        "showAssets": false,
+        "showNutrition": false
+    },
+    "slug": "chocolate-chip-cookies",
+    "tags": [
+        {
+            "id": "dc321406-a09c-48e1-8a52-97c1dafa5d00",
+            "name": "Family",
+            "slug": "family"
+        }
+    ],
+    "tools": [],
+    "totalTime": null,
+    "updatedAt": "2025-12-28T04:32:11.762773Z",
+    "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31"
+}
