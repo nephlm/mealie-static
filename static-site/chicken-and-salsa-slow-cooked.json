@@ -4,7 +4,7 @@
     "cookTime": null,
     "createdAt": "2024-05-02T02:07:07.522909Z",
     "dateAdded": "2024-05-02",
-    "dateUpdated": "2024-07-03T13:32:16.186924Z",
+    "dateUpdated": "2026-06-01T19:33:20.104654Z",
     "description": "",
     "extras": {},
     "groupId": "cb5e8791-b70c-40d4-930c-8b656d0363b6",
@@ -36,7 +36,13 @@
     "performTime": null,
     "prepTime": null,
     "rating": 5.0,
-    "recipeCategory": [],
+    "recipeCategory": [
+        {
+            "id": "5b7f4cd2-5d0e-440e-8e88-64ad06d1aad1",
+            "name": "entree",
+            "slug": "entree"
+        }
+    ],
     "recipeIngredient": [
         {
             "disableAmount": false,
@@ -734,42 +740,42 @@
     ],
     "recipeInstructions": [
         {
-            "id": "dc45feea-52c8-4bd4-94d9-17cc5e062386",
+            "id": "692d2042-8099-424a-b1dc-93725e5e053e",
             "ingredientReferences": [],
             "summary": null,
             "text": "* Prepare Roux\n    * Olive Oil\n    * Add flower slowly, mix constantly.\n    * Add Water, stir until thick\n* Add Roux to slow Cooker.",
             "title": ""
         },
         {
-            "id": "560f4975-9946-4296-b944-55f7b821399e",
+            "id": "73fca2c2-1b98-47a9-a547-9392e466886b",
             "ingredientReferences": [],
             "summary": null,
             "text": "Add water the spices to slow cooker and mix.\n\nThis recipe really needs more liquid which I usually add on an ad hoc basis, so be prepared to add more liquid nor or when reheating leftovers. ",
             "title": ""
         },
         {
-            "id": "f693732a-6b97-4022-823d-9fdfbaa15aa6",
+            "id": "493debed-416c-4c46-904f-95d64d404205",
             "ingredientReferences": [],
             "summary": null,
             "text": "Add bulk to slow cooker, mix some more.",
             "title": ""
         },
         {
-            "id": "839e18d4-d634-44d4-9502-35e46d831cb2",
+            "id": "f2abce09-402f-4a2d-97ff-71335f4021d5",
             "ingredientReferences": [],
             "summary": null,
             "text": "Cooke on low for 5 hours, then shred chicken.",
             "title": ""
         },
         {
-            "id": "65448a4c-138a-423b-a50e-4559cd9e9924",
+            "id": "1f9d56b6-72e3-4c67-a43f-6bf35827322f",
             "ingredientReferences": [],
             "summary": null,
             "text": "Add Rice, corn and cook for 1 more hour",
             "title": ""
         },
         {
-            "id": "6b4b89d3-2a99-4c2c-af14-5bb89ddfabe3",
+            "id": "ce68b086-b028-41e4-be70-aab5ce6a5387",
             "ingredientReferences": [],
             "summary": null,
             "text": "Garnish with cheese.  Be generous.",
@@ -787,9 +793,15 @@
         "showNutrition": false
     },
     "slug": "chicken-and-salsa-slow-cooked",
-    "tags": [],
+    "tags": [
+        {
+            "id": "e1c1c1a2-7783-4dc2-979e-a6f35e1c17e9",
+            "name": "Needs Pic",
+            "slug": "needs-pic"
+        }
+    ],
     "tools": [],
     "totalTime": null,
-    "updatedAt": "2024-05-25T11:58:11.224048Z",
+    "updatedAt": "2026-06-01T19:33:20.108835Z",
     "userId": "e1703969-a8bc-4ba4-97b8-878de4769c31"
 }
